@@ -15,7 +15,6 @@ to_tensor = torchvision.transforms.functional.to_tensor
 x = to_tensor(Image.open("dataset/polyhaven_png_128/abandoned_tiled_room_1k.png")).unsqueeze(0).to(DEVICE)
 print(x.shape)
 
-#model = model.to("cpu")
 def inference(num_examples=1):
     model.eval()
     with torch.no_grad():
