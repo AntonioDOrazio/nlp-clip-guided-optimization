@@ -1,0 +1,104 @@
+{
+    "evs_cap": 21,
+    "type": 0,
+    "tags": [
+        "bush",
+        "plant",
+        "sun",
+        "tiles",
+        "tent",
+        "canopy"
+    ],
+    "date_published": 1511996400,
+    "name": "Floral Tent",
+    "categories": [
+        "indoor",
+        "nature",
+        "urban",
+        "midday",
+        "medium contrast",
+        "natural light"
+    ],
+    "date_taken": 1450861500,
+    "coords": [
+        -26.152944,
+        28.001675
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "26820710"
+    ],
+    "files_hash": "834c4d884e8f82819740ed0a9d7ed7fce23776a9",
+    "download_count": 23923,
+    "files": {
+        "tonemapped": {
+            "size": 6596526,
+            "md5": "657bdb17484bb9836f18e8033dd0b711",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/floral_tent.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 106457711,
+                    "md5": "eff34c45d7e6cbe15b8a56471579c895",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/floral_tent_8k.hdr"
+                },
+                "exr": {
+                    "size": 102385033,
+                    "md5": "992ca6896781c6b435b4f5741eba82c9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/floral_tent_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 404606160,
+                    "md5": "97924465881cf6eb0504ea94063e7d81",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/floral_tent_16k.hdr"
+                },
+                "exr": {
+                    "size": 362106337,
+                    "md5": "979734a031075d4f09620f83e844b810",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/floral_tent_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27277481,
+                    "md5": "7af31d88f1ea4ddab47f5928a9d3a9a0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/floral_tent_4k.hdr"
+                },
+                "exr": {
+                    "size": 26275906,
+                    "md5": "fd3d81c43630eb946d6ddb773ebe38f2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/floral_tent_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6954451,
+                    "md5": "c0445232a678453e53871f78215ce86b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/floral_tent_2k.hdr"
+                },
+                "exr": {
+                    "size": 6702890,
+                    "md5": "c81bdd6ec26c7c58a9853bc884513cee",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/floral_tent_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1762476,
+                    "md5": "1a632f50f9389b79ba9313dfc85c1a29",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/floral_tent_1k.hdr"
+                },
+                "exr": {
+                    "size": 1707258,
+                    "md5": "dff9c00b8203bfba5627a85a921ae440",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/floral_tent_1k.exr"
+                }
+            }
+        }
+    }
+}

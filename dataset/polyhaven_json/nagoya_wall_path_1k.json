@@ -1,0 +1,109 @@
+{
+    "evs_cap": 20,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "tree",
+        "path",
+        "park",
+        "railing"
+    ],
+    "date_published": 1532642400,
+    "name": "Nagoya Wall Path",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1524754200,
+    "coords": [
+        35.1836,
+        136.899
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "url": "http://mdjustin.com/",
+            "name": "Justin Dolan"
+        },
+        {
+            "url": "https://www.frame4.co.uk/",
+            "name": "Frame 4 Animation Studios"
+        }
+    ],
+    "files_hash": "3a4662feb3c58771412e71b025e36160c4cc9c54",
+    "download_count": 25819,
+    "files": {
+        "tonemapped": {
+            "size": 11988941,
+            "md5": "a739e5501b7a8394219b95697c9ecb87",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/nagoya_wall_path.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 111861013,
+                    "md5": "574a76f4631e6186825c229c78e165c7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/nagoya_wall_path_8k.hdr"
+                },
+                "exr": {
+                    "size": 117482613,
+                    "md5": "1d9910f4ba98665ec5e25642631afb1c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/nagoya_wall_path_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 417569586,
+                    "md5": "1ae7c4a95524cc46a9aa0970d342c3bc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/nagoya_wall_path_16k.hdr"
+                },
+                "exr": {
+                    "size": 425930381,
+                    "md5": "22c9b27e4c3765c051cc0b947a183829",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/nagoya_wall_path_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 29151488,
+                    "md5": "099cb69b4f1b0fcaf7211e18742314e6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/nagoya_wall_path_4k.hdr"
+                },
+                "exr": {
+                    "size": 30968690,
+                    "md5": "3e75e56e9b6d24a627ac809bf9d99bce",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/nagoya_wall_path_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7465871,
+                    "md5": "416959375d23866f80ff0e796545e8b5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/nagoya_wall_path_2k.hdr"
+                },
+                "exr": {
+                    "size": 7972982,
+                    "md5": "922034a6408ec7eda9d289a7578aa7d4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/nagoya_wall_path_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1889390,
+                    "md5": "979fd57d64b70539e62e0d42215be903",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/nagoya_wall_path_1k.hdr"
+                },
+                "exr": {
+                    "size": 2027113,
+                    "md5": "ee9eeb773126460493af7e992a5fbfc8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/nagoya_wall_path_1k.exr"
+                }
+            }
+        }
+    }
+}

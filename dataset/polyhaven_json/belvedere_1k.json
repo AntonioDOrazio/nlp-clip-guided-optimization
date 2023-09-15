@@ -1,0 +1,438 @@
+{
+    "evs_cap": 20,
+    "type": 0,
+    "whitebalance": 5400,
+    "date_published": 1515121207,
+    "name": "Belvedere",
+    "categories": [
+        "outdoor",
+        "urban",
+        "morning-afternoon",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        41.9097,
+        12.4799
+    ],
+    "date_taken": 1510214940,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "3567764"
+    ],
+    "backplates": true,
+    "tags": [
+        "tree",
+        "path",
+        "road",
+        "pillar",
+        "statue",
+        "sun",
+        "city",
+        "view",
+        "building",
+        "architecture",
+        "rome",
+        "europe",
+        "backplates"
+    ],
+    "files_hash": "c066733bb05b59df13e8f0e82f76f4624bb5e402",
+    "download_count": 32078,
+    "files": {
+        "tonemapped": {
+            "size": 5162559,
+            "md5": "72c05f290dc3c6921acb5c772a21dd8a",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/belvedere.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 95021986,
+                    "md5": "40365ab1834fffeae43cebd01029e738",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/belvedere_8k.hdr"
+                },
+                "exr": {
+                    "size": 78584307,
+                    "md5": "0a9d7ecf0d2d7a37de9aea507566800c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/belvedere_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 338834694,
+                    "md5": "2c8ead73df79960cf4e1ec18d82deb49",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/belvedere_16k.hdr"
+                },
+                "exr": {
+                    "size": 278398321,
+                    "md5": "4f4c74738f634cb80949dd519d7b6dbb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/belvedere_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24604471,
+                    "md5": "b77892593021087495a973f5ec0de4d9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/belvedere_4k.hdr"
+                },
+                "exr": {
+                    "size": 20827860,
+                    "md5": "918b7d4f222f67929dbd417a17528783",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/belvedere_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6232548,
+                    "md5": "6c8e7c9f2b7555db092b8f6a776d39b6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/belvedere_2k.hdr"
+                },
+                "exr": {
+                    "size": 5439097,
+                    "md5": "4adfe8fcd86f22b27f7695d824ea061f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/belvedere_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1580933,
+                    "md5": "2c6093bc923eb9d9843511dc09b37a0b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/belvedere_1k.hdr"
+                },
+                "exr": {
+                    "size": 1428706,
+                    "md5": "c8b00ec7ecbfeaccaef9221b5fd794bb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/belvedere_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "DSC08004": {
+                "jpg_pretty": {
+                    "size": 19849183,
+                    "md5": "2bdaefbbc76d86ed52f646cb8b487442",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_pretty/DSC08004.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15281144,
+                    "md5": "68359ab5b1f6e8641a9518f8dad07db1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_plain/DSC08004.jpg"
+                },
+                "raw": {
+                    "size": 37191680,
+                    "md5": "640f02f0c487a889301b12016b10a68d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/raw/DSC08004.ARW"
+                }
+            },
+            "DSC07994": {
+                "jpg_pretty": {
+                    "size": 27952347,
+                    "md5": "b2462e0d43e843547c67c1146e5436ac",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_pretty/DSC07994.jpg"
+                },
+                "jpg_plain": {
+                    "size": 23460757,
+                    "md5": "ad98db3085a593167fa49e388eb3d078",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_plain/DSC07994.jpg"
+                },
+                "raw": {
+                    "size": 37552128,
+                    "md5": "6b08e66e98545c949b2188569642a385",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/raw/DSC07994.ARW"
+                }
+            },
+            "DSC08016": {
+                "jpg_pretty": {
+                    "size": 32235080,
+                    "md5": "83b97e5ac907ebc79ca651d7176dc30c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_pretty/DSC08016.jpg"
+                },
+                "jpg_plain": {
+                    "size": 22619290,
+                    "md5": "edd05c2b9834a7f60615a71a824cc811",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_plain/DSC08016.jpg"
+                },
+                "raw": {
+                    "size": 37519360,
+                    "md5": "ef042555414734cc67809bf930de9702",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/raw/DSC08016.ARW"
+                }
+            },
+            "DSC08027": {
+                "jpg_pretty": {
+                    "size": 27111528,
+                    "md5": "fcdb0b2880ad91457aa894bd1ad11858",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_pretty/DSC08027.jpg"
+                },
+                "jpg_plain": {
+                    "size": 23149627,
+                    "md5": "c9abd50c3307be2ef3179593d0677235",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_plain/DSC08027.jpg"
+                },
+                "raw": {
+                    "size": 37552128,
+                    "md5": "75554c18d3beefba4bc41b1b91f18f1d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/raw/DSC08027.ARW"
+                }
+            },
+            "DSC08017": {
+                "jpg_pretty": {
+                    "size": 22304098,
+                    "md5": "dd9affa1440ad3fc01531015091b64f8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_pretty/DSC08017.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16115875,
+                    "md5": "aed4d634344e6136f02855464c235c57",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_plain/DSC08017.jpg"
+                },
+                "raw": {
+                    "size": 37191680,
+                    "md5": "d3d79dc3f50f6a6b1e7355fbd80b7db1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/raw/DSC08017.ARW"
+                }
+            },
+            "DSC07996": {
+                "jpg_pretty": {
+                    "size": 30095482,
+                    "md5": "d783a3eafce0f9c115b5a5e97d600aa8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_pretty/DSC07996.jpg"
+                },
+                "jpg_plain": {
+                    "size": 24200204,
+                    "md5": "9e4daf8627e1766ea621d52ebd2845c9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_plain/DSC07996.jpg"
+                },
+                "raw": {
+                    "size": 37584896,
+                    "md5": "cebba05853db36f93d37fc8997756807",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/raw/DSC07996.ARW"
+                }
+            },
+            "DSC08007": {
+                "jpg_pretty": {
+                    "size": 19366156,
+                    "md5": "24036062f6250862596e9baa8fc5ce95",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_pretty/DSC08007.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14660903,
+                    "md5": "a754b07bdc6f5dbcbdc8ab1f7f3a056d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_plain/DSC08007.jpg"
+                },
+                "raw": {
+                    "size": 37191680,
+                    "md5": "8ed60d0a83228b0ea474d880a5f07d1d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/raw/DSC08007.ARW"
+                }
+            },
+            "DSC08029": {
+                "jpg_pretty": {
+                    "size": 29285773,
+                    "md5": "c40ef560eb30dd54c78eede5941d48d2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_pretty/DSC08029.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20763131,
+                    "md5": "64d223853ac7fa52576a748c9001c8c8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_plain/DSC08029.jpg"
+                },
+                "raw": {
+                    "size": 37552128,
+                    "md5": "ce36e481c33ada36c043cfaa5cf87e62",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/raw/DSC08029.ARW"
+                }
+            },
+            "DSC08008": {
+                "jpg_pretty": {
+                    "size": 15037183,
+                    "md5": "bf95962ba8cfdd9fcaf76725ebb36a1f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_pretty/DSC08008.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12608743,
+                    "md5": "771eff31207a7162bfba8c706b76653a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_plain/DSC08008.jpg"
+                },
+                "raw": {
+                    "size": 37060608,
+                    "md5": "c4c00a905fe88d5faefa2febfd05c0be",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/raw/DSC08008.ARW"
+                }
+            },
+            "DSC07998": {
+                "jpg_pretty": {
+                    "size": 24881089,
+                    "md5": "fce606ad460d23e5ee7b44eda1f180f0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_pretty/DSC07998.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19444879,
+                    "md5": "fca4d2c78993f3918bb08771e18e8a87",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_plain/DSC07998.jpg"
+                },
+                "raw": {
+                    "size": 37421056,
+                    "md5": "cccebb1e9de23d5176d77ff10357388b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/raw/DSC07998.ARW"
+                }
+            },
+            "DSC08020": {
+                "jpg_pretty": {
+                    "size": 22879923,
+                    "md5": "5512cfd5cb7c7786fc1f9b751d7ce71f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_pretty/DSC08020.jpg"
+                },
+                "jpg_plain": {
+                    "size": 17591404,
+                    "md5": "f25e6a5d38f1fccec1ec727385d2b0e3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_plain/DSC08020.jpg"
+                },
+                "raw": {
+                    "size": 37322752,
+                    "md5": "0a5b7c5c60f0c52df238acba8af2074b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/raw/DSC08020.ARW"
+                }
+            },
+            "DSC08021": {
+                "jpg_pretty": {
+                    "size": 31550606,
+                    "md5": "a09d7d0003812524133eb3a5b2037e7d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_pretty/DSC08021.jpg"
+                },
+                "jpg_plain": {
+                    "size": 23023120,
+                    "md5": "3dd4a7fe89fc2e57aec9a187ec9f5ba7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_plain/DSC08021.jpg"
+                },
+                "raw": {
+                    "size": 37421056,
+                    "md5": "69c2ae3e950f219be438c4b98eb908be",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/raw/DSC08021.ARW"
+                }
+            },
+            "DSC08011": {
+                "jpg_pretty": {
+                    "size": 29283741,
+                    "md5": "137b35312427b646475464d64bddc546",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_pretty/DSC08011.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20574018,
+                    "md5": "c65f1595a927f293dbf7d256dfab4d3f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_plain/DSC08011.jpg"
+                },
+                "raw": {
+                    "size": 37355520,
+                    "md5": "b83b052687296b21ef0a9373ce9be19e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/raw/DSC08011.ARW"
+                }
+            },
+            "DSC08001": {
+                "jpg_pretty": {
+                    "size": 35212788,
+                    "md5": "8fa097eb1827c53709f52b0c6129e74b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_pretty/DSC08001.jpg"
+                },
+                "jpg_plain": {
+                    "size": 24211731,
+                    "md5": "e581e7e91c3b3f12a5063fad4ce02b8f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_plain/DSC08001.jpg"
+                },
+                "raw": {
+                    "size": 37617664,
+                    "md5": "f600f1c0bd138226927826fe0fcfaf52",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/raw/DSC08001.ARW"
+                }
+            },
+            "DSC08012": {
+                "jpg_pretty": {
+                    "size": 32201066,
+                    "md5": "5b5b855e40cfb4d81bedd7324fcf334b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_pretty/DSC08012.jpg"
+                },
+                "jpg_plain": {
+                    "size": 22718428,
+                    "md5": "15135a4e1ff908416d2620fc43ad5f63",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_plain/DSC08012.jpg"
+                },
+                "raw": {
+                    "size": 37453824,
+                    "md5": "b5886f743cc694365b81da487f5ced37",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/raw/DSC08012.ARW"
+                }
+            },
+            "DSC08023": {
+                "jpg_pretty": {
+                    "size": 31314415,
+                    "md5": "1e47b1d36a7d9f28fd54aba2e59b8331",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_pretty/DSC08023.jpg"
+                },
+                "jpg_plain": {
+                    "size": 23224532,
+                    "md5": "22a045b1453c1f2fe8838b9a5a050b81",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_plain/DSC08023.jpg"
+                },
+                "raw": {
+                    "size": 37453824,
+                    "md5": "6b628a330fad1447af4cc027667ca8e5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/raw/DSC08023.ARW"
+                }
+            },
+            "DSC07991": {
+                "jpg_pretty": {
+                    "size": 20857723,
+                    "md5": "c416e4bb054285ce15a1fd36facfb176",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_pretty/DSC07991.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15776104,
+                    "md5": "2dff089b96cf0b7a4cc2f31d783cd44d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_plain/DSC07991.jpg"
+                },
+                "raw": {
+                    "size": 37257216,
+                    "md5": "a0b84dd26f01215e79ddb965e2437747",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/raw/DSC07991.ARW"
+                }
+            },
+            "DSC08002": {
+                "jpg_pretty": {
+                    "size": 30309222,
+                    "md5": "bd8046454a6ceced9332f1a70a10658f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_pretty/DSC08002.jpg"
+                },
+                "jpg_plain": {
+                    "size": 22045359,
+                    "md5": "5c5f71edb7dcfcb2ca13a7e67dda62f5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_plain/DSC08002.jpg"
+                },
+                "raw": {
+                    "size": 37453824,
+                    "md5": "a119731a66a76e86401fd7cd7378350a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/raw/DSC08002.ARW"
+                }
+            },
+            "DSC07992": {
+                "jpg_pretty": {
+                    "size": 17886189,
+                    "md5": "7e19e67630be7a1db833fc549672a470",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_pretty/DSC07992.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13679045,
+                    "md5": "df0043f06aea7592fa2eed917ebe1926",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/jpg_plain/DSC07992.jpg"
+                },
+                "raw": {
+                    "size": 37126144,
+                    "md5": "a10884be0f3b87d744470d6826464da1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/belvedere/raw/DSC07992.ARW"
+                }
+            }
+        }
+    }
+}

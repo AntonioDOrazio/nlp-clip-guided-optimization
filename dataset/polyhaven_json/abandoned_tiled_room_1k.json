@@ -1,0 +1,109 @@
+{
+    "evs_cap": 15,
+    "type": 0,
+    "whitebalance": 7150,
+    "tags": [
+        "abandoned",
+        "industrial",
+        "rubble",
+        "ruin",
+        "trash",
+        "weathered",
+        "broken",
+        "neglected",
+        "decay",
+        "debris",
+        "grunge",
+        "window"
+    ],
+    "name": "Abandoned Tiled Room",
+    "categories": [
+        "indoor",
+        "urban",
+        "natural light",
+        "medium contrast",
+        "sunrise-sunset"
+    ],
+    "date_taken": 1678895700,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "info": null,
+    "files_hash": "c06d205bea1abd4c8e15337733462703bf8c8cf6",
+    "date_published": 1680652800,
+    "download_count": 15230,
+    "files": {
+        "tonemapped": {
+            "size": 48852590,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/abandoned_tiled_room.jpg",
+            "md5": "8d927d0db9045e2ef6b0c33456aae412"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102872037,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/abandoned_tiled_room_8k.hdr",
+                    "md5": "f2fae02d2d82280a7c168e53ca8035d6"
+                },
+                "exr": {
+                    "size": 95132014,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/abandoned_tiled_room_8k.exr",
+                    "md5": "4c492e27c8c820d0b21c4862961556ef"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 383388523,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/abandoned_tiled_room_16k.hdr",
+                    "md5": "b6672b61c2591a2869bddff6a2d2aa12"
+                },
+                "exr": {
+                    "size": 337296343,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/abandoned_tiled_room_16k.exr",
+                    "md5": "d43e3b16a06a42876e4bc0100b0945f0"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27030553,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/abandoned_tiled_room_4k.hdr",
+                    "md5": "f5a99fe690dfb6fc7ccb641fbc040709"
+                },
+                "exr": {
+                    "size": 25775291,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/abandoned_tiled_room_4k.exr",
+                    "md5": "5294070cb8010f19bdafd1cc37cfab88"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7007130,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/abandoned_tiled_room_2k.hdr",
+                    "md5": "f1d6bea537c704d81d39b88b5552fc73"
+                },
+                "exr": {
+                    "size": 6839171,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/abandoned_tiled_room_2k.exr",
+                    "md5": "15988c62022473e15fd40bbaf7d0324e"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1791628,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/abandoned_tiled_room_1k.hdr",
+                    "md5": "914f6a2e54cdc0d89211bc0fcc8759dd"
+                },
+                "exr": {
+                    "size": 1788306,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/abandoned_tiled_room_1k.exr",
+                    "md5": "9d4aae252b6f51afcd1fe59d128e0d1d"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 92733414,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/abandoned_tiled_room.zip",
+            "md5": "f344984e6966d76d9067801c88f77510"
+        }
+    }
+}

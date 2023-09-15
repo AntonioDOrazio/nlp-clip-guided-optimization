@@ -1,0 +1,668 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "date_published": 1522879200,
+    "name": "Blouberg Sunrise 2",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "sunrise-sunset",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        -33.821917,
+        18.475917
+    ],
+    "date_taken": 1464847200,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "3267566"
+    ],
+    "backplates": true,
+    "tags": [
+        "beach",
+        "ocean",
+        "cape town",
+        "building",
+        "backplates"
+    ],
+    "files_hash": "cd750382bd1a8f15e0bb4c0daeb60f7ba250e827",
+    "download_count": 62835,
+    "files": {
+        "tonemapped": {
+            "size": 3248257,
+            "md5": "9af47753c97cc5fd32d43358870ffba9",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/blouberg_sunrise_2.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 93271074,
+                    "md5": "4381a9d1eb26a1657a7298f2c3002e05",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/blouberg_sunrise_2_8k.hdr"
+                },
+                "exr": {
+                    "size": 64671288,
+                    "md5": "303e382aa5e6580894c65ebd3a3d57ef",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/blouberg_sunrise_2_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 337245928,
+                    "md5": "8ee755f66a224ade7ab03264b0b75de2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/blouberg_sunrise_2_16k.hdr"
+                },
+                "exr": {
+                    "size": 225169907,
+                    "md5": "8c0abc74cd68ab43139baec102345152",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/blouberg_sunrise_2_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24038652,
+                    "md5": "4ff043e1ebabbb8fb3a75f9c71bb827f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/blouberg_sunrise_2_4k.hdr"
+                },
+                "exr": {
+                    "size": 17069770,
+                    "md5": "0a4dca226b71ad0be05aa8684644d36d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/blouberg_sunrise_2_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6083742,
+                    "md5": "4d31a108903cb88d179b3456636787f6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/blouberg_sunrise_2_2k.hdr"
+                },
+                "exr": {
+                    "size": 4410677,
+                    "md5": "cbd9b04b4014d2a686a201f9b5b4b528",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/blouberg_sunrise_2_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1539084,
+                    "md5": "2f2149d928e8c5c193a02cc313a1cbbe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/blouberg_sunrise_2_1k.hdr"
+                },
+                "exr": {
+                    "size": 1133951,
+                    "md5": "ec8859229abc37c761bda74304ca7bca",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/blouberg_sunrise_2_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "IMG_0649": {
+                "jpg_pretty": {
+                    "size": 5177760,
+                    "md5": "25b35ff46d3c4312e6c36dff235c03e0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_pretty/IMG_0649.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3957753,
+                    "md5": "7d1801a34ec7eac2a805e989424dc9ed",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_plain/IMG_0649.jpg"
+                },
+                "raw": {
+                    "size": 20032852,
+                    "md5": "16294df1358258d819e77692205997d7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/raw/IMG_0649.dng"
+                }
+            },
+            "IMG_0648": {
+                "jpg_pretty": {
+                    "size": 5690037,
+                    "md5": "fd78e42f8dcfcb9e640e0ff77dc22631",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_pretty/IMG_0648.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4204019,
+                    "md5": "a163db4b6c39c8cfd9d306798ee2bb00",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_plain/IMG_0648.jpg"
+                },
+                "raw": {
+                    "size": 19660756,
+                    "md5": "3fc9f67146ca278367a687c7c650f96f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/raw/IMG_0648.dng"
+                }
+            },
+            "IMG_0647": {
+                "jpg_pretty": {
+                    "size": 5073833,
+                    "md5": "7b52c5630c5b56d0274ecdd9dcf29097",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_pretty/IMG_0647.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3737082,
+                    "md5": "970970c0ca95962c7c0af592bd0c8326",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_plain/IMG_0647.jpg"
+                },
+                "raw": {
+                    "size": 19841614,
+                    "md5": "880e8ba0d2165e7dca1863b48723f2b8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/raw/IMG_0647.dng"
+                }
+            },
+            "IMG_0669": {
+                "jpg_pretty": {
+                    "size": 6656566,
+                    "md5": "b92599497b7df5eaf6ee7dc47e2caf28",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_pretty/IMG_0669.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4544712,
+                    "md5": "cccb8a7000ec01065b02094f29711642",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_plain/IMG_0669.jpg"
+                },
+                "raw": {
+                    "size": 20281364,
+                    "md5": "97ad33beb8b3cb2b8dd56002f6aa9d2e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/raw/IMG_0669.dng"
+                }
+            },
+            "IMG_0646": {
+                "jpg_pretty": {
+                    "size": 6461342,
+                    "md5": "df52b871f73b4830f066d371fabb2291",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_pretty/IMG_0646.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4674782,
+                    "md5": "7119290483fd33cd3faa6bc5b03da320",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_plain/IMG_0646.jpg"
+                },
+                "raw": {
+                    "size": 19951386,
+                    "md5": "d43e974ee04db4f600478a01b953abea",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/raw/IMG_0646.dng"
+                }
+            },
+            "IMG_0668": {
+                "jpg_pretty": {
+                    "size": 5798431,
+                    "md5": "c737d41b5ac1a061fde74b8d68a4ea3e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_pretty/IMG_0668.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4203998,
+                    "md5": "17e13a31ef750fc6d8cb42377ca08655",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_plain/IMG_0668.jpg"
+                },
+                "raw": {
+                    "size": 20612506,
+                    "md5": "e8c9b23732038950f02e5844e8f9c4a6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/raw/IMG_0668.dng"
+                }
+            },
+            "IMG_0645": {
+                "jpg_pretty": {
+                    "size": 6609919,
+                    "md5": "d63563455bf0dda46a6e5252ec32654d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_pretty/IMG_0645.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4778564,
+                    "md5": "c11aa222b8b91559375402fdc973bf64",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_plain/IMG_0645.jpg"
+                },
+                "raw": {
+                    "size": 19906584,
+                    "md5": "cd014481338bc5e6d47632354deefc35",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/raw/IMG_0645.dng"
+                }
+            },
+            "IMG_0667": {
+                "jpg_pretty": {
+                    "size": 5156127,
+                    "md5": "757d568eb5e6736af8cfee640d0e6e55",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_pretty/IMG_0667.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4210221,
+                    "md5": "6e6b19abea71c615d3b61e8158793377",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_plain/IMG_0667.jpg"
+                },
+                "raw": {
+                    "size": 20576992,
+                    "md5": "bd9537cb011bdf7722f00310984367c9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/raw/IMG_0667.dng"
+                }
+            },
+            "IMG_0666": {
+                "jpg_pretty": {
+                    "size": 4759363,
+                    "md5": "e9e1e26d5f2a0706158b8fd672f6b5aa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_pretty/IMG_0666.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3701958,
+                    "md5": "9af19999768e0990a6564b927fafdfdf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_plain/IMG_0666.jpg"
+                },
+                "raw": {
+                    "size": 20395946,
+                    "md5": "cfa12b5a5dd82728d05e40aabee16851",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/raw/IMG_0666.dng"
+                }
+            },
+            "IMG_0665": {
+                "jpg_pretty": {
+                    "size": 7164803,
+                    "md5": "8c63f70b74b2af8ada2a4000694fe745",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_pretty/IMG_0665.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5174352,
+                    "md5": "c0b508cbfbce2b580edf50ec4cb8ecd9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_plain/IMG_0665.jpg"
+                },
+                "raw": {
+                    "size": 20606474,
+                    "md5": "23111a3fff5aec12b6fbaf19127e76b3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/raw/IMG_0665.dng"
+                }
+            },
+            "IMG_0642": {
+                "jpg_pretty": {
+                    "size": 6876035,
+                    "md5": "26967def4e4d8e63de9464b991ea2529",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_pretty/IMG_0642.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4925925,
+                    "md5": "ffe95e64888df0344a788d0bdfa5df00",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_plain/IMG_0642.jpg"
+                },
+                "raw": {
+                    "size": 20217348,
+                    "md5": "4bb824f22f3f16178c1524c8043f48fb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/raw/IMG_0642.dng"
+                }
+            },
+            "IMG_0664": {
+                "jpg_pretty": {
+                    "size": 4783516,
+                    "md5": "dc30df16c956a367155c6683d70fcc98",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_pretty/IMG_0664.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3606922,
+                    "md5": "fc6dea222d9ca37267de40d2e1e2aecf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_plain/IMG_0664.jpg"
+                },
+                "raw": {
+                    "size": 20164746,
+                    "md5": "629911657b5d522588d14e115bdb27e5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/raw/IMG_0664.dng"
+                }
+            },
+            "IMG_0652": {
+                "jpg_pretty": {
+                    "size": 5782176,
+                    "md5": "86e2d27d64a45c9cb03c64fa06304d04",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_pretty/IMG_0652.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4077531,
+                    "md5": "b3a4969169ddfe7eec7d78ed374dcd55",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_plain/IMG_0652.jpg"
+                },
+                "raw": {
+                    "size": 20667640,
+                    "md5": "27194beb5ecd0d77b0e6e93244c1f92c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/raw/IMG_0652.dng"
+                }
+            },
+            "IMG_0674": {
+                "jpg_pretty": {
+                    "size": 4351985,
+                    "md5": "144ec8edb5324147abfe5dae15d9f2dd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_pretty/IMG_0674.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3426497,
+                    "md5": "60b922730fc6b8a6249841e6b8c96ce8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_plain/IMG_0674.jpg"
+                },
+                "raw": {
+                    "size": 20955108,
+                    "md5": "c934585f10d19cc8ec2279f396dca3c5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/raw/IMG_0674.dng"
+                }
+            },
+            "IMG_0651": {
+                "jpg_pretty": {
+                    "size": 5415092,
+                    "md5": "e110406fbbad36c1994f2aa8feb3a6b0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_pretty/IMG_0651.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4090486,
+                    "md5": "8a775cea2eeaf5c5daa1ef5d3004dd34",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_plain/IMG_0651.jpg"
+                },
+                "raw": {
+                    "size": 20368250,
+                    "md5": "5d3d3d80dc0960a29882f9176bdf7d8b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/raw/IMG_0651.dng"
+                }
+            },
+            "IMG_0673": {
+                "jpg_pretty": {
+                    "size": 2746225,
+                    "md5": "55420d7883d869b4a8efeec52c3d8051",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_pretty/IMG_0673.jpg"
+                },
+                "jpg_plain": {
+                    "size": 2955050,
+                    "md5": "7ef2668aa0b8009a1a6fd721b98adca3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_plain/IMG_0673.jpg"
+                },
+                "raw": {
+                    "size": 20979912,
+                    "md5": "61d2a6f3d9fc51d39e088718f5ace450",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/raw/IMG_0673.dng"
+                }
+            },
+            "IMG_0672": {
+                "jpg_pretty": {
+                    "size": 4256407,
+                    "md5": "6c4a8cedb43081a66acb00873b1074e1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_pretty/IMG_0672.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3811910,
+                    "md5": "af21cc1ba3104ab3c0da3564caef61bb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_plain/IMG_0672.jpg"
+                },
+                "raw": {
+                    "size": 20716534,
+                    "md5": "9b79e2f0c2bc06bc948943586acd487e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/raw/IMG_0672.dng"
+                }
+            },
+            "IMG_0671": {
+                "jpg_pretty": {
+                    "size": 4425832,
+                    "md5": "7ef8e29089c90b2ccc071417fa6958e4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_pretty/IMG_0671.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4101178,
+                    "md5": "b1452eb246dc08fb75cb64d6827ccb44",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_plain/IMG_0671.jpg"
+                },
+                "raw": {
+                    "size": 20838212,
+                    "md5": "b670a4de9ba5ecd5be42a270d98ecf51",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/raw/IMG_0671.dng"
+                }
+            },
+            "IMG_0670": {
+                "jpg_pretty": {
+                    "size": 4186751,
+                    "md5": "c5d0cce99fa3196da4d3a7c7e28b2816",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_pretty/IMG_0670.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3942743,
+                    "md5": "8ffa808e1de783c07242f843a7c9a892",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_plain/IMG_0670.jpg"
+                },
+                "raw": {
+                    "size": 21024908,
+                    "md5": "f20f453f9c87534f70e46bb54a9efc95",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/raw/IMG_0670.dng"
+                }
+            },
+            "IMG_0659": {
+                "jpg_pretty": {
+                    "size": 6418632,
+                    "md5": "fdf42e872864a1050f33d424ce36327f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_pretty/IMG_0659.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4407868,
+                    "md5": "73d0da56fefb4d26cc160aa4e2109e9d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_plain/IMG_0659.jpg"
+                },
+                "raw": {
+                    "size": 20216464,
+                    "md5": "fe77504dc10c53a11c4c3f21d54a6d96",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/raw/IMG_0659.dng"
+                }
+            },
+            "IMG_0658": {
+                "jpg_pretty": {
+                    "size": 5849289,
+                    "md5": "2414b848de7ec84aef43bce08bdd70ed",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_pretty/IMG_0658.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4283523,
+                    "md5": "c7ec79778baa31b52ae1dc8241734474",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_plain/IMG_0658.jpg"
+                },
+                "raw": {
+                    "size": 20212620,
+                    "md5": "20d3ffb6611b7ef3ecd66b5f327fb9fb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/raw/IMG_0658.dng"
+                }
+            },
+            "IMG_0657": {
+                "jpg_pretty": {
+                    "size": 3847512,
+                    "md5": "3f0579ca8d9d075811912c9a0b61f067",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_pretty/IMG_0657.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3400567,
+                    "md5": "9beae98e9c8199cefd1f56b5672f4cb8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_plain/IMG_0657.jpg"
+                },
+                "raw": {
+                    "size": 21855564,
+                    "md5": "bb2ec74a0819c688882ce637060aa13d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/raw/IMG_0657.dng"
+                }
+            },
+            "IMG_0656": {
+                "jpg_pretty": {
+                    "size": 4213544,
+                    "md5": "d89f21ca9d4150029fe6796d13800d0b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_pretty/IMG_0656.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3679787,
+                    "md5": "48c1027eef30096e63c51c2da20774a8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_plain/IMG_0656.jpg"
+                },
+                "raw": {
+                    "size": 20833892,
+                    "md5": "6c91b6dad7fb307acb094a7df07a6b51",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/raw/IMG_0656.dng"
+                }
+            },
+            "IMG_0655": {
+                "jpg_pretty": {
+                    "size": 3882422,
+                    "md5": "71804edadc343a30f03ce86d20e54f7c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_pretty/IMG_0655.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3609445,
+                    "md5": "1fd5eab081011a97f49b47bcfa49d872",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_plain/IMG_0655.jpg"
+                },
+                "raw": {
+                    "size": 20379598,
+                    "md5": "b4bfdd8966e9ce00325055f820f0acc1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/raw/IMG_0655.dng"
+                }
+            },
+            "IMG_0654": {
+                "jpg_pretty": {
+                    "size": 3434933,
+                    "md5": "26c10d9ae01d6c82f2ba79a0b75d0c2f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_pretty/IMG_0654.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3360316,
+                    "md5": "f1dd24e4a90e1bb99d91d069d0258a58",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_plain/IMG_0654.jpg"
+                },
+                "raw": {
+                    "size": 20849148,
+                    "md5": "bc477156d455239f34fb15d3a3af9b79",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/raw/IMG_0654.dng"
+                }
+            },
+            "IMG_0676": {
+                "jpg_pretty": {
+                    "size": 4623572,
+                    "md5": "6c95925c57f7c022b9483670238b3965",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_pretty/IMG_0676.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3554701,
+                    "md5": "6272eb70b62a925b2b8e527987cf84a3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_plain/IMG_0676.jpg"
+                },
+                "raw": {
+                    "size": 20789668,
+                    "md5": "c158204465f2f55d8a4b997cd3486fad",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/raw/IMG_0676.dng"
+                }
+            },
+            "IMG_0653": {
+                "jpg_pretty": {
+                    "size": 5077167,
+                    "md5": "f70cd6f1e8747a74a0314f7707782834",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_pretty/IMG_0653.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3765393,
+                    "md5": "b80879f6ea9504d510480545f2c5d64a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_plain/IMG_0653.jpg"
+                },
+                "raw": {
+                    "size": 20656406,
+                    "md5": "5be5c5eba47c5c94f7d0b4e44f389da5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/raw/IMG_0653.dng"
+                }
+            },
+            "IMG_0675": {
+                "jpg_pretty": {
+                    "size": 3059963,
+                    "md5": "924f7d52ec980f55f5bc4a6fb0285ff6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_pretty/IMG_0675.jpg"
+                },
+                "jpg_plain": {
+                    "size": 2812555,
+                    "md5": "2f88834c00c8041e4e850c90b091f660",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_plain/IMG_0675.jpg"
+                },
+                "raw": {
+                    "size": 21166774,
+                    "md5": "35b22936cd61bf0029805d84ecf01b4c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/raw/IMG_0675.dng"
+                }
+            },
+            "IMG_0641": {
+                "jpg_pretty": {
+                    "size": 5210239,
+                    "md5": "474ab8658b3ed49d7de06002b39d7ad3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_pretty/IMG_0641.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3704719,
+                    "md5": "b7348e72da54a6ffeebb5cb522ed54c9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_plain/IMG_0641.jpg"
+                },
+                "raw": {
+                    "size": 19863394,
+                    "md5": "eaaeae77e11a3c67d984b0c0bca58c6f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/raw/IMG_0641.dng"
+                }
+            },
+            "IMG_0663": {
+                "jpg_pretty": {
+                    "size": 6614692,
+                    "md5": "c4cf3ddb1d63bd9ebd94963f0401df52",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_pretty/IMG_0663.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4542858,
+                    "md5": "5340f78e77061b14af91fd6340b3cdb9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_plain/IMG_0663.jpg"
+                },
+                "raw": {
+                    "size": 20125174,
+                    "md5": "347578a1c23adfe92573093dd2deaf53",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/raw/IMG_0663.dng"
+                }
+            },
+            "IMG_0662": {
+                "jpg_pretty": {
+                    "size": 4188755,
+                    "md5": "1f574f21d15aacca7cf093ba1ec21563",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_pretty/IMG_0662.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3551179,
+                    "md5": "5c33301349b6ad0ef28e0e87744f75f1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_plain/IMG_0662.jpg"
+                },
+                "raw": {
+                    "size": 20692162,
+                    "md5": "a140d32921092b1a30559c8ddab79903",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/raw/IMG_0662.dng"
+                }
+            },
+            "IMG_0661": {
+                "jpg_pretty": {
+                    "size": 4549448,
+                    "md5": "5a36222b77698aab89b0f930c84471e8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_pretty/IMG_0661.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3708781,
+                    "md5": "6de3517814f42f6d35ca27b592fe7538",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_plain/IMG_0661.jpg"
+                },
+                "raw": {
+                    "size": 20680810,
+                    "md5": "0e199b01adb5a584316f6e2ff33e4c0a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/raw/IMG_0661.dng"
+                }
+            },
+            "IMG_0660": {
+                "jpg_pretty": {
+                    "size": 3920746,
+                    "md5": "eda65de9bb8c4fe0c72b18018ab53223",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_pretty/IMG_0660.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3362481,
+                    "md5": "9a155c34e24da17dc5a794c743b18636",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/jpg_plain/IMG_0660.jpg"
+                },
+                "raw": {
+                    "size": 20949586,
+                    "md5": "90aca9f81361ade31dfa5c79156af103",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blouberg_sunrise_2/raw/IMG_0660.dng"
+                }
+            }
+        }
+    }
+}

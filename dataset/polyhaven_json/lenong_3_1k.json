@@ -1,0 +1,110 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "tree",
+        "sun",
+        "hill",
+        "mountain",
+        "pilanesberg",
+        "rock",
+        "bush"
+    ],
+    "date_published": 1533852000,
+    "name": "Lenong 3",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "midday",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        -25.237583,
+        27.065674
+    ],
+    "date_taken": 1531048320,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "url": "https://dabarti.com/",
+            "name": "Tomasz Wyszolmirski"
+        }
+    ],
+    "files_hash": "cca25d1aff5d6818daf687a5d647f51c5d79809c",
+    "download_count": 36058,
+    "files": {
+        "tonemapped": {
+            "size": 5458620,
+            "md5": "6df65095ec865a6dcd5112d77bdf092e",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/lenong_3.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101884326,
+                    "md5": "cbad1a82e4b72ee471baa337a751e141",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/lenong_3_8k.hdr"
+                },
+                "exr": {
+                    "size": 82330231,
+                    "md5": "b1f436bbaf687471af0964248bbe6ce9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/lenong_3_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 384471141,
+                    "md5": "9011626169de762b8081f600b2119286",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/lenong_3_16k.hdr"
+                },
+                "exr": {
+                    "size": 305146651,
+                    "md5": "a90f1ed6412c8554faba1ca0a9f461e3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/lenong_3_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25660055,
+                    "md5": "1f5ed8d4499538944ef19404442343c8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/lenong_3_4k.hdr"
+                },
+                "exr": {
+                    "size": 20674799,
+                    "md5": "192fdd5cabf04d53554f7e3af9ea805b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/lenong_3_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6322605,
+                    "md5": "709c6ede6bc7d3ca4828083efbca0a01",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/lenong_3_2k.hdr"
+                },
+                "exr": {
+                    "size": 5152352,
+                    "md5": "c97bc096ccfce7251b010f35986db1f2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/lenong_3_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1558743,
+                    "md5": "2eebf340c284182ae3ff2e2be28fe054",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/lenong_3_1k.hdr"
+                },
+                "exr": {
+                    "size": 1312284,
+                    "md5": "e949d994824bc3e24b994b0b46414a58",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/lenong_3_1k.exr"
+                }
+            }
+        }
+    }
+}

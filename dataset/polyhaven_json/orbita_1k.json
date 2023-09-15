@@ -1,0 +1,722 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "name": "Orbita",
+    "categories": [
+        "outdoor",
+        "nature",
+        "natural light",
+        "sunrise-sunset",
+        "low contrast",
+        "clear"
+    ],
+    "backplates": true,
+    "coords": [
+        43.055686,
+        76.976042
+    ],
+    "date_taken": 1534410000,
+    "authors": {
+        "Alex Radosnov": "All"
+    },
+    "date_published": 1628071083,
+    "tags": [
+        "road",
+        "barrier",
+        "narrow",
+        "curved",
+        "hill",
+        "mountain",
+        "backplates"
+    ],
+    "prepaid": true,
+    "files_hash": "eefd898d8bb546155711882b366c21cb645b804f",
+    "sponsors": [
+        "3267566",
+        "42579608"
+    ],
+    "download_count": 28617,
+    "files": {
+        "hdri": {
+            "12k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/12k/orbita_12k.hdr",
+                    "size": 213206080,
+                    "md5": "febc77472f68eda40ed1d4b5ea6aed2f"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/12k/orbita_12k.exr",
+                    "size": 177534003,
+                    "md5": "a060953aedd6e5deb0a6ed1b9702091c"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/orbita_8k.hdr",
+                    "size": 97089254,
+                    "md5": "38b891465f8770ab353fa687153a1de3"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/orbita_8k.exr",
+                    "size": 80790794,
+                    "md5": "92ef50265ef161f7a4e44d1ff5955e3e"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/orbita_4k.hdr",
+                    "size": 24862760,
+                    "md5": "8aabb48cd43a10126cb79f8eca3cf823"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/orbita_4k.exr",
+                    "size": 20737797,
+                    "md5": "35b1ae7ac0a5294f6a09600362433114"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/orbita_2k.hdr",
+                    "size": 6098909,
+                    "md5": "947106a551ee1d9a5dc9e18213f6b3eb"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/orbita_2k.exr",
+                    "size": 5193976,
+                    "md5": "156281ca387bc242cedba3fc12b4b4db"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/orbita_1k.hdr",
+                    "size": 1496671,
+                    "md5": "5e64db714d268508eae56f0d5a1c9ad0"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/orbita_1k.exr",
+                    "size": 1309726,
+                    "md5": "9c5c8c989da538973f44824af73aba26"
+                }
+            }
+        },
+        "tonemapped": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/orbita.jpg",
+            "size": 44752768,
+            "md5": "565a4078dd0b601289f725ddb04dfae2"
+        },
+        "backplates": {
+            "Orbita_20180816_01_29": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_29.jpg",
+                    "size": 51883095,
+                    "md5": "c59520bd093f4f00738d0d4f31ee50c6"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_29.CR2",
+                    "size": 72728994,
+                    "md5": "262ac96cd059303bdf2b594b78e48b83"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_29.jpg",
+                    "size": 47979571,
+                    "md5": "7aeb7108384fc9aa741a0a5e0b0c7d88"
+                }
+            },
+            "Orbita_20180816_01_07": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_07.jpg",
+                    "size": 46198212,
+                    "md5": "9802f2e07d0054baab7b3a4bae2f478e"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_07.CR2",
+                    "size": 71481235,
+                    "md5": "8da9467d3a9c082b3edc545f6d5b174e"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_07.jpg",
+                    "size": 43209000,
+                    "md5": "5076240812c61e491747fff3bf67daed"
+                }
+            },
+            "Orbita_20180816_01_08": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_08.jpg",
+                    "size": 41735928,
+                    "md5": "37574c2b74037c798a13b69606b4a407"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_08.CR2",
+                    "size": 64634610,
+                    "md5": "95b32c7bf21e0bfa75999adaf3a5d8d3"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_08.jpg",
+                    "size": 36323302,
+                    "md5": "181f9261bc75807f71783119f9ce31a4"
+                }
+            },
+            "Orbita_20180816_01_09": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_09.jpg",
+                    "size": 42941547,
+                    "md5": "5e48eaaa3c694cbf21f36110c227e3fa"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_09.CR2",
+                    "size": 69722956,
+                    "md5": "ca9d7f5637f20cb19d339480d2fea98c"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_09.jpg",
+                    "size": 40585205,
+                    "md5": "d4983b7ac4977427ec8c8714ed3f2e69"
+                }
+            },
+            "Orbita_20180816_01_10": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_10.jpg",
+                    "size": 46551684,
+                    "md5": "d72cbfb591287e1789c4cb1a90b8d4fa"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_10.CR2",
+                    "size": 71945882,
+                    "md5": "61b5b0841ed87fa0cd01706bbef9d001"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_10.jpg",
+                    "size": 43940130,
+                    "md5": "d6e7b507f0af9216cac08ba50a41b065"
+                }
+            },
+            "Orbita_20180816_01_32": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_32.jpg",
+                    "size": 44003346,
+                    "md5": "fe2ac41a6b0881f12b853de0e16d7bda"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_32.CR2",
+                    "size": 70212749,
+                    "md5": "49398867aff419e4fe06bcc8ff60d571"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_32.jpg",
+                    "size": 40466157,
+                    "md5": "bde6ebb4c8c514d8598ec61a76bb2ceb"
+                }
+            },
+            "Orbita_20180816_01_11": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_11.jpg",
+                    "size": 45407307,
+                    "md5": "9e0667b3a5ae71a5af35a13946faf98a"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_11.CR2",
+                    "size": 72180028,
+                    "md5": "c3fa0d4328f35a7eaebaeaff721ae81f"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_11.jpg",
+                    "size": 42881053,
+                    "md5": "d7d30930823bb2a68833a01c7f18b1e6"
+                }
+            },
+            "Orbita_20180816_01_33": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_33.jpg",
+                    "size": 48636707,
+                    "md5": "f10cd8e3d81402194982d0351d2c7dce"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_33.CR2",
+                    "size": 69478753,
+                    "md5": "6556fba9e46f5fd40b48702b219bcd95"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_33.jpg",
+                    "size": 43381613,
+                    "md5": "7cb8fbdeeeea7a79168ba431b845cc95"
+                }
+            },
+            "Orbita_20180816_01_34": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_34.jpg",
+                    "size": 55902731,
+                    "md5": "3ab73ea9b699b401533cc604b08ccd25"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_34.CR2",
+                    "size": 71517036,
+                    "md5": "5cfe334f6ee0da0b111032caf28ec34e"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_34.jpg",
+                    "size": 39066783,
+                    "md5": "65e4bf683e04a7f2b00cb3a77f6b16f8"
+                }
+            },
+            "Orbita_20180816_01_12": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_12.jpg",
+                    "size": 38631982,
+                    "md5": "9beb7f98cd9bb5ff793d15e6c8d74312"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_12.CR2",
+                    "size": 61645650,
+                    "md5": "bcf63fa10cc69c6f098598751fb8d5dc"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_12.jpg",
+                    "size": 32417080,
+                    "md5": "2a3d610860c906fd20ce837355d79be5"
+                }
+            },
+            "Orbita_20180816_01_13": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_13.jpg",
+                    "size": 41015337,
+                    "md5": "9f79b59e57e753c5eabeec99e539d97d"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_13.CR2",
+                    "size": 60869705,
+                    "md5": "04cf2237560a2ae13c30a87cd145e902"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_13.jpg",
+                    "size": 33696274,
+                    "md5": "6c03439bd239b796e1c941d38812c27a"
+                }
+            },
+            "Orbita_20180816_01_35": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_35.jpg",
+                    "size": 39302171,
+                    "md5": "16e0954787c971228b0b5d1a42aad208"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_35.CR2",
+                    "size": 69056095,
+                    "md5": "4f14dc59be5123648d306f07266ac594"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_35.jpg",
+                    "size": 36488207,
+                    "md5": "5c2731e7536c11f8478df10969790a20"
+                }
+            },
+            "Orbita_20180816_01_14": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_14.jpg",
+                    "size": 38854033,
+                    "md5": "a4903f54b3548a2ae8e3d6af5cbbd6df"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_14.CR2",
+                    "size": 58827315,
+                    "md5": "cf81b1344bf3afd79785b093fc3fca2a"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_14.jpg",
+                    "size": 30631733,
+                    "md5": "1098a5ddc864242574aeab94e8f60a83"
+                }
+            },
+            "Orbita_20180816_01_36": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_36.jpg",
+                    "size": 41826223,
+                    "md5": "17dd023411fb549963637cf444c4802b"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_36.CR2",
+                    "size": 70199226,
+                    "md5": "6bed1eb924bb3c9b6bb728f84e8d6937"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_36.jpg",
+                    "size": 38736974,
+                    "md5": "6d91e2a8ac2daa630f75a1c9a1015feb"
+                }
+            },
+            "Orbita_20180816_01_15": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_15.jpg",
+                    "size": 46896133,
+                    "md5": "0ea75804b8ae078b26de590166c958da"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_15.CR2",
+                    "size": 68009666,
+                    "md5": "9fedd2e12a7a323fee8f379f6f54ccd0"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_15.jpg",
+                    "size": 41792718,
+                    "md5": "b4b1f1a0f4db7a033ec7488e39af8270"
+                }
+            },
+            "Orbita_20180816_01_16": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_16.jpg",
+                    "size": 42387312,
+                    "md5": "3e88420fa47e411c14597a48d45132bf"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_16.CR2",
+                    "size": 64785490,
+                    "md5": "8e4f23091adade54878846590834b1d6"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_16.jpg",
+                    "size": 36823984,
+                    "md5": "c15b0359000ecbffc6afb03749a3b3b1"
+                }
+            },
+            "Orbita_20180816_01_17": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_17.jpg",
+                    "size": 46289420,
+                    "md5": "6658f2a908c61e007ea81a765785ead9"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_17.CR2",
+                    "size": 68001359,
+                    "md5": "060cc39cd7f69b8a3686e7c264a91f5b"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_17.jpg",
+                    "size": 41374440,
+                    "md5": "7eb461662f22b987abd5db2c0d5ab65a"
+                }
+            },
+            "Orbita_20180816_01_30": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_30.jpg",
+                    "size": 46252954,
+                    "md5": "108fa8a91fced330961d01d4ae8e20a0"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_30.CR2",
+                    "size": 71093550,
+                    "md5": "f1fcf1144da73dc4e9c7b9ab5642f680"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_30.jpg",
+                    "size": 42715749,
+                    "md5": "aa6550fafadd998965588e0d74331649"
+                }
+            },
+            "Orbita_20180816_01_31": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_31.jpg",
+                    "size": 77729736,
+                    "md5": "fe37074b9585a8b86c53632087cf3608"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_31.CR2",
+                    "size": 66967023,
+                    "md5": "c1cc813b37f92445fd2255a2a719163a"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_31.jpg",
+                    "size": 41997956,
+                    "md5": "16723a384932160f6f706dc3472ce14a"
+                }
+            },
+            "Orbita_20180816_01_18": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_18.jpg",
+                    "size": 44738440,
+                    "md5": "f58efa8b6bdba3c7affd6a987807abad"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_18.CR2",
+                    "size": 67138442,
+                    "md5": "78260c3a741ddf1c800bb72ea6d58419"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_18.jpg",
+                    "size": 40045213,
+                    "md5": "4796851a04411b21be09aa376a3dc757"
+                }
+            },
+            "Orbita_20180816_01_19": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_19.jpg",
+                    "size": 43853335,
+                    "md5": "8d62c1f2ea2ebc6873572a5ee22aef63"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_19.CR2",
+                    "size": 65600163,
+                    "md5": "3eee68440503f28ed6256d433ebf073b"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_19.jpg",
+                    "size": 38516368,
+                    "md5": "e3d2e7be6b4b17e4dd36882d6fdc0e62"
+                }
+            },
+            "Orbita_20180816_01_21": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_21.jpg",
+                    "size": 42261383,
+                    "md5": "bb885fc22d0d7f86d522283336d5fa17"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_21.CR2",
+                    "size": 63448543,
+                    "md5": "b4ed1553bb77b590ea59c7c51e1a1d0c"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_21.jpg",
+                    "size": 35982984,
+                    "md5": "e3259b823aa1b3407c8de8aa288e5828"
+                }
+            },
+            "Orbita_20180816_01_22": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_22.jpg",
+                    "size": 53692105,
+                    "md5": "918b2d25dabbf9acc27e44bc59685f00"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_22.CR2",
+                    "size": 60233606,
+                    "md5": "3b629b45ae656fb9a8ab762519105cae"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_22.jpg",
+                    "size": 30309410,
+                    "md5": "4c4e22a6471a474043545afd9c752f1a"
+                }
+            },
+            "Orbita_20180816_01_23": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_23.jpg",
+                    "size": 39573553,
+                    "md5": "3acc0cf6cf957f46222b6bc4fed0e578"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_23.CR2",
+                    "size": 62522111,
+                    "md5": "59257d59d39810321d009f8f11312962"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_23.jpg",
+                    "size": 34601139,
+                    "md5": "dac70edff51fb518cc65323c67ac2e00"
+                }
+            },
+            "Orbita_20180816_01_01": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_01.jpg",
+                    "size": 37809100,
+                    "md5": "6823a8c718f40ffee47631eef812eee0"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_01.CR2",
+                    "size": 62334878,
+                    "md5": "a48892e89ca11a95d4425b563ade51fd"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_01.jpg",
+                    "size": 33102750,
+                    "md5": "602c61d4984c077bcc7d0a8ff378a66a"
+                }
+            },
+            "Orbita_20180816_01_24": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_24.jpg",
+                    "size": 48385138,
+                    "md5": "1e4730367dd2f5206b5d6f6824a08898"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_24.CR2",
+                    "size": 69519460,
+                    "md5": "900428769e419eaf081821c2f6a0a18b"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_24.jpg",
+                    "size": 45093026,
+                    "md5": "e814d2d19d5b8446a969bc16d6164d14"
+                }
+            },
+            "Orbita_20180816_01_02": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_02.jpg",
+                    "size": 42620125,
+                    "md5": "ecb608a7abc93cf573f1aa4020b13139"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_02.CR2",
+                    "size": 63941573,
+                    "md5": "ff615f865605addd6a92c6799b36e200"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_02.jpg",
+                    "size": 36364965,
+                    "md5": "ea084ec005e406c89054be8d56af3680"
+                }
+            },
+            "Orbita_20180816_01_03": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_03.jpg",
+                    "size": 40052115,
+                    "md5": "8030267634a7584ec4a8f4f43ab23a9f"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_03.CR2",
+                    "size": 64122204,
+                    "md5": "4ac07b9aecdfe46dd1b8efe69b946082"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_03.jpg",
+                    "size": 35253896,
+                    "md5": "d14084e45ca26da188e91d7d1d6a3b54"
+                }
+            },
+            "Orbita_20180816_01_25": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_25.jpg",
+                    "size": 48901363,
+                    "md5": "fb19d29833bf0e992cb348c0177ad79c"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_25.CR2",
+                    "size": 69819810,
+                    "md5": "aaf8ff74d60f05189ee62131a08b5652"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_25.jpg",
+                    "size": 44399963,
+                    "md5": "2df631adfd74d6b3054980a309ca7144"
+                }
+            },
+            "Orbita_20180816_01_26": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_26.jpg",
+                    "size": 50582243,
+                    "md5": "23f48c248576ef1ae3e848cf6b5d0990"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_26.CR2",
+                    "size": 71028529,
+                    "md5": "5a1bd089dd30ad6b2cb3f04d77543d7f"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_26.jpg",
+                    "size": 46231021,
+                    "md5": "bd4799f163c6c46d9f78e6ee1c6fd46f"
+                }
+            },
+            "Orbita_20180816_01_04": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_04.jpg",
+                    "size": 39057049,
+                    "md5": "83271bf4a53db9af778bacb61591c92e"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_04.CR2",
+                    "size": 67575476,
+                    "md5": "d46af5e2cdcaa2ce57accdf30b7c42ef"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_04.jpg",
+                    "size": 36743807,
+                    "md5": "dcfee395175ebb3dc57162c5ab839c9f"
+                }
+            },
+            "Orbita_20180816_01_27": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_27.jpg",
+                    "size": 53423015,
+                    "md5": "9ff1604eff10cff457fd5eb9b9f9bbfd"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_27.CR2",
+                    "size": 71928108,
+                    "md5": "0ffec8f7199c4e4c0923bcb83023b643"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_27.jpg",
+                    "size": 48403640,
+                    "md5": "7f7187b851ee8d45048665fabef3ea6f"
+                }
+            },
+            "Orbita_20180816_01_05": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_05.jpg",
+                    "size": 39676729,
+                    "md5": "7898f182929e1be44ec94fdb00b9fe8f"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_05.CR2",
+                    "size": 68202035,
+                    "md5": "800c94b45c94dc7258ff8652867d5ee8"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_05.jpg",
+                    "size": 37780333,
+                    "md5": "a3988cee2d42cd4581c5a375f4e8b0d4"
+                }
+            },
+            "Orbita_20180816_01_28": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_28.jpg",
+                    "size": 48054059,
+                    "md5": "219dba4ba554dcf8d4c6ede7bb64cca4"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_28.CR2",
+                    "size": 69623552,
+                    "md5": "70710c01b087bb40b0a9454d4479289d"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_28.jpg",
+                    "size": 43017656,
+                    "md5": "56eeff14078b5e16158950a49720867c"
+                }
+            },
+            "Orbita_20180816_01_06": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_06.jpg",
+                    "size": 41857403,
+                    "md5": "e69747692d8726dc5be0dfe70d2bfc38"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_06.CR2",
+                    "size": 65637884,
+                    "md5": "9e8b3be032b5a362b30d1c2643dc66ea"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_06.jpg",
+                    "size": 35373908,
+                    "md5": "a3737cb5dc854c4167a9f12dd47a845a"
+                }
+            },
+            "Orbita_20180816_01_20": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_pretty/Orbita_20180816_01_20.jpg",
+                    "size": 51299020,
+                    "md5": "f00de64b04185726d605403a3a2ee348"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/raw/Orbita_20180816_01_20.CR2",
+                    "size": 60617208,
+                    "md5": "169e30c24db41bca2a6da40a5520881c"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/orbita/jpg_plain/Orbita_20180816_01_20.jpg",
+                    "size": 29259246,
+                    "md5": "3c419a9c14372572b7fc40bc42dabde2"
+                }
+            }
+        }
+    }
+}

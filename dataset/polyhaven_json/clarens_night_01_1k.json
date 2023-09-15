@@ -1,0 +1,126 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 3776,
+    "tags": [
+        "mountain",
+        "hilltop",
+        "grass",
+        "shrub",
+        "valley",
+        "lookout",
+        "stars",
+        "milky way",
+        "moon"
+    ],
+    "name": "Clarens Night 01",
+    "categories": [
+        "natural light",
+        "nature",
+        "outdoor",
+        "partly cloudy",
+        "high contrast",
+        "skies",
+        "night"
+    ],
+    "date_taken": 1619716560,
+    "coords": [
+        -28.524658,
+        28.409542
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "info": null,
+    "date_published": 1661299200,
+    "prepaid": true,
+    "files_hash": "b97799ad8b4a17a70612eda812703ebccc5def50",
+    "download_count": 23509,
+    "files": {
+        "tonemapped": {
+            "size": 55659242,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/clarens_night_01.jpg",
+            "md5": "5a34c8096bf1f3b18ff3337f08c6fad1"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 108765811,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/clarens_night_01_8k.hdr",
+                    "md5": "85cb6a4bbd23105b709840be62b566d0"
+                },
+                "exr": {
+                    "size": 344663075,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/clarens_night_01_8k.exr",
+                    "md5": "490bc9a1302b9a06886982b03bf0ad7c"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 420203690,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/clarens_night_01_16k.hdr",
+                    "md5": "0574e6b4c9d7628fd80b28fcb48dcd74"
+                },
+                "exr": {
+                    "size": 1327440072,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/clarens_night_01_16k.exr",
+                    "md5": "974f33409f4df29fa63e96a7e817a160"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27272441,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/clarens_night_01_4k.hdr",
+                    "md5": "f1094025496cf4a9babfa430d9eca97e"
+                },
+                "exr": {
+                    "size": 87287751,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/clarens_night_01_4k.exr",
+                    "md5": "bbcadffe76c89bea688597965981bfb5"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 935041973,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/clarens_night_01_24k.hdr",
+                    "md5": "b0213e2f63abbeeaefe1295525d6f3e7"
+                },
+                "exr": {
+                    "size": 3009136284,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/clarens_night_01_24k.exr",
+                    "md5": "87e1aedea94d9179a113b736ff5ef605"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6785218,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/clarens_night_01_2k.hdr",
+                    "md5": "f0a3576dceeab62e2962fceb987cab09"
+                },
+                "exr": {
+                    "size": 22477136,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/clarens_night_01_2k.exr",
+                    "md5": "9a56cbc744fc1cc74cd8c39699443cbd"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1691128,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/clarens_night_01_1k.hdr",
+                    "md5": "7d96549e3a79cec097db523f9fc8da2e"
+                },
+                "exr": {
+                    "size": 5957228,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/clarens_night_01_1k.exr",
+                    "md5": "cd4def7eec6ba21be86451a1db2c679d"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 51881156,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/clarens_night_01.zip",
+            "md5": "7af18e5b1e5a56e4e085c6c249970270"
+        }
+    }
+}

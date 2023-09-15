@@ -1,0 +1,104 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "whitebalance": 5050,
+    "tags": [
+        "machine",
+        "industrial",
+        "workshop",
+        "wind tunnel",
+        "window"
+    ],
+    "date_published": 1542668400,
+    "name": "Aerodynamics Workshop",
+    "categories": [
+        "indoor",
+        "urban",
+        "morning-afternoon",
+        "medium contrast",
+        "natural light",
+        "artificial light"
+    ],
+    "date_taken": 1536058560,
+    "authors": {
+        "Oliksiy Yakovlyev": "All"
+    },
+    "sponsors": [
+        {
+            "url": "https://slimechildaudio.com/",
+            "name": "Slime Child Audio"
+        },
+        "66627515"
+    ],
+    "files_hash": "93c48dd1f1560d967576c0468e24f85552183250",
+    "download_count": 60970,
+    "files": {
+        "tonemapped": {
+            "size": 3693686,
+            "md5": "ebcc5d51e09d0aac40decf9c5e8c2485",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/aerodynamics_workshop.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 92800621,
+                    "md5": "c8e023bf4f3ca6e83664c91192b35ae2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/aerodynamics_workshop_8k.hdr"
+                },
+                "exr": {
+                    "size": 77181861,
+                    "md5": "e28743513fbc15ae7d3d8c8a8272c30d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/aerodynamics_workshop_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 390828389,
+                    "md5": "06e172fe91b42900181b464a2bfa30ab",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/aerodynamics_workshop_16k.hdr"
+                },
+                "exr": {
+                    "size": 319735250,
+                    "md5": "417c1c30e2c7b3ba5b062f04630dd182",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/aerodynamics_workshop_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 23176684,
+                    "md5": "40e5493ef556fc94e3f4ae79a9ded003",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/aerodynamics_workshop_4k.hdr"
+                },
+                "exr": {
+                    "size": 19513992,
+                    "md5": "b02a3ece03906dec59b28117df47b227",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/aerodynamics_workshop_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5809549,
+                    "md5": "e5790090543ff6526d71efc854451a57",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/aerodynamics_workshop_2k.hdr"
+                },
+                "exr": {
+                    "size": 5135781,
+                    "md5": "021a235d749075cb6fd5baff2ea0016a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/aerodynamics_workshop_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1488808,
+                    "md5": "d697c35023a899f39a6ce2e334b47dec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/aerodynamics_workshop_1k.hdr"
+                },
+                "exr": {
+                    "size": 1395541,
+                    "md5": "98f3089ce488295f213914827a610298",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/aerodynamics_workshop_1k.exr"
+                }
+            }
+        }
+    }
+}

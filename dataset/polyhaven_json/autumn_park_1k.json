@@ -1,0 +1,308 @@
+{
+    "evs_cap": 26,
+    "type": 0,
+    "whitebalance": 5240,
+    "date_published": 1575332622,
+    "name": "Autumn Park",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "morning-afternoon",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1570016220,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "3267566"
+    ],
+    "backplates": true,
+    "tags": [
+        "tree",
+        "sun",
+        "grass",
+        "field",
+        "backplates"
+    ],
+    "files_hash": "75aa9cdef27de019e8f879f30f5294939e685e20",
+    "download_count": 254268,
+    "files": {
+        "tonemapped": {
+            "size": 8285763,
+            "md5": "f88a69f678661c848b66383cae20ae7d",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/autumn_park.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102620502,
+                    "md5": "82061371ad0c849df2b7d1326454d654",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/autumn_park_8k.hdr"
+                },
+                "exr": {
+                    "size": 88030148,
+                    "md5": "8e22363ea34cd479c10740d53057f835",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/autumn_park_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 375957095,
+                    "md5": "b78cee1d5f1d176984d7ca8ed09b89ae",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/autumn_park_16k.hdr"
+                },
+                "exr": {
+                    "size": 327279164,
+                    "md5": "20bc65d440974ae0cf856c4825749b37",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/autumn_park_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24950737,
+                    "md5": "50ff2cd7c9703d0fdf542f2f8fecbebd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/autumn_park_4k.hdr"
+                },
+                "exr": {
+                    "size": 22046339,
+                    "md5": "10dfeec6fb8e4a449b10d2f8baf8cf2c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/autumn_park_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6048302,
+                    "md5": "85059126d0cda2d527b58ba446f5d3ea",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/autumn_park_2k.hdr"
+                },
+                "exr": {
+                    "size": 5494071,
+                    "md5": "ac6a690e42ec0ac0164a7c20c44424af",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/autumn_park_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1508820,
+                    "md5": "b9c29f6e1eb57b296c6414a315101919",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/autumn_park_1k.hdr"
+                },
+                "exr": {
+                    "size": 1392101,
+                    "md5": "fb9fd18c7bf32030c94ebc4a2f5db35b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/autumn_park_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "DSC_0088": {
+                "jpg_pretty": {
+                    "size": 19716820,
+                    "md5": "b444052d84f0d717eea65bdfbc29cd86",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/jpg_pretty/DSC_0088.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16542329,
+                    "md5": "32053520d0bf2fd4d769956e503aa906",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/jpg_plain/DSC_0088.jpg"
+                },
+                "raw": {
+                    "size": 21383196,
+                    "md5": "cd5158d63e1e0839380f020967cf8bce",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/raw/DSC_0088.NEF"
+                }
+            },
+            "DSC_0143": {
+                "jpg_pretty": {
+                    "size": 17814928,
+                    "md5": "8dfda1a60e8eed60d6e00640a26892bc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/jpg_pretty/DSC_0143.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14658131,
+                    "md5": "da34041fd13066794f74101765616a1d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/jpg_plain/DSC_0143.jpg"
+                },
+                "raw": {
+                    "size": 19694167,
+                    "md5": "01c4f2efef8a0c7024c798485f14592a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/raw/DSC_0143.NEF"
+                }
+            },
+            "DSC_0198": {
+                "jpg_pretty": {
+                    "size": 20046500,
+                    "md5": "50a0b7d2183ab7bd033b9d225a754d11",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/jpg_pretty/DSC_0198.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15821865,
+                    "md5": "51a1b0ed7edc45f101ec0384ceacf767",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/jpg_plain/DSC_0198.jpg"
+                },
+                "raw": {
+                    "size": 20619125,
+                    "md5": "6deaa7a6ac823765b8315e3a6621d031",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/raw/DSC_0198.NEF"
+                }
+            },
+            "DSC_0103": {
+                "jpg_pretty": {
+                    "size": 19602439,
+                    "md5": "4c950a2064d0cf39638bbba4dbb6ca3b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/jpg_pretty/DSC_0103.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16917714,
+                    "md5": "a207ea258201e4b8ce6e53bb3641cf07",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/jpg_plain/DSC_0103.jpg"
+                },
+                "raw": {
+                    "size": 20783706,
+                    "md5": "095c44433084699407e91eebf07cc583",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/raw/DSC_0103.NEF"
+                }
+            },
+            "DSC_0158": {
+                "jpg_pretty": {
+                    "size": 20406519,
+                    "md5": "803f17a3f5e40d4c6cb3c83c3732eb66",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/jpg_pretty/DSC_0158.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16656631,
+                    "md5": "b8a32be850b66f8408ad97978ce84eeb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/jpg_plain/DSC_0158.jpg"
+                },
+                "raw": {
+                    "size": 20825460,
+                    "md5": "76aaa311fae996ec6b2d5c26a755c8bc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/raw/DSC_0158.NEF"
+                }
+            },
+            "DSC_0223": {
+                "jpg_pretty": {
+                    "size": 11758953,
+                    "md5": "4f0bd60847c05c5ae38e6f673a1f5eef",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/jpg_pretty/DSC_0223.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8305769,
+                    "md5": "10158a2518f8aaedf1e12838cb1ec3ea",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/jpg_plain/DSC_0223.jpg"
+                },
+                "raw": {
+                    "size": 19302260,
+                    "md5": "5143b3b9ce62e32a7aabc364b41ef40a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/raw/DSC_0223.NEF"
+                }
+            },
+            "DSC_0178": {
+                "jpg_pretty": {
+                    "size": 16897402,
+                    "md5": "ec11579cf61e334b1bb79db1e1ab5031",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/jpg_pretty/DSC_0178.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12260693,
+                    "md5": "54a9c471de98ea3d63a7ef2b99bd1dae",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/jpg_plain/DSC_0178.jpg"
+                },
+                "raw": {
+                    "size": 18958716,
+                    "md5": "99cf6d890081c228e0a518a470ab5893",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/raw/DSC_0178.NEF"
+                }
+            },
+            "DSC_0118": {
+                "jpg_pretty": {
+                    "size": 18628233,
+                    "md5": "afe1e770f4d9d2ee96673f75dc1a8c1f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/jpg_pretty/DSC_0118.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16226517,
+                    "md5": "b11cdb0bac1e0833d30639d331d2de7e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/jpg_plain/DSC_0118.jpg"
+                },
+                "raw": {
+                    "size": 20628084,
+                    "md5": "de991247c413bfa7ba5a3447a401d37e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/raw/DSC_0118.NEF"
+                }
+            },
+            "DSC_0228": {
+                "jpg_pretty": {
+                    "size": 19020032,
+                    "md5": "673903ea2ab64766d750254d8c6a1746",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/jpg_pretty/DSC_0228.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15284481,
+                    "md5": "b540beafd7bfdd08fbeb96d6a0b1dcdb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/jpg_plain/DSC_0228.jpg"
+                },
+                "raw": {
+                    "size": 20177481,
+                    "md5": "058eac3350d51a3b4bc38566de36d127",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/raw/DSC_0228.NEF"
+                }
+            },
+            "DSC_0238": {
+                "jpg_pretty": {
+                    "size": 17641588,
+                    "md5": "4d8e4392c914c09862ab76340b5e8f32",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/jpg_pretty/DSC_0238.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14938697,
+                    "md5": "c1b145b39dcfdfeef90be567dd5308b8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/jpg_plain/DSC_0238.jpg"
+                },
+                "raw": {
+                    "size": 19950478,
+                    "md5": "ebc1d0a70f6c0991837c5898f4fd599d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/raw/DSC_0238.NEF"
+                }
+            },
+            "DSC_0313": {
+                "jpg_pretty": {
+                    "size": 16902600,
+                    "md5": "fa80800717cc5e9574f2540f85a70a00",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/jpg_pretty/DSC_0313.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10388650,
+                    "md5": "2bf18ffbc59e85529fb609c7f775a75e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/jpg_plain/DSC_0313.jpg"
+                },
+                "raw": {
+                    "size": 18406654,
+                    "md5": "83dcaf0da1a0b0137028992da8711dd8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/raw/DSC_0313.NEF"
+                }
+            },
+            "DSC_0293": {
+                "jpg_pretty": {
+                    "size": 18329710,
+                    "md5": "df34851ee479e1809d95949517ab918a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/jpg_pretty/DSC_0293.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14192421,
+                    "md5": "6871334c490ebe6c717ec05d6b161eac",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/jpg_plain/DSC_0293.jpg"
+                },
+                "raw": {
+                    "size": 20064478,
+                    "md5": "ddf6cd71a9373b7f8efd42f6518e98f9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_park/raw/DSC_0293.NEF"
+                }
+            }
+        }
+    }
+}

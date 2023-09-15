@@ -1,0 +1,115 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "tree",
+        "flower",
+        "hill",
+        "river",
+        "park"
+    ],
+    "date_published": 1587074400,
+    "name": "Flower Hillside",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        48.405995,
+        9.837413
+    ],
+    "date_taken": 1583592960,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        "26820710"
+    ],
+    "files_hash": "1e3b1df8119319a8d4b64290105f930d20e67812",
+    "download_count": 11576,
+    "files": {
+        "tonemapped": {
+            "size": 11002545,
+            "md5": "12365bfe83a2c655818f0ead7f66877a",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/flower_hillside.jpg"
+        },
+        "hdri": {
+            "19k": {
+                "hdr": {
+                    "size": 595004717,
+                    "md5": "e75ab16767c7566d6dddb8dbd1c22df1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/flower_hillside_19k.hdr"
+                },
+                "exr": {
+                    "size": 595971478,
+                    "md5": "b006a65e6f31334b8836d446347f24a2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/flower_hillside_19k.exr"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "size": 113963670,
+                    "md5": "a68d7351ba1ca1686fa5c50ce21dd5ae",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/flower_hillside_8k.hdr"
+                },
+                "exr": {
+                    "size": 117997323,
+                    "md5": "a909ec23d171f3f12a9cbd50b64605d8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/flower_hillside_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 431979671,
+                    "md5": "0b4ca8ea427557906aa08f87b01455cc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/flower_hillside_16k.hdr"
+                },
+                "exr": {
+                    "size": 435710883,
+                    "md5": "8f23ff0fd613f1f56a5002351dc916a0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/flower_hillside_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 29569022,
+                    "md5": "28c6917a5314b1ebefe4a42605e08ad1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/flower_hillside_4k.hdr"
+                },
+                "exr": {
+                    "size": 30986214,
+                    "md5": "9b812f1e524858165ac6844b8a51273a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/flower_hillside_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7563628,
+                    "md5": "56c5da21fe231d5a783258c4939ef303",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/flower_hillside_2k.hdr"
+                },
+                "exr": {
+                    "size": 7962470,
+                    "md5": "3941b47786955a7f66291ee8c82b6741",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/flower_hillside_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1912854,
+                    "md5": "06c975503c38fbdbfcf6299b3e2793dc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/flower_hillside_1k.hdr"
+                },
+                "exr": {
+                    "size": 2017765,
+                    "md5": "91824bbecc579d26971911dad67b4d2e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/flower_hillside_1k.exr"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,567 @@
+{
+    "evs_cap": 24,
+    "type": 0,
+    "whitebalance": 5400,
+    "date_published": 1511996400,
+    "name": "Rhodes Memorial",
+    "categories": [
+        "outdoor",
+        "urban",
+        "morning-afternoon",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1464946020,
+    "coords": [
+        -33.952369,
+        18.459222
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "backplates": true,
+    "tags": [
+        "sun",
+        "view",
+        "architecture",
+        "statue",
+        "backplates"
+    ],
+    "sponsors": [
+        "42579608",
+        "4047949"
+    ],
+    "files_hash": "e832a75da6b729bd79ab14acc1f5796fa3e9b46c",
+    "download_count": 25137,
+    "files": {
+        "tonemapped": {
+            "size": 7022292,
+            "md5": "0470e3c81498bd656dd72b83c56992d5",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/rhodes_memorial.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101450688,
+                    "md5": "5fcdb2ed371f8164c006c2b7800fa390",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/rhodes_memorial_8k.hdr"
+                },
+                "exr": {
+                    "size": 89530647,
+                    "md5": "d9aa8c0d786d2c9d5920108a217fad7d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/rhodes_memorial_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 369351098,
+                    "md5": "b3f3f338345bcb7c5fc69183792ba4b6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rhodes_memorial_16k.hdr"
+                },
+                "exr": {
+                    "size": 326086566,
+                    "md5": "6b4bdf86875dbb5a5e3a74f6adbedd8a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rhodes_memorial_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26054489,
+                    "md5": "c344d1bd91ed6e62f85e52a4434e36aa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/rhodes_memorial_4k.hdr"
+                },
+                "exr": {
+                    "size": 23283593,
+                    "md5": "827f46284bf103833e24c9149091e02d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/rhodes_memorial_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6551374,
+                    "md5": "5eb010fce5d20f0b678133cc0f6de53b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/rhodes_memorial_2k.hdr"
+                },
+                "exr": {
+                    "size": 5974482,
+                    "md5": "d690085837e00928050c166a0a134c22",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/rhodes_memorial_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1658455,
+                    "md5": "1968171431e8c4fd648f5d14bbf75c1f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/rhodes_memorial_1k.hdr"
+                },
+                "exr": {
+                    "size": 1541058,
+                    "md5": "36e774b6734fa58a74343a9d6a499f8d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/rhodes_memorial_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "IMG_0869": {
+                "jpg_pretty": {
+                    "size": 5871336,
+                    "md5": "13db257f0d98aa6499ed47b5ca4ac32c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_pretty/IMG_0869.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4873788,
+                    "md5": "cf8df78d080f61585389aeb496e7bdc4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_plain/IMG_0869.jpg"
+                },
+                "raw": {
+                    "size": 22429900,
+                    "md5": "71bc78d37585addd0cd011c64fd8c733",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/raw/IMG_0869.dng"
+                }
+            },
+            "IMG_0866": {
+                "jpg_pretty": {
+                    "size": 10056358,
+                    "md5": "2a274dc8aa6dbe9f36f6368bb68e231e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_pretty/IMG_0866.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7630961,
+                    "md5": "756cc219477c6dc3f454ae7bac48cb22",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_plain/IMG_0866.jpg"
+                },
+                "raw": {
+                    "size": 22045592,
+                    "md5": "8e85696489e942f737e58f43ae6ccba6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/raw/IMG_0866.dng"
+                }
+            },
+            "IMG_0865": {
+                "jpg_pretty": {
+                    "size": 9842752,
+                    "md5": "3b62861eea0c32feb7865cbb63bccb73",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_pretty/IMG_0865.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7289664,
+                    "md5": "31a607548ff619c4873fa76dcb30ff8f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_plain/IMG_0865.jpg"
+                },
+                "raw": {
+                    "size": 21690446,
+                    "md5": "de9dc5e0ff6b63450f9b806fc11abff9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/raw/IMG_0865.dng"
+                }
+            },
+            "IMG_0864": {
+                "jpg_pretty": {
+                    "size": 7305666,
+                    "md5": "87e6b02f39f7c7919505f58ece755d95",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_pretty/IMG_0864.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5510264,
+                    "md5": "fd8fa1dbc9295e1d8cc15fecb8251810",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_plain/IMG_0864.jpg"
+                },
+                "raw": {
+                    "size": 22500668,
+                    "md5": "ec741ae2e64fbb35155a4c6168d7e3e7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/raw/IMG_0864.dng"
+                }
+            },
+            "IMG_0863": {
+                "jpg_pretty": {
+                    "size": 6428708,
+                    "md5": "bc8980ada301ccd02eccc754e3af49f2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_pretty/IMG_0863.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4855266,
+                    "md5": "a0fb6b119baec01d66bbc3e0307bf0fc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_plain/IMG_0863.jpg"
+                },
+                "raw": {
+                    "size": 22800214,
+                    "md5": "1f7239f542b56b839956bdbfce36dd45",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/raw/IMG_0863.dng"
+                }
+            },
+            "IMG_0885": {
+                "jpg_pretty": {
+                    "size": 10169276,
+                    "md5": "9b54bb4851ad18cfd316023ee5d14e7f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_pretty/IMG_0885.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8994588,
+                    "md5": "7f085178009406834e0afd6fa0c11d16",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_plain/IMG_0885.jpg"
+                },
+                "raw": {
+                    "size": 24611296,
+                    "md5": "d06dff07aa773104da91db20f74f3e4f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/raw/IMG_0885.dng"
+                }
+            },
+            "IMG_0862": {
+                "jpg_pretty": {
+                    "size": 6900111,
+                    "md5": "ef70498dda6bfbe322c448dbd78d441b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_pretty/IMG_0862.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5328190,
+                    "md5": "20fc3e176db015a70514423931b85b61",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_plain/IMG_0862.jpg"
+                },
+                "raw": {
+                    "size": 22940718,
+                    "md5": "4bedac6d31987ffb0dfdafb84b1ac835",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/raw/IMG_0862.dng"
+                }
+            },
+            "IMG_0871": {
+                "jpg_pretty": {
+                    "size": 11885315,
+                    "md5": "1ce3fa3b3d1a34e7f4c90c5e3facaf64",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_pretty/IMG_0871.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10397231,
+                    "md5": "022dc0b2936aec34d10f4603f65473b8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_plain/IMG_0871.jpg"
+                },
+                "raw": {
+                    "size": 26633704,
+                    "md5": "7e9a5d5c8871b56facb562e10fefacf5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/raw/IMG_0871.dng"
+                }
+            },
+            "IMG_0870": {
+                "jpg_pretty": {
+                    "size": 11173764,
+                    "md5": "07737e25c83a69f0ba319373d14dce80",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_pretty/IMG_0870.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10728250,
+                    "md5": "b3a7c62042fbee182114b417ccf1534b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_plain/IMG_0870.jpg"
+                },
+                "raw": {
+                    "size": 27884640,
+                    "md5": "57bc7ec802ff0ee4f833ebcda62b69b3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/raw/IMG_0870.dng"
+                }
+            },
+            "IMG_0859": {
+                "jpg_pretty": {
+                    "size": 6902879,
+                    "md5": "577ca3400c6dcc4b6166fa2a5748994b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_pretty/IMG_0859.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5154920,
+                    "md5": "f3fdcf1eee812ca16c219f2a6e1433e0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_plain/IMG_0859.jpg"
+                },
+                "raw": {
+                    "size": 22008036,
+                    "md5": "27638a2b78fdd978e3337d5d845fe9cd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/raw/IMG_0859.dng"
+                }
+            },
+            "IMG_0858": {
+                "jpg_pretty": {
+                    "size": 6114488,
+                    "md5": "ff0cbe96a67acc1bc25c57611d668356",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_pretty/IMG_0858.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4367536,
+                    "md5": "8203213bfc8cab3cf8798a722cfaf660",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_plain/IMG_0858.jpg"
+                },
+                "raw": {
+                    "size": 22259240,
+                    "md5": "fcdbd6a93ccc23ed35365b18f79c7f31",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/raw/IMG_0858.dng"
+                }
+            },
+            "IMG_0857": {
+                "jpg_pretty": {
+                    "size": 6316045,
+                    "md5": "18a6dee8eba2b2c9dfe5488439d7f24a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_pretty/IMG_0857.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5393477,
+                    "md5": "e73a8e237b9e445c67e5ab1eb10dc842",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_plain/IMG_0857.jpg"
+                },
+                "raw": {
+                    "size": 22310268,
+                    "md5": "b283146cfd1468fa33487c3c80edb680",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/raw/IMG_0857.dng"
+                }
+            },
+            "IMG_0879": {
+                "jpg_pretty": {
+                    "size": 12958441,
+                    "md5": "04afc84033c1ab79b7e5edba5f21b724",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_pretty/IMG_0879.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11000420,
+                    "md5": "2fc3cf540be836f2f63e8df6a6807ff9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_plain/IMG_0879.jpg"
+                },
+                "raw": {
+                    "size": 27637644,
+                    "md5": "21da1f2c2ad18faaec00262e7f948e99",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/raw/IMG_0879.dng"
+                }
+            },
+            "IMG_0856": {
+                "jpg_pretty": {
+                    "size": 4816235,
+                    "md5": "0f7b61c97a48e7d6fb27b100fc2a7242",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_pretty/IMG_0856.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4933877,
+                    "md5": "d8cfaae6e8716f2b48ffa77a7095983f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_plain/IMG_0856.jpg"
+                },
+                "raw": {
+                    "size": 23196290,
+                    "md5": "97d683220b34b33bcc47ae6092ed1bae",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/raw/IMG_0856.dng"
+                }
+            },
+            "IMG_0878": {
+                "jpg_pretty": {
+                    "size": 10020093,
+                    "md5": "5495ff69924ab01f0bad75f043a4c71b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_pretty/IMG_0878.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9281004,
+                    "md5": "99e498f779a9700e508099fc27839797",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_plain/IMG_0878.jpg"
+                },
+                "raw": {
+                    "size": 24673314,
+                    "md5": "001988d49782d7c343165a108b3c9628",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/raw/IMG_0878.dng"
+                }
+            },
+            "IMG_0855": {
+                "jpg_pretty": {
+                    "size": 11091837,
+                    "md5": "067a1689495d39b757e6b57750c5b72b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_pretty/IMG_0855.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9638993,
+                    "md5": "7319b137b1edfa7d6d7d2c5f9889a182",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_plain/IMG_0855.jpg"
+                },
+                "raw": {
+                    "size": 27109612,
+                    "md5": "08adef84459ae549c81a25a70e6d328e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/raw/IMG_0855.dng"
+                }
+            },
+            "IMG_0877": {
+                "jpg_pretty": {
+                    "size": 10438885,
+                    "md5": "b7fcd90b39bf1fd3ff62dde0c9977df4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_pretty/IMG_0877.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10264235,
+                    "md5": "823b60f234df30b7355f336307f943cd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_plain/IMG_0877.jpg"
+                },
+                "raw": {
+                    "size": 26269176,
+                    "md5": "968a01648fd601028fd0609cae10a4c9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/raw/IMG_0877.dng"
+                }
+            },
+            "IMG_0854": {
+                "jpg_pretty": {
+                    "size": 10328210,
+                    "md5": "5285f184f459e4108bc284ad96f06c25",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_pretty/IMG_0854.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8958554,
+                    "md5": "1ade1c9e52b4e4ecf3d9b6f5a42cb8c7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_plain/IMG_0854.jpg"
+                },
+                "raw": {
+                    "size": 26904406,
+                    "md5": "068c84e42e56a00468f591514d43b376",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/raw/IMG_0854.dng"
+                }
+            },
+            "IMG_0876": {
+                "jpg_pretty": {
+                    "size": 4773102,
+                    "md5": "1684f63e76d589be58340c9addf2f1d7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_pretty/IMG_0876.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3618783,
+                    "md5": "ca50e4188eca286729cb8d9c328286fb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_plain/IMG_0876.jpg"
+                },
+                "raw": {
+                    "size": 22578356,
+                    "md5": "0f12021792368f0b6f2abea6eac91b06",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/raw/IMG_0876.dng"
+                }
+            },
+            "IMG_0875": {
+                "jpg_pretty": {
+                    "size": 10832597,
+                    "md5": "8a2355db19d7de96f78c089edcb823b1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_pretty/IMG_0875.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9448192,
+                    "md5": "2bf53f0c28d5b51a8c25806858a8a273",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_plain/IMG_0875.jpg"
+                },
+                "raw": {
+                    "size": 25548658,
+                    "md5": "0431b7b5e4f2b9897f24afbd90ec3acc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/raw/IMG_0875.dng"
+                }
+            },
+            "IMG_0874": {
+                "jpg_pretty": {
+                    "size": 11531002,
+                    "md5": "a17c6695dc8f0efd9a148c14b8969b0c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_pretty/IMG_0874.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9976090,
+                    "md5": "3018600f1921d77e1a6e2141493ae6c9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_plain/IMG_0874.jpg"
+                },
+                "raw": {
+                    "size": 26016102,
+                    "md5": "3b664cfccf26f0e5dee2f1846644aae6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/raw/IMG_0874.dng"
+                }
+            },
+            "IMG_0861": {
+                "jpg_pretty": {
+                    "size": 6205328,
+                    "md5": "ea940da586324ed430e7a3b64c9c66b5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_pretty/IMG_0861.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5209357,
+                    "md5": "1f8aa9faa765d753f38c8a983dbb79b6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_plain/IMG_0861.jpg"
+                },
+                "raw": {
+                    "size": 23478844,
+                    "md5": "de9cdfb03b1894bb1e3555262f4e3fcb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/raw/IMG_0861.dng"
+                }
+            },
+            "IMG_0883": {
+                "jpg_pretty": {
+                    "size": 10761201,
+                    "md5": "cca34b81597b26d333767d69c716bb90",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_pretty/IMG_0883.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9430022,
+                    "md5": "e25c496bcbdd11f6fa4515e51cd87b6f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_plain/IMG_0883.jpg"
+                },
+                "raw": {
+                    "size": 24456268,
+                    "md5": "98a9bb51a8b44217521d32b211995999",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/raw/IMG_0883.dng"
+                }
+            },
+            "IMG_0860": {
+                "jpg_pretty": {
+                    "size": 4939538,
+                    "md5": "66d583093f3ea94d8bd03255b3c00308",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_pretty/IMG_0860.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3601934,
+                    "md5": "d24c18b17ad3fcb12156343c1e5c1ec2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_plain/IMG_0860.jpg"
+                },
+                "raw": {
+                    "size": 20449050,
+                    "md5": "9c1d107af29072f215231c80060418ec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/raw/IMG_0860.dng"
+                }
+            },
+            "IMG_0882": {
+                "jpg_pretty": {
+                    "size": 12615424,
+                    "md5": "938db9aab373c8b6fcee6d2ade6ffef9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_pretty/IMG_0882.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10863600,
+                    "md5": "3923e66961df94f19ebaf28a6a3fde9b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_plain/IMG_0882.jpg"
+                },
+                "raw": {
+                    "size": 27811724,
+                    "md5": "c167c2a5edfb2467334118989a16d418",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/raw/IMG_0882.dng"
+                }
+            },
+            "IMG_0881": {
+                "jpg_pretty": {
+                    "size": 13138615,
+                    "md5": "5df849f533f57fc00594d6f19b2c9666",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_pretty/IMG_0881.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11360139,
+                    "md5": "95d9be419c02bfad39fd3e92d3882238",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_plain/IMG_0881.jpg"
+                },
+                "raw": {
+                    "size": 27979826,
+                    "md5": "065300a65eacbdfeacdfdd720c3accf5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/raw/IMG_0881.dng"
+                }
+            },
+            "IMG_0880": {
+                "jpg_pretty": {
+                    "size": 13825299,
+                    "md5": "23bdcf68a0f940632c5817659e4a9c09",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_pretty/IMG_0880.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11580145,
+                    "md5": "5578477066159d601a14c03c5665e9ea",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/jpg_plain/IMG_0880.jpg"
+                },
+                "raw": {
+                    "size": 27761550,
+                    "md5": "332f2be56915dcf936889d19dcc940bb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rhodes_memorial/raw/IMG_0880.dng"
+                }
+            }
+        }
+    }
+}

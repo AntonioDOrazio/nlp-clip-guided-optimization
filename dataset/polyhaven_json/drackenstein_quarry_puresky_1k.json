@@ -1,0 +1,112 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "tags": [
+        "pure skies"
+    ],
+    "name": "Drackenstein Quarry (Pure Sky)",
+    "categories": [
+        "outdoor",
+        "skies",
+        "partly cloudy",
+        "nature",
+        "natural light",
+        "low contrast",
+        "sunrise-sunset",
+        "pure skies"
+    ],
+    "coords": [
+        48.548582,
+        9.657288
+    ],
+    "date_taken": 1641135720,
+    "authors": {
+        "Andreas Mischok": "Original",
+        "Jarod Guest": "Sky Edits"
+    },
+    "info": "Edited sky-only version of [Drackenstein Quarry](https://polyhaven.com/a/drackenstein_quarry).",
+    "files_hash": "aecdca77a9dad8efc4f5822ccd262b956646eb69",
+    "date_published": 1672444800,
+    "download_count": 28809,
+    "files": {
+        "tonemapped": {
+            "size": 19333388,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/drackenstein_quarry_puresky.jpg",
+            "md5": "2ce980f2983dd034a15361f50cd99ea1"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 69055717,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/drackenstein_quarry_puresky_8k.hdr",
+                    "md5": "c6ab8476856ffeb9f7649338b68b5dee"
+                },
+                "exr": {
+                    "size": 284855289,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/drackenstein_quarry_puresky_8k.exr",
+                    "md5": "b6629d19cd46e8277b9ffa16ec30a31b"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 244942239,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/drackenstein_quarry_puresky_16k.hdr",
+                    "md5": "517b7099ba1da1024cc067893877d45c"
+                },
+                "exr": {
+                    "size": 1105756082,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/drackenstein_quarry_puresky_16k.exr",
+                    "md5": "f4f2d82aafca489850b1e257465557c0"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 18937863,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/drackenstein_quarry_puresky_4k.hdr",
+                    "md5": "9a726fb916aa83d38dc56237302bd37e"
+                },
+                "exr": {
+                    "size": 73922173,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/drackenstein_quarry_puresky_4k.exr",
+                    "md5": "4ca6152e68fdb4dc31e839de25050c5c"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5069699,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/drackenstein_quarry_puresky_2k.hdr",
+                    "md5": "2c637f413573f06ad4951e0d37f41eb4"
+                },
+                "exr": {
+                    "size": 19590702,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/drackenstein_quarry_puresky_2k.exr",
+                    "md5": "55ffd1053ae68371900da7d4141c2739"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1332398,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/drackenstein_quarry_puresky_1k.hdr",
+                    "md5": "34e990b4ca82563ca7a8b7aef30bb30f"
+                },
+                "exr": {
+                    "size": 5359414,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/drackenstein_quarry_puresky_1k.exr",
+                    "md5": "d641f4aa400a09d686915745bd88b699"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 352358341,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/drackenstein_quarry_puresky_20k.hdr",
+                    "md5": "1482f62424acf848d2bfa228152cc793"
+                },
+                "exr": {
+                    "size": 1639718820,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/drackenstein_quarry_puresky_20k.exr",
+                    "md5": "18a9b637cf67b80932238a72c648e5ce"
+                }
+            }
+        }
+    }
+}

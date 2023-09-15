@@ -1,0 +1,305 @@
+{
+    "evs_cap": 20,
+    "type": 0,
+    "whitebalance": 5660,
+    "date_published": 1575932400,
+    "name": "Autumn Road",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1569845160,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "backplates": true,
+    "tags": [
+        "tree",
+        "road",
+        "asphalt",
+        "highway",
+        "autumn",
+        "backplates"
+    ],
+    "files_hash": "bd5594afba8f5060ecdb9547aec7ac5aebb95d78",
+    "download_count": 27916,
+    "files": {
+        "tonemapped": {
+            "size": 6491151,
+            "md5": "e06ae17a41032f26282cd5f77cc3f2d4",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/autumn_road.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 106532964,
+                    "md5": "b45dba9375f9ab9fd5e2d879a2714f8a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/autumn_road_8k.hdr"
+                },
+                "exr": {
+                    "size": 90978155,
+                    "md5": "1394ecfe17c36e4af0408bb048ff3c1a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/autumn_road_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 401460774,
+                    "md5": "90000bffe77775d72cfc0eb857eebf32",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/autumn_road_16k.hdr"
+                },
+                "exr": {
+                    "size": 336982167,
+                    "md5": "225ac7c547e545517959614204d534f8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/autumn_road_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27226820,
+                    "md5": "78c699b7caa012ad6e135163841bd067",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/autumn_road_4k.hdr"
+                },
+                "exr": {
+                    "size": 23164944,
+                    "md5": "7dc6f4b23407382d64c43dd32d78446b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/autumn_road_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6802989,
+                    "md5": "06b424025ff3152a28fa37ba702056cb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/autumn_road_2k.hdr"
+                },
+                "exr": {
+                    "size": 5830294,
+                    "md5": "2fd921f5e988ecf293e33e0d72e67d99",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/autumn_road_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1683740,
+                    "md5": "4ce87d160a5cee2bddefb3e34baa3547",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/autumn_road_1k.hdr"
+                },
+                "exr": {
+                    "size": 1480789,
+                    "md5": "7aa31566641bedf9d3d0fba7123b8964",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/autumn_road_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "DSC_0451": {
+                "jpg_pretty": {
+                    "size": 14079240,
+                    "md5": "e24731dceded78b13a87a6153f78eea8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/jpg_pretty/DSC_0451.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9742773,
+                    "md5": "e793b0d73ba8e77cba9b678d71d90519",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/jpg_plain/DSC_0451.jpg"
+                },
+                "raw": {
+                    "size": 17834620,
+                    "md5": "95fc5b2021f53f38e0cda282811d62d1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/raw/DSC_0451.NEF"
+                }
+            },
+            "DSC_0340": {
+                "jpg_pretty": {
+                    "size": 16640757,
+                    "md5": "94425a19cf2277527bd2300bdaf9b634",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/jpg_pretty/DSC_0340.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12795948,
+                    "md5": "ddd9aa1a175e2cacb4bf0f16aa27dfd7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/jpg_plain/DSC_0340.jpg"
+                },
+                "raw": {
+                    "size": 20652939,
+                    "md5": "3f1ef39338972d5372cfe348180e1a28",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/raw/DSC_0340.NEF"
+                }
+            },
+            "DSC_0184": {
+                "jpg_pretty": {
+                    "size": 17252684,
+                    "md5": "e852aa8844d3100f3d660aa70167ce9c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/jpg_pretty/DSC_0184.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12111185,
+                    "md5": "6e99e31d9ef84bcddbe147d4ec26fb3d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/jpg_plain/DSC_0184.jpg"
+                },
+                "raw": {
+                    "size": 18822144,
+                    "md5": "c9027343bbd842f8bc85fb64fed167b8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/raw/DSC_0184.NEF"
+                }
+            },
+            "DSC_0345": {
+                "jpg_pretty": {
+                    "size": 16502795,
+                    "md5": "171a5c50c710f16e31a1edda40f33ee9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/jpg_pretty/DSC_0345.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16565963,
+                    "md5": "003409bffb08461fa104abb2ba062751",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/jpg_plain/DSC_0345.jpg"
+                },
+                "raw": {
+                    "size": 21546754,
+                    "md5": "d5f2409d8afcc0d9baa419321825eed6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/raw/DSC_0345.NEF"
+                }
+            },
+            "DSC_0356": {
+                "jpg_pretty": {
+                    "size": 17809973,
+                    "md5": "0fad7347adee06e55323448aaf4228c2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/jpg_pretty/DSC_0356.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10262807,
+                    "md5": "f8954985f69fc371d157bf87b32384fb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/jpg_plain/DSC_0356.jpg"
+                },
+                "raw": {
+                    "size": 18247070,
+                    "md5": "5d3874c1f09abaa11eb8055986465a5e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/raw/DSC_0356.NEF"
+                }
+            },
+            "DSC_0256": {
+                "jpg_pretty": {
+                    "size": 14765895,
+                    "md5": "e8d365d2f65927589f19a92093716b24",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/jpg_pretty/DSC_0256.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10377507,
+                    "md5": "d447990bf2b15821d8b8390a13fbfb9e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/jpg_plain/DSC_0256.jpg"
+                },
+                "raw": {
+                    "size": 18429785,
+                    "md5": "18a1295f99c3c38f27aed0b2717c5dbf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/raw/DSC_0256.NEF"
+                }
+            },
+            "DSC_0311": {
+                "jpg_pretty": {
+                    "size": 15004225,
+                    "md5": "5c55d75cc82ec45c9dbdc4987f7a4897",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/jpg_pretty/DSC_0311.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6896416,
+                    "md5": "98ed1e72b6600607d8c4b8121dcfb56c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/jpg_plain/DSC_0311.jpg"
+                },
+                "raw": {
+                    "size": 16723567,
+                    "md5": "3138afc43513c7bc419b239608bbb154",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/raw/DSC_0311.NEF"
+                }
+            },
+            "DSC_0211": {
+                "jpg_pretty": {
+                    "size": 13147859,
+                    "md5": "b326b1700d566c0231ac58a00c120578",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/jpg_pretty/DSC_0211.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8619426,
+                    "md5": "4c3f4aeeaca50edefca650a229923f57",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/jpg_plain/DSC_0211.jpg"
+                },
+                "raw": {
+                    "size": 18031024,
+                    "md5": "edde15d2cbc6400af95a7f800db8b46a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/raw/DSC_0211.NEF"
+                }
+            },
+            "DSC_0266": {
+                "jpg_pretty": {
+                    "size": 16012306,
+                    "md5": "352785f16b81219e35da1e5226e371b3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/jpg_pretty/DSC_0266.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11582056,
+                    "md5": "0265ecab85559c6f64fe406f1f6d5a33",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/jpg_plain/DSC_0266.jpg"
+                },
+                "raw": {
+                    "size": 18949308,
+                    "md5": "d2d698a14be180bb6c6ca56383421199",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/raw/DSC_0266.NEF"
+                }
+            },
+            "DSC_0321": {
+                "jpg_pretty": {
+                    "size": 16159986,
+                    "md5": "ff92a72ca2f72f4c50b517f2c2f41165",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/jpg_pretty/DSC_0321.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9088533,
+                    "md5": "08908cd2f53de41f148b02dfb3fb648e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/jpg_plain/DSC_0321.jpg"
+                },
+                "raw": {
+                    "size": 17972426,
+                    "md5": "87e20fe8b897f5fa099690fe0aff6a25",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/raw/DSC_0321.NEF"
+                }
+            },
+            "DSC_0281": {
+                "jpg_pretty": {
+                    "size": 18245362,
+                    "md5": "f78cc26ee89506f5131c58ea512bcbab",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/jpg_pretty/DSC_0281.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13988452,
+                    "md5": "fdf370eeaa9024f4b72cbf9ddd0eb46d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/jpg_plain/DSC_0281.jpg"
+                },
+                "raw": {
+                    "size": 18605488,
+                    "md5": "989ecc6ec8fbdc88b8e2402419aa1cd1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/raw/DSC_0281.NEF"
+                }
+            },
+            "DSC_0416": {
+                "jpg_pretty": {
+                    "size": 15995158,
+                    "md5": "17358de7ed20ae380e5fc905993e2419",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/jpg_pretty/DSC_0416.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12489252,
+                    "md5": "dcf58bff409e3ae23163fe6dce0927b8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/jpg_plain/DSC_0416.jpg"
+                },
+                "raw": {
+                    "size": 18315538,
+                    "md5": "1db41f6c3767f6dd7b8ce2fc372f3e63",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_road/raw/DSC_0416.NEF"
+                }
+            }
+        }
+    }
+}

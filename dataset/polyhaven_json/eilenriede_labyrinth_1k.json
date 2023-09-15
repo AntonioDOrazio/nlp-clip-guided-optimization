@@ -1,0 +1,106 @@
+{
+    "evs_cap": 6,
+    "type": 0,
+    "tags": [
+        "tree",
+        "forest",
+        "maze",
+        "pattern",
+        "bench",
+        "path"
+    ],
+    "date_published": 1506981600,
+    "name": "Eilenriede Labyrinth",
+    "categories": [
+        "outdoor",
+        "nature",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        52.388346,
+        9.765328
+    ],
+    "date_taken": 1478777220,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "url": "http://mdjustin.com/",
+            "name": "Justin Dolan"
+        }
+    ],
+    "files_hash": "720fc76b823c8aaab65eb2a0e1be0e1965ed513d",
+    "download_count": 21299,
+    "files": {
+        "tonemapped": {
+            "size": 9803745,
+            "md5": "2b73a5fdc7e1090bbe83518a4a9bd32f",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/eilenriede_labyrinth.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 111194098,
+                    "md5": "9bfd8299a6a132531565fea5ea78ab26",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/eilenriede_labyrinth_8k.hdr"
+                },
+                "exr": {
+                    "size": 112747862,
+                    "md5": "c3b82cb4464c80491dade2eacb010b02",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/eilenriede_labyrinth_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 417462520,
+                    "md5": "eae129e9c527b36b67613e6f5e410541",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/eilenriede_labyrinth_16k.hdr"
+                },
+                "exr": {
+                    "size": 413633846,
+                    "md5": "aad235b9af3819ea32508336a9c95446",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/eilenriede_labyrinth_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 28927340,
+                    "md5": "ff9ed5b01bbeaaf944691999d00dc216",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/eilenriede_labyrinth_4k.hdr"
+                },
+                "exr": {
+                    "size": 29609099,
+                    "md5": "0de0f9651b7a8e2980b30a9ec3d24d12",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/eilenriede_labyrinth_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7377429,
+                    "md5": "f686fd47e130e258b2d6169834a3abd9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/eilenriede_labyrinth_2k.hdr"
+                },
+                "exr": {
+                    "size": 7570625,
+                    "md5": "1bb0ac93f0f3742e0b9246659714a70c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/eilenriede_labyrinth_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1852833,
+                    "md5": "2b2baf479f98c04d54b8c1b8cfea6a7d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/eilenriede_labyrinth_1k.hdr"
+                },
+                "exr": {
+                    "size": 1906820,
+                    "md5": "d261017c2442f72d9b1aa16917341f5d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/eilenriede_labyrinth_1k.exr"
+                }
+            }
+        }
+    }
+}

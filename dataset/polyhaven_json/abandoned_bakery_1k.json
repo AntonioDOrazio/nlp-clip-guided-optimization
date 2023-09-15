@@ -1,0 +1,589 @@
+{
+    "evs_cap": 16,
+    "type": 0,
+    "whitebalance": 4950,
+    "tags": [
+        "abandoned",
+        "empty",
+        "industrial",
+        "windows",
+        "bare",
+        "rubble",
+        "brick",
+        "concrete",
+        "backplates"
+    ],
+    "name": "Abandoned Bakery",
+    "categories": [
+        "natural light",
+        "artificial light",
+        "urban",
+        "indoor",
+        "high contrast"
+    ],
+    "backplates": true,
+    "date_taken": 1662805680,
+    "coords": [
+        50.786873,
+        34.774073
+    ],
+    "info": null,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "date_published": 1663804800,
+    "files_hash": "d81af70dd51ebb704af086506e0a9b92bb5d7b84",
+    "download_count": 10641,
+    "files": {
+        "tonemapped": {
+            "size": 48676915,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/abandoned_bakery.jpg",
+            "md5": "700b8d3b60ae0d3eeeddb17577b7457a"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102973096,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/abandoned_bakery_8k.hdr",
+                    "md5": "87ee21eb003d29103f5fe1720f64ec6d"
+                },
+                "exr": {
+                    "size": 94040932,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/abandoned_bakery_8k.exr",
+                    "md5": "e678e3e3924ade087f1ea7f795e26bf2"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 389064936,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/abandoned_bakery_16k.hdr",
+                    "md5": "f97b6dc04e6a151fd94157a91119c9f0"
+                },
+                "exr": {
+                    "size": 335245981,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/abandoned_bakery_16k.exr",
+                    "md5": "3ed5765860ac67e7273b12f8d5993ae0"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26680120,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/abandoned_bakery_4k.hdr",
+                    "md5": "8cd8c249277a987626b816c5d9df8b3b"
+                },
+                "exr": {
+                    "size": 25239753,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/abandoned_bakery_4k.exr",
+                    "md5": "a3f7eb7d7fdae56dab56f160154d1c89"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6823048,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/abandoned_bakery_2k.hdr",
+                    "md5": "911222d4f3a3c12cb32ae1b8f961a7f6"
+                },
+                "exr": {
+                    "size": 6625147,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/abandoned_bakery_2k.exr",
+                    "md5": "109878c8a7dd7fbd2d4024fb1c874998"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1730263,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/abandoned_bakery_1k.hdr",
+                    "md5": "9a835b2f0e7a42e2b98fefd19c4a3b9d"
+                },
+                "exr": {
+                    "size": 1716522,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/abandoned_bakery_1k.exr",
+                    "md5": "791b0de5f359fdb251bc19fadd6f567f"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 102644044,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/abandoned_bakery.zip",
+            "md5": "20b63497a83a5e92cfd0b6d4588bb8e2"
+        },
+        "backplates": {
+            "10": {
+                "jpg_pretty": {
+                    "size": 10663475,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_pretty/10.jpg",
+                    "md5": "f28583363b52a2707b39fda9e265586b"
+                },
+                "jpg_plain": {
+                    "size": 9559998,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_plain/10.jpg",
+                    "md5": "d4d591a6007c67bf4c4998143e3a3f41"
+                },
+                "raw": {
+                    "size": 24916790,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/raw/10.NEF",
+                    "md5": "8f55d22ccad5d69d28dd59c44935541c"
+                }
+            },
+            "11": {
+                "jpg_pretty": {
+                    "size": 13988045,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_pretty/11.jpg",
+                    "md5": "7321f6050938eca1fc25ac7ec795d31e"
+                },
+                "jpg_plain": {
+                    "size": 9871608,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_plain/11.jpg",
+                    "md5": "0db00edd227c5c6ab7f94b557d12c127"
+                },
+                "raw": {
+                    "size": 24617345,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/raw/11.NEF",
+                    "md5": "386579dc4343aad25d5ea498dc97398a"
+                }
+            },
+            "12": {
+                "jpg_pretty": {
+                    "size": 14480068,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_pretty/12.jpg",
+                    "md5": "cc9d344c129c536e885a399af7467fcb"
+                },
+                "jpg_plain": {
+                    "size": 10339826,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_plain/12.jpg",
+                    "md5": "33e06564502e781fe24e50f1945344fb"
+                },
+                "raw": {
+                    "size": 25041505,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/raw/12.NEF",
+                    "md5": "501452b23a42f7df43de90ea94b58d71"
+                }
+            },
+            "13": {
+                "jpg_pretty": {
+                    "size": 15273550,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_pretty/13.jpg",
+                    "md5": "b0c8d3bc3149bb6a78a30f301f9ce586"
+                },
+                "jpg_plain": {
+                    "size": 10667735,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_plain/13.jpg",
+                    "md5": "3f2f1429693e303250d7fb44c344da7e"
+                },
+                "raw": {
+                    "size": 25554609,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/raw/13.NEF",
+                    "md5": "fdc5248bdef205b491773aed0709c09b"
+                }
+            },
+            "14": {
+                "jpg_pretty": {
+                    "size": 12333649,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_pretty/14.jpg",
+                    "md5": "5b3038ad72a558ea2400ff09efd902ab"
+                },
+                "jpg_plain": {
+                    "size": 8569019,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_plain/14.jpg",
+                    "md5": "0877d3d1807c4205f686c1026ea03640"
+                },
+                "raw": {
+                    "size": 23354837,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/raw/14.NEF",
+                    "md5": "010ab4b6957549db80ff088f37c36671"
+                }
+            },
+            "15": {
+                "jpg_pretty": {
+                    "size": 13508089,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_pretty/15.jpg",
+                    "md5": "4cac78d9ca6afd1bc61bdcba514e38fa"
+                },
+                "jpg_plain": {
+                    "size": 10125348,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_plain/15.jpg",
+                    "md5": "64cde5e37b4d506358d93aae7f257590"
+                },
+                "raw": {
+                    "size": 25661084,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/raw/15.NEF",
+                    "md5": "97283239b69b77e2dbe0f93d2c2e34e8"
+                }
+            },
+            "16": {
+                "jpg_pretty": {
+                    "size": 13483747,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_pretty/16.jpg",
+                    "md5": "1ad90d0c17be1d38abd210398551e2b7"
+                },
+                "jpg_plain": {
+                    "size": 10264625,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_plain/16.jpg",
+                    "md5": "5b7105bcd65a63408bed4bbc0f37eca6"
+                },
+                "raw": {
+                    "size": 24941533,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/raw/16.NEF",
+                    "md5": "4ec74bf86d42b7e4fd4bf0bf49894344"
+                }
+            },
+            "17": {
+                "jpg_pretty": {
+                    "size": 11840010,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_pretty/17.jpg",
+                    "md5": "6fc0a75e44deef63b3292331ebde0df0"
+                },
+                "jpg_plain": {
+                    "size": 9487641,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_plain/17.jpg",
+                    "md5": "9f244256e0c250f9ca28aec8a2d0794f"
+                },
+                "raw": {
+                    "size": 24341651,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/raw/17.NEF",
+                    "md5": "34ca8895b6986a6c4dc5348f3d8d8bcd"
+                }
+            },
+            "18": {
+                "jpg_pretty": {
+                    "size": 14172496,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_pretty/18.jpg",
+                    "md5": "8cc61c289b31ba7bde46f2444e621191"
+                },
+                "jpg_plain": {
+                    "size": 9274765,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_plain/18.jpg",
+                    "md5": "610ef730672a799a5824422d5bf8f6d2"
+                },
+                "raw": {
+                    "size": 24041177,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/raw/18.NEF",
+                    "md5": "0bd2573bbb035638a95c3b0ac77754ec"
+                }
+            },
+            "19": {
+                "jpg_pretty": {
+                    "size": 13377087,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_pretty/19.jpg",
+                    "md5": "e34d47b03efc72d65f7ab3293d04b9a6"
+                },
+                "jpg_plain": {
+                    "size": 8963640,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_plain/19.jpg",
+                    "md5": "a33b94ee477d27c246e6c0b8b43c65c9"
+                },
+                "raw": {
+                    "size": 23503375,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/raw/19.NEF",
+                    "md5": "8b0b4bac47a2c95ec040960679af09b2"
+                }
+            },
+            "20": {
+                "jpg_pretty": {
+                    "size": 14097715,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_pretty/20.jpg",
+                    "md5": "2e13bb213e6fb78c60a4fda5c98b92ae"
+                },
+                "jpg_plain": {
+                    "size": 10357360,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_plain/20.jpg",
+                    "md5": "0eaa76d3d9bc1745d2799dcc450ef0fa"
+                },
+                "raw": {
+                    "size": 25402275,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/raw/20.NEF",
+                    "md5": "38071d9c2471fac94f197c01fd7fd82b"
+                }
+            },
+            "21": {
+                "jpg_pretty": {
+                    "size": 10059691,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_pretty/21.jpg",
+                    "md5": "90fae8b8276af2121c83ccf781315bed"
+                },
+                "jpg_plain": {
+                    "size": 10668348,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_plain/21.jpg",
+                    "md5": "bc109fbe375d95c4a54742733ee80dd7"
+                },
+                "raw": {
+                    "size": 26210757,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/raw/21.NEF",
+                    "md5": "77a4ab437c95fcd6b1d0c41ac550d519"
+                }
+            },
+            "22": {
+                "jpg_pretty": {
+                    "size": 13192742,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_pretty/22.jpg",
+                    "md5": "5c65c3e06468a40b4a5f1a788d976607"
+                },
+                "jpg_plain": {
+                    "size": 9600546,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_plain/22.jpg",
+                    "md5": "b9a419efd82c05fd49fd43b83b5bfe95"
+                },
+                "raw": {
+                    "size": 25501983,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/raw/22.NEF",
+                    "md5": "0ad5d5d96d3ea23194dfea3f56ae6316"
+                }
+            },
+            "23": {
+                "jpg_pretty": {
+                    "size": 12961512,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_pretty/23.jpg",
+                    "md5": "58852eb8b39ef5c65a3ceeac5e906d4b"
+                },
+                "jpg_plain": {
+                    "size": 10006423,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_plain/23.jpg",
+                    "md5": "932609c3762cfc3ab9ec5f7dd3ffaecc"
+                },
+                "raw": {
+                    "size": 24928771,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/raw/23.NEF",
+                    "md5": "9cb411f5e37ee2b2204919f0509f364d"
+                }
+            },
+            "24": {
+                "jpg_pretty": {
+                    "size": 13225037,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_pretty/24.jpg",
+                    "md5": "757c0fe8eb8c5906b500775a0bb7d60c"
+                },
+                "jpg_plain": {
+                    "size": 9497140,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_plain/24.jpg",
+                    "md5": "22247d563cdfd9bc24668b64441890bf"
+                },
+                "raw": {
+                    "size": 24333254,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/raw/24.NEF",
+                    "md5": "049fc5e3c741b8a53bd18b2f9ac33eab"
+                }
+            },
+            "25": {
+                "jpg_pretty": {
+                    "size": 11875399,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_pretty/25.jpg",
+                    "md5": "b2229462ef6b40db47fbe2a68e1b2f3b"
+                },
+                "jpg_plain": {
+                    "size": 10125772,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_plain/25.jpg",
+                    "md5": "86804f56d82316bc89307995a2ab41f9"
+                },
+                "raw": {
+                    "size": 25458256,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/raw/25.NEF",
+                    "md5": "8aa57a677ba4ce4253d37f5ab1246af6"
+                }
+            },
+            "26": {
+                "jpg_pretty": {
+                    "size": 11307529,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_pretty/26.jpg",
+                    "md5": "f79c6d6adc63f3d86a94baf5748ca0f1"
+                },
+                "jpg_plain": {
+                    "size": 9461811,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_plain/26.jpg",
+                    "md5": "e9ac73ca2e4ab9107485e3f268db17a8"
+                },
+                "raw": {
+                    "size": 24967517,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/raw/26.NEF",
+                    "md5": "2901ad3106af0f41d0a70e8fb393b526"
+                }
+            },
+            "27": {
+                "jpg_pretty": {
+                    "size": 10562253,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_pretty/27.jpg",
+                    "md5": "f7c3b4bab465ca7d539c87c9d7c696a5"
+                },
+                "jpg_plain": {
+                    "size": 9684372,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_plain/27.jpg",
+                    "md5": "0f541c4bb2bf2b254c59e007146e80bd"
+                },
+                "raw": {
+                    "size": 24510382,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/raw/27.NEF",
+                    "md5": "cb0894221b8d322f21d8530636683679"
+                }
+            },
+            "28": {
+                "jpg_pretty": {
+                    "size": 11942363,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_pretty/28.jpg",
+                    "md5": "c79ab45ef5bdf1a85710ad6ab548fb04"
+                },
+                "jpg_plain": {
+                    "size": 10122201,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_plain/28.jpg",
+                    "md5": "4cb6e7f5ee2188195a6855de9bd7a728"
+                },
+                "raw": {
+                    "size": 25225322,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/raw/28.NEF",
+                    "md5": "ba1fcf467182ea34d0b3d7281a44980e"
+                }
+            },
+            "01": {
+                "jpg_pretty": {
+                    "size": 11218675,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_pretty/01.jpg",
+                    "md5": "4f546b584c3f44c9f913d62b3fefc561"
+                },
+                "jpg_plain": {
+                    "size": 10347952,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_plain/01.jpg",
+                    "md5": "100b34bec9342ca7b9b451f77cc87505"
+                },
+                "raw": {
+                    "size": 25540448,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/raw/01.NEF",
+                    "md5": "b9c6432f885ae85a45b65f7f927feb1c"
+                }
+            },
+            "02": {
+                "jpg_pretty": {
+                    "size": 12964939,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_pretty/02.jpg",
+                    "md5": "2b2d9c6924090328fc086b1e703242a2"
+                },
+                "jpg_plain": {
+                    "size": 10399627,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_plain/02.jpg",
+                    "md5": "f64b8f881a7c15a01711eeeed8af02bf"
+                },
+                "raw": {
+                    "size": 25615677,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/raw/02.NEF",
+                    "md5": "4a0a6666ffce85c52654c4d5b26dd12b"
+                }
+            },
+            "03": {
+                "jpg_pretty": {
+                    "size": 13530031,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_pretty/03.jpg",
+                    "md5": "212f58052cf28fa04f3272683d2ab039"
+                },
+                "jpg_plain": {
+                    "size": 10929657,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_plain/03.jpg",
+                    "md5": "f308d32d2243af2154d8790db8f553f3"
+                },
+                "raw": {
+                    "size": 26766270,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/raw/03.NEF",
+                    "md5": "55bf129b764f35e9f083a43d5b17a246"
+                }
+            },
+            "04": {
+                "jpg_pretty": {
+                    "size": 13596428,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_pretty/04.jpg",
+                    "md5": "d86c3a6226a9aa048adc9d255257c806"
+                },
+                "jpg_plain": {
+                    "size": 10361768,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_plain/04.jpg",
+                    "md5": "fe2d70586b324cbf79c1783d2c62340c"
+                },
+                "raw": {
+                    "size": 25335366,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/raw/04.NEF",
+                    "md5": "03b2b3c20cb50d78fa181240c866dd98"
+                }
+            },
+            "05": {
+                "jpg_pretty": {
+                    "size": 11099871,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_pretty/05.jpg",
+                    "md5": "4ef6c77c5f2104aa2ca4af197251f16a"
+                },
+                "jpg_plain": {
+                    "size": 9484915,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_plain/05.jpg",
+                    "md5": "c5925158d066e9cc99b0fe04beffff91"
+                },
+                "raw": {
+                    "size": 24612081,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/raw/05.NEF",
+                    "md5": "3059348cfd1b1e61d1e3a4fc5602f288"
+                }
+            },
+            "06": {
+                "jpg_pretty": {
+                    "size": 10316441,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_pretty/06.jpg",
+                    "md5": "05d8072adfe3e2cfe0a1cafd22c44578"
+                },
+                "jpg_plain": {
+                    "size": 9623091,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_plain/06.jpg",
+                    "md5": "67f4a85b179ba2057b626328f175626d"
+                },
+                "raw": {
+                    "size": 25243929,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/raw/06.NEF",
+                    "md5": "81a82ab1f8478996dbd8fa620b650226"
+                }
+            },
+            "07": {
+                "jpg_pretty": {
+                    "size": 14050043,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_pretty/07.jpg",
+                    "md5": "1a598731a4aa1eae0616db17d69a7cd1"
+                },
+                "jpg_plain": {
+                    "size": 8638980,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_plain/07.jpg",
+                    "md5": "6105e4a292f73d87dcd88ca7d48b151a"
+                },
+                "raw": {
+                    "size": 23104858,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/raw/07.NEF",
+                    "md5": "059cd29d92c4d87df77a2dd83b49ece8"
+                }
+            },
+            "08": {
+                "jpg_pretty": {
+                    "size": 12668067,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_pretty/08.jpg",
+                    "md5": "4f94d5e511229edbd2add2e6cacc9475"
+                },
+                "jpg_plain": {
+                    "size": 8705748,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_plain/08.jpg",
+                    "md5": "a71ce9561ce92e6c55ba786041d7ec80"
+                },
+                "raw": {
+                    "size": 23376325,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/raw/08.NEF",
+                    "md5": "19f15082381aac38c3342ab8c54b846b"
+                }
+            },
+            "09": {
+                "jpg_pretty": {
+                    "size": 13527406,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_pretty/09.jpg",
+                    "md5": "873e22ce31e22b0ce602e1d53ede9ed0"
+                },
+                "jpg_plain": {
+                    "size": 10561708,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/jpg_plain/09.jpg",
+                    "md5": "a3d71dc3b1bd4b52bc5ee0766f43880c"
+                },
+                "raw": {
+                    "size": 25452840,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_bakery/raw/09.NEF",
+                    "md5": "c2ab27387f6cef02ef66b06bde03bdd2"
+                }
+            }
+        }
+    }
+}

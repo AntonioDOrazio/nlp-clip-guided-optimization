@@ -1,0 +1,116 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "winter",
+        "tree",
+        "river",
+        "hill",
+        "field",
+        "moss"
+    ],
+    "date_published": 1589234400,
+    "name": "Blau River",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        48.401954,
+        9.834198
+    ],
+    "date_taken": 1583592180,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        "3237733"
+    ],
+    "files_hash": "dfb22d57c131db20e68c215a1d14a84655588439",
+    "download_count": 22085,
+    "files": {
+        "tonemapped": {
+            "size": 7854635,
+            "md5": "83000104341ed7ba7f8908c6b7add87a",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/blau_river.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 105953146,
+                    "md5": "07cfe608724c29ed970d50e06ddfe038",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/blau_river_8k.hdr"
+                },
+                "exr": {
+                    "size": 41361378,
+                    "md5": "9bfd7dc793a60982b76e700882e9fc46",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/blau_river_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 400666118,
+                    "md5": "5120b5a43502ddf71e39357bd9a2f68e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/blau_river_16k.hdr"
+                },
+                "exr": {
+                    "size": 126137660,
+                    "md5": "f3fce89a7b01d5cc4fa27b1928ae2eec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/blau_river_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27307735,
+                    "md5": "b64b5efae82839cc61779eeb845056ff",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/blau_river_4k.hdr"
+                },
+                "exr": {
+                    "size": 12067790,
+                    "md5": "c65990f8ecd137bddba20325cc4d1e21",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/blau_river_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6862194,
+                    "md5": "d7505b63104a26705753fea221d28c91",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/blau_river_2k.hdr"
+                },
+                "exr": {
+                    "size": 3196114,
+                    "md5": "d243f9fb4f153f1a04b7c4c142328d67",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/blau_river_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1713214,
+                    "md5": "696fd637475203ff6742a44549dca5f1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/blau_river_1k.hdr"
+                },
+                "exr": {
+                    "size": 831846,
+                    "md5": "764a40911d912f17e96eef12284c6d4b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/blau_river_1k.exr"
+                }
+            },
+            "22k": {
+                "hdr": {
+                    "size": 736758850,
+                    "md5": "c4c5a382cfff004c05c3a36ca9dfcf22",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/blau_river_22k.hdr"
+                },
+                "exr": {
+                    "size": 210056937,
+                    "md5": "416bce3d41d36d4eaa9627172a1f9b1c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/blau_river_22k.exr"
+                }
+            }
+        }
+    }
+}

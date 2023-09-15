@@ -1,0 +1,110 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "tags": [
+        "rock",
+        "tree",
+        "forest"
+    ],
+    "date_published": 1607036400,
+    "name": "Felsenlabyrinth",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "clear",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        50.888265,
+        14.031485
+    ],
+    "date_taken": 1596983820,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "files_hash": "7e10c7f8cc01b2815d3dfe11786a2a6177b1d094",
+    "download_count": 24527,
+    "files": {
+        "tonemapped": {
+            "size": 14849456,
+            "md5": "84f6d6adc467ef4b138a5af4cbae7b6a",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/felsenlabyrinth.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 114444855,
+                    "md5": "76580c04b7029260a22bce65ae475798",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/felsenlabyrinth_8k.hdr"
+                },
+                "exr": {
+                    "size": 117311794,
+                    "md5": "91d4ae4f2401dd6d029efdfc4bdf1ca2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/felsenlabyrinth_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 438134319,
+                    "md5": "0d5516347501c189a049bbf92a90edfa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/felsenlabyrinth_16k.hdr"
+                },
+                "exr": {
+                    "size": 447841932,
+                    "md5": "8eea75acb26f8ad68dae2e914b727e11",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/felsenlabyrinth_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 29168889,
+                    "md5": "ff88bf51024cd947bbd1841a44608628",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/felsenlabyrinth_4k.hdr"
+                },
+                "exr": {
+                    "size": 29904101,
+                    "md5": "e1e61cc1a7b27722fcf75cb0da9d463b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/felsenlabyrinth_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7334062,
+                    "md5": "1532f19e4b8535ff00842feba4102fe1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/felsenlabyrinth_2k.hdr"
+                },
+                "exr": {
+                    "size": 7539964,
+                    "md5": "64312ab6e22d1f16bdab3e221268cfb3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/felsenlabyrinth_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1835469,
+                    "md5": "1bd21ef0ed01aba97f305bc5e3516084",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/felsenlabyrinth_1k.hdr"
+                },
+                "exr": {
+                    "size": 1899062,
+                    "md5": "9c4d3f0319cbe43f156fbfb2d2485fcd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/felsenlabyrinth_1k.exr"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 642820687,
+                    "md5": "770c96ad736eda3a97aba318830ac711",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/felsenlabyrinth_20k.hdr"
+                },
+                "exr": {
+                    "size": 648006844,
+                    "md5": "1646ede95fc0224173542983b3cefcfc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/felsenlabyrinth_20k.exr"
+                }
+            }
+        }
+    }
+}

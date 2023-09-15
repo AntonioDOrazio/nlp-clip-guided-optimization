@@ -1,0 +1,109 @@
+{
+    "evs_cap": 16,
+    "type": 0,
+    "whitebalance": 4200,
+    "tags": [
+        "studio",
+        "bed",
+        "fabric",
+        "wood",
+        "wooden floor",
+        "white",
+        "windows",
+        "chair"
+    ],
+    "name": "Brown Photostudio 07",
+    "categories": [
+        "natural light",
+        "studio",
+        "indoor",
+        "medium contrast",
+        "urban"
+    ],
+    "coords": [
+        49.237264,
+        28.40647
+    ],
+    "date_taken": 1650032640,
+    "info": null,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "date_published": 1665705600,
+    "files_hash": "90939e8b9e79318c136c5549fd606b8c815dbcc4",
+    "download_count": 29649,
+    "files": {
+        "tonemapped": {
+            "size": 45000935,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/brown_photostudio_07.jpg",
+            "md5": "aeb977c8be20a1061a919484c0bfa941"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 100301292,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/brown_photostudio_07_8k.hdr",
+                    "md5": "fb8622680ee3d2fc5eafdef532333111"
+                },
+                "exr": {
+                    "size": 83987070,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/brown_photostudio_07_8k.exr",
+                    "md5": "3b0e316ba802590ab943dc9f3a8bac73"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 378325806,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/brown_photostudio_07_16k.hdr",
+                    "md5": "61ab8858a75004fbefc3a320ee62a99e"
+                },
+                "exr": {
+                    "size": 298247225,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/brown_photostudio_07_16k.exr",
+                    "md5": "1eefa9ecccf945cf936a792d6c3f2579"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25864004,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/brown_photostudio_07_4k.hdr",
+                    "md5": "4b0b302494ae372494a53d24997767ab"
+                },
+                "exr": {
+                    "size": 22240353,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/brown_photostudio_07_4k.exr",
+                    "md5": "f050709d7620e88ec68e1976e5a42eb4"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6577003,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/brown_photostudio_07_2k.hdr",
+                    "md5": "bfa7cf1bed24c85ec20e1da1da075e7a"
+                },
+                "exr": {
+                    "size": 5740674,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/brown_photostudio_07_2k.exr",
+                    "md5": "397dcbae07322eb7dfc7fd7b5898e0fe"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1664203,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/brown_photostudio_07_1k.hdr",
+                    "md5": "b08f0a3e7ea330fc55479e1c675b743a"
+                },
+                "exr": {
+                    "size": 1475148,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/brown_photostudio_07_1k.exr",
+                    "md5": "1455ae9bae62bad5ce8df01db11861f3"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 96633333,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/brown_photostudio_07.zip",
+            "md5": "96a6d3bc3cb44e357cbfeda3150c1461"
+        }
+    }
+}

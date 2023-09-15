@@ -1,0 +1,381 @@
+{
+    "evs_cap": 23,
+    "type": 0,
+    "whitebalance": 5850,
+    "date_published": 1585605600,
+    "name": "Rural Landscape",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "sunrise-sunset",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1579787460,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "3267566"
+    ],
+    "backplates": true,
+    "tags": [
+        "dirt",
+        "road",
+        "track",
+        "lake",
+        "backplates"
+    ],
+    "files_hash": "401db315a5b97a8ddf167e2d2220acc54012c6a6",
+    "download_count": 104644,
+    "files": {
+        "tonemapped": {
+            "size": 4722775,
+            "md5": "d722306af8e3999a73bd1128d7acb46b",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/rural_landscape.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102492419,
+                    "md5": "afb4c37bd5c6149e98c2c3cf3db2a690",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/rural_landscape_8k.hdr"
+                },
+                "exr": {
+                    "size": 83318037,
+                    "md5": "05bbe3d0c2030634e4b8f9d9b5c222e1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/rural_landscape_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 395145608,
+                    "md5": "cc11c9bf7081baf2c9a43d4951647b04",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rural_landscape_16k.hdr"
+                },
+                "exr": {
+                    "size": 311195621,
+                    "md5": "0fa28c32483af83f534b93793b44cd91",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rural_landscape_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25907203,
+                    "md5": "48c1f210d81fadfa07a4bcc99cd314fe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/rural_landscape_4k.hdr"
+                },
+                "exr": {
+                    "size": 21665260,
+                    "md5": "d80e0f18eed4d2de57d8eedc67e2a438",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/rural_landscape_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6493773,
+                    "md5": "3235705615440ef83d077c29cd57facd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/rural_landscape_2k.hdr"
+                },
+                "exr": {
+                    "size": 5650789,
+                    "md5": "cd191690b6c2f2bf7d49dab8602ec403",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/rural_landscape_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1638901,
+                    "md5": "c73fc9d8d6c39cf3b53b27df318a177d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/rural_landscape_1k.hdr"
+                },
+                "exr": {
+                    "size": 1485674,
+                    "md5": "0617e2eba49775af1f593602ad50545b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/rural_landscape_1k.exr"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 4056413,
+            "md5": "31a46ef961943fcc61e3124e671e5289",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/rural_landscape.jpg"
+        },
+        "backplates": {
+            "DSC_0106": {
+                "jpg_pretty": {
+                    "size": 11523209,
+                    "md5": "c026f3eb7ac7c37b9e068b8ef029008e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/jpg_pretty/DSC_0106.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7227955,
+                    "md5": "5787d4d2d84bf857e15c1b2eaf29ad78",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/jpg_plain/DSC_0106.jpg"
+                },
+                "raw": {
+                    "size": 17211142,
+                    "md5": "10d51ace1efaa93181ed7be7b0053e80",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/raw/DSC_0106.NEF"
+                }
+            },
+            "DSC_0116": {
+                "jpg_pretty": {
+                    "size": 11125798,
+                    "md5": "1150007d605426e04193068091a58612",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/jpg_pretty/DSC_0116.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8012705,
+                    "md5": "b173847a6687f06f3a65d1537eea77f2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/jpg_plain/DSC_0116.jpg"
+                },
+                "raw": {
+                    "size": 17905802,
+                    "md5": "5d5ef8d74f331455b365bc0149dca4af",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/raw/DSC_0116.NEF"
+                }
+            },
+            "DSC_0126": {
+                "jpg_pretty": {
+                    "size": 10495836,
+                    "md5": "3a506d0a3b149a1ef754918e51ca8ad2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/jpg_pretty/DSC_0126.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7338750,
+                    "md5": "3eec70088810759eea1fab4193b2fc33",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/jpg_plain/DSC_0126.jpg"
+                },
+                "raw": {
+                    "size": 16983766,
+                    "md5": "ff2e02e3c07f3e852eab4d6aeaf4358c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/raw/DSC_0126.NEF"
+                }
+            },
+            "DSC_0121": {
+                "jpg_pretty": {
+                    "size": 12889876,
+                    "md5": "1f3251e806a376f58886ed3fc9716571",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/jpg_pretty/DSC_0121.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10324045,
+                    "md5": "334bff3540de7edc7d2d8017efd3b535",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/jpg_plain/DSC_0121.jpg"
+                },
+                "raw": {
+                    "size": 19351365,
+                    "md5": "7d38b9d4ae346947d8bca349a775da42",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/raw/DSC_0121.NEF"
+                }
+            },
+            "DSC_0176": {
+                "jpg_pretty": {
+                    "size": 13584869,
+                    "md5": "43789772e7dec7f46c512dd63917acbb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/jpg_pretty/DSC_0176.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8644059,
+                    "md5": "fc07e9ab97f34ce039c0c7176a96b2f1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/jpg_plain/DSC_0176.jpg"
+                },
+                "raw": {
+                    "size": 18026517,
+                    "md5": "e7f4ea4e67d4d8e99c911b4f9c2ea396",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/raw/DSC_0176.NEF"
+                }
+            },
+            "DSC_0186": {
+                "jpg_pretty": {
+                    "size": 11716532,
+                    "md5": "1f08c5e31068a7c75b8eb4cf9e7c78cd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/jpg_pretty/DSC_0186.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8878589,
+                    "md5": "cdd0cd820190924a0f39e1c6308330a8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/jpg_plain/DSC_0186.jpg"
+                },
+                "raw": {
+                    "size": 17626960,
+                    "md5": "1512a839dcfc05e2aaf30f76c3306df9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/raw/DSC_0186.NEF"
+                }
+            },
+            "DSC_0141": {
+                "jpg_pretty": {
+                    "size": 11642173,
+                    "md5": "a7cf4a991f26ab8dd42ecd0754ffea5f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/jpg_pretty/DSC_0141.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7549629,
+                    "md5": "0e6b254ff0e9de724cb1267094a7e460",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/jpg_plain/DSC_0141.jpg"
+                },
+                "raw": {
+                    "size": 17538850,
+                    "md5": "1b95a2564ccf8c8cc4ac093a12db2002",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/raw/DSC_0141.NEF"
+                }
+            },
+            "DSC_0196": {
+                "jpg_pretty": {
+                    "size": 14160265,
+                    "md5": "6028e7f5ecd10266363e3083294bbf47",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/jpg_pretty/DSC_0196.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9534674,
+                    "md5": "e9a4195d3591aa2de8f52aeef339533b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/jpg_plain/DSC_0196.jpg"
+                },
+                "raw": {
+                    "size": 17526663,
+                    "md5": "9cf7616a2deb931a1b9eb25087f2b310",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/raw/DSC_0196.NEF"
+                }
+            },
+            "DSC_0151": {
+                "jpg_pretty": {
+                    "size": 12458556,
+                    "md5": "facc9842998816b35f0981469881570a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/jpg_pretty/DSC_0151.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9328076,
+                    "md5": "d7f37002c780896ae38365af9dcd32d8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/jpg_plain/DSC_0151.jpg"
+                },
+                "raw": {
+                    "size": 18383433,
+                    "md5": "ebf350870a7e88406fb4f521b9c7469c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/raw/DSC_0151.NEF"
+                }
+            },
+            "DSC_0146": {
+                "jpg_pretty": {
+                    "size": 11793651,
+                    "md5": "3c73e131022dfbc59f5a2044ef469f72",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/jpg_pretty/DSC_0146.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8459338,
+                    "md5": "34f8ab25412c9c69f23f0fe2a00cc0f5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/jpg_plain/DSC_0146.jpg"
+                },
+                "raw": {
+                    "size": 17963828,
+                    "md5": "d7e55f5847e40b88587a1f7a79c44d23",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/raw/DSC_0146.NEF"
+                }
+            },
+            "DSC_0156": {
+                "jpg_pretty": {
+                    "size": 12091734,
+                    "md5": "9a099298c16693e343bc6f2b43a89f12",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/jpg_pretty/DSC_0156.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9496546,
+                    "md5": "c882f628e0f0b03b584e10424d362f1d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/jpg_plain/DSC_0156.jpg"
+                },
+                "raw": {
+                    "size": 18157058,
+                    "md5": "cae80a5ceb5e9e274934eae315db69cd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/raw/DSC_0156.NEF"
+                }
+            },
+            "DSC_0111": {
+                "jpg_pretty": {
+                    "size": 11992237,
+                    "md5": "8c29588e319f3cdd3ef19437de224c52",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/jpg_pretty/DSC_0111.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8138397,
+                    "md5": "75bd42cefceb8304d2753eb57d3a1394",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/jpg_plain/DSC_0111.jpg"
+                },
+                "raw": {
+                    "size": 17574902,
+                    "md5": "7dceee90ef95ef770d4a785ccf4ea9ed",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/raw/DSC_0111.NEF"
+                }
+            },
+            "DSC_0161": {
+                "jpg_pretty": {
+                    "size": 11945813,
+                    "md5": "e1d02d061323ee07bf92111ec05ca509",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/jpg_pretty/DSC_0161.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7810607,
+                    "md5": "ce1663fa850330d41868d777b42847b8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/jpg_plain/DSC_0161.jpg"
+                },
+                "raw": {
+                    "size": 17654095,
+                    "md5": "6e81270090fd8393c3ca6002cadf718b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/raw/DSC_0161.NEF"
+                }
+            },
+            "DSC_0171": {
+                "jpg_pretty": {
+                    "size": 13366013,
+                    "md5": "4792a994341bd623bf890a5e5d3704cb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/jpg_pretty/DSC_0171.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9290293,
+                    "md5": "9f67d83e012c345d576ed1247e4a7f4a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/jpg_plain/DSC_0171.jpg"
+                },
+                "raw": {
+                    "size": 18387458,
+                    "md5": "9c41d1cebe3b2fd6e95598d6c69b6053",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/raw/DSC_0171.NEF"
+                }
+            },
+            "DSC_0181": {
+                "jpg_pretty": {
+                    "size": 9745257,
+                    "md5": "977640e4967f704a18df40a5f9a3faa9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/jpg_pretty/DSC_0181.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6276679,
+                    "md5": "ca034964d2467bc9f45e7979581b1868",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/jpg_plain/DSC_0181.jpg"
+                },
+                "raw": {
+                    "size": 16730777,
+                    "md5": "9bb0264129023559d89eb244aa35013f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/raw/DSC_0181.NEF"
+                }
+            },
+            "DSC_0191": {
+                "jpg_pretty": {
+                    "size": 10642199,
+                    "md5": "c9aadea8db8a0a0204d8f0b184be329b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/jpg_pretty/DSC_0191.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8396508,
+                    "md5": "e2ea10dddc53e4c415b653be0ab350ec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/jpg_plain/DSC_0191.jpg"
+                },
+                "raw": {
+                    "size": 17084346,
+                    "md5": "116d0fe9a42f62bd6b0ac7c9aaaf9354",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_landscape/raw/DSC_0191.NEF"
+                }
+            }
+        }
+    }
+}

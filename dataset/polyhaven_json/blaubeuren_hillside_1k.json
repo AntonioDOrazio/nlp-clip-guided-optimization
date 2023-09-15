@@ -1,0 +1,119 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "tags": [
+        "tree",
+        "sun",
+        "grass",
+        "dry"
+    ],
+    "date_published": 1618351200,
+    "name": "Blaubeuren Hillside",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1615192380,
+    "coords": [
+        48.400316,
+        9.812415
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        "37678923"
+    ],
+    "files_hash": "79b58bac74f015cccebff6e443650971cacd03ac",
+    "download_count": 19987,
+    "files": {
+        "tonemapped": {
+            "size": 12299817,
+            "md5": "206d08bffbe50b60aaff05346f3df7a8",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/blaubeuren_hillside.jpg"
+        },
+        "hdri": {
+            "19k": {
+                "hdr": {
+                    "size": 553075415,
+                    "md5": "0abc9d4adae7e9cb70a4d3add15c049e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/blaubeuren_hillside_19k.hdr"
+                },
+                "exr": {
+                    "size": 640827040,
+                    "md5": "a9a9d852d3e8599080f07897c4255b22",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/blaubeuren_hillside_19k.exr"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "size": 108626312,
+                    "md5": "ea93576833c44fb9079c9d7d2c5f7276",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/blaubeuren_hillside_8k.hdr"
+                },
+                "exr": {
+                    "size": 126164836,
+                    "md5": "420e093d487fb937537421bd5396a5d9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/blaubeuren_hillside_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 412374845,
+                    "md5": "5f740f2590c09ac28a698d560c17e067",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/blaubeuren_hillside_16k.hdr"
+                },
+                "exr": {
+                    "size": 489370638,
+                    "md5": "3b2a3a6119b62a9e6ed69cb128226920",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/blaubeuren_hillside_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27539245,
+                    "md5": "04910ebc51cabbba14e4097791ba8d5d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/blaubeuren_hillside_4k.hdr"
+                },
+                "exr": {
+                    "size": 31806646,
+                    "md5": "a6fab4473e08943f8cfb7eb5c771b42a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/blaubeuren_hillside_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6787699,
+                    "md5": "d7c1c1e2c67d6d4d423f671152006bb3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/blaubeuren_hillside_2k.hdr"
+                },
+                "exr": {
+                    "size": 7943704,
+                    "md5": "111249341f44e2262d54fbfdc86dce44",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/blaubeuren_hillside_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1666122,
+                    "md5": "aabd59cb9669bff0ca1da2b4d7dccc98",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/blaubeuren_hillside_1k.hdr"
+                },
+                "exr": {
+                    "size": 2007014,
+                    "md5": "bd9d7afd3c7f9933bdb3e2a38de384c6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/blaubeuren_hillside_1k.exr"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 21357520,
+            "md5": "4b4db4d9f0e342900b046bb391fd6d65",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/blaubeuren_hillside.zip"
+        }
+    }
+}

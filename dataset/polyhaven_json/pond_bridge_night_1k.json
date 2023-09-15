@@ -1,0 +1,107 @@
+{
+    "evs_cap": 14,
+    "type": 0,
+    "tags": [
+        "tree",
+        "forest",
+        "pond",
+        "statue",
+        "bridge",
+        "street light",
+        "path"
+    ],
+    "date_published": 1506981600,
+    "name": "Pond Bridge Night",
+    "categories": [
+        "outdoor",
+        "nature",
+        "urban",
+        "partly cloudy",
+        "night",
+        "low contrast",
+        "natural light",
+        "artificial light"
+    ],
+    "date_taken": 1478884860,
+    "coords": [
+        52.380009,
+        9.756457
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "7947474"
+    ],
+    "files_hash": "6e429b5c01f861046a2f72c68358029ae6b6abb9",
+    "download_count": 118431,
+    "files": {
+        "tonemapped": {
+            "size": 6854793,
+            "md5": "338f815b3413864d5ced8755cadcc84f",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/pond_bridge_night.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 100386500,
+                    "md5": "eb7b6ee3225666750f3541a33a62c536",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/pond_bridge_night_8k.hdr"
+                },
+                "exr": {
+                    "size": 96227871,
+                    "md5": "e32e26d38d3bfba59de6ac697e329e6a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/pond_bridge_night_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 371059606,
+                    "md5": "8d6a6118f1e4846bc2e5b0d24fa53516",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/pond_bridge_night_16k.hdr"
+                },
+                "exr": {
+                    "size": 353428091,
+                    "md5": "44da41a7b24c61421164dc9e64bdf7c5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/pond_bridge_night_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25791775,
+                    "md5": "9ee3b7f1caab1056eb3b92f3f95ce9cd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/pond_bridge_night_4k.hdr"
+                },
+                "exr": {
+                    "size": 24914791,
+                    "md5": "23cebdbe9eec8ec7629769e7de10639b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/pond_bridge_night_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6479941,
+                    "md5": "7122923a4cad260fc8a9a81774fd684d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/pond_bridge_night_2k.hdr"
+                },
+                "exr": {
+                    "size": 6368508,
+                    "md5": "c384981b255d8784b700d757b788d678",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/pond_bridge_night_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1631624,
+                    "md5": "ac23d37c0de6836f0f543f49a41e111f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/pond_bridge_night_1k.hdr"
+                },
+                "exr": {
+                    "size": 1631145,
+                    "md5": "69dadd5ceb4c1b59eb8c20e98be1a4d5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/pond_bridge_night_1k.exr"
+                }
+            }
+        }
+    }
+}

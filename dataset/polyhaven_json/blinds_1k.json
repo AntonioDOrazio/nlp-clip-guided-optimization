@@ -1,0 +1,97 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "kitchen",
+        "window",
+        "counter",
+        "table"
+    ],
+    "date_published": 1522879200,
+    "name": "Blinds",
+    "categories": [
+        "indoor",
+        "urban",
+        "morning-afternoon",
+        "medium contrast",
+        "natural light"
+    ],
+    "date_taken": 1432644780,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "20953239"
+    ],
+    "files_hash": "77e15b4ea4a6f72c152b339dc3d06d67aa73cbf3",
+    "download_count": 34054,
+    "files": {
+        "tonemapped": {
+            "size": 3675102,
+            "md5": "abfb79f93a2633af7c77b9ac6d573798",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/blinds.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 82499987,
+                    "md5": "8d92a6852f4406bd6091d19177b5ad9e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/blinds_8k.hdr"
+                },
+                "exr": {
+                    "size": 69530046,
+                    "md5": "c02abca06009b1aef0e3f1c9f26a73db",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/blinds_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 275049279,
+                    "md5": "1ffa7e336aab96c734fa9602f84166c8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/blinds_16k.hdr"
+                },
+                "exr": {
+                    "size": 227432242,
+                    "md5": "b668da972f85357847f917edeafbac64",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/blinds_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 22168037,
+                    "md5": "4e79248751191c6dd32e46144f2965a0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/blinds_4k.hdr"
+                },
+                "exr": {
+                    "size": 18860722,
+                    "md5": "ea96a8251c31086b356929b62423be61",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/blinds_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5722695,
+                    "md5": "f172dfbeeaa603a83339136310989b8f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/blinds_2k.hdr"
+                },
+                "exr": {
+                    "size": 4976701,
+                    "md5": "ef876937732b683906ca1318baa0849f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/blinds_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1464056,
+                    "md5": "5b9bdc1a3fbf9fba4bd6b6d6dd969ab2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/blinds_1k.hdr"
+                },
+                "exr": {
+                    "size": 1306356,
+                    "md5": "1ddd953f4a19ace98fd0921082c18c80",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/blinds_1k.exr"
+                }
+            }
+        }
+    }
+}

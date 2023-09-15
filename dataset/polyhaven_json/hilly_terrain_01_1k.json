@@ -1,0 +1,102 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "tags": [
+        "grass",
+        "hill",
+        "field",
+        "view",
+        "hilltop"
+    ],
+    "name": "Hilly Terrain 01",
+    "categories": [
+        "outdoor",
+        "nature",
+        "partly cloudy",
+        "sunrise-sunset",
+        "medium contrast",
+        "natural light",
+        "skies"
+    ],
+    "date_taken": 1559070960,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "date_published": 1622584802,
+    "prepaid": true,
+    "sponsors": [
+        "4714267",
+        "70827508"
+    ],
+    "files_hash": "74608605bf82270d18bc3f5bdf90df2e6c1aaa22",
+    "download_count": 165657,
+    "files": {
+        "tonemapped": {
+            "size": 5053168,
+            "md5": "158fd6ff4c52f32c5f1ba63a5527aade",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/hilly_terrain_01.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103380581,
+                    "md5": "49c24579735b42e3254b09ddc52ae27a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/hilly_terrain_01_8k.hdr"
+                },
+                "exr": {
+                    "size": 81158254,
+                    "md5": "77e82d7f6a5cc61a5b77116ff0e0f462",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/hilly_terrain_01_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 385645554,
+                    "md5": "e32632de84fe47d63b079de311bc4ef8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/hilly_terrain_01_16k.hdr"
+                },
+                "exr": {
+                    "size": 300018749,
+                    "md5": "fa9ca5d050f802e87939c6697b54e74d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/hilly_terrain_01_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26073068,
+                    "md5": "7888e78b17f761afa470ea0f823a7ac8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/hilly_terrain_01_4k.hdr"
+                },
+                "exr": {
+                    "size": 20739379,
+                    "md5": "7360927d2a08ab80c9d73abcad6bdeb3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/hilly_terrain_01_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6423866,
+                    "md5": "935f02e77a7fa5894cb8f95007a91db0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/hilly_terrain_01_2k.hdr"
+                },
+                "exr": {
+                    "size": 5301434,
+                    "md5": "96686cdfa84447637026aaada550bad2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/hilly_terrain_01_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1599756,
+                    "md5": "8841a464efb59ef1d98c59ae845dba47",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/hilly_terrain_01_1k.hdr"
+                },
+                "exr": {
+                    "size": 1371872,
+                    "md5": "e29c396bd6b0e87bbc1d4d024a954953",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/hilly_terrain_01_1k.exr"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "evs_cap": 28,
+    "type": 0,
+    "tags": [
+        "city",
+        "town",
+        "europe",
+        "square",
+        "street",
+        "brick"
+    ],
+    "date_published": 1565647200,
+    "name": "Outdoor Umbrellas",
+    "categories": [
+        "outdoor",
+        "urban",
+        "sunrise-sunset",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1561522500,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "11167855"
+    ],
+    "files_hash": "39133e1f8c45244b1cc36e2cad5657947c1dc442",
+    "download_count": 27101,
+    "files": {
+        "tonemapped": {
+            "size": 4794454,
+            "md5": "ad5a457c704b9d57f0bc3d9847d4a0a8",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/outdoor_umbrellas.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 99389439,
+                    "md5": "ef23ea44f5b8833f0fd4040772ca9eec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/outdoor_umbrellas_8k.hdr"
+                },
+                "exr": {
+                    "size": 81544541,
+                    "md5": "88b9d25ddaec639e47720fd6e76a510c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/outdoor_umbrellas_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 374080869,
+                    "md5": "b5df7f12f71c945db6c1662d462cedd7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/outdoor_umbrellas_16k.hdr"
+                },
+                "exr": {
+                    "size": 289444505,
+                    "md5": "df991b0a501fd2165713cbba8cc5a6a2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/outdoor_umbrellas_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25568749,
+                    "md5": "63a916f163e001cbd98c96489d91924e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/outdoor_umbrellas_4k.hdr"
+                },
+                "exr": {
+                    "size": 21887929,
+                    "md5": "57d12a76f27fd8df74bdf5df0012852a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/outdoor_umbrellas_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6513317,
+                    "md5": "15a4718e99985cfdc9cab81245838012",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/outdoor_umbrellas_2k.hdr"
+                },
+                "exr": {
+                    "size": 5803565,
+                    "md5": "f99adf8b93dcda8b34670a9bbffabacc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/outdoor_umbrellas_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1662953,
+                    "md5": "8eb9057fa78e002d5778c15b89439bf7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/outdoor_umbrellas_1k.hdr"
+                },
+                "exr": {
+                    "size": 1538673,
+                    "md5": "b7712785a3883c017fc3897f2aa44662",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/outdoor_umbrellas_1k.exr"
+                }
+            }
+        }
+    }
+}

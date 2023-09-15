@@ -1,0 +1,467 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "whitebalance": 5400,
+    "date_published": 1516057200,
+    "name": "Circus Maximus 2",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "midday",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1510132200,
+    "coords": [
+        41.8871,
+        12.4835
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "10961937"
+    ],
+    "backplates": true,
+    "tags": [
+        "tree",
+        "sun",
+        "europe",
+        "field",
+        "rome",
+        "pebble",
+        "backplates"
+    ],
+    "files_hash": "a6c96e674f1442691159463b1167f3fa75baa902",
+    "download_count": 48534,
+    "files": {
+        "tonemapped": {
+            "size": 7763191,
+            "md5": "9ee48d50c3188f34b8b2ead99d5381f1",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/circus_maximus_2.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 94184484,
+                    "md5": "3737c7d09227871f6b2cc26e35833dd8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/circus_maximus_2_8k.hdr"
+                },
+                "exr": {
+                    "size": 84976225,
+                    "md5": "72f3d953d413af9cdb2b4e4445570a46",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/circus_maximus_2_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 344298206,
+                    "md5": "313239977e502d79057bee2f777938dc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/circus_maximus_2_16k.hdr"
+                },
+                "exr": {
+                    "size": 315144980,
+                    "md5": "7b46fff12999b38f298eaf35d22708a9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/circus_maximus_2_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 23910470,
+                    "md5": "56dc501e9218dba775ebc5c5db068922",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/circus_maximus_2_4k.hdr"
+                },
+                "exr": {
+                    "size": 21981007,
+                    "md5": "b8fdd28ed5c4504547919ed11b770c30",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/circus_maximus_2_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5926878,
+                    "md5": "ccfebc7927d434a82b77d168c9beb62f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/circus_maximus_2_2k.hdr"
+                },
+                "exr": {
+                    "size": 5570521,
+                    "md5": "e911927ded23439ac403b95068ee8922",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/circus_maximus_2_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1485037,
+                    "md5": "e2d79c4e80e0dea13a158700ca1e1747",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/circus_maximus_2_1k.hdr"
+                },
+                "exr": {
+                    "size": 1402763,
+                    "md5": "1c378843442c93f3378470dc5602b6ac",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/circus_maximus_2_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "DSC07759": {
+                "jpg_pretty": {
+                    "size": 25471091,
+                    "md5": "e5e15c40bfada4f765e81ce081ee5276",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_pretty/DSC07759.jpg"
+                },
+                "jpg_plain": {
+                    "size": 17984624,
+                    "md5": "86359002c35405c8d0fb604e9166d0df",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_plain/DSC07759.jpg"
+                },
+                "raw": {
+                    "size": 37093376,
+                    "md5": "3557e0c64949338caa68f81793e58ffe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/raw/DSC07759.ARW"
+                }
+            },
+            "DSC07784": {
+                "jpg_pretty": {
+                    "size": 27780205,
+                    "md5": "e41f1edfb2024f06b91df24d23720685",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_pretty/DSC07784.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18990146,
+                    "md5": "2f8b3cf7d3beb09d143c9b56688c44dc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_plain/DSC07784.jpg"
+                },
+                "raw": {
+                    "size": 37257216,
+                    "md5": "0c6c26d607ebbd6da6b1557921d327fe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/raw/DSC07784.ARW"
+                }
+            },
+            "DSC07795": {
+                "jpg_pretty": {
+                    "size": 27811287,
+                    "md5": "f1bcfa469570d1c78c8595968d6ae51a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_pretty/DSC07795.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18718703,
+                    "md5": "fd8a927f2e3d989378bd7c1a813a70fe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_plain/DSC07795.jpg"
+                },
+                "raw": {
+                    "size": 37191680,
+                    "md5": "1b20ff9830e58ce3273b87681fc953b5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/raw/DSC07795.ARW"
+                }
+            },
+            "DSC07763": {
+                "jpg_pretty": {
+                    "size": 30301253,
+                    "md5": "018742b67e144a4c8baba4a7d9b1ac37",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_pretty/DSC07763.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20808953,
+                    "md5": "043514ea42685a91b0f299b1c8bbd0a4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_plain/DSC07763.jpg"
+                },
+                "raw": {
+                    "size": 37355520,
+                    "md5": "9dd008fb2e7226f42cd7f1ba62593fcb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/raw/DSC07763.ARW"
+                }
+            },
+            "DSC07774": {
+                "jpg_pretty": {
+                    "size": 33524870,
+                    "md5": "319d06dd658b085a14f1bce5f1a38c84",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_pretty/DSC07774.jpg"
+                },
+                "jpg_plain": {
+                    "size": 22282476,
+                    "md5": "33ede4852d56dcb49e674c3afdccf12f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_plain/DSC07774.jpg"
+                },
+                "raw": {
+                    "size": 37421056,
+                    "md5": "f4e590cad104dcfaef4f873bcf473d39",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/raw/DSC07774.ARW"
+                }
+            },
+            "DSC07785": {
+                "jpg_pretty": {
+                    "size": 22295771,
+                    "md5": "28bcd47af542c77e6646b6a38220819d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_pretty/DSC07785.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14626822,
+                    "md5": "74249616a169b12efc6938a0f7b4c767",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_plain/DSC07785.jpg"
+                },
+                "raw": {
+                    "size": 37126144,
+                    "md5": "3d19e71a3de74aa641c5718a1965d1be",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/raw/DSC07785.ARW"
+                }
+            },
+            "DSC07764": {
+                "jpg_pretty": {
+                    "size": 32960382,
+                    "md5": "7ab36af6957606eb3fffef72b7051131",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_pretty/DSC07764.jpg"
+                },
+                "jpg_plain": {
+                    "size": 22464248,
+                    "md5": "ae64ec82965255cb3368cefddbdce417",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_plain/DSC07764.jpg"
+                },
+                "raw": {
+                    "size": 37453824,
+                    "md5": "c9403d7b491665f6835a8607f04c3ab9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/raw/DSC07764.ARW"
+                }
+            },
+            "DSC07765": {
+                "jpg_pretty": {
+                    "size": 34030692,
+                    "md5": "1489aa3e316ed5923df4b3f6d9c9c96a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_pretty/DSC07765.jpg"
+                },
+                "jpg_plain": {
+                    "size": 23080472,
+                    "md5": "d56d46d252a534ed7a6fb6d210b0e091",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_plain/DSC07765.jpg"
+                },
+                "raw": {
+                    "size": 37486592,
+                    "md5": "b9bbf72ab306a372f6f6b6d224ccd653",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/raw/DSC07765.ARW"
+                }
+            },
+            "DSC07776": {
+                "jpg_pretty": {
+                    "size": 35111790,
+                    "md5": "7e180fc64220edd32f0e8829963115da",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_pretty/DSC07776.jpg"
+                },
+                "jpg_plain": {
+                    "size": 22940952,
+                    "md5": "70b4701fe2a98ee4e57774d6b398e017",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_plain/DSC07776.jpg"
+                },
+                "raw": {
+                    "size": 37519360,
+                    "md5": "a1850ba2b302be8ea8c5d723203d21f4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/raw/DSC07776.ARW"
+                }
+            },
+            "DSC07788": {
+                "jpg_pretty": {
+                    "size": 28123787,
+                    "md5": "50fbac2cd649759f5ad393a0101fffd5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_pretty/DSC07788.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19037669,
+                    "md5": "2ada9addb4f1ea7f6b330b9faffb1394",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_plain/DSC07788.jpg"
+                },
+                "raw": {
+                    "size": 37388288,
+                    "md5": "79d439c84cfd3844d0c78eeeaafaf3b4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/raw/DSC07788.ARW"
+                }
+            },
+            "DSC07799": {
+                "jpg_pretty": {
+                    "size": 22891007,
+                    "md5": "0b4e4a75cd9655c776a8ccc7bc0b911f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_pretty/DSC07799.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14829514,
+                    "md5": "5da9af2afee8803319f99acfeb1624fe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_plain/DSC07799.jpg"
+                },
+                "raw": {
+                    "size": 37289984,
+                    "md5": "9ba903ffe819f849206455bc8889ea82",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/raw/DSC07799.ARW"
+                }
+            },
+            "DSC07767": {
+                "jpg_pretty": {
+                    "size": 34192684,
+                    "md5": "a1d9a76341225e3e83ae6453dbd38c9e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_pretty/DSC07767.jpg"
+                },
+                "jpg_plain": {
+                    "size": 24120226,
+                    "md5": "976ac0b7bba9f473722c7fd3c91098b9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_plain/DSC07767.jpg"
+                },
+                "raw": {
+                    "size": 37421056,
+                    "md5": "64d165e821b891f05562ebb2adaa6bb4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/raw/DSC07767.ARW"
+                }
+            },
+            "DSC07778": {
+                "jpg_pretty": {
+                    "size": 29198499,
+                    "md5": "9747986c6ce23c51a40f692a5fc30a56",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_pretty/DSC07778.jpg"
+                },
+                "jpg_plain": {
+                    "size": 23170965,
+                    "md5": "1d10826e0b1d8361f5fa8bb8063139d3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_plain/DSC07778.jpg"
+                },
+                "raw": {
+                    "size": 37650432,
+                    "md5": "dad0abcef192c18b9a6186fef7ff0c19",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/raw/DSC07778.ARW"
+                }
+            },
+            "DSC07789": {
+                "jpg_pretty": {
+                    "size": 32980209,
+                    "md5": "233af7235eec4c733b03a051a89111ae",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_pretty/DSC07789.jpg"
+                },
+                "jpg_plain": {
+                    "size": 22408017,
+                    "md5": "4435943b206309c53dfa9c47f9f2828c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_plain/DSC07789.jpg"
+                },
+                "raw": {
+                    "size": 37552128,
+                    "md5": "993472cdb1a9e4c5c173d85b0334884c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/raw/DSC07789.ARW"
+                }
+            },
+            "DSC07800": {
+                "jpg_pretty": {
+                    "size": 14469415,
+                    "md5": "84a99360bf52396a0de4aaa5d59576bd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_pretty/DSC07800.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12094022,
+                    "md5": "c459290b0d0b0f53c77f72054411451b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_plain/DSC07800.jpg"
+                },
+                "raw": {
+                    "size": 36896768,
+                    "md5": "05c6db14ec51f4bd2749aa4287ef5ec5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/raw/DSC07800.ARW"
+                }
+            },
+            "DSC07768": {
+                "jpg_pretty": {
+                    "size": 27238554,
+                    "md5": "0cabca0967fafb357da4c3ebf76f05b8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_pretty/DSC07768.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20092681,
+                    "md5": "4c2e4ee42e49e27eddc0fb4e6e972a14",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_plain/DSC07768.jpg"
+                },
+                "raw": {
+                    "size": 37322752,
+                    "md5": "ff6e0457aa06ead236983b0df2705bf8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/raw/DSC07768.ARW"
+                }
+            },
+            "DSC07780": {
+                "jpg_pretty": {
+                    "size": 29174238,
+                    "md5": "b9115f7915b2d494863c185fc71cf933",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_pretty/DSC07780.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19455076,
+                    "md5": "ae4e2bb6efe25bb9122376307bcf5c08",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_plain/DSC07780.jpg"
+                },
+                "raw": {
+                    "size": 37257216,
+                    "md5": "bab505dc7af9623379ec58ff72193d46",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/raw/DSC07780.ARW"
+                }
+            },
+            "DSC07770": {
+                "jpg_pretty": {
+                    "size": 28109264,
+                    "md5": "3e05c1d533d14c116160d0547b3bfd68",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_pretty/DSC07770.jpg"
+                },
+                "jpg_plain": {
+                    "size": 21108670,
+                    "md5": "7e14d284c492386a5c0db5a99648407b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_plain/DSC07770.jpg"
+                },
+                "raw": {
+                    "size": 37322752,
+                    "md5": "bf7d2c47d2db7d2dd89dc8cda94f620c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/raw/DSC07770.ARW"
+                }
+            },
+            "DSC07771": {
+                "jpg_pretty": {
+                    "size": 32103994,
+                    "md5": "53c4632c0e67a7e43a44d8f958f52e7c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_pretty/DSC07771.jpg"
+                },
+                "jpg_plain": {
+                    "size": 22347077,
+                    "md5": "b8c2523cd75c7dd1c5d98de3dd0fc94f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_plain/DSC07771.jpg"
+                },
+                "raw": {
+                    "size": 37355520,
+                    "md5": "a8c04a7011a7ab76969269306d28b793",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/raw/DSC07771.ARW"
+                }
+            },
+            "DSC07772": {
+                "jpg_pretty": {
+                    "size": 35289475,
+                    "md5": "3cc8861ac8e2fc60b4631fa0523ca2cc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_pretty/DSC07772.jpg"
+                },
+                "jpg_plain": {
+                    "size": 23880247,
+                    "md5": "77b6364012dd54ae1b9f314f37e2b244",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_plain/DSC07772.jpg"
+                },
+                "raw": {
+                    "size": 37453824,
+                    "md5": "55c44080bd4121838a0fb4ae7e65b2e5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/raw/DSC07772.ARW"
+                }
+            },
+            "DSC07794": {
+                "jpg_pretty": {
+                    "size": 21856772,
+                    "md5": "f2b18709c55606655612aeeeb6072e2e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_pretty/DSC07794.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14112540,
+                    "md5": "0b454fef2d6eff89885e0d73d5a6f948",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/jpg_plain/DSC07794.jpg"
+                },
+                "raw": {
+                    "size": 37158912,
+                    "md5": "f7859a2c63740497df2477ec70509fec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/circus_maximus_2/raw/DSC07794.ARW"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "tile",
+        "table",
+        "fridge",
+        "window",
+        "door",
+        "glass",
+        "kitchen",
+        "lounge"
+    ],
+    "date_published": 1511996400,
+    "name": "Kiara Interior",
+    "categories": [
+        "indoor",
+        "urban",
+        "sunrise-sunset",
+        "medium contrast",
+        "natural light",
+        "artificial light"
+    ],
+    "date_taken": 1471966680,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "3567764"
+    ],
+    "files_hash": "b4efcfdda111c2992cc4ad9feaec4a0af6af8975",
+    "download_count": 54624,
+    "files": {
+        "tonemapped": {
+            "size": 5369155,
+            "md5": "17df3e469b1bfb8e4ef4c29d32bd53aa",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/kiara_interior.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102461177,
+                    "md5": "2b0faa9e5a1496368d5f0615e311fe2a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/kiara_interior_8k.hdr"
+                },
+                "exr": {
+                    "size": 91341359,
+                    "md5": "02e05af511be2bb8219659fc4666967e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/kiara_interior_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 388601837,
+                    "md5": "5a0f272b7efd7ca7c1d68829efa2ff7c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/kiara_interior_16k.hdr"
+                },
+                "exr": {
+                    "size": 327079750,
+                    "md5": "ebf4eb732c3a48df25d8899650e53be2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/kiara_interior_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26323375,
+                    "md5": "b49c6266d0904710b4f2b7ac89affad9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/kiara_interior_4k.hdr"
+                },
+                "exr": {
+                    "size": 24270157,
+                    "md5": "16beef8df6cd6fb932bd5a2ec0a814bd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/kiara_interior_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6717036,
+                    "md5": "d401a50e460ef58347b41cc8be02af7f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/kiara_interior_2k.hdr"
+                },
+                "exr": {
+                    "size": 6353368,
+                    "md5": "886dfd411b2adade042f49bf70f0495c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/kiara_interior_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1715131,
+                    "md5": "55059c04619781da80dbc7cfef831897",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/kiara_interior_1k.hdr"
+                },
+                "exr": {
+                    "size": 1670534,
+                    "md5": "bc77b5ef2802a78887594dd0d1ff0e9a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/kiara_interior_1k.exr"
+                }
+            }
+        }
+    }
+}

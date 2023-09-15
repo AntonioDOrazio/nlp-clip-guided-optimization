@@ -1,0 +1,107 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "tree",
+        "waterfall",
+        "river",
+        "rock",
+        "cave",
+        "forest"
+    ],
+    "date_published": 1522879200,
+    "name": "Blue Grotto",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "clear",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1460635860,
+    "coords": [
+        -29.001883,
+        29.401339
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "url": "http://mdjustin.com/",
+            "name": "Justin Dolan"
+        }
+    ],
+    "files_hash": "547d1ddbd37af793ce7d2cb46ce05bc243feb23b",
+    "download_count": 64902,
+    "files": {
+        "tonemapped": {
+            "size": 9114059,
+            "md5": "3e146989e269b847c3a27bda92bd266b",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/blue_grotto.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 111075151,
+                    "md5": "e059d91c5ce9758ba12fb494892bf535",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/blue_grotto_8k.hdr"
+                },
+                "exr": {
+                    "size": 111041486,
+                    "md5": "94e1412a7ecdd9e562c071d6f8c54be8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/blue_grotto_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 418975675,
+                    "md5": "951f380e3c4ddcc7303ee5ffe6aebf18",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/blue_grotto_16k.hdr"
+                },
+                "exr": {
+                    "size": 410028051,
+                    "md5": "a9e6ee2a65cf648685c4e1de734b4006",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/blue_grotto_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 28539011,
+                    "md5": "7e577fcb78bf647e6e1bcae533554a80",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/blue_grotto_4k.hdr"
+                },
+                "exr": {
+                    "size": 28643664,
+                    "md5": "92707ccb27a509f6f0cbec4fbc6425aa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/blue_grotto_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7193972,
+                    "md5": "fa91d10d69abfa61bc1fb05c922b9bb5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/blue_grotto_2k.hdr"
+                },
+                "exr": {
+                    "size": 7252136,
+                    "md5": "9eb4f447ea7e99ea523240ddc7ed130b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/blue_grotto_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1789553,
+                    "md5": "990c847a1b93def5cdaeffc3a104b0ce",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/blue_grotto_1k.hdr"
+                },
+                "exr": {
+                    "size": 1828952,
+                    "md5": "91e59bf3eb222a5ca79faca7f2618371",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/blue_grotto_1k.exr"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,595 @@
+{
+    "evs_cap": 27,
+    "type": 0,
+    "whitebalance": 5800,
+    "date_published": 1611010800,
+    "name": "Reinforced Concrete 01",
+    "categories": [
+        "outdoor",
+        "indoor",
+        "urban",
+        "sunrise-sunset",
+        "clear",
+        "medium contrast",
+        "natural light"
+    ],
+    "date_taken": 1603895100,
+    "coords": [
+        50.854385,
+        34.899119
+    ],
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "3267566"
+    ],
+    "backplates": true,
+    "tags": [
+        "tree",
+        "sun",
+        "grass",
+        "concrete",
+        "rubble",
+        "ruin",
+        "warehouse",
+        "industrial",
+        "slab",
+        "abandoned",
+        "backplates"
+    ],
+    "files_hash": "a290398eb997a1a69c4b9ef4ccf556aa575187c8",
+    "download_count": 28903,
+    "files": {
+        "tonemapped": {
+            "size": 7429168,
+            "md5": "4e17bed8add4e599e256b5ca17eafc20",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/reinforced_concrete_01.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101930434,
+                    "md5": "14af8f9fa64348cfd3b35fb8c17d34cb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/reinforced_concrete_01_8k.hdr"
+                },
+                "exr": {
+                    "size": 91159879,
+                    "md5": "f9dd89fa7eb1e17fa81b7f22196a61e1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/reinforced_concrete_01_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 379756008,
+                    "md5": "3b1f0622e173de6c38adb2e2bed1083b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/reinforced_concrete_01_16k.hdr"
+                },
+                "exr": {
+                    "size": 319869123,
+                    "md5": "d805fc3e2e29c9d1547d0148fd57717b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/reinforced_concrete_01_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26347779,
+                    "md5": "da9d7f4b4e14be2653ea333d94bf9547",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/reinforced_concrete_01_4k.hdr"
+                },
+                "exr": {
+                    "size": 24338289,
+                    "md5": "460386cd4d2a98ebda48513752f05640",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/reinforced_concrete_01_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6728592,
+                    "md5": "5ccc961c3a85c0c2a41191e168f7ef3d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/reinforced_concrete_01_2k.hdr"
+                },
+                "exr": {
+                    "size": 6367258,
+                    "md5": "ed331152b66c98863d64d83412906bfb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/reinforced_concrete_01_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1711907,
+                    "md5": "ed58cf0b74f5b0f095bfbef29e40b037",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/reinforced_concrete_01_1k.hdr"
+                },
+                "exr": {
+                    "size": 1650416,
+                    "md5": "ede3c12451d7981ce95ed550fb3b0596",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/reinforced_concrete_01_1k.exr"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 88424046,
+            "md5": "8d1c3df077b355ce5960d3e5a8760094",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/reinforced_concrete_01.zip"
+        },
+        "backplates": {
+            "DSC_3416": {
+                "jpg_pretty": {
+                    "size": 12422608,
+                    "md5": "688626086886d503f6da896bc25ce6cd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_pretty/DSC_3416.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10618332,
+                    "md5": "ed32c2e0db8b6c94a56b80fcbdc18ab5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_plain/DSC_3416.jpg"
+                },
+                "raw": {
+                    "size": 27790146,
+                    "md5": "1b201644491ec09ec410c8f8e1d8df16",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/raw/DSC_3416.NEF"
+                }
+            },
+            "DSC_3356": {
+                "jpg_pretty": {
+                    "size": 10885551,
+                    "md5": "310b1d46b3dceea049f0b11b83ac2278",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_pretty/DSC_3356.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6762462,
+                    "md5": "504b8a729d571fae78e08bdc60083e1a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_plain/DSC_3356.jpg"
+                },
+                "raw": {
+                    "size": 24448501,
+                    "md5": "cc4264880fe5d9e97bc0585e70385a1b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/raw/DSC_3356.NEF"
+                }
+            },
+            "DSC_3411": {
+                "jpg_pretty": {
+                    "size": 14326740,
+                    "md5": "cb8646a159c0015ce1f45ff06a387a2f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_pretty/DSC_3411.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11002556,
+                    "md5": "5affeda9a8ccc5a5ebd5b0d6d00ebeab",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_plain/DSC_3411.jpg"
+                },
+                "raw": {
+                    "size": 27737356,
+                    "md5": "edd5bdc5caccb76bd195075150abae2b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/raw/DSC_3411.NEF"
+                }
+            },
+            "DSC_3456": {
+                "jpg_pretty": {
+                    "size": 17256752,
+                    "md5": "1ae8bcbe6fc42b5311f8a5aecc82ae37",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_pretty/DSC_3456.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12638929,
+                    "md5": "69c848122804951c928b182aaaa7c5b7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_plain/DSC_3456.jpg"
+                },
+                "raw": {
+                    "size": 30705939,
+                    "md5": "7897d7f5a6e75d08ba610c4281a7123d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/raw/DSC_3456.NEF"
+                }
+            },
+            "DSC_3336": {
+                "jpg_pretty": {
+                    "size": 14554628,
+                    "md5": "495260d372dc388807650b909110032a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_pretty/DSC_3336.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10818421,
+                    "md5": "ccc15cf9f5adcfec5d4311b47d831240",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_plain/DSC_3336.jpg"
+                },
+                "raw": {
+                    "size": 29175965,
+                    "md5": "09a72b6ed2da92ee0db1b732db28cd3e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/raw/DSC_3336.NEF"
+                }
+            },
+            "DSC_3436": {
+                "jpg_pretty": {
+                    "size": 14719857,
+                    "md5": "86b1aa636334786cfe94b4c12c747e7f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_pretty/DSC_3436.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11224130,
+                    "md5": "e150d2496af6c755302b926d4044cce1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_plain/DSC_3436.jpg"
+                },
+                "raw": {
+                    "size": 27950022,
+                    "md5": "529ba1f6659d1f48a77897f6c4006f63",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/raw/DSC_3436.NEF"
+                }
+            },
+            "DSC_3396": {
+                "jpg_pretty": {
+                    "size": 13270779,
+                    "md5": "1bf7bb2ad9e778c48fb8951d40d35ebd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_pretty/DSC_3396.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10626765,
+                    "md5": "a79eb0a401636d48199cc2227f5c30b8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_plain/DSC_3396.jpg"
+                },
+                "raw": {
+                    "size": 27813988,
+                    "md5": "049d021fdd44241c563ceaf742efd322",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/raw/DSC_3396.NEF"
+                }
+            },
+            "DSC_3451": {
+                "jpg_pretty": {
+                    "size": 14960192,
+                    "md5": "31e97c107463fac1f880849f80d592d6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_pretty/DSC_3451.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10474886,
+                    "md5": "6234ecf073aa14e3fe36cb57b51e4f9c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_plain/DSC_3451.jpg"
+                },
+                "raw": {
+                    "size": 28711910,
+                    "md5": "5951f5a7d23a0157039fb26d5cd97207",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/raw/DSC_3451.NEF"
+                }
+            },
+            "DSC_3331": {
+                "jpg_pretty": {
+                    "size": 14636257,
+                    "md5": "6a620b531b9a99a82959ffe6f5565b66",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_pretty/DSC_3331.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11027967,
+                    "md5": "e54e47b0c18d938ce18c53623ab31a8d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_plain/DSC_3331.jpg"
+                },
+                "raw": {
+                    "size": 29741197,
+                    "md5": "11b30cb83542992fb35d3e62b08eee09",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/raw/DSC_3331.NEF"
+                }
+            },
+            "DSC_3431": {
+                "jpg_pretty": {
+                    "size": 15958894,
+                    "md5": "d326b9e5c601c3a4f52bd4a8544d8041",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_pretty/DSC_3431.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12518619,
+                    "md5": "8b47a779011721654561483bbb0da282",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_plain/DSC_3431.jpg"
+                },
+                "raw": {
+                    "size": 29544030,
+                    "md5": "9f27898b4b8e8196eee409c0afdb41a5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/raw/DSC_3431.NEF"
+                }
+            },
+            "DSC_3476": {
+                "jpg_pretty": {
+                    "size": 15607861,
+                    "md5": "b1ce327c7520f2ddeefd8d410ab8b4da",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_pretty/DSC_3476.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12335286,
+                    "md5": "d1b6590c2f4e4200503f2d493bfebbf1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_plain/DSC_3476.jpg"
+                },
+                "raw": {
+                    "size": 30698550,
+                    "md5": "dba8015e26e99d07bfe3dde81bae4347",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/raw/DSC_3476.NEF"
+                }
+            },
+            "DSC_3531": {
+                "jpg_pretty": {
+                    "size": 12861068,
+                    "md5": "e6d412da4c8c1c3cf563dbc4673d6da7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_pretty/DSC_3531.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10565780,
+                    "md5": "7491f9bda8c307e6a630c422cbefd79c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_plain/DSC_3531.jpg"
+                },
+                "raw": {
+                    "size": 28678417,
+                    "md5": "d00932a03157883716eeb8c398c11d03",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/raw/DSC_3531.NEF"
+                }
+            },
+            "DSC_3471": {
+                "jpg_pretty": {
+                    "size": 14541557,
+                    "md5": "24142cc52f4651db98092db1467e808c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_pretty/DSC_3471.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12357176,
+                    "md5": "0817972ed1083fa0e4c13d54acfb72a0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_plain/DSC_3471.jpg"
+                },
+                "raw": {
+                    "size": 31530632,
+                    "md5": "d3be1910901ced6105dc79fee2820cd8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/raw/DSC_3471.NEF"
+                }
+            },
+            "DSC_3296": {
+                "jpg_pretty": {
+                    "size": 14053075,
+                    "md5": "6c31566cece88e274d92778e46e79582",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_pretty/DSC_3296.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11872067,
+                    "md5": "97220462029899fd7f49a4d15334bcf1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_plain/DSC_3296.jpg"
+                },
+                "raw": {
+                    "size": 29790934,
+                    "md5": "609bfbffc3f2386f051f8338887875be",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/raw/DSC_3296.NEF"
+                }
+            },
+            "DSC_3391": {
+                "jpg_pretty": {
+                    "size": 14034931,
+                    "md5": "e8e07e1909556f642da155003f0b40f0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_pretty/DSC_3391.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12368845,
+                    "md5": "a8b89c4874c5e2fc612deb6c29bcf0d7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_plain/DSC_3391.jpg"
+                },
+                "raw": {
+                    "size": 30122936,
+                    "md5": "dbf98d8e76a94bf226cab6a6b1aea0b0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/raw/DSC_3391.NEF"
+                }
+            },
+            "DSC_3426": {
+                "jpg_pretty": {
+                    "size": 13317295,
+                    "md5": "72fae7b8725876d44af2cf9f60a8e600",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_pretty/DSC_3426.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11048169,
+                    "md5": "3bb51de11dec71c2472917b09a650d49",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_plain/DSC_3426.jpg"
+                },
+                "raw": {
+                    "size": 28010514,
+                    "md5": "ab0fa0f1795fe5306b833449ec8b98a7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/raw/DSC_3426.NEF"
+                }
+            },
+            "DSC_3406": {
+                "jpg_pretty": {
+                    "size": 11185793,
+                    "md5": "265764351ba7a60d3123ad0d68fcf55c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_pretty/DSC_3406.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9546431,
+                    "md5": "b22741a3b339f431f19a1bafce18bde1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_plain/DSC_3406.jpg"
+                },
+                "raw": {
+                    "size": 25991762,
+                    "md5": "b7e40d6bc424b39d49208868efbacf44",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/raw/DSC_3406.NEF"
+                }
+            },
+            "DSC_3466": {
+                "jpg_pretty": {
+                    "size": 15741073,
+                    "md5": "8f69e26a9e1ecc39a8dafcc20cacaa8b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_pretty/DSC_3466.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11208792,
+                    "md5": "2d1e7c68a46364b314af4f729ba69bf5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_plain/DSC_3466.jpg"
+                },
+                "raw": {
+                    "size": 28367194,
+                    "md5": "8dd566ff1c41a2ee176b9b97da89373c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/raw/DSC_3466.NEF"
+                }
+            },
+            "DSC_3401": {
+                "jpg_pretty": {
+                    "size": 13847332,
+                    "md5": "d237a25b7c1345e180e3db294f1ad58d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_pretty/DSC_3401.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9257101,
+                    "md5": "65e94032acddb86b72bebf0ee11d7cb4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_plain/DSC_3401.jpg"
+                },
+                "raw": {
+                    "size": 26233427,
+                    "md5": "1fc280a18eb0cff587f80ce538a422aa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/raw/DSC_3401.NEF"
+                }
+            },
+            "DSC_3326": {
+                "jpg_pretty": {
+                    "size": 18368144,
+                    "md5": "65cbc30eb3aad4cf2d92b18fe25d24a4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_pretty/DSC_3326.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14379938,
+                    "md5": "40f91826fa56a453ff14ed7b37059077",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_plain/DSC_3326.jpg"
+                },
+                "raw": {
+                    "size": 31269592,
+                    "md5": "8c4cf4d276fc1dbd6151f891359671d8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/raw/DSC_3326.NEF"
+                }
+            },
+            "DSC_3341": {
+                "jpg_pretty": {
+                    "size": 12064406,
+                    "md5": "ce67782653d7a047b38395f17ffc0544",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_pretty/DSC_3341.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9369915,
+                    "md5": "3c3b424cdd69818e2230bffd362b8562",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_plain/DSC_3341.jpg"
+                },
+                "raw": {
+                    "size": 27787645,
+                    "md5": "e014ea634df2c5710a2415cac8b8abdd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/raw/DSC_3341.NEF"
+                }
+            },
+            "DSC_3321": {
+                "jpg_pretty": {
+                    "size": 17125765,
+                    "md5": "c9e40ccdb2f57bb061760eea35299487",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_pretty/DSC_3321.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13858662,
+                    "md5": "24c5b4283cded4ad5ecfb187e38823f3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_plain/DSC_3321.jpg"
+                },
+                "raw": {
+                    "size": 31294920,
+                    "md5": "d912071df567cc4fb9c02b890b1758ec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/raw/DSC_3321.NEF"
+                }
+            },
+            "DSC_3486": {
+                "jpg_pretty": {
+                    "size": 12080537,
+                    "md5": "e832b559f05e14ea4d0890aac1abc27a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_pretty/DSC_3486.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10189102,
+                    "md5": "7eb9699833e04691e6d48ccdfd4ccda2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_plain/DSC_3486.jpg"
+                },
+                "raw": {
+                    "size": 27745535,
+                    "md5": "9384bc8e9a668fdd1da5127555296925",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/raw/DSC_3486.NEF"
+                }
+            },
+            "DSC_3366": {
+                "jpg_pretty": {
+                    "size": 14905571,
+                    "md5": "05954f28eee34bccfc47aa04b6a987a5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_pretty/DSC_3366.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12178243,
+                    "md5": "f1966da77c031aca4b710f295c7a7f8d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_plain/DSC_3366.jpg"
+                },
+                "raw": {
+                    "size": 30185532,
+                    "md5": "01f0b714519d5603d2e081f7dfc6d5fb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/raw/DSC_3366.NEF"
+                }
+            },
+            "DSC_3421": {
+                "jpg_pretty": {
+                    "size": 15316833,
+                    "md5": "758e9c4893fd64a4a85277041cff6f6c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_pretty/DSC_3421.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12043862,
+                    "md5": "b455efd680068374f174f182deb3986a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_plain/DSC_3421.jpg"
+                },
+                "raw": {
+                    "size": 30523346,
+                    "md5": "57fcba8f10653a625ce38dd1ba5453c6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/raw/DSC_3421.NEF"
+                }
+            },
+            "DSC_3481": {
+                "jpg_pretty": {
+                    "size": 14621157,
+                    "md5": "2e8f539b79ddd75e07abb5853e20ad77",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_pretty/DSC_3481.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11432344,
+                    "md5": "a6c81c214849761268a5efb899f0f558",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_plain/DSC_3481.jpg"
+                },
+                "raw": {
+                    "size": 28367765,
+                    "md5": "55fd4e088c64eeedd247039c34d11aea",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/raw/DSC_3481.NEF"
+                }
+            },
+            "DSC_3361": {
+                "jpg_pretty": {
+                    "size": 11717278,
+                    "md5": "e22c889bf3726da49a5e7e0f9ff2e8d6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_pretty/DSC_3361.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9005711,
+                    "md5": "1659ca29da59b7e78dac23d672e04d1f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_plain/DSC_3361.jpg"
+                },
+                "raw": {
+                    "size": 27997931,
+                    "md5": "2bb26915bea91375319f8478c51bda1f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/raw/DSC_3361.NEF"
+                }
+            },
+            "DSC_3461": {
+                "jpg_pretty": {
+                    "size": 16553950,
+                    "md5": "9a903892a307e868e37b150bd776785c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_pretty/DSC_3461.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12186061,
+                    "md5": "1eec94fa3a595d2f93bf395c9a78c473",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/jpg_plain/DSC_3461.jpg"
+                },
+                "raw": {
+                    "size": 30406950,
+                    "md5": "3b8f6534fa657122bdbe998182639228",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/reinforced_concrete_01/raw/DSC_3461.NEF"
+                }
+            }
+        }
+    }
+}

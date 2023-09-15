@@ -1,0 +1,100 @@
+{
+    "evs_cap": 21,
+    "type": 0,
+    "tags": [
+        "path",
+        "water tower",
+        "view",
+        "grass"
+    ],
+    "date_published": 1511996400,
+    "name": "Northcliff",
+    "categories": [
+        "outdoor",
+        "nature",
+        "sunrise-sunset",
+        "clear",
+        "low contrast",
+        "natural light",
+        "urban"
+    ],
+    "coords": [
+        -26.145092,
+        27.968021
+    ],
+    "date_taken": 1404574320,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "files_hash": "50c64dade344c940da7ffff2d8b83c3c858d5da3",
+    "download_count": 19146,
+    "files": {
+        "tonemapped": {
+            "size": 3806357,
+            "md5": "ccfbca734ccc166e1b2dbb27d414e450",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/northcliff.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101101626,
+                    "md5": "8030308d4729fd5c856d635d78cff436",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/northcliff_8k.hdr"
+                },
+                "exr": {
+                    "size": 84427855,
+                    "md5": "af1a04c5f74d8a116f133d37e030c23c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/northcliff_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 376603400,
+                    "md5": "e7ce62f38ee095e9467b26d57c1a2879",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/northcliff_16k.hdr"
+                },
+                "exr": {
+                    "size": 297533769,
+                    "md5": "b4b3bc2c1630ad63084ef5636f21087e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/northcliff_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25446330,
+                    "md5": "ef2505bdba53bf27da0c6249ef09a47e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/northcliff_4k.hdr"
+                },
+                "exr": {
+                    "size": 21038025,
+                    "md5": "84e022401f1be460072cf2a3b9728c48",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/northcliff_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6242783,
+                    "md5": "5f7c1588064cc63b38e4c065e29b6189",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/northcliff_2k.hdr"
+                },
+                "exr": {
+                    "size": 5254815,
+                    "md5": "e939b74a66c9d8cab279245977db7533",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/northcliff_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1508988,
+                    "md5": "c5cda53168f82c5589143f65a3bd20f7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/northcliff_1k.hdr"
+                },
+                "exr": {
+                    "size": 1332923,
+                    "md5": "a9f7319485f8cb16c9f45d126247ba27",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/northcliff_1k.exr"
+                }
+            }
+        }
+    }
+}

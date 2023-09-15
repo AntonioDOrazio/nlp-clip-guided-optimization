@@ -1,0 +1,99 @@
+{
+    "evs_cap": 6,
+    "type": 0,
+    "tags": [
+        "road",
+        "path",
+        "field",
+        "farm"
+    ],
+    "date_published": 1522879200,
+    "name": "Mud Road",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "midday",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1455619320,
+    "authors": {
+        "Sergey Rudavin": "All"
+    },
+    "sponsors": [
+        "3567764"
+    ],
+    "files_hash": "fdbb6b32919a06714c168315ac57353b50f36070",
+    "download_count": 50696,
+    "files": {
+        "tonemapped": {
+            "size": 4883917,
+            "md5": "766b625a45b9fd9ae27cb51682f68ad2",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/mud_road.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 98869324,
+                    "md5": "c4bd5c865a61ed09588eab71b70c85a9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/mud_road_8k.hdr"
+                },
+                "exr": {
+                    "size": 76874432,
+                    "md5": "b23fe24c9b5a2ef0171d65ced0bf0de6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/mud_road_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 369375581,
+                    "md5": "353890d37ecf885e1c85edbd51a8e554",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/mud_road_16k.hdr"
+                },
+                "exr": {
+                    "size": 279787385,
+                    "md5": "2a6e13f9676735fd68e61d0875af84e1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/mud_road_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25146265,
+                    "md5": "712bee843d2bc29f76e30ff005d8caf6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/mud_road_4k.hdr"
+                },
+                "exr": {
+                    "size": 19694804,
+                    "md5": "faa83023f16c6d78462515ecd1e70fa0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/mud_road_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6269833,
+                    "md5": "bab4fe4449a42c3ff28381901b78ce73",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/mud_road_2k.hdr"
+                },
+                "exr": {
+                    "size": 4985033,
+                    "md5": "4dfd23a6287c94864e2ad87e5683c493",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/mud_road_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1581783,
+                    "md5": "6651beac8bc6656e60b826783e1a531b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/mud_road_1k.hdr"
+                },
+                "exr": {
+                    "size": 1288164,
+                    "md5": "02e22b9727c3c72198a2da21ea01bb59",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/mud_road_1k.exr"
+                }
+            }
+        }
+    }
+}

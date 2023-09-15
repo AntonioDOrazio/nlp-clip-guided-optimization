@@ -1,0 +1,433 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "whitebalance": 5400,
+    "date_published": 1551343321,
+    "name": "Pedestrian Overpass",
+    "categories": [
+        "outdoor",
+        "urban",
+        "sunrise-sunset",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1551289140,
+    "coords": [
+        -26.13324253,
+        27.93746079
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "8571269"
+    ],
+    "backplates": true,
+    "tags": [
+        "sun",
+        "highway",
+        "bridge",
+        "walkway",
+        "railing",
+        "suspension",
+        "overpass",
+        "backplates"
+    ],
+    "files_hash": "3e310dcd2b8689929e5ad2c21f93a9922ae80097",
+    "download_count": 17712,
+    "files": {
+        "tonemapped": {
+            "size": 3533815,
+            "md5": "eff34b754f4653d3b95e32d4eec39560",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/pedestrian_overpass.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 98722260,
+                    "md5": "0aa05ee9d921871a961c9f2946735772",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/pedestrian_overpass_8k.hdr"
+                },
+                "exr": {
+                    "size": 76088735,
+                    "md5": "46fed36c9a580ddb88ec653b6a354cb7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/pedestrian_overpass_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 376691231,
+                    "md5": "b336d99f661409f8ccd90ed0f8462f1c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/pedestrian_overpass_16k.hdr"
+                },
+                "exr": {
+                    "size": 284107590,
+                    "md5": "7ed9d62f41336052738f13b15164a131",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/pedestrian_overpass_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24995854,
+                    "md5": "4ea1d1127e788e4a879e7ed53e0e2364",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/pedestrian_overpass_4k.hdr"
+                },
+                "exr": {
+                    "size": 19611821,
+                    "md5": "c5824222aa36709e25555810ffedcc08",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/pedestrian_overpass_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6158536,
+                    "md5": "996b62bc15f90aab5890310d27617094",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/pedestrian_overpass_2k.hdr"
+                },
+                "exr": {
+                    "size": 5081429,
+                    "md5": "a5c124ddd68f8aeee9d900eeb3471d0b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/pedestrian_overpass_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1513980,
+                    "md5": "b52d400303d1578413b7283eb1e64e6c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/pedestrian_overpass_1k.hdr"
+                },
+                "exr": {
+                    "size": 1363277,
+                    "md5": "4ab66f9a5b4163ce6dcedb2a09c247e6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/pedestrian_overpass_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "DSC00327": {
+                "jpg_pretty": {
+                    "size": 9409891,
+                    "md5": "480b5bd793611f8c3b4bf03b15a740d4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_pretty/DSC00327.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6657135,
+                    "md5": "d9d97d6d0c80739b423f98781132e96a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_plain/DSC00327.jpg"
+                },
+                "raw": {
+                    "size": 16285696,
+                    "md5": "c6d8c5ddc7688d7f884722e4868eb543",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/raw/DSC00327.ARW"
+                }
+            },
+            "DSC00416": {
+                "jpg_pretty": {
+                    "size": 10701603,
+                    "md5": "b34666451a5f796b2ae1e67c622cf1e0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_pretty/DSC00416.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7248857,
+                    "md5": "96845e0dddc876914b068d1116005149",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_plain/DSC00416.jpg"
+                },
+                "raw": {
+                    "size": 16318464,
+                    "md5": "09d6a29f22fa52c70bbd7e0727c377ac",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/raw/DSC00416.ARW"
+                }
+            },
+            "DSC00407": {
+                "jpg_pretty": {
+                    "size": 9806861,
+                    "md5": "0509007559f7d69f5fe6d8eaf2269092",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_pretty/DSC00407.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6885640,
+                    "md5": "2071a7f66639468a07dab24193c3d0db",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_plain/DSC00407.jpg"
+                },
+                "raw": {
+                    "size": 16285696,
+                    "md5": "98b40a2323adbb2ddf0139bf3cb3fe9e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/raw/DSC00407.ARW"
+                }
+            },
+            "DSC00367": {
+                "jpg_pretty": {
+                    "size": 11345811,
+                    "md5": "540defaca03d0ca653aaae5e570dbf1f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_pretty/DSC00367.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7536260,
+                    "md5": "3a8eafc68c7663e49482adcd4031838b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_plain/DSC00367.jpg"
+                },
+                "raw": {
+                    "size": 16351232,
+                    "md5": "70b683842441c2dfa2afe388291fdd4e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/raw/DSC00367.ARW"
+                }
+            },
+            "DSC00400": {
+                "jpg_pretty": {
+                    "size": 9202564,
+                    "md5": "b472bddf88ddf9b6e836d04753f1d931",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_pretty/DSC00400.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6503651,
+                    "md5": "8c81cd3f4edd7bc8c3f9184c4912d7a6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_plain/DSC00400.jpg"
+                },
+                "raw": {
+                    "size": 16220160,
+                    "md5": "4f66c10a1a298fefe2d1c73d0eef869e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/raw/DSC00400.ARW"
+                }
+            },
+            "DSC00411": {
+                "jpg_pretty": {
+                    "size": 10975128,
+                    "md5": "de1ef24aded37a07415885ea48161636",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_pretty/DSC00411.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7444099,
+                    "md5": "78e6ccd6ec0d839350899bb8a2627820",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_plain/DSC00411.jpg"
+                },
+                "raw": {
+                    "size": 16351232,
+                    "md5": "32493453340bdb5a1a764e1071078c72",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/raw/DSC00411.ARW"
+                }
+            },
+            "DSC00368": {
+                "jpg_pretty": {
+                    "size": 7713017,
+                    "md5": "798367bfea997b02dfeee32f0e9606be",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_pretty/DSC00368.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7886883,
+                    "md5": "abbd7f2d8d8b1e13904df77f0bdb3759",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_plain/DSC00368.jpg"
+                },
+                "raw": {
+                    "size": 16384000,
+                    "md5": "10afd247d13453c2f8685798f6e2ccea",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/raw/DSC00368.ARW"
+                }
+            },
+            "DSC00325": {
+                "jpg_pretty": {
+                    "size": 9020676,
+                    "md5": "2bb6f56add52631dda69e5f5748faef8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_pretty/DSC00325.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6427742,
+                    "md5": "f110dcf5e4e642c7eacdcb724f90b184",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_plain/DSC00325.jpg"
+                },
+                "raw": {
+                    "size": 16285696,
+                    "md5": "2bb4a524b87fd142e739f8bec4ad8987",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/raw/DSC00325.ARW"
+                }
+            },
+            "DSC00403": {
+                "jpg_pretty": {
+                    "size": 9817018,
+                    "md5": "1bb3fd35b5dc858ac92cc7cfed1bdb9d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_pretty/DSC00403.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6932674,
+                    "md5": "62a983ab6bcc4ce318875e0b695dc646",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_plain/DSC00403.jpg"
+                },
+                "raw": {
+                    "size": 16318464,
+                    "md5": "64398a0d04fad708d5c75995a4c05dc2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/raw/DSC00403.ARW"
+                }
+            },
+            "DSC00414": {
+                "jpg_pretty": {
+                    "size": 12052100,
+                    "md5": "135aa0e7be1d56ceeb1dee3084bb31ee",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_pretty/DSC00414.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7883377,
+                    "md5": "9bdacc538918d073b177d5882972c754",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_plain/DSC00414.jpg"
+                },
+                "raw": {
+                    "size": 16416768,
+                    "md5": "dd9c7b831b1f21f385bc0d4458363ba5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/raw/DSC00414.ARW"
+                }
+            },
+            "DSC00380": {
+                "jpg_pretty": {
+                    "size": 10972775,
+                    "md5": "89fb71286d71d34638260e844b257685",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_pretty/DSC00380.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7562643,
+                    "md5": "4db0fdcb0fb95b11eb990a5cd4b22eba",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_plain/DSC00380.jpg"
+                },
+                "raw": {
+                    "size": 16318464,
+                    "md5": "abda82dfec663baccffb18ba36e56bc2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/raw/DSC00380.ARW"
+                }
+            },
+            "DSC00320": {
+                "jpg_pretty": {
+                    "size": 9607500,
+                    "md5": "e184f8ea8572aa7552495007f250653c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_pretty/DSC00320.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6878742,
+                    "md5": "fd389c45d11225fa1f09df73bdd20cbe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_plain/DSC00320.jpg"
+                },
+                "raw": {
+                    "size": 16318464,
+                    "md5": "3b952b6e619cb3508e1a8ac831b8b676",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/raw/DSC00320.ARW"
+                }
+            },
+            "DSC00375": {
+                "jpg_pretty": {
+                    "size": 12073529,
+                    "md5": "7e77ce2bbf93a232057a3c951a140172",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_pretty/DSC00375.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7876153,
+                    "md5": "ad3ebbff1a032c9ca26479e6ff9573f7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_plain/DSC00375.jpg"
+                },
+                "raw": {
+                    "size": 16449536,
+                    "md5": "6dd903a09ae0fe3ca2d04449db4fb4dc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/raw/DSC00375.ARW"
+                }
+            },
+            "DSC00397": {
+                "jpg_pretty": {
+                    "size": 7820921,
+                    "md5": "c8aabfe7548bc2e1adccbfda2a71c4e9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_pretty/DSC00397.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5991342,
+                    "md5": "675338eed34eaa557556cd7183316c10",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_plain/DSC00397.jpg"
+                },
+                "raw": {
+                    "size": 16187392,
+                    "md5": "44794c3469cd9fafafc3d4e2a5ba3a90",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/raw/DSC00397.ARW"
+                }
+            },
+            "DSC00322": {
+                "jpg_pretty": {
+                    "size": 8386717,
+                    "md5": "3d3bda6a2668ef460c1e462c5cc0aaba",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_pretty/DSC00322.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6241809,
+                    "md5": "535863900856830f7ec277f4ff4ff575",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_plain/DSC00322.jpg"
+                },
+                "raw": {
+                    "size": 16220160,
+                    "md5": "fe6487cfd3a6a888157c871e632c309c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/raw/DSC00322.ARW"
+                }
+            },
+            "DSC00388": {
+                "jpg_pretty": {
+                    "size": 8732824,
+                    "md5": "a749a744a9dadc000730d937d0cf8271",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_pretty/DSC00388.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5983404,
+                    "md5": "50dd01740973065185cfae737a296ef6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_plain/DSC00388.jpg"
+                },
+                "raw": {
+                    "size": 16220160,
+                    "md5": "50da766389c72782200ce587375366fc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/raw/DSC00388.ARW"
+                }
+            },
+            "DSC00370": {
+                "jpg_pretty": {
+                    "size": 11181929,
+                    "md5": "63f8034b95aa23bb6307cab83a7f91fa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_pretty/DSC00370.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7697599,
+                    "md5": "124c2b02ddbc60cb46b62b978077ad1a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_plain/DSC00370.jpg"
+                },
+                "raw": {
+                    "size": 16351232,
+                    "md5": "c208b2762179e637b603333c244f0b52",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/raw/DSC00370.ARW"
+                }
+            },
+            "DSC00394": {
+                "jpg_pretty": {
+                    "size": 8679119,
+                    "md5": "214720552b96c77f06d9bf07debf27b5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_pretty/DSC00394.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6651845,
+                    "md5": "54f6c33bcf7dcfc47906f540d599e7e5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_plain/DSC00394.jpg"
+                },
+                "raw": {
+                    "size": 16285696,
+                    "md5": "88fd09d98ab2e8ddd1775fb9ebb7d300",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/raw/DSC00394.ARW"
+                }
+            },
+            "DSC00373": {
+                "jpg_pretty": {
+                    "size": 13308572,
+                    "md5": "b9aad4d838ee53a395311ba841b7af80",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_pretty/DSC00373.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8687826,
+                    "md5": "d275516ca1bbfd1dad5d3f6280fef22e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/jpg_plain/DSC00373.jpg"
+                },
+                "raw": {
+                    "size": 16482304,
+                    "md5": "ed61d1c3bba11ff91c8201351f70bcd3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pedestrian_overpass/raw/DSC00373.ARW"
+                }
+            }
+        }
+    }
+}

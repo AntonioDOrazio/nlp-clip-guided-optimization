@@ -1,0 +1,105 @@
+{
+    "evs_cap": 6,
+    "type": 0,
+    "tags": [
+        "architecture",
+        "berlin",
+        "germany",
+        "autumn",
+        "glass",
+        "skylight"
+    ],
+    "date_published": 1508536800,
+    "name": "Paul Lobe Haus",
+    "categories": [
+        "outdoor",
+        "indoor",
+        "urban",
+        "midday",
+        "overcast",
+        "medium contrast",
+        "natural light"
+    ],
+    "date_taken": 1478346840,
+    "coords": [
+        52.520142,
+        13.373622
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "7947474"
+    ],
+    "files_hash": "72f8a32ef4edd62b6cbff72280142e1b4383736c",
+    "download_count": 107569,
+    "files": {
+        "tonemapped": {
+            "size": 4855208,
+            "md5": "8cb80533a8a806ca08c6ca9f93ee8bc2",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/paul_lobe_haus.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 99396912,
+                    "md5": "172ae2f778c45c2437219ad70f73eac0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/paul_lobe_haus_8k.hdr"
+                },
+                "exr": {
+                    "size": 81193416,
+                    "md5": "7368fbbb18a902b00d6fd2c1de3f101b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/paul_lobe_haus_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 367861688,
+                    "md5": "10137b1bea7e01b1eaa5c6eade4ee6f8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/paul_lobe_haus_16k.hdr"
+                },
+                "exr": {
+                    "size": 283384051,
+                    "md5": "1d8962d637b3455f25c8a1c9ac81fd00",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/paul_lobe_haus_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25523496,
+                    "md5": "2c495df61922610ca242987b7a759470",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/paul_lobe_haus_4k.hdr"
+                },
+                "exr": {
+                    "size": 21903129,
+                    "md5": "d62a23b6db9844e03719a9471e3acb95",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/paul_lobe_haus_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6508912,
+                    "md5": "2d0134db4ac1a4022aeec11714c14e4b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/paul_lobe_haus_2k.hdr"
+                },
+                "exr": {
+                    "size": 5803981,
+                    "md5": "b3620a85d2ff0b31d9fd8932164de5b8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/paul_lobe_haus_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1662960,
+                    "md5": "ffffdfe85e3d562b2228d64bf3b89742",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/paul_lobe_haus_1k.hdr"
+                },
+                "exr": {
+                    "size": 1525809,
+                    "md5": "1f76f2f0b4dfcba088179b02bfb0a709",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/paul_lobe_haus_1k.exr"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "evs_cap": 15,
+    "type": 0,
+    "whitebalance": 6300,
+    "tags": [
+        "abandoned",
+        "industrial",
+        "factory",
+        "rust",
+        "rubble",
+        "electrical",
+        "machine",
+        "brick"
+    ],
+    "name": "Distribution Board",
+    "categories": [
+        "natural light",
+        "urban",
+        "medium contrast",
+        "indoor",
+        "morning-afternoon"
+    ],
+    "date_taken": 1677072900,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "info": null,
+    "files_hash": "4b665779100acfd669cb4bf66cf01530f9b21317",
+    "date_published": 1679097600,
+    "download_count": 11506,
+    "files": {
+        "tonemapped": {
+            "size": 40907377,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/distribution_board.jpg",
+            "md5": "f6329cd2c6fc1def1e6b26b101fabe68"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 99113632,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/distribution_board_8k.hdr",
+                    "md5": "3483352c8f5689de9595c6204bdcebaa"
+                },
+                "exr": {
+                    "size": 84884889,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/distribution_board_8k.exr",
+                    "md5": "0c7cc08780d001cbf7903a6ec5a7646a"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 363269578,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/distribution_board_16k.hdr",
+                    "md5": "5a5d90fdd7ae9d142b9bc7c01bbeece5"
+                },
+                "exr": {
+                    "size": 292508214,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/distribution_board_16k.exr",
+                    "md5": "22703d99da8d13584e8262079618d2e8"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26009657,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/distribution_board_4k.hdr",
+                    "md5": "2bfcddc11636eed8b4891a23998a2f4c"
+                },
+                "exr": {
+                    "size": 23390676,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/distribution_board_4k.exr",
+                    "md5": "cfcab4ac17c4234fa92ffb4bb904f506"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6734703,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/distribution_board_2k.hdr",
+                    "md5": "77ece41bea18964032e37d817813497c"
+                },
+                "exr": {
+                    "size": 6288228,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/distribution_board_2k.exr",
+                    "md5": "ec39a72ff85fbcfba2a22de06a30a3a6"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1729743,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/distribution_board_1k.hdr",
+                    "md5": "6897594ad15e5b7eb1ad8bdf0efaf646"
+                },
+                "exr": {
+                    "size": 1668931,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/distribution_board_1k.exr",
+                    "md5": "030e6154f980e2d44a414505c5dde581"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 78485766,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/distribution_board.zip",
+            "md5": "621041c5cde6c9be2700c153c725216e"
+        }
+    }
+}

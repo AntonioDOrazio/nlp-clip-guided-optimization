@@ -1,0 +1,117 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5303,
+    "tags": [
+        "shelves",
+        "fluorescent",
+        "boxes",
+        "store"
+    ],
+    "name": "Gear Store",
+    "categories": [
+        "indoor",
+        "artificial light",
+        "urban",
+        "medium contrast"
+    ],
+    "date_taken": 1656427500,
+    "coords": [
+        -25.944854735605123,
+        28.14081506257142
+    ],
+    "info": null,
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "date_published": 1663718400,
+    "files_hash": "140a522bf8fedca2ae99a76c69d6acad63fd1bbd",
+    "download_count": 9069,
+    "files": {
+        "tonemapped": {
+            "size": 37564275,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/gear_store.jpg",
+            "md5": "fa390e18ad88b2cc6384e81729b72d68"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 97184696,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/gear_store_8k.hdr",
+                    "md5": "0a10ff19a64e5552b009b9a73ed1077a"
+                },
+                "exr": {
+                    "size": 383547171,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/gear_store_8k.exr",
+                    "md5": "47149b4612b36ba4d505b15afab06645"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 357894182,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/gear_store_16k.hdr",
+                    "md5": "0ab95b774d667499638981efa5837394"
+                },
+                "exr": {
+                    "size": 1516234398,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/gear_store_16k.exr",
+                    "md5": "463c828d4b8c9cb8db9442c83d544d2a"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24989729,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/gear_store_4k.hdr",
+                    "md5": "b62a799bc767b25c8aecb7ffc3fea0dc"
+                },
+                "exr": {
+                    "size": 96361943,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/gear_store_4k.exr",
+                    "md5": "c3f0e6cafbb3e90016dfa237379cac5a"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 777644140,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/gear_store_24k.hdr",
+                    "md5": "102dd9e40af969b2ec565eae3313c921"
+                },
+                "exr": {
+                    "size": 3383169179,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/gear_store_24k.exr",
+                    "md5": "0d46cea7eecf50fa1126ca9acf238d49"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6339788,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/gear_store_2k.hdr",
+                    "md5": "b15822ba67d35a8976e86cccb6df8ad6"
+                },
+                "exr": {
+                    "size": 24189849,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/gear_store_2k.exr",
+                    "md5": "825a5624e6539eedbf3e23d1aaf9c529"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1616743,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/gear_store_1k.hdr",
+                    "md5": "099f7e6cce5a383e45aa37b66cceb9b3"
+                },
+                "exr": {
+                    "size": 6083504,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/gear_store_1k.exr",
+                    "md5": "bdffe5ad61c6af45fe5d286cfdb4cba2"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 61188798,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/gear_store.zip",
+            "md5": "0d8c174cfa9e7dadc64654c43f7bf1ee"
+        }
+    }
+}

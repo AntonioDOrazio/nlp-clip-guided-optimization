@@ -1,0 +1,520 @@
+{
+    "evs_cap": 7,
+    "type": 0,
+    "whitebalance": 3800,
+    "tags": [
+        "curtain",
+        "couch",
+        "studio",
+        "text",
+        "window",
+        "chair",
+        "backplates"
+    ],
+    "name": "Marry Hall",
+    "categories": [
+        "studio",
+        "indoor",
+        "urban",
+        "natural light",
+        "morning-afternoon",
+        "artificial light",
+        "low contrast"
+    ],
+    "backplates": true,
+    "date_taken": 1650028320,
+    "coords": [
+        49.237221,
+        28.406338
+    ],
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "date_published": 1656460800,
+    "files_hash": "74ddf0962e1d652cdc401238a3de540c269b4743",
+    "download_count": 14887,
+    "files": {
+        "tonemapped": {
+            "size": 38095794,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/marry_hall.jpg",
+            "md5": "cb45ce4584724850e18cbdf986326af8"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 98422467,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/marry_hall_8k.hdr",
+                    "md5": "cff400b7f6222052b56681bd9e205a91"
+                },
+                "exr": {
+                    "size": 73748407,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/marry_hall_8k.exr",
+                    "md5": "076d47d707d9567c1e9850222d546045"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 371172490,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/marry_hall_16k.hdr",
+                    "md5": "b00d397983fb996f307099afd94032e8"
+                },
+                "exr": {
+                    "size": 259630861,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/marry_hall_16k.exr",
+                    "md5": "6027e65179d021bb9bea5097d6b759e7"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25284133,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/marry_hall_4k.hdr",
+                    "md5": "59f87614a9958e7633fc38e8a983a341"
+                },
+                "exr": {
+                    "size": 19544993,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/marry_hall_4k.exr",
+                    "md5": "5b579d4c0842106552d2756596caab59"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6412837,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/marry_hall_2k.hdr",
+                    "md5": "8151e5a0418e3026d54b2bb860a0621b"
+                },
+                "exr": {
+                    "size": 5015730,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/marry_hall_2k.exr",
+                    "md5": "a34a1cd3024a28bf1b94666e8e269cae"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1619181,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/marry_hall_1k.hdr",
+                    "md5": "09ab9ddddfec1fd41dead7e212e4f942"
+                },
+                "exr": {
+                    "size": 1273394,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/marry_hall_1k.exr",
+                    "md5": "f08011979a390f7e0e4b59c71d72f1d7"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 71888524,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/marry_hall.zip",
+            "md5": "c06bbb2322d262c174cfd3a2bab80009"
+        },
+        "backplates": {
+            "10": {
+                "jpg_pretty": {
+                    "size": 13293160,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_pretty/10.jpg",
+                    "md5": "fa8d2580fdeb661342eb9ea3e4272557"
+                },
+                "jpg_plain": {
+                    "size": 8690392,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_plain/10.jpg",
+                    "md5": "a8d940fd90be0bf437b4f139ba7d4e5e"
+                },
+                "raw": {
+                    "size": 23481969,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/raw/10.NEF",
+                    "md5": "5506961633b097553d61b013ccee0921"
+                }
+            },
+            "11": {
+                "jpg_pretty": {
+                    "size": 12229792,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_pretty/11.jpg",
+                    "md5": "671e7936ce75d4583a7f25fe678755ff"
+                },
+                "jpg_plain": {
+                    "size": 9253714,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_plain/11.jpg",
+                    "md5": "80ac2e29fe6bb81bd3d9526361f7a4d6"
+                },
+                "raw": {
+                    "size": 24228591,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/raw/11.NEF",
+                    "md5": "351108043d61dfbff9cfcd51b668b621"
+                }
+            },
+            "12": {
+                "jpg_pretty": {
+                    "size": 12135125,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_pretty/12.jpg",
+                    "md5": "5007957b7ef3ca1a1ca63a5adabf7048"
+                },
+                "jpg_plain": {
+                    "size": 8714191,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_plain/12.jpg",
+                    "md5": "b39f44c46297456401aa0965f725d32e"
+                },
+                "raw": {
+                    "size": 23876334,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/raw/12.NEF",
+                    "md5": "b9c041be88cb3e3952cecabb224ae5eb"
+                }
+            },
+            "13": {
+                "jpg_pretty": {
+                    "size": 12158335,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_pretty/13.jpg",
+                    "md5": "af048b97721a860f210680dee0d5710c"
+                },
+                "jpg_plain": {
+                    "size": 9427911,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_plain/13.jpg",
+                    "md5": "1c2322de69f4aa6f122c37a755b2839f"
+                },
+                "raw": {
+                    "size": 24267114,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/raw/13.NEF",
+                    "md5": "cb22097ffe2e60973a226e75f18945dc"
+                }
+            },
+            "14": {
+                "jpg_pretty": {
+                    "size": 12245175,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_pretty/14.jpg",
+                    "md5": "94784bf24308e8e35b69b35d05bedbe6"
+                },
+                "jpg_plain": {
+                    "size": 8845853,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_plain/14.jpg",
+                    "md5": "9c904514652c5a178e7c06bed11f1872"
+                },
+                "raw": {
+                    "size": 24239516,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/raw/14.NEF",
+                    "md5": "7a03f6320c8b23fe2348edaa91c298bd"
+                }
+            },
+            "15": {
+                "jpg_pretty": {
+                    "size": 10688253,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_pretty/15.jpg",
+                    "md5": "0518be67f51b8aba41c418838a5a5f9d"
+                },
+                "jpg_plain": {
+                    "size": 8879902,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_plain/15.jpg",
+                    "md5": "16f7432b667a3debb4be75c7968f7c21"
+                },
+                "raw": {
+                    "size": 25091519,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/raw/15.NEF",
+                    "md5": "ee6a885c72231bb963014188705a5668"
+                }
+            },
+            "16": {
+                "jpg_pretty": {
+                    "size": 11277447,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_pretty/16.jpg",
+                    "md5": "d36069ff25a714a41fa7e648ca96855f"
+                },
+                "jpg_plain": {
+                    "size": 8625558,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_plain/16.jpg",
+                    "md5": "d2c364c6b6c77e29d26db18047045eed"
+                },
+                "raw": {
+                    "size": 24632902,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/raw/16.NEF",
+                    "md5": "ca1a0626d111cc9aab2f073e969bcf4d"
+                }
+            },
+            "17": {
+                "jpg_pretty": {
+                    "size": 13789847,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_pretty/17.jpg",
+                    "md5": "867e6ccc5f14572a33fea65b1e4766ce"
+                },
+                "jpg_plain": {
+                    "size": 9072660,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_plain/17.jpg",
+                    "md5": "452547c03865eb7e2c071b850b657647"
+                },
+                "raw": {
+                    "size": 23521645,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/raw/17.NEF",
+                    "md5": "58db40d26bcb8d82a59e2b33acece6b0"
+                }
+            },
+            "18": {
+                "jpg_pretty": {
+                    "size": 12985810,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_pretty/18.jpg",
+                    "md5": "c4f73392128237089ffdfd8a46c5542d"
+                },
+                "jpg_plain": {
+                    "size": 9227009,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_plain/18.jpg",
+                    "md5": "7f666263abc45b77ec10a0b4fffdfa5d"
+                },
+                "raw": {
+                    "size": 24071206,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/raw/18.NEF",
+                    "md5": "1f2ad40600ffc6c9acc6eedc8acfc12d"
+                }
+            },
+            "19": {
+                "jpg_pretty": {
+                    "size": 14586900,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_pretty/19.jpg",
+                    "md5": "5be110e7051917e4fd9fe6df127cd5c9"
+                },
+                "jpg_plain": {
+                    "size": 9113586,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_plain/19.jpg",
+                    "md5": "21e16a2614ce9c91cc249e51be78a772"
+                },
+                "raw": {
+                    "size": 23725445,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/raw/19.NEF",
+                    "md5": "c1a93f2fcef67bae1d6a874f726a4d4b"
+                }
+            },
+            "20": {
+                "jpg_pretty": {
+                    "size": 12883497,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_pretty/20.jpg",
+                    "md5": "8c2e63542270049943c5fbaeed2235e9"
+                },
+                "jpg_plain": {
+                    "size": 9083368,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_plain/20.jpg",
+                    "md5": "df6bc5413cba00a2b9ff36baaf116178"
+                },
+                "raw": {
+                    "size": 23638987,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/raw/20.NEF",
+                    "md5": "bb8a3071e2e7b7262935bba66ef79713"
+                }
+            },
+            "21": {
+                "jpg_pretty": {
+                    "size": 13605825,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_pretty/21.jpg",
+                    "md5": "1e833ba9e55230f6fe47367bd7f7479c"
+                },
+                "jpg_plain": {
+                    "size": 8981676,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_plain/21.jpg",
+                    "md5": "9bb00016d5de4ef61d1f9752ea538c23"
+                },
+                "raw": {
+                    "size": 23235160,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/raw/21.NEF",
+                    "md5": "4cbbca264aaca1f5f5a99a3bb29ec432"
+                }
+            },
+            "22": {
+                "jpg_pretty": {
+                    "size": 13023525,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_pretty/22.jpg",
+                    "md5": "d23050478b06015259eea4aaf11b774a"
+                },
+                "jpg_plain": {
+                    "size": 9207879,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_plain/22.jpg",
+                    "md5": "e360578776be087c315e56f84b96dfc8"
+                },
+                "raw": {
+                    "size": 23680056,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/raw/22.NEF",
+                    "md5": "cc516b9548dfcda80848838cc2e7ed1c"
+                }
+            },
+            "23": {
+                "jpg_pretty": {
+                    "size": 11529068,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_pretty/23.jpg",
+                    "md5": "1472dc4fda547ca72b53819f730d6819"
+                },
+                "jpg_plain": {
+                    "size": 8523103,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_plain/23.jpg",
+                    "md5": "d959f07f81fea9bbca63d59cb99b5704"
+                },
+                "raw": {
+                    "size": 23725815,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/raw/23.NEF",
+                    "md5": "45237ea05109119480e0fe5a951f30a7"
+                }
+            },
+            "24": {
+                "jpg_pretty": {
+                    "size": 11868840,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_pretty/24.jpg",
+                    "md5": "c7ca25e86fe7c7db9864b6aa7d7d3c06"
+                },
+                "jpg_plain": {
+                    "size": 8517920,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_plain/24.jpg",
+                    "md5": "afb754f67aba248a06b91223f36d5c87"
+                },
+                "raw": {
+                    "size": 23760813,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/raw/24.NEF",
+                    "md5": "1f27e4d7540bcb726a78512b18526487"
+                }
+            },
+            "01": {
+                "jpg_pretty": {
+                    "size": 10644055,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_pretty/01.jpg",
+                    "md5": "4190a1e6839eef6b691677e4c1021566"
+                },
+                "jpg_plain": {
+                    "size": 8829925,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_plain/01.jpg",
+                    "md5": "c597a65de5c74dfdb0a619f8f6a325d4"
+                },
+                "raw": {
+                    "size": 24002202,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/raw/01.NEF",
+                    "md5": "08de561f675988b95197baa943e300f1"
+                }
+            },
+            "02": {
+                "jpg_pretty": {
+                    "size": 11156182,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_pretty/02.jpg",
+                    "md5": "9d1199714453ff8cf3d67876bbc06567"
+                },
+                "jpg_plain": {
+                    "size": 8726940,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_plain/02.jpg",
+                    "md5": "a2cd8b368f7fcaf80dcd6026e78353c7"
+                },
+                "raw": {
+                    "size": 24154827,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/raw/02.NEF",
+                    "md5": "d0d2faae8cbafffb20bb4a72ce65cbb7"
+                }
+            },
+            "03": {
+                "jpg_pretty": {
+                    "size": 10804664,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_pretty/03.jpg",
+                    "md5": "40984a7b1e6a19e2b39dfddfeaa41303"
+                },
+                "jpg_plain": {
+                    "size": 8844329,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_plain/03.jpg",
+                    "md5": "6eda986bc45638d8f1fab040ebebc544"
+                },
+                "raw": {
+                    "size": 23964796,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/raw/03.NEF",
+                    "md5": "87e1810f3fd1db192536ee00d71788bb"
+                }
+            },
+            "04": {
+                "jpg_pretty": {
+                    "size": 10968139,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_pretty/04.jpg",
+                    "md5": "55ac8c58ca5c3a9c223ae08ee7909236"
+                },
+                "jpg_plain": {
+                    "size": 8688084,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_plain/04.jpg",
+                    "md5": "5a4eec0012e274e8fd79ef88159cf789"
+                },
+                "raw": {
+                    "size": 23961446,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/raw/04.NEF",
+                    "md5": "12bda4ff262af1a9e8a91f4479211e22"
+                }
+            },
+            "05": {
+                "jpg_pretty": {
+                    "size": 12113088,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_pretty/05.jpg",
+                    "md5": "7ed4602927eac930e76e01f3f37bdec9"
+                },
+                "jpg_plain": {
+                    "size": 9002411,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_plain/05.jpg",
+                    "md5": "02f7be0c9b7c0e55db452bf7f0f0c0b5"
+                },
+                "raw": {
+                    "size": 23993742,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/raw/05.NEF",
+                    "md5": "d5d46e2e1d35d22cf979cd9b2b2796cb"
+                }
+            },
+            "06": {
+                "jpg_pretty": {
+                    "size": 11440966,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_pretty/06.jpg",
+                    "md5": "4e4016127388deec7a9ffe12b06921d3"
+                },
+                "jpg_plain": {
+                    "size": 8801696,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_plain/06.jpg",
+                    "md5": "cbda23ba3096c36565d4c4c1d63d8f9d"
+                },
+                "raw": {
+                    "size": 23357134,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/raw/06.NEF",
+                    "md5": "05e9a79c9e6fcbabfcc54b7b5e89d496"
+                }
+            },
+            "07": {
+                "jpg_pretty": {
+                    "size": 11223955,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_pretty/07.jpg",
+                    "md5": "7b3226ace1fd9e3f43609541e08cd8d2"
+                },
+                "jpg_plain": {
+                    "size": 8904161,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_plain/07.jpg",
+                    "md5": "270e1da58d95a9750b8093f4e1cc7467"
+                },
+                "raw": {
+                    "size": 23380941,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/raw/07.NEF",
+                    "md5": "38c980eaade94150050852a16d371136"
+                }
+            },
+            "08": {
+                "jpg_pretty": {
+                    "size": 16829168,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_pretty/08.jpg",
+                    "md5": "7b78082b15607b308333c606f7059997"
+                },
+                "jpg_plain": {
+                    "size": 8692460,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_plain/08.jpg",
+                    "md5": "245b86c70aa3c54f019ec5b8a4b4a90b"
+                },
+                "raw": {
+                    "size": 23302053,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/raw/08.NEF",
+                    "md5": "0620a334ab333d84970b39e7fb8edc37"
+                }
+            },
+            "09": {
+                "jpg_pretty": {
+                    "size": 12575550,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_pretty/09.jpg",
+                    "md5": "0e4cff33c08047e984e56ab4d82127a8"
+                },
+                "jpg_plain": {
+                    "size": 9077465,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/jpg_plain/09.jpg",
+                    "md5": "c18c2d5a7872aeabfdacbce2411aa304"
+                },
+                "raw": {
+                    "size": 23817614,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/marry_hall/raw/09.NEF",
+                    "md5": "556395e1cbe355af03ce67981001b39d"
+                }
+            }
+        }
+    }
+}

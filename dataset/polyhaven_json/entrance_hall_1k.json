@@ -1,0 +1,94 @@
+{
+    "evs_cap": 15,
+    "type": 0,
+    "tags": [
+        "victorian",
+        "window",
+        "tile"
+    ],
+    "date_published": 1561068000,
+    "name": "Entrance Hall",
+    "categories": [
+        "indoor",
+        "urban",
+        "midday",
+        "medium contrast",
+        "natural light",
+        "artificial light"
+    ],
+    "date_taken": 1555593420,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "files_hash": "34b5e20a81ea9a11758347af201d7d4bcf42c933",
+    "download_count": 27922,
+    "files": {
+        "tonemapped": {
+            "size": 4284028,
+            "md5": "1700dab8a991aa62229528736124c5f3",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/entrance_hall.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 94594535,
+                    "md5": "6ab9bafdd5c33fde49676599792672f5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/entrance_hall_8k.hdr"
+                },
+                "exr": {
+                    "size": 75160103,
+                    "md5": "1332a324dfaea3d449f7b0b86f8fe75f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/entrance_hall_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 334096240,
+                    "md5": "892db0aa2f40eb18701a86374bd72588",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/entrance_hall_16k.hdr"
+                },
+                "exr": {
+                    "size": 260979478,
+                    "md5": "a3623a63f6c74373f43ac183b83d870d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/entrance_hall_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24702237,
+                    "md5": "b04123944ea8852d001a162e53ffd5a4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/entrance_hall_4k.hdr"
+                },
+                "exr": {
+                    "size": 20239977,
+                    "md5": "32e7d41f2fe36ca48d144ba82fc2a0bb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/entrance_hall_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6330494,
+                    "md5": "afa92bd8f1aa4d0b362020e80c1fa49c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/entrance_hall_2k.hdr"
+                },
+                "exr": {
+                    "size": 5393195,
+                    "md5": "938c6251082665389711ece77617a1bd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/entrance_hall_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1621287,
+                    "md5": "0a7355285e1c7f5e9a4cd368b15fc2cf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/entrance_hall_1k.hdr"
+                },
+                "exr": {
+                    "size": 1438448,
+                    "md5": "d341729022618d7c6c1148b20661f3c2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/entrance_hall_1k.exr"
+                }
+            }
+        }
+    }
+}

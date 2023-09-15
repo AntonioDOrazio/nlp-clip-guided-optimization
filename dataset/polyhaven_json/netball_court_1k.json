@@ -1,0 +1,123 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5539,
+    "tags": [
+        "sport",
+        "court",
+        "arena",
+        "lines",
+        "fence",
+        "open air",
+        "ball game",
+        "tennis"
+    ],
+    "name": "Netball Court",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "clear",
+        "urban",
+        "sunrise-sunset",
+        "low contrast"
+    ],
+    "date_taken": 1684689720,
+    "coords": [
+        -25.841497,
+        28.145946
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "info": null,
+    "files_hash": "710506b00ef2568df2fdaaad5b6197c1661f45d5",
+    "date_published": 1689120000,
+    "download_count": 3309,
+    "files": {
+        "tonemapped": {
+            "size": 33891398,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/netball_court.jpg",
+            "md5": "e8d4ab96d2c9fc2603132fb8d8dc81e1"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 97027606,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/netball_court_8k.hdr",
+                    "md5": "167dc801fbfa69281d4806339b7b2805"
+                },
+                "exr": {
+                    "size": 382943815,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/netball_court_8k.exr",
+                    "md5": "1917217953db09c541c5ec332af16fdc"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 361476954,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/netball_court_16k.hdr",
+                    "md5": "28c2522fdc0c0087b1305951f02f820f"
+                },
+                "exr": {
+                    "size": 1512938890,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/netball_court_16k.exr",
+                    "md5": "1f402a263ded12195d0cf6aba021dfee"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25017682,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/netball_court_4k.hdr",
+                    "md5": "537240c4f74f5d7eefa4e3af81c22a51"
+                },
+                "exr": {
+                    "size": 96100954,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/netball_court_4k.exr",
+                    "md5": "5bcee425fce4d902afc5d94cd64b50ae"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6264365,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/netball_court_2k.hdr",
+                    "md5": "8bc713a5c14544c2e12f6cb863fc0e2c"
+                },
+                "exr": {
+                    "size": 24094223,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/netball_court_2k.exr",
+                    "md5": "3b2bcd4e86427598a5c0a546f8b9dd84"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1536447,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/netball_court_1k.hdr",
+                    "md5": "00236714bdfaaaa1ace2a629e6b1dfe4"
+                },
+                "exr": {
+                    "size": 6048040,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/netball_court_1k.exr",
+                    "md5": "45fe7051080f19474eb8eb2b902f77ca"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 550599560,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/netball_court_20k.hdr",
+                    "md5": "d5b9991afd7b4d844888ca0c2d55d908"
+                },
+                "exr": {
+                    "size": 2347516303,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/netball_court_20k.exr",
+                    "md5": "1a8f24929bdd506f40b7fae9de71a32e"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 203827580,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/netball_court.zip",
+            "md5": "61d13b427a192136d63e5c28dcb0e772"
+        }
+    }
+}

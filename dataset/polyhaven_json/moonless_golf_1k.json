@@ -1,0 +1,109 @@
+{
+    "evs_cap": 23,
+    "type": 0,
+    "whitebalance": 3942,
+    "tags": [
+        "grass",
+        "golf",
+        "stars",
+        "milky way",
+        "field"
+    ],
+    "date_published": 1508302058,
+    "name": "Moonless Golf",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "night",
+        "clear",
+        "medium contrast",
+        "natural light",
+        "artificial light"
+    ],
+    "coords": [
+        -25.031,
+        31.1401
+    ],
+    "date_taken": 1507835220,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "name": "Karonis"
+        },
+        "70827508"
+    ],
+    "files_hash": "6d65c69121e8a9f9a58989c7db4dd19dc75f7df8",
+    "download_count": 484316,
+    "files": {
+        "tonemapped": {
+            "size": 3880095,
+            "md5": "e7b15224feb4aec17bb543f8e67c26a0",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/moonless_golf.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 105759286,
+                    "md5": "b75a0f9b1e5dadc32c589ecb47af7838",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/moonless_golf_8k.hdr"
+                },
+                "exr": {
+                    "size": 98450908,
+                    "md5": "dcda52ce2babbcf8ff41754366a23363",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/moonless_golf_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 414623286,
+                    "md5": "e28f9c8d096c043e33dc8dd7ee47d053",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/moonless_golf_16k.hdr"
+                },
+                "exr": {
+                    "size": 381175788,
+                    "md5": "208ace3672d17aad6ef26ccddbb82729",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/moonless_golf_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26665668,
+                    "md5": "bdbb3b2a8216e2b1091edaa2a160f0c7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/moonless_golf_4k.hdr"
+                },
+                "exr": {
+                    "size": 24688244,
+                    "md5": "5da2a90abcecdec9f8a8ac271ff7dab2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/moonless_golf_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6688317,
+                    "md5": "804fae62fb961da3faad6c13a1a72147",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/moonless_golf_2k.hdr"
+                },
+                "exr": {
+                    "size": 6109685,
+                    "md5": "a18387e2be3b20f7c070fe5a047d3868",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/moonless_golf_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1672754,
+                    "md5": "da9edde9ad39465900a7935dc15ab8d7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/moonless_golf_1k.hdr"
+                },
+                "exr": {
+                    "size": 1510720,
+                    "md5": "1715acdc5c9cc8f87e89473a770eadc8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/moonless_golf_1k.exr"
+                }
+            }
+        }
+    }
+}

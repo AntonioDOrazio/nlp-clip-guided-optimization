@@ -1,0 +1,122 @@
+{
+    "evs_cap": 22,
+    "name": "Alps Field",
+    "categories": [
+        "natural light",
+        "outdoor",
+        "nature",
+        "high contrast",
+        "partly cloudy",
+        "morning-afternoon"
+    ],
+    "type": 0,
+    "date_taken": 1649928720,
+    "coords": [
+        46.609194,
+        9.429675
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "tags": [
+        "sun",
+        "grass",
+        "field",
+        "mountain",
+        "forest",
+        "alps",
+        "valley"
+    ],
+    "date_published": 1656547200,
+    "files_hash": "2ea3280a997dbfceb22c9db30d8f7901ff0295e2",
+    "sponsors": [
+        "37678923"
+    ],
+    "download_count": 167897,
+    "files": {
+        "tonemapped": {
+            "size": 53871215,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/alps_field.jpg",
+            "md5": "6693084c7fd3831ba3c183314fbb6ade"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 104546220,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/alps_field_8k.hdr",
+                    "md5": "46f1c43a4823600bfc058923f5a5641d"
+                },
+                "exr": {
+                    "size": 334546949,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/alps_field_8k.exr",
+                    "md5": "07ca7fd4b9366bed8cea6ceb117507a4"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 397267309,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/alps_field_16k.hdr",
+                    "md5": "849de00c49566d17ef94f1d38fe8f247"
+                },
+                "exr": {
+                    "size": 1306727651,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/alps_field_16k.exr",
+                    "md5": "2578fe9430267e517a1a334f13500b78"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26520861,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/alps_field_4k.hdr",
+                    "md5": "7fe5641832c0e8e5dfc1d7f71a5e6615"
+                },
+                "exr": {
+                    "size": 85657716,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/alps_field_4k.exr",
+                    "md5": "9c4bdc45a05bcd891bc7698dd1c809e1"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6531494,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/alps_field_2k.hdr",
+                    "md5": "5abfeb43c4d60566973da21483e8cfbd"
+                },
+                "exr": {
+                    "size": 22219468,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/alps_field_2k.exr",
+                    "md5": "e628d69801a3db6940615d68b6761fa7"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1614313,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/alps_field_1k.hdr",
+                    "md5": "1999bed08695f784471ca1c232a732c0"
+                },
+                "exr": {
+                    "size": 5921478,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/alps_field_1k.exr",
+                    "md5": "12da3bfb5e78eeed3513e99c14a94b77"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 615492056,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/alps_field_20k.hdr",
+                    "md5": "25c2b87b7e959be7b5da799cf07103f0"
+                },
+                "exr": {
+                    "size": 2055670418,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/alps_field_20k.exr",
+                    "md5": "b54276abf6e51997f57cda43fc826027"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 424788517,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/alps_field.zip",
+            "md5": "45c4d907e5353e326fb993e78299dadf"
+        }
+    }
+}

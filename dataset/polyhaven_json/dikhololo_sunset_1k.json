@@ -1,0 +1,347 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5400,
+    "date_published": 1559599200,
+    "name": "Dikhololo Sunset",
+    "categories": [
+        "outdoor",
+        "nature",
+        "sunrise-sunset",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1541957520,
+    "coords": [
+        -25.40429144,
+        27.73619347
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "16608220"
+    ],
+    "backplates": true,
+    "tags": [
+        "tree",
+        "bush",
+        "safari",
+        "veld",
+        "grass",
+        "road",
+        "backplates"
+    ],
+    "files_hash": "a3bd0a38ef78dc3113e72adaee11279ea67a282f",
+    "download_count": 23807,
+    "files": {
+        "tonemapped": {
+            "size": 4815501,
+            "md5": "37418f2a84c25bd666efd71843aa9b80",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/dikhololo_sunset.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 99474549,
+                    "md5": "c4d5948135750f258ad383804b2e247d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/dikhololo_sunset_8k.hdr"
+                },
+                "exr": {
+                    "size": 80226291,
+                    "md5": "29ee4463539fae6c3423b9c2c2e4a463",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/dikhololo_sunset_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 369484141,
+                    "md5": "b3fca4229036256cfc8e55b402f7263b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/dikhololo_sunset_16k.hdr"
+                },
+                "exr": {
+                    "size": 296061832,
+                    "md5": "274abcee76911635d6aec827ef59f037",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/dikhololo_sunset_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25057635,
+                    "md5": "1016e9f0e76df2790931391b5f1e7804",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/dikhololo_sunset_4k.hdr"
+                },
+                "exr": {
+                    "size": 20241966,
+                    "md5": "f4f3d6140405ef56e52047c0e56b4e40",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/dikhololo_sunset_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6057619,
+                    "md5": "6dfbe52dad0183b49d27dba6094772b6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/dikhololo_sunset_2k.hdr"
+                },
+                "exr": {
+                    "size": 5044814,
+                    "md5": "9134310ec4a8c73cd720072a253416d8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/dikhololo_sunset_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1443198,
+                    "md5": "1de3d14a041877e0f5472ba73762a72f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/dikhololo_sunset_1k.hdr"
+                },
+                "exr": {
+                    "size": 1278966,
+                    "md5": "9001b0a7092066aec88f5112cb5c8b60",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/dikhololo_sunset_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "DSC09853": {
+                "jpg_pretty": {
+                    "size": 26619786,
+                    "md5": "9855ff9597300a015fa4efe392f29037",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/jpg_pretty/DSC09853.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19148004,
+                    "md5": "d88c2b33c8a1ea9166fb6e50e0ecedf4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/jpg_plain/DSC09853.jpg"
+                },
+                "raw": {
+                    "size": 37289984,
+                    "md5": "fcf1d58213aefeaf74e5466d7b1643a2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/raw/DSC09853.ARW"
+                }
+            },
+            "DSC09875": {
+                "jpg_pretty": {
+                    "size": 24674728,
+                    "md5": "6e9dcf88d4d7abe757f2ee52b3cb57c7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/jpg_pretty/DSC09875.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18400986,
+                    "md5": "7216da586565c12e60b2ff4e8af5354a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/jpg_plain/DSC09875.jpg"
+                },
+                "raw": {
+                    "size": 37191680,
+                    "md5": "6c37e62fe0e54f45df277988f7b08005",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/raw/DSC09875.ARW"
+                }
+            },
+            "DSC09865": {
+                "jpg_pretty": {
+                    "size": 25795703,
+                    "md5": "33a1cd21947de76c45df395d66434756",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/jpg_pretty/DSC09865.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16949158,
+                    "md5": "6ae6028c2024b89e67aefb40e09856a0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/jpg_plain/DSC09865.jpg"
+                },
+                "raw": {
+                    "size": 37158912,
+                    "md5": "3c8615c6db5dda57f83119e3f54f66d6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/raw/DSC09865.ARW"
+                }
+            },
+            "DSC09887": {
+                "jpg_pretty": {
+                    "size": 22333898,
+                    "md5": "c8996c3d685aad6c0f313be9f6a84fca",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/jpg_pretty/DSC09887.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16453753,
+                    "md5": "e7ea4f031faef0cd189952088f17fb5c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/jpg_plain/DSC09887.jpg"
+                },
+                "raw": {
+                    "size": 37060608,
+                    "md5": "6a1e36a4a254997855da5eea7d40de90",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/raw/DSC09887.ARW"
+                }
+            },
+            "DSC09866": {
+                "jpg_pretty": {
+                    "size": 30119780,
+                    "md5": "f805767d2e7af474e008bccfcfff4bc3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/jpg_pretty/DSC09866.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19398718,
+                    "md5": "8b3132fe8afb007e423bf7b03e7d4368",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/jpg_plain/DSC09866.jpg"
+                },
+                "raw": {
+                    "size": 37257216,
+                    "md5": "7bceb8a627afc156ea8375a9553fed91",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/raw/DSC09866.ARW"
+                }
+            },
+            "DSC09877": {
+                "jpg_pretty": {
+                    "size": 29129152,
+                    "md5": "f89009051533433d4601b0926ba9a35d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/jpg_pretty/DSC09877.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19991850,
+                    "md5": "6da22c9923e89e514e0d6c1fbcba111a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/jpg_plain/DSC09877.jpg"
+                },
+                "raw": {
+                    "size": 37289984,
+                    "md5": "571f06521545b1a4007947aa9134a90f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/raw/DSC09877.ARW"
+                }
+            },
+            "DSC09856": {
+                "jpg_pretty": {
+                    "size": 26575847,
+                    "md5": "b47d0104c3c70cfee082b5784ba59a43",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/jpg_pretty/DSC09856.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18970020,
+                    "md5": "5a797b9c3800fe95d3423bfef0d04bd4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/jpg_plain/DSC09856.jpg"
+                },
+                "raw": {
+                    "size": 37191680,
+                    "md5": "b3e73a1ceaf226f0402c8fe56dd4a1de",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/raw/DSC09856.ARW"
+                }
+            },
+            "DSC09878": {
+                "jpg_pretty": {
+                    "size": 27845183,
+                    "md5": "08dd8f5370750b680425af296cf50579",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/jpg_pretty/DSC09878.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18719879,
+                    "md5": "a3294c369b5fdf005211ef801d93b4b8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/jpg_plain/DSC09878.jpg"
+                },
+                "raw": {
+                    "size": 37257216,
+                    "md5": "d16db69da6dc1e5c317f6d1386884c93",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/raw/DSC09878.ARW"
+                }
+            },
+            "DSC09857": {
+                "jpg_pretty": {
+                    "size": 20512504,
+                    "md5": "43545dccfb9df386c211a86a12a66608",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/jpg_pretty/DSC09857.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16060443,
+                    "md5": "1153ac5de7547c3a23c5a26f45b28d14",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/jpg_plain/DSC09857.jpg"
+                },
+                "raw": {
+                    "size": 37060608,
+                    "md5": "7b97019bfbe82ebd71efacd2ec801747",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/raw/DSC09857.ARW"
+                }
+            },
+            "DSC09890": {
+                "jpg_pretty": {
+                    "size": 18492230,
+                    "md5": "e929a58d8c313a7414bf680f34422e01",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/jpg_pretty/DSC09890.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14201250,
+                    "md5": "8265a381124a50858d4c764b61c411ea",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/jpg_plain/DSC09890.jpg"
+                },
+                "raw": {
+                    "size": 36929536,
+                    "md5": "9200183195ff26f9f368f2be9261a0aa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/raw/DSC09890.ARW"
+                }
+            },
+            "DSC09880": {
+                "jpg_pretty": {
+                    "size": 26587345,
+                    "md5": "a76a2bcada0290f83326c9fe767f0f04",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/jpg_pretty/DSC09880.jpg"
+                },
+                "jpg_plain": {
+                    "size": 17944915,
+                    "md5": "9cf8c74a18607660fc1575ce72222e53",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/jpg_plain/DSC09880.jpg"
+                },
+                "raw": {
+                    "size": 37191680,
+                    "md5": "67e834956085a9a1ca65dd7398c32026",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/raw/DSC09880.ARW"
+                }
+            },
+            "DSC09871": {
+                "jpg_pretty": {
+                    "size": 25791916,
+                    "md5": "b06eaaecf7045bc806693460208ff8f9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/jpg_pretty/DSC09871.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18348708,
+                    "md5": "c51edfc778c8f4c62b115311c129e344",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/jpg_plain/DSC09871.jpg"
+                },
+                "raw": {
+                    "size": 37224448,
+                    "md5": "1bc33566b537065701c44d48bc52bea0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/raw/DSC09871.ARW"
+                }
+            },
+            "DSC09883": {
+                "jpg_pretty": {
+                    "size": 25367705,
+                    "md5": "21289a0af7f8b551e53c9de563ac934e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/jpg_pretty/DSC09883.jpg"
+                },
+                "jpg_plain": {
+                    "size": 17984102,
+                    "md5": "4d442a5cc81d3dda55ffe40aa3098f58",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/jpg_plain/DSC09883.jpg"
+                },
+                "raw": {
+                    "size": 37158912,
+                    "md5": "a53684315e9333c01608a5f2ec048f35",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/raw/DSC09883.ARW"
+                }
+            },
+            "DSC09894": {
+                "jpg_pretty": {
+                    "size": 18214633,
+                    "md5": "22ad12da7c075fa4b1b1e3213a32cdb8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/jpg_pretty/DSC09894.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13216581,
+                    "md5": "013b277189d9b2dd6dc428e8c25c6c30",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/jpg_plain/DSC09894.jpg"
+                },
+                "raw": {
+                    "size": 36929536,
+                    "md5": "071067821511a4886b73621817eae59b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dikhololo_sunset/raw/DSC09894.ARW"
+                }
+            }
+        }
+    }
+}

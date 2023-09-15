@@ -1,0 +1,121 @@
+{
+    "evs_cap": 25,
+    "type": 0,
+    "whitebalance": 5745,
+    "tags": [
+        "sun",
+        "grass",
+        "tree",
+        "field",
+        "path",
+        "grave"
+    ],
+    "name": "Graveyard Pathways",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "partly cloudy",
+        "high contrast",
+        "midday"
+    ],
+    "date_taken": 1681478940,
+    "coords": [
+        -27.954969,
+        26.685966
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "info": null,
+    "files_hash": "08710ab9f782f82db9afe52d7d58e5cab2b16ef4",
+    "date_published": 1685923200,
+    "download_count": 30901,
+    "files": {
+        "tonemapped": {
+            "size": 50781576,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/graveyard_pathways.jpg",
+            "md5": "23d96dce21fd6a4ad3c86afc614b7629"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102296866,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/graveyard_pathways_8k.hdr",
+                    "md5": "8578b76f76898f7a7aa586b233bfb540"
+                },
+                "exr": {
+                    "size": 386132254,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/graveyard_pathways_8k.exr",
+                    "md5": "1cb7c3e95b05081e437a36b40a142fc5"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 378941870,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/graveyard_pathways_16k.hdr",
+                    "md5": "696602dae9758592baad498b15e1db1c"
+                },
+                "exr": {
+                    "size": 1528013525,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/graveyard_pathways_16k.exr",
+                    "md5": "f358541c6519ecb201ce792a2c3fb0dc"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26680820,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/graveyard_pathways_4k.hdr",
+                    "md5": "d0b4335cac631ab86ad973668c3751d1"
+                },
+                "exr": {
+                    "size": 97027569,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/graveyard_pathways_4k.exr",
+                    "md5": "cd2e56bbf33b163d1a18c1c9a52e1742"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6716655,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/graveyard_pathways_2k.hdr",
+                    "md5": "fc7da2478b6bf3e2da7d04b031e1b95c"
+                },
+                "exr": {
+                    "size": 24332049,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/graveyard_pathways_2k.exr",
+                    "md5": "f63cde697aeb7e763b503336a781d4f8"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1657258,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/graveyard_pathways_1k.hdr",
+                    "md5": "ded381c50548ccb5bbf97fe6367a6081"
+                },
+                "exr": {
+                    "size": 6101522,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/graveyard_pathways_1k.exr",
+                    "md5": "e275566a079cc0a4ca03323454f60601"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 576339805,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/graveyard_pathways_20k.hdr",
+                    "md5": "74bb41df888d95f48c280679fb09c8cd"
+                },
+                "exr": {
+                    "size": 2377637385,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/graveyard_pathways_20k.exr",
+                    "md5": "ff69c0393bdacd0971c8b662404ecca3"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 239010839,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/graveyard_pathways.zip",
+            "md5": "9135960c274dee6fcf5dae58fb2f0442"
+        }
+    }
+}

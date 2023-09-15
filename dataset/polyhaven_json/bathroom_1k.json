@@ -1,0 +1,96 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "bath",
+        "basin",
+        "tiles",
+        "sink"
+    ],
+    "date_published": 1511996400,
+    "name": "Bathroom",
+    "categories": [
+        "indoor",
+        "urban",
+        "medium contrast",
+        "artificial light"
+    ],
+    "date_taken": 1418659140,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "16608220"
+    ],
+    "files_hash": "22664b5b9f8f63dd2da5be4482ec91e3fa94869b",
+    "download_count": 54689,
+    "files": {
+        "tonemapped": {
+            "size": 3167787,
+            "md5": "5d23982128c562fb086f402cd8be54bf",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/bathroom.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102081069,
+                    "md5": "e53694e9c055ce001fa6b2c4581c12eb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/bathroom_8k.hdr"
+                },
+                "exr": {
+                    "size": 84929766,
+                    "md5": "f67f7e322b2a71e1868d74572e0a2a50",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/bathroom_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 386846089,
+                    "md5": "2dc26fd43c0c9920a85e4cef4c984ce0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/bathroom_16k.hdr"
+                },
+                "exr": {
+                    "size": 297252029,
+                    "md5": "dc12b078edc2f70a78a15442cb67d988",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/bathroom_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25814085,
+                    "md5": "c450ee64eb17c41890cb5c417714353f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/bathroom_4k.hdr"
+                },
+                "exr": {
+                    "size": 20947774,
+                    "md5": "92f8669a7da40d8d62a03058f63e3f50",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/bathroom_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6473273,
+                    "md5": "a3b67928255bd7d33288dd1c4273f4a7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/bathroom_2k.hdr"
+                },
+                "exr": {
+                    "size": 5169519,
+                    "md5": "db904a13e7f4eabf1d39670dc0454091",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/bathroom_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1621157,
+                    "md5": "ce0c7f352d6dcd8ea7d12096f6417b33",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/bathroom_1k.hdr"
+                },
+                "exr": {
+                    "size": 1310220,
+                    "md5": "3bc5ecf990b8774f85757067497a0ae4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/bathroom_1k.exr"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "tags": [
+        "cellar",
+        "basement",
+        "arch",
+        "tunnel",
+        "brick",
+        "castle"
+    ],
+    "name": "Castle Zavelstein Cellar",
+    "categories": [
+        "natural light",
+        "indoor",
+        "urban",
+        "high contrast"
+    ],
+    "date_taken": 1616335020,
+    "coords": [
+        48.692198,
+        8.691207
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "date_published": 1627603200,
+    "files_hash": "93aa45dc6683cf23d82621a7f6eae34edb25b738",
+    "sponsors": [
+        "77433244"
+    ],
+    "download_count": 15889,
+    "files": {
+        "hdri": {
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/castle_zavelstein_cellar_16k.hdr",
+                    "size": 418409385,
+                    "md5": "e17b0f34624efb12b70ccd77adcef509"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/castle_zavelstein_cellar_16k.exr",
+                    "size": 851513426,
+                    "md5": "d0a98515ed2efc167d30889aeec55c28"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/castle_zavelstein_cellar_20k.hdr",
+                    "size": 622535546,
+                    "md5": "eb5adb844ebbf160ffa39b142b1db02a"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/castle_zavelstein_cellar_20k.exr",
+                    "size": 1080970220,
+                    "md5": "a1d7d5f3c0c623c11afe946629ab4957"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/castle_zavelstein_cellar_8k.hdr",
+                    "size": 106887103,
+                    "md5": "ea020cc65a52f1e49e64c5e198c25139"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/castle_zavelstein_cellar_8k.exr",
+                    "size": 242806806,
+                    "md5": "d0b2db8f54eca7b4c5dfabc178d31e99"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/castle_zavelstein_cellar_4k.hdr",
+                    "size": 27038278,
+                    "md5": "c8e9655534e2825dc444d8c87d2cbbeb"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/castle_zavelstein_cellar_4k.exr",
+                    "size": 65894544,
+                    "md5": "a7e7adf28590d7abe1846b16dccfb96c"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/castle_zavelstein_cellar_2k.hdr",
+                    "size": 6812215,
+                    "md5": "38e027a7b9e57976850febf4612dcd05"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/castle_zavelstein_cellar_2k.exr",
+                    "size": 18179336,
+                    "md5": "8039df1071183706b31423f93218b9a5"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/castle_zavelstein_cellar_1k.hdr",
+                    "size": 1713566,
+                    "md5": "0b39c985fca70f89b52cf771b1a1afe7"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/castle_zavelstein_cellar_1k.exr",
+                    "size": 5705764,
+                    "md5": "244087aeff33efef7dcbed5a678ce12b"
+                }
+            }
+        },
+        "colorchart": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/castle_zavelstein_cellar.zip",
+            "size": 63864400,
+            "md5": "6402db6577f539f5eb69748813a587e8"
+        },
+        "tonemapped": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/castle_zavelstein_cellar.jpg",
+            "size": 30204749,
+            "md5": "9fb1e8e489a6cddc282807cb2c782440"
+        }
+    }
+}

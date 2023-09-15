@@ -1,0 +1,105 @@
+{
+    "evs_cap": 16,
+    "files_hash": "0fa4744849c4bd4347944939a75ae3921fd205b9",
+    "type": 0,
+    "tags": [
+        "parking",
+        "moon",
+        "twilight",
+        "roof",
+        "concrete"
+    ],
+    "date_published": 1508536800,
+    "sponsors": [
+        "3567764"
+    ],
+    "name": "Rooftop Night",
+    "categories": [
+        "outdoor",
+        "skies",
+        "urban",
+        "sunrise-sunset",
+        "partly cloudy",
+        "high contrast",
+        "artificial light",
+        "night"
+    ],
+    "date_taken": 1450722420,
+    "coords": [
+        -26.138736,
+        28.009162
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "download_count": 104528,
+    "files": {
+        "tonemapped": {
+            "size": 4720008,
+            "md5": "e371f1d45d99040cba1ab9bec393715c",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/rooftop_night.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102758485,
+                    "md5": "4615b79a865f2ba43b1a7824c3652e96",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/rooftop_night_8k.hdr"
+                },
+                "exr": {
+                    "size": 89744938,
+                    "md5": "1ec6ec40a0e6d71ed28668c4883f1e11",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/rooftop_night_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 393412905,
+                    "md5": "73eeb3554284d79ba9208ae40b560ff2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rooftop_night_16k.hdr"
+                },
+                "exr": {
+                    "size": 323425673,
+                    "md5": "0b953d4ca6bccf1f9ec5ad745c33997b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rooftop_night_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25900304,
+                    "md5": "29ff31cdd0d50c4e3ab0ef7bcd55ed7b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/rooftop_night_4k.hdr"
+                },
+                "exr": {
+                    "size": 21682297,
+                    "md5": "c8ed7299a607e67a07ed76fa2c48ab45",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/rooftop_night_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6509158,
+                    "md5": "966095e85f971fbc00aeb67e7d60d1c9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/rooftop_night_2k.hdr"
+                },
+                "exr": {
+                    "size": 5340941,
+                    "md5": "6a4151ae38167fd8ebcbf21eaf8fd3e2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/rooftop_night_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1624479,
+                    "md5": "c812bf5033f4b57c0f769a71267471d4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/rooftop_night_1k.hdr"
+                },
+                "exr": {
+                    "size": 1303873,
+                    "md5": "6ed6e581de371a27211f79dc38c60df8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/rooftop_night_1k.exr"
+                }
+            }
+        }
+    }
+}

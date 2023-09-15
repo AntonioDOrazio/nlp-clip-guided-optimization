@@ -1,0 +1,103 @@
+{
+    "evs_cap": 10,
+    "type": 0,
+    "tags": [
+        "bridge",
+        "canal",
+        "city",
+        "building"
+    ],
+    "date_published": 1522879200,
+    "name": "Hamburg Canal",
+    "categories": [
+        "outdoor",
+        "urban",
+        "sunrise-sunset",
+        "clear",
+        "medium contrast",
+        "natural light"
+    ],
+    "coords": [
+        53.543402,
+        9.987
+    ],
+    "date_taken": 1478162700,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "7947474",
+        "993026"
+    ],
+    "files_hash": "e697daff31fbbc956ffff73ff6551053d4bb5f57",
+    "download_count": 19026,
+    "files": {
+        "tonemapped": {
+            "size": 5800064,
+            "md5": "842a8ed91e6e7a19385869c7387dca98",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/hamburg_canal.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 95846076,
+                    "md5": "835268b0f9fecbd989e0a584a1ba6e3c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/hamburg_canal_8k.hdr"
+                },
+                "exr": {
+                    "size": 87816935,
+                    "md5": "0a7a9082c47209ff36dd37b42aa55a5e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/hamburg_canal_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 354741988,
+                    "md5": "fc543db76c3399a50857b67c5c900121",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/hamburg_canal_16k.hdr"
+                },
+                "exr": {
+                    "size": 317825494,
+                    "md5": "bf930661dbb1fa16d18985f5be289045",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/hamburg_canal_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24614096,
+                    "md5": "0a29442ed725c5a1625534d740866948",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/hamburg_canal_4k.hdr"
+                },
+                "exr": {
+                    "size": 23293462,
+                    "md5": "11f24855aef86cf13d97c2167d64a463",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/hamburg_canal_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6214730,
+                    "md5": "aba8677945732c0583a470d3a2e328ba",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/hamburg_canal_2k.hdr"
+                },
+                "exr": {
+                    "size": 6104093,
+                    "md5": "d9b1ca39bc9dcf59afb22c57438b5c0c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/hamburg_canal_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1589281,
+                    "md5": "2da67657c12dae3d845045aff9b497b0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/hamburg_canal_1k.hdr"
+                },
+                "exr": {
+                    "size": 1610791,
+                    "md5": "2c50353352c22bcc3aef9249ed845289",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/hamburg_canal_1k.exr"
+                }
+            }
+        }
+    }
+}

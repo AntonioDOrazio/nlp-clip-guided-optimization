@@ -1,0 +1,108 @@
+{
+    "evs_cap": 16,
+    "type": 0,
+    "whitebalance": 4100,
+    "tags": [
+        "couch",
+        "stair",
+        "door",
+        "studio",
+        "umbrella",
+        "chair",
+        "curtain",
+        "bicycle"
+    ],
+    "name": "Provence Studio",
+    "categories": [
+        "studio",
+        "indoor",
+        "urban",
+        "artificial light",
+        "low contrast"
+    ],
+    "coords": [
+        49.23183224035684,
+        28.459055204887047
+    ],
+    "date_taken": 1649250000,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "date_published": 1651190400,
+    "files_hash": "4f464c7de2287fa8ea1b1e8c35692acb6c34ffa3",
+    "download_count": 29369,
+    "files": {
+        "tonemapped": {
+            "size": 30930094,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/provence_studio.jpg",
+            "md5": "40bead2acdce8477f2e9427d5d40670d"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 93563910,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/provence_studio_8k.hdr",
+                    "md5": "db728d68c60380b937246978f4291939"
+                },
+                "exr": {
+                    "size": 68954950,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/provence_studio_8k.exr",
+                    "md5": "a5f6e75908a1e31a0d4e2ac6f8f27566"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 343431328,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/provence_studio_16k.hdr",
+                    "md5": "c4d319f5259eab66ec038124f40bb13e"
+                },
+                "exr": {
+                    "size": 244908809,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/provence_studio_16k.exr",
+                    "md5": "28b8f2298c68a0070769e5b758c284b9"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24249791,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/provence_studio_4k.hdr",
+                    "md5": "79d51cc78506f27b4cb782a690d22429"
+                },
+                "exr": {
+                    "size": 18288756,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/provence_studio_4k.exr",
+                    "md5": "2cb4225948a41de1bde21480ce81fb53"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6238846,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/provence_studio_2k.hdr",
+                    "md5": "dd9fb738d5728fd4dcb890cdadf3a297"
+                },
+                "exr": {
+                    "size": 4878674,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/provence_studio_2k.exr",
+                    "md5": "1b3f5ff016c148f45d18034dafc77353"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1601709,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/provence_studio_1k.hdr",
+                    "md5": "9b62c738dc7d99f6df4e5cd834bd1ed3"
+                },
+                "exr": {
+                    "size": 1321628,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/provence_studio_1k.exr",
+                    "md5": "4ef1cb2b4da016c8b5bc7d6a42373dbe"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 69988528,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/provence_studio.zip",
+            "md5": "5ab0ca4d110bf6973eb56318c6d0e661"
+        }
+    }
+}

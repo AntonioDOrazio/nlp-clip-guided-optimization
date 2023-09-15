@@ -1,0 +1,351 @@
+{
+    "evs_cap": 20,
+    "type": 0,
+    "whitebalance": 5400,
+    "date_published": 1506982080,
+    "name": "Flower Road",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "morning-afternoon",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        -33.021688,
+        18.997045
+    ],
+    "date_taken": 1504342140,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "7937768"
+    ],
+    "backplates": true,
+    "tags": [
+        "sun",
+        "road",
+        "flower",
+        "path",
+        "dirt",
+        "gravel",
+        "mountain",
+        "field",
+        "farm",
+        "backplates"
+    ],
+    "files_hash": "b85f4912e6aacc7b468016fd33b877197b076f92",
+    "download_count": 120281,
+    "files": {
+        "tonemapped": {
+            "size": 4757905,
+            "md5": "26c8da42e974494a45b9cd563c0b7a32",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/flower_road.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 83238122,
+                    "md5": "a446d481e143c55a13669e32eb59f9f3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/flower_road_8k.hdr"
+                },
+                "exr": {
+                    "size": 68290884,
+                    "md5": "d216a648c7ed74eb9896c7959d12401c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/flower_road_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 292331055,
+                    "md5": "3262cf5c3da20693e737fdec7bab95c3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/flower_road_16k.hdr"
+                },
+                "exr": {
+                    "size": 244274492,
+                    "md5": "d6dca7db4108365e7a764b2d103353cb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/flower_road_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 21046222,
+                    "md5": "64e747c351fe301ded6057064102580b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/flower_road_4k.hdr"
+                },
+                "exr": {
+                    "size": 17700244,
+                    "md5": "fcb8cfab3598c79cb3386e4ca5a6c709",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/flower_road_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5153699,
+                    "md5": "6cbe4aedcd7ebcd9f233829a4e6a8b6c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/flower_road_2k.hdr"
+                },
+                "exr": {
+                    "size": 4454302,
+                    "md5": "2dd92a5951d1ca4ea588195590f016e4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/flower_road_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1298704,
+                    "md5": "e528f3794ef125b2066350f238f2e83f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/flower_road_1k.hdr"
+                },
+                "exr": {
+                    "size": 1127474,
+                    "md5": "56c01e47338ae60182b2711656fb6bd2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/flower_road_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "DSC05669": {
+                "jpg_pretty": {
+                    "size": 15206212,
+                    "md5": "ac6bb46e94b1fddd491bd9c7af60c9c8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/jpg_pretty/DSC05669.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9975903,
+                    "md5": "8fa21eee7b808b19e64d7d7bd631bd9b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/jpg_plain/DSC05669.jpg"
+                },
+                "raw": {
+                    "size": 37093376,
+                    "md5": "10b18d6a0db87c8cee635165115f78c5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/raw/DSC05669.ARW"
+                }
+            },
+            "DSC05660": {
+                "jpg_pretty": {
+                    "size": 17935110,
+                    "md5": "eac726e71df4448cc47139aeadbb1a94",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/jpg_pretty/DSC05660.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11919121,
+                    "md5": "689daf7cd4284f381e5ec0c07767f98e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/jpg_plain/DSC05660.jpg"
+                },
+                "raw": {
+                    "size": 37289984,
+                    "md5": "fe7b0f9d71b560b2b4e69dc877fdd0b5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/raw/DSC05660.ARW"
+                }
+            },
+            "DSC05671": {
+                "jpg_pretty": {
+                    "size": 13455534,
+                    "md5": "b2a4a96346a3e6a2f62ae5f05ebbada5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/jpg_pretty/DSC05671.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9792690,
+                    "md5": "4f906bf22edbbf0193a17ca58b7fb70d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/jpg_plain/DSC05671.jpg"
+                },
+                "raw": {
+                    "size": 37355520,
+                    "md5": "52ce1056cf687c0bb934563ae698b173",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/raw/DSC05671.ARW"
+                }
+            },
+            "DSC05670": {
+                "jpg_pretty": {
+                    "size": 12722531,
+                    "md5": "58b93b8f775cb38990c0e7604fd330a8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/jpg_pretty/DSC05670.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8796510,
+                    "md5": "95feaaec5774fd68b37fe770b15e0022",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/jpg_plain/DSC05670.jpg"
+                },
+                "raw": {
+                    "size": 36995072,
+                    "md5": "e29ad945d90b2d41826c146983a8ade1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/raw/DSC05670.ARW"
+                }
+            },
+            "DSC05668": {
+                "jpg_pretty": {
+                    "size": 14524293,
+                    "md5": "2207cb91b40b195c1914fd890e357545",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/jpg_pretty/DSC05668.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9774507,
+                    "md5": "47ce75009f6e0aa2295bd03b1e54b5e3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/jpg_plain/DSC05668.jpg"
+                },
+                "raw": {
+                    "size": 37126144,
+                    "md5": "8c7aed81357b4bafc1176dd01510c3d4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/raw/DSC05668.ARW"
+                }
+            },
+            "DSC05667": {
+                "jpg_pretty": {
+                    "size": 14884190,
+                    "md5": "c5c2b83bb87f4ab4e19e850ac604f1ce",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/jpg_pretty/DSC05667.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9880909,
+                    "md5": "fd192b58374be9003e2dae3cd72fa93e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/jpg_plain/DSC05667.jpg"
+                },
+                "raw": {
+                    "size": 37060608,
+                    "md5": "9a960e1a81d5de5cd7c0d02e3afcaedc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/raw/DSC05667.ARW"
+                }
+            },
+            "DSC05666": {
+                "jpg_pretty": {
+                    "size": 13581535,
+                    "md5": "c917c87a50d39ba8b722180ecb38e22d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/jpg_pretty/DSC05666.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9310169,
+                    "md5": "f9af4b1302f8eaf4fba5325051aba0e9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/jpg_plain/DSC05666.jpg"
+                },
+                "raw": {
+                    "size": 36995072,
+                    "md5": "a6cca848b0f6fa5d6a76c08292555feb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/raw/DSC05666.ARW"
+                }
+            },
+            "DSC05665": {
+                "jpg_pretty": {
+                    "size": 9860757,
+                    "md5": "d910110e2b83f157633d001473337a8e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/jpg_pretty/DSC05665.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7089376,
+                    "md5": "f8c40b06fbbb10c5a51ec21113ed0040",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/jpg_plain/DSC05665.jpg"
+                },
+                "raw": {
+                    "size": 36929536,
+                    "md5": "ee8f9e041fb13cf2c0969062c55b8728",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/raw/DSC05665.ARW"
+                }
+            },
+            "DSC05664": {
+                "jpg_pretty": {
+                    "size": 12587936,
+                    "md5": "42d1b2d6948ba97e2acd0a4d208b6f2c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/jpg_pretty/DSC05664.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8737485,
+                    "md5": "f84556f205da941a6805348d05804330",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/jpg_plain/DSC05664.jpg"
+                },
+                "raw": {
+                    "size": 36995072,
+                    "md5": "8b23eb3e42977f05c019ade0e0bfb141",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/raw/DSC05664.ARW"
+                }
+            },
+            "DSC05675": {
+                "jpg_pretty": {
+                    "size": 16331266,
+                    "md5": "869f559587f19ec16f9d9dc5e0b7cc9c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/jpg_pretty/DSC05675.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11000597,
+                    "md5": "1d8e164ee5723e4ac19b293c50d222ec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/jpg_plain/DSC05675.jpg"
+                },
+                "raw": {
+                    "size": 37158912,
+                    "md5": "831de2dc5178a33f44e1e589d543b5dc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/raw/DSC05675.ARW"
+                }
+            },
+            "DSC05663": {
+                "jpg_pretty": {
+                    "size": 13443610,
+                    "md5": "db66969b16ef3285f7f1ada0c7222238",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/jpg_pretty/DSC05663.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9166982,
+                    "md5": "392377929a587a29f49d942fd7d3246e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/jpg_plain/DSC05663.jpg"
+                },
+                "raw": {
+                    "size": 37027840,
+                    "md5": "e6644dc9b297c57f4aad894a200f3814",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/raw/DSC05663.ARW"
+                }
+            },
+            "DSC05674": {
+                "jpg_pretty": {
+                    "size": 14227412,
+                    "md5": "6d1a63befd8415a10966d3f00c764a73",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/jpg_pretty/DSC05674.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9721000,
+                    "md5": "aa2310b4c7917ab45351084e4855fbcc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/jpg_plain/DSC05674.jpg"
+                },
+                "raw": {
+                    "size": 37060608,
+                    "md5": "9862e343673402a7920785baeb266921",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/raw/DSC05674.ARW"
+                }
+            },
+            "DSC05673": {
+                "jpg_pretty": {
+                    "size": 15963461,
+                    "md5": "32c16594a8fa5b5a2269c367205136ae",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/jpg_pretty/DSC05673.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10954789,
+                    "md5": "7ab01072e89398e9343b75e2a74f4f18",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/jpg_plain/DSC05673.jpg"
+                },
+                "raw": {
+                    "size": 37158912,
+                    "md5": "a7a698481afd2880edfc8502d6852aba",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/raw/DSC05673.ARW"
+                }
+            },
+            "DSC05672": {
+                "jpg_pretty": {
+                    "size": 12913847,
+                    "md5": "eebe6d95d72347377a9768ba04a2666e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/jpg_pretty/DSC05672.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8644326,
+                    "md5": "a83a35c40f438ecd93e15e59767d9716",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/jpg_plain/DSC05672.jpg"
+                },
+                "raw": {
+                    "size": 37289984,
+                    "md5": "226681afbde529b846761e6b242f85eb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/flower_road/raw/DSC05672.ARW"
+                }
+            }
+        }
+    }
+}

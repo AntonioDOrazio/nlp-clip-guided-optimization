@@ -1,0 +1,314 @@
+{
+    "evs_cap": 10,
+    "type": 0,
+    "whitebalance": 5400,
+    "date_published": 1530568800,
+    "name": "Lythwood Terrace",
+    "categories": [
+        "outdoor",
+        "nature",
+        "midday",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1521795420,
+    "coords": [
+        -29.4374,
+        30.0524
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "backplates": true,
+    "tags": [
+        "tree",
+        "brick",
+        "terrace",
+        "grass",
+        "field",
+        "table",
+        "backplates"
+    ],
+    "sponsors": [
+        "3267566",
+        "59361351"
+    ],
+    "files_hash": "60812d30b131befb3b3c8a64cf06d870f3021809",
+    "download_count": 32226,
+    "files": {
+        "tonemapped": {
+            "size": 8681838,
+            "md5": "b8eabbe5f4d7b44232168fffd230b25a",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/lythwood_terrace.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 105768523,
+                    "md5": "bfb8c4e8ac63628433a0454d44f46b92",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/lythwood_terrace_8k.hdr"
+                },
+                "exr": {
+                    "size": 103908427,
+                    "md5": "53783a124d9d68172cf9f93e179e3361",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/lythwood_terrace_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 392989533,
+                    "md5": "2d77586604bda365cb82e838ead8347b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/lythwood_terrace_16k.hdr"
+                },
+                "exr": {
+                    "size": 368585194,
+                    "md5": "213e87114d7cbd9dcfb9817abc442957",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/lythwood_terrace_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27416242,
+                    "md5": "97d82a6f1b8dbbd264c4dac89bc4b0c7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/lythwood_terrace_4k.hdr"
+                },
+                "exr": {
+                    "size": 27812814,
+                    "md5": "ad42a1e263934e726d591e84431ce61e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/lythwood_terrace_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7025134,
+                    "md5": "36dbe3fa9d9745ff3fd44fafcda2f72d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/lythwood_terrace_2k.hdr"
+                },
+                "exr": {
+                    "size": 7301167,
+                    "md5": "9e95f993857cd96a8f1d217daea82f12",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/lythwood_terrace_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1794290,
+                    "md5": "97063df1b26b5aa551508d233b10656b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/lythwood_terrace_1k.hdr"
+                },
+                "exr": {
+                    "size": 1902152,
+                    "md5": "5b1bf8b8b25d5349001fb6cb5c662d74",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/lythwood_terrace_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "DSC08796": {
+                "jpg_pretty": {
+                    "size": 22541351,
+                    "md5": "f62775a58146bad37f8ee9c56c225750",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/jpg_pretty/DSC08796.jpg"
+                },
+                "jpg_plain": {
+                    "size": 17582433,
+                    "md5": "f397170b6e3d48285df81e43a798ed9f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/jpg_plain/DSC08796.jpg"
+                },
+                "raw": {
+                    "size": 37355520,
+                    "md5": "835807bd720a0489dcc432a7314effcd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/raw/DSC08796.ARW"
+                }
+            },
+            "DSC08798": {
+                "jpg_pretty": {
+                    "size": 21494663,
+                    "md5": "5d96e431f3e47fb65044df6e4ed0a71a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/jpg_pretty/DSC08798.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15332861,
+                    "md5": "def82f2c9d318215ea4190f984a3ef39",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/jpg_plain/DSC08798.jpg"
+                },
+                "raw": {
+                    "size": 37257216,
+                    "md5": "342d15b1f92b5710a29dc68584bb3021",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/raw/DSC08798.ARW"
+                }
+            },
+            "DSC08820": {
+                "jpg_pretty": {
+                    "size": 16883850,
+                    "md5": "18a9a5d266c7e59528178c58c26cdfbc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/jpg_pretty/DSC08820.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13033051,
+                    "md5": "42c29fd3d1d30be15cea674239d47895",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/jpg_plain/DSC08820.jpg"
+                },
+                "raw": {
+                    "size": 37158912,
+                    "md5": "3f97f5366e4c22f1b2734423deaa9a26",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/raw/DSC08820.ARW"
+                }
+            },
+            "DSC08810": {
+                "jpg_pretty": {
+                    "size": 25582717,
+                    "md5": "9f8a70c7b24bf26d4579245c1339445a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/jpg_pretty/DSC08810.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20858947,
+                    "md5": "d8b2ef5ab79b452bc2b5b688598edf3c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/jpg_plain/DSC08810.jpg"
+                },
+                "raw": {
+                    "size": 37486592,
+                    "md5": "83e43c670adfd2c6480e1d99c659a936",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/raw/DSC08810.ARW"
+                }
+            },
+            "DSC08801": {
+                "jpg_pretty": {
+                    "size": 17908497,
+                    "md5": "b63beb3ba761f77c62543ba1eeeedc99",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/jpg_pretty/DSC08801.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13903855,
+                    "md5": "113839e9ec4835671b3c97232b7b8d7b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/jpg_plain/DSC08801.jpg"
+                },
+                "raw": {
+                    "size": 37191680,
+                    "md5": "44d21844143e6175d9d20cbfc7ad5e45",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/raw/DSC08801.ARW"
+                }
+            },
+            "DSC08802": {
+                "jpg_pretty": {
+                    "size": 25364141,
+                    "md5": "750bce1b9bfe4355ade0eccd9768ae72",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/jpg_pretty/DSC08802.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18117771,
+                    "md5": "fbe9e1f1f0d8256967fc6d3bf4f5b9fc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/jpg_plain/DSC08802.jpg"
+                },
+                "raw": {
+                    "size": 37388288,
+                    "md5": "38d983a842ab8ae5072f2d136e0785c1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/raw/DSC08802.ARW"
+                }
+            },
+            "DSC08814": {
+                "jpg_pretty": {
+                    "size": 26599574,
+                    "md5": "60d0fbea6c2d660fc9b26cde056bf856",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/jpg_pretty/DSC08814.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19183466,
+                    "md5": "ada905d835e747ef2a50b8898c518aca",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/jpg_plain/DSC08814.jpg"
+                },
+                "raw": {
+                    "size": 37388288,
+                    "md5": "4e3d9668e789145f5b5621061c87b711",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/raw/DSC08814.ARW"
+                }
+            },
+            "DSC08804": {
+                "jpg_pretty": {
+                    "size": 19437281,
+                    "md5": "007c80cceb14511ea2f86a65044f84c1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/jpg_pretty/DSC08804.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14211593,
+                    "md5": "540a79d6be3c30c219079eb5cd9008d6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/jpg_plain/DSC08804.jpg"
+                },
+                "raw": {
+                    "size": 37158912,
+                    "md5": "7023db9714733beee6063ccf34f41262",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/raw/DSC08804.ARW"
+                }
+            },
+            "DSC08816": {
+                "jpg_pretty": {
+                    "size": 21500818,
+                    "md5": "03690c8811ef065835032962da01ae71",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/jpg_pretty/DSC08816.jpg"
+                },
+                "jpg_plain": {
+                    "size": 17544630,
+                    "md5": "1b413df3c07a92fa3924264a70d69a44",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/jpg_plain/DSC08816.jpg"
+                },
+                "raw": {
+                    "size": 37355520,
+                    "md5": "346a04630df9215df837a616c24653ff",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/raw/DSC08816.ARW"
+                }
+            },
+            "DSC08806": {
+                "jpg_pretty": {
+                    "size": 18974479,
+                    "md5": "2ddccdbfc3aaea55e21d275012492f27",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/jpg_pretty/DSC08806.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16683130,
+                    "md5": "8f2f9bd84b1a3b7e6e5307e8082d2477",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/jpg_plain/DSC08806.jpg"
+                },
+                "raw": {
+                    "size": 37421056,
+                    "md5": "1f4d76aedbed0542b37fe65d0b0b8001",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/raw/DSC08806.ARW"
+                }
+            },
+            "DSC08818": {
+                "jpg_pretty": {
+                    "size": 19462767,
+                    "md5": "805a064016b871dd28000a727fcc0959",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/jpg_pretty/DSC08818.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16531977,
+                    "md5": "921b32e6a280bba3b629fee665f41685",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/jpg_plain/DSC08818.jpg"
+                },
+                "raw": {
+                    "size": 37453824,
+                    "md5": "5db39a29c6eab3d02c7e336298cebe1c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/raw/DSC08818.ARW"
+                }
+            },
+            "DSC08809": {
+                "jpg_pretty": {
+                    "size": 21824540,
+                    "md5": "42e37cc043d0d0a17f7ed9cef5da25b1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/jpg_pretty/DSC08809.jpg"
+                },
+                "jpg_plain": {
+                    "size": 17180499,
+                    "md5": "81698ebed3a778245cfea9a7b97d3986",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/jpg_plain/DSC08809.jpg"
+                },
+                "raw": {
+                    "size": 37191680,
+                    "md5": "24415c16e406ab3f5083e6bbdd9f660d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_terrace/raw/DSC08809.ARW"
+                }
+            }
+        }
+    }
+}

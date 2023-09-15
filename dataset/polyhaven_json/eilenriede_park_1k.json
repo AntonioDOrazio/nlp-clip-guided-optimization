@@ -1,0 +1,104 @@
+{
+    "evs_cap": 6,
+    "type": 0,
+    "tags": [
+        "park",
+        "field",
+        "tree",
+        "grass",
+        "bench",
+        "autumn"
+    ],
+    "date_published": 1506982020,
+    "name": "Eilenriede Park",
+    "categories": [
+        "outdoor",
+        "nature",
+        "sunrise-sunset",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1478879580,
+    "coords": [
+        52.38316,
+        9.760609
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "11167855"
+    ],
+    "files_hash": "c50592287da40c9ede640ff20acacf0d223daca0",
+    "download_count": 68828,
+    "files": {
+        "tonemapped": {
+            "size": 7515057,
+            "md5": "87424845a5efe8423aa7c41f67c6dd5a",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/eilenriede_park.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102164272,
+                    "md5": "ed7e4ca0188d6a57c2b728be46043741",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/eilenriede_park_8k.hdr"
+                },
+                "exr": {
+                    "size": 91152581,
+                    "md5": "bcdb43d32d3439bb82611ac958b81fec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/eilenriede_park_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 380994443,
+                    "md5": "d345c0edf90ec273267b2486668e1ca5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/eilenriede_park_16k.hdr"
+                },
+                "exr": {
+                    "size": 335742777,
+                    "md5": "86aea0c2cc7285869934fc0004963479",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/eilenriede_park_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26024605,
+                    "md5": "08ff57855a30b9292cbc02fc0b04f996",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/eilenriede_park_4k.hdr"
+                },
+                "exr": {
+                    "size": 23312742,
+                    "md5": "94f48649e3edd8f5652ec5ccdf6061ad",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/eilenriede_park_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6444296,
+                    "md5": "395b9490880012de20e96c91b03a9ce1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/eilenriede_park_2k.hdr"
+                },
+                "exr": {
+                    "size": 5836495,
+                    "md5": "04e5a87ce4344f953aef45c00a84f65d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/eilenriede_park_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1589834,
+                    "md5": "3e69d2a920eab2c7e72aef5a75a7e78c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/eilenriede_park_1k.hdr"
+                },
+                "exr": {
+                    "size": 1469619,
+                    "md5": "c0bf4cd3b9d722098d58e8ed0a7df833",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/eilenriede_park_1k.exr"
+                }
+            }
+        }
+    }
+}

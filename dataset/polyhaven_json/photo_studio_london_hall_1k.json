@@ -1,0 +1,513 @@
+{
+    "evs_cap": 17,
+    "type": 0,
+    "whitebalance": 6600,
+    "name": "Photo Studio London Hall",
+    "categories": [
+        "indoor",
+        "natural light",
+        "urban",
+        "low contrast",
+        "midday",
+        "studio"
+    ],
+    "backplates": true,
+    "date_taken": 1624035240,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "date_published": 1629158400,
+    "tags": [
+        "table",
+        "couch",
+        "victorian",
+        "apartment",
+        "backplates"
+    ],
+    "files_hash": "6ee5a14efce45fb0f4c828ff5888677552b05039",
+    "download_count": 57256,
+    "files": {
+        "hdri": {
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/photo_studio_london_hall_16k.hdr",
+                    "size": 366816867,
+                    "md5": "b7ab81cb3ed9225bdf5b9a1051d02c33"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/photo_studio_london_hall_16k.exr",
+                    "size": 262151692,
+                    "md5": "323d8b0699f01f267677aeba729798ad"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/photo_studio_london_hall_8k.hdr",
+                    "size": 97917260,
+                    "md5": "9a738d29a56c68b757b480375ef12c24"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/photo_studio_london_hall_8k.exr",
+                    "size": 72494388,
+                    "md5": "33362535dc2bd44cead4efcd6fd28496"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/photo_studio_london_hall_4k.hdr",
+                    "size": 25241272,
+                    "md5": "a0f73ece6b2aad2ba658a6b9c900d76b"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/photo_studio_london_hall_4k.exr",
+                    "size": 18928085,
+                    "md5": "41c04162b085465a7858ff6e8209420b"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/photo_studio_london_hall_2k.hdr",
+                    "size": 6420881,
+                    "md5": "2f102708312f3aae54a7daf16f2f6693"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/photo_studio_london_hall_2k.exr",
+                    "size": 4971409,
+                    "md5": "7d7398519a6bc37eef62409e5dc09ea8"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/photo_studio_london_hall_1k.hdr",
+                    "size": 1631833,
+                    "md5": "0d12b4f7067d5c1cc61dba0ee5ef98be"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/photo_studio_london_hall_1k.exr",
+                    "size": 1320664,
+                    "md5": "875b21db72890f3d7b2ab3bc4757646d"
+                }
+            }
+        },
+        "colorchart": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/photo_studio_london_hall.zip",
+            "size": 76511637,
+            "md5": "9b0f2c7a82bc3cb36f9c3ce631786016"
+        },
+        "tonemapped": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/photo_studio_london_hall.jpg",
+            "size": 33222164,
+            "md5": "7124c3700ae6b2cb85e67b04be251300"
+        },
+        "backplates": {
+            "IMG_020": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_pretty/IMG_020.jpg",
+                    "size": 10176803,
+                    "md5": "48b7ea9eea7e39d1553f6b6296c59f68"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/raw/IMG_020.NEF",
+                    "size": 27312700,
+                    "md5": "bee6a00ee50af0a8a988ae31a686461b"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_plain/IMG_020.jpg",
+                    "size": 7976183,
+                    "md5": "1ccdc610299955409c8120f232cadd63"
+                }
+            },
+            "IMG_021": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_pretty/IMG_021.jpg",
+                    "size": 12726742,
+                    "md5": "7e6cc3651a7eb8e2c580617cdf40bfcd"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/raw/IMG_021.NEF",
+                    "size": 28689753,
+                    "md5": "d9532ac569a39495100d3f6bfcff89d8"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_plain/IMG_021.jpg",
+                    "size": 9699001,
+                    "md5": "155a6662e5d2111668e629e9e9edc7e2"
+                }
+            },
+            "IMG_010": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_pretty/IMG_010.jpg",
+                    "size": 13601936,
+                    "md5": "5a0fd26fb899b5e2c9d28e1f28dd5a3d"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/raw/IMG_010.NEF",
+                    "size": 28637608,
+                    "md5": "53e1e3fbc783be44cb8b7c7679b5e07e"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_plain/IMG_010.jpg",
+                    "size": 8911957,
+                    "md5": "f2d6ed660eb43366d061020378ca71b9"
+                }
+            },
+            "IMG_011": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_pretty/IMG_011.jpg",
+                    "size": 10332051,
+                    "md5": "6403e67e717471aa1e132751712943ec"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/raw/IMG_011.NEF",
+                    "size": 25918083,
+                    "md5": "80be8b4c2f3e0bec5baf84a8f47bd91e"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_plain/IMG_011.jpg",
+                    "size": 10429052,
+                    "md5": "f2f573d8fcca83bf486d2f490107d16a"
+                }
+            },
+            "IMG_022": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_pretty/IMG_022.jpg",
+                    "size": 9848741,
+                    "md5": "3081886118f5c85787f02b3b623ab65d"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/raw/IMG_022.NEF",
+                    "size": 26942885,
+                    "md5": "27a873e9960b208c35b703b984de43cd"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_plain/IMG_022.jpg",
+                    "size": 5456106,
+                    "md5": "9e5457a954373d933fd6e319133bafc7"
+                }
+            },
+            "IMG_012": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_pretty/IMG_012.jpg",
+                    "size": 12101471,
+                    "md5": "78e8e4eb4c4ba3064559a5fcaa95b0d5"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/raw/IMG_012.NEF",
+                    "size": 28197052,
+                    "md5": "37508b4b3456e24f879dc5abef39cffc"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_plain/IMG_012.jpg",
+                    "size": 8607311,
+                    "md5": "cb88327004a1692425e33611755a1e65"
+                }
+            },
+            "IMG_023": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_pretty/IMG_023.jpg",
+                    "size": 10667212,
+                    "md5": "bfe6181202a9ab88fbe46652713138bf"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/raw/IMG_023.NEF",
+                    "size": 25919884,
+                    "md5": "e824ccfe7ea91381b2227cf0f9f18874"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_plain/IMG_023.jpg",
+                    "size": 10115558,
+                    "md5": "1a3edfc008a17ac726ebf288887d1d4f"
+                }
+            },
+            "IMG_001": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_pretty/IMG_001.jpg",
+                    "size": 10949609,
+                    "md5": "83e8d4f5be9f3df640a5840805bdd7f9"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/raw/IMG_001.NEF",
+                    "size": 25950171,
+                    "md5": "4ff9377d1b75db395bcb4fb7f704d462"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_plain/IMG_001.jpg",
+                    "size": 10178737,
+                    "md5": "173b76b728a40839ca92034e07da6a22"
+                }
+            },
+            "IMG_013": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_pretty/IMG_013.jpg",
+                    "size": 14334100,
+                    "md5": "f370f1f2358714bef42657adfffb8398"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/raw/IMG_013.NEF",
+                    "size": 29580642,
+                    "md5": "defbe77aec6dfcf7b590e858af04a677"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_plain/IMG_013.jpg",
+                    "size": 9875350,
+                    "md5": "3efa6b42b56e07a234b5fb0af2ace95b"
+                }
+            },
+            "IMG_024": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_pretty/IMG_024.jpg",
+                    "size": 9960858,
+                    "md5": "ecfa608d7805edf99030efa297e00198"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/raw/IMG_024.NEF",
+                    "size": 25512796,
+                    "md5": "0d29a98998b759c3a5a8662def883399"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_plain/IMG_024.jpg",
+                    "size": 9594927,
+                    "md5": "0684c70351865dc4072e36e173b6e5ed"
+                }
+            },
+            "IMG_002": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_pretty/IMG_002.jpg",
+                    "size": 10831445,
+                    "md5": "11893f46267f7e58e8b41d3554f80aa3"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/raw/IMG_002.NEF",
+                    "size": 25986900,
+                    "md5": "06f6a453af31d9e781bbe1d3f7a2d2dc"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_plain/IMG_002.jpg",
+                    "size": 10355854,
+                    "md5": "659de1cf041b9c55603dc0c37e5b03ef"
+                }
+            },
+            "IMG_014": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_pretty/IMG_014.jpg",
+                    "size": 11316087,
+                    "md5": "efc3ce7f02cbc38a49ab3280b91113b2"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/raw/IMG_014.NEF",
+                    "size": 28377491,
+                    "md5": "67aed7c73618067398ed9bcd4acf0d74"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_plain/IMG_014.jpg",
+                    "size": 8695930,
+                    "md5": "4717a4405c185345858c8652df45afb6"
+                }
+            },
+            "IMG_003": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_pretty/IMG_003.jpg",
+                    "size": 10560610,
+                    "md5": "79b9bb75e68dbd20bcfc926168946cdb"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/raw/IMG_003.NEF",
+                    "size": 25832154,
+                    "md5": "704853c60e0d25622fb27e7998779d82"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_plain/IMG_003.jpg",
+                    "size": 9821996,
+                    "md5": "95b7123a944f0a49eb746f7151314afc"
+                }
+            },
+            "IMG_004": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_pretty/IMG_004.jpg",
+                    "size": 8154938,
+                    "md5": "2c51df1b9a811b22ac55b7b22fcdfe1b"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/raw/IMG_004.NEF",
+                    "size": 25761293,
+                    "md5": "cef8ea593cbdd7e580371db41a9341d1"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_plain/IMG_004.jpg",
+                    "size": 8205374,
+                    "md5": "0c035622f7f33e48b7c9d5474e85d5e3"
+                }
+            },
+            "IMG_015": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_pretty/IMG_015.jpg",
+                    "size": 8340411,
+                    "md5": "41728ee75dcd3d1865ff43f60987b48e"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/raw/IMG_015.NEF",
+                    "size": 27638517,
+                    "md5": "0eedce3982c7c3d54301f36e9d4125a8"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_plain/IMG_015.jpg",
+                    "size": 6687792,
+                    "md5": "649911e17f79cc469293d647c8779d94"
+                }
+            },
+            "IMG_016": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_pretty/IMG_016.jpg",
+                    "size": 12017003,
+                    "md5": "4c01dff71a0486e4ae20459b8013a1ab"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/raw/IMG_016.NEF",
+                    "size": 24218186,
+                    "md5": "295636efc3047f75dfa0a57f45c26edf"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_plain/IMG_016.jpg",
+                    "size": 7420945,
+                    "md5": "cb5d1e652aa8e819eeaea2c88bd69c73"
+                }
+            },
+            "IMG_005": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_pretty/IMG_005.jpg",
+                    "size": 10835978,
+                    "md5": "e1cbf71705f2e61617d225108de97e28"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/raw/IMG_005.NEF",
+                    "size": 25993832,
+                    "md5": "b71b289fd51927b9d1148a8333bff54b"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_plain/IMG_005.jpg",
+                    "size": 9812740,
+                    "md5": "e3c8c22f28b62b26d4e3a18e378d72f2"
+                }
+            },
+            "IMG_017": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_pretty/IMG_017.jpg",
+                    "size": 9870550,
+                    "md5": "65f26b2b35052f96bf99af21014ec196"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/raw/IMG_017.NEF",
+                    "size": 27037868,
+                    "md5": "c7c435b165e4a76021399a612127f7da"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_plain/IMG_017.jpg",
+                    "size": 5889208,
+                    "md5": "99fe8730118547c1809e87f6d8df767b"
+                }
+            },
+            "IMG_006": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_pretty/IMG_006.jpg",
+                    "size": 12258420,
+                    "md5": "cbc226f323affc6d31e7cb3c792135ab"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/raw/IMG_006.NEF",
+                    "size": 27792807,
+                    "md5": "4195a9dbe66c60913ae26adafa68f976"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_plain/IMG_006.jpg",
+                    "size": 7836365,
+                    "md5": "e240676116dfeccece973cb83082aac9"
+                }
+            },
+            "IMG_007": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_pretty/IMG_007.jpg",
+                    "size": 12956052,
+                    "md5": "9f0c9d2589758b7463f7bc34826a951e"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/raw/IMG_007.NEF",
+                    "size": 26960858,
+                    "md5": "79fb00334b18b1e80874513869c3cd00"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_plain/IMG_007.jpg",
+                    "size": 7339911,
+                    "md5": "f9124471187046a7109c33a1aaa26db0"
+                }
+            },
+            "IMG_018": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_pretty/IMG_018.jpg",
+                    "size": 11672085,
+                    "md5": "2eaac76f52d676494dcc6f7e04c1e2f5"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/raw/IMG_018.NEF",
+                    "size": 28010931,
+                    "md5": "e39cee769c2c2ca32cff4140b729d7a4"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_plain/IMG_018.jpg",
+                    "size": 8135663,
+                    "md5": "3aaadea72b74d077a1d75a94cbf4e076"
+                }
+            },
+            "IMG_019": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_pretty/IMG_019.jpg",
+                    "size": 9182696,
+                    "md5": "fd1f407f77e551f0678be8950dd37faf"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/raw/IMG_019.NEF",
+                    "size": 25965418,
+                    "md5": "f3991c3ab00ab73cf196ab51a6630e1c"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_plain/IMG_019.jpg",
+                    "size": 7392857,
+                    "md5": "1b9f080053e38588c4c82d66ceb188a0"
+                }
+            },
+            "IMG_008": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_pretty/IMG_008.jpg",
+                    "size": 13057093,
+                    "md5": "bb49db2aca9e7970f36b53d56d4adac8"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/raw/IMG_008.NEF",
+                    "size": 25701147,
+                    "md5": "e9056043eb8a57c10ee88660b0e34d71"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_plain/IMG_008.jpg",
+                    "size": 8741125,
+                    "md5": "13ad144aecf1683fb2d548e28fb4ec4d"
+                }
+            },
+            "IMG_009": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_pretty/IMG_009.jpg",
+                    "size": 15193125,
+                    "md5": "6e91f114724428ef7648b5147c3697e0"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/raw/IMG_009.NEF",
+                    "size": 30250308,
+                    "md5": "b062142eadd8cb8828ac94de993c089f"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/photo_studio_london_hall/jpg_plain/IMG_009.jpg",
+                    "size": 10741779,
+                    "md5": "3c0f1daa61173af34821b3f328a2977f"
+                }
+            }
+        }
+    }
+}

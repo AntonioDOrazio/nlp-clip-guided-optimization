@@ -1,0 +1,96 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "whitebalance": 5050,
+    "tags": [
+        "workshop",
+        "industrial",
+        "warehouse",
+        "scaffold"
+    ],
+    "date_published": 1545346800,
+    "name": "Aircraft Workshop 01",
+    "categories": [
+        "indoor",
+        "urban",
+        "morning-afternoon",
+        "medium contrast",
+        "natural light",
+        "artificial light"
+    ],
+    "date_taken": 1542981480,
+    "authors": {
+        "Oliksiy Yakovlyev": "All"
+    },
+    "files_hash": "f2c4e07beb711678415d205402377464a329fd71",
+    "download_count": 26610,
+    "files": {
+        "tonemapped": {
+            "size": 6806004,
+            "md5": "f56db9ecc8feb34f82ce077a2739ca3c",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/aircraft_workshop_01.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 105293584,
+                    "md5": "3395e083f85d49bc2dfd8abd714db0ec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/aircraft_workshop_01_8k.hdr"
+                },
+                "exr": {
+                    "size": 96895909,
+                    "md5": "22b99d19aabc7250049175b5b8a2507e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/aircraft_workshop_01_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 432673573,
+                    "md5": "b6c3bcbbbef3914852f78dbe25c595c4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/aircraft_workshop_01_16k.hdr"
+                },
+                "exr": {
+                    "size": 382226041,
+                    "md5": "e8b318158d5b386889445697897749d8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/aircraft_workshop_01_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26944153,
+                    "md5": "bb1f8b936e60864e829d516dbf46c55f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/aircraft_workshop_01_4k.hdr"
+                },
+                "exr": {
+                    "size": 25469096,
+                    "md5": "4b7af1440785454e91c6f5422764497d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/aircraft_workshop_01_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6897749,
+                    "md5": "0d8654e76780e58b7bea2099cd4ef207",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/aircraft_workshop_01_2k.hdr"
+                },
+                "exr": {
+                    "size": 6734598,
+                    "md5": "6eb20e0368bd0953f9d147cbb35c0f3a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/aircraft_workshop_01_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1768843,
+                    "md5": "2d2b75a914947da3cafbf9e6ff3620a0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/aircraft_workshop_01_1k.hdr"
+                },
+                "exr": {
+                    "size": 1781025,
+                    "md5": "f8be2077b9e7a67a39d0a4b1ac6ba4f0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/aircraft_workshop_01_1k.exr"
+                }
+            }
+        }
+    }
+}

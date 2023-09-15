@@ -1,0 +1,108 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "parking",
+        "road",
+        "roof"
+    ],
+    "date_published": 1511996400,
+    "name": "Learner Park",
+    "categories": [
+        "outdoor",
+        "skies",
+        "urban",
+        "sunrise-sunset",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        -26.146295,
+        27.983829
+    ],
+    "date_taken": 1458063000,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "name": "3DLux"
+        },
+        {
+            "url": "http://www.patreon.com/homoeros",
+            "name": "Homoeros"
+        }
+    ],
+    "files_hash": "9e5bff6b0252c4f558005d03e2110176fdc4b55a",
+    "download_count": 66325,
+    "files": {
+        "tonemapped": {
+            "size": 5073859,
+            "md5": "f9f35ee607918501f1cdcfc2cd88553c",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/learner_park.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102751875,
+                    "md5": "cf7da55dcb904a48228dd03e9ea51039",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/learner_park_8k.hdr"
+                },
+                "exr": {
+                    "size": 83140483,
+                    "md5": "fa3884445cda6cca8742c2388b8c09d4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/learner_park_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 390563002,
+                    "md5": "95238762a428ca4d050171f911bc2cef",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/learner_park_16k.hdr"
+                },
+                "exr": {
+                    "size": 316402325,
+                    "md5": "6fd75a834cf41c0413a682d6a896c2b3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/learner_park_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25662579,
+                    "md5": "8a85734b36c893dfbd3b85e3d96127aa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/learner_park_4k.hdr"
+                },
+                "exr": {
+                    "size": 20411757,
+                    "md5": "924f7bf33ea8e8f6b34b12bb97c2ae8f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/learner_park_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6163523,
+                    "md5": "2f5df3720543a5bebd37ac786fb5758c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/learner_park_2k.hdr"
+                },
+                "exr": {
+                    "size": 4959557,
+                    "md5": "6d91b8489fbcacc2f74dae4ec354a21f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/learner_park_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1497893,
+                    "md5": "8851012b837cbae2faf55b44932578cd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/learner_park_1k.hdr"
+                },
+                "exr": {
+                    "size": 1241877,
+                    "md5": "6c871fb1d40887798030dd4153e4e8ad",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/learner_park_1k.exr"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "evs_cap": 6,
+    "type": 0,
+    "tags": [
+        "architecture",
+        "red carpet",
+        "statue",
+        "square",
+        "symmetry"
+    ],
+    "date_published": 1508536800,
+    "name": "Konzerthaus",
+    "categories": [
+        "outdoor",
+        "urban",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        52.51363,
+        13.392523
+    ],
+    "date_taken": 1478339100,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "7947474"
+    ],
+    "files_hash": "68d8481d0d2b3cfe25d40397e20e17c80ea5a9ba",
+    "download_count": 23582,
+    "files": {
+        "tonemapped": {
+            "size": 6482119,
+            "md5": "c4aeebfb66bf5f1a277da3c00ae75cbc",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/konzerthaus.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 97556401,
+                    "md5": "52170d58aae6b9d86b2eb9a3e91d9d4f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/konzerthaus_8k.hdr"
+                },
+                "exr": {
+                    "size": 84050142,
+                    "md5": "0bca0a290c6791dd0f742f47f227f465",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/konzerthaus_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 356592907,
+                    "md5": "f04230cca6812bca27ff32e07676330d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/konzerthaus_16k.hdr"
+                },
+                "exr": {
+                    "size": 302228157,
+                    "md5": "4583b20d712e7b28745c61b357a88a3f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/konzerthaus_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25041938,
+                    "md5": "259b2f0bf558b815d9438aa0a032e238",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/konzerthaus_4k.hdr"
+                },
+                "exr": {
+                    "size": 22019860,
+                    "md5": "9c6b106de3c9ccfbf33a76a50037c139",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/konzerthaus_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6298185,
+                    "md5": "cf647a3cc1941d91b23f5f09ab06b1cc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/konzerthaus_2k.hdr"
+                },
+                "exr": {
+                    "size": 5682283,
+                    "md5": "79702b115b920f5257adf1c4c67fd2bf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/konzerthaus_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1591251,
+                    "md5": "7d52017f9a7d8b967eebc09dbcc6dd9f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/konzerthaus_1k.hdr"
+                },
+                "exr": {
+                    "size": 1466772,
+                    "md5": "1a9ceac894f9be965cdecc3024d15885",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/konzerthaus_1k.exr"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "evs_cap": 6,
+    "type": 0,
+    "tags": [
+        "tree",
+        "rock",
+        "path",
+        "autumn",
+        "park"
+    ],
+    "date_published": 1577401200,
+    "name": "Blaubeuren Outskirts",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        48.405495,
+        9.801679
+    ],
+    "date_taken": 1572447780,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        "3237733"
+    ],
+    "files_hash": "10b713e9c10e45e595df5322f27eda136ffce337",
+    "download_count": 19785,
+    "files": {
+        "tonemapped": {
+            "size": 11156780,
+            "md5": "39d28bf90f18097bd9f327ac1bb5b5f6",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/blaubeuren_outskirts.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 114921059,
+                    "md5": "5ae13669dba8e85faaab332775b1aa96",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/blaubeuren_outskirts_8k.hdr"
+                },
+                "exr": {
+                    "size": 117615082,
+                    "md5": "2d3fc952946aa89fa135e330f7e85aa4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/blaubeuren_outskirts_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 439254600,
+                    "md5": "e90a9b81dbdd7e347fde9492ce73dc87",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/blaubeuren_outskirts_16k.hdr"
+                },
+                "exr": {
+                    "size": 442479812,
+                    "md5": "6de52c7670ce2bbaeb7dc9efa47a9a90",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/blaubeuren_outskirts_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 29578023,
+                    "md5": "c2fd95afa03de94d9286da4d783d8788",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/blaubeuren_outskirts_4k.hdr"
+                },
+                "exr": {
+                    "size": 30431361,
+                    "md5": "ac7d309cef6b078df3070b17d69b96ac",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/blaubeuren_outskirts_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7505831,
+                    "md5": "d5cabbcf4108d34f3c40b515e00224f9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/blaubeuren_outskirts_2k.hdr"
+                },
+                "exr": {
+                    "size": 7753964,
+                    "md5": "6fb2cab24af75de638e0537ab4889ca3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/blaubeuren_outskirts_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1887528,
+                    "md5": "a398294cd512293766b71d4476dcecb5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/blaubeuren_outskirts_1k.hdr"
+                },
+                "exr": {
+                    "size": 1966719,
+                    "md5": "d24caf983f29ffef3c7ccc3b80d5c23b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/blaubeuren_outskirts_1k.exr"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 701584375,
+                    "md5": "9b32d208ea46077f0acecbb8ff85e656",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/blaubeuren_outskirts_20k.hdr"
+                },
+                "exr": {
+                    "size": 702043758,
+                    "md5": "12e8f40ed96f588ddca264e0d5dbdddc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/blaubeuren_outskirts_20k.exr"
+                }
+            }
+        }
+    }
+}

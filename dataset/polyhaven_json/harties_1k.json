@@ -1,0 +1,105 @@
+{
+    "evs_cap": 24,
+    "type": 0,
+    "tags": [
+        "sun",
+        "view",
+        "hilltop",
+        "smoke",
+        "path",
+        "table"
+    ],
+    "date_published": 1522879200,
+    "name": "Harties",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "midday",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        -25.71179,
+        27.885365
+    ],
+    "date_taken": 1439201700,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "9910225"
+    ],
+    "files_hash": "d6f385cc9935271bf3c8d0e5272e3cc6c5b480be",
+    "download_count": 28043,
+    "files": {
+        "tonemapped": {
+            "size": 6620440,
+            "md5": "eb4d5fb58d9f53dd63de0c859a1bdd1d",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/harties.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 104383163,
+                    "md5": "4ba6b6e6f5e0c745694e1a18470e985f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/harties_8k.hdr"
+                },
+                "exr": {
+                    "size": 88750066,
+                    "md5": "0cf7f6ea0dac5b4327edf6f5ce5a210a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/harties_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 393221978,
+                    "md5": "beee55f31daa7fe027cf792ae98ff5c3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/harties_16k.hdr"
+                },
+                "exr": {
+                    "size": 324391347,
+                    "md5": "23eec5c9fbb7f95e8886ea6db79657fe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/harties_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26809207,
+                    "md5": "412b8dc6f039fbf40281a0313a40987b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/harties_4k.hdr"
+                },
+                "exr": {
+                    "size": 22986060,
+                    "md5": "03c4aebeb3b87b3745d63be41f426184",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/harties_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6755693,
+                    "md5": "73047900a1d755eae518b8c4a97150c4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/harties_2k.hdr"
+                },
+                "exr": {
+                    "size": 5820452,
+                    "md5": "5aae789fd489909a70b9a15301bbf92b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/harties_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1684092,
+                    "md5": "f20a7f947ccb2117f1ce88c2e849db4b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/harties_1k.hdr"
+                },
+                "exr": {
+                    "size": 1474824,
+                    "md5": "16fa39f14ba9b591944ce4689ab8f976",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/harties_1k.exr"
+                }
+            }
+        }
+    }
+}

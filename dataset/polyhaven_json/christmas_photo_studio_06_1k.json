@@ -1,0 +1,104 @@
+{
+    "evs_cap": 20,
+    "type": 0,
+    "whitebalance": 2350,
+    "tags": [
+        "couch",
+        "christmas",
+        "photo",
+        "shoot",
+        "clock",
+        "painting",
+        "chair"
+    ],
+    "name": "Christmas Photo Studio 06",
+    "categories": [
+        "medium contrast",
+        "urban",
+        "indoor",
+        "artificial light",
+        "studio"
+    ],
+    "date_taken": 1669727400,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "info": null,
+    "files_hash": "1c68de5623168dbb579212055484097409fd77da",
+    "date_published": 1672617600,
+    "download_count": 18263,
+    "files": {
+        "tonemapped": {
+            "size": 30668459,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/christmas_photo_studio_06.jpg",
+            "md5": "2d2f8fead2cf4c57fa85369bab570262"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 94410767,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/christmas_photo_studio_06_8k.hdr",
+                    "md5": "44654a590a940c4e3e6d1584bf98d8b3"
+                },
+                "exr": {
+                    "size": 69248766,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/christmas_photo_studio_06_8k.exr",
+                    "md5": "2917a125f0de8a69970fe6199d680be2"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 347593935,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/christmas_photo_studio_06_16k.hdr",
+                    "md5": "058266d242f271d49c4864cc53b37e60"
+                },
+                "exr": {
+                    "size": 242414110,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/christmas_photo_studio_06_16k.exr",
+                    "md5": "f74276c7c2602ff28703f4dae500041f"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24653787,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/christmas_photo_studio_06_4k.hdr",
+                    "md5": "ed3e351f6680c77707cc299e5c528a97"
+                },
+                "exr": {
+                    "size": 18833600,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/christmas_photo_studio_06_4k.exr",
+                    "md5": "8ddb1688911ccfe31ec27c8cc5eed645"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6359448,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/christmas_photo_studio_06_2k.hdr",
+                    "md5": "030c58596bb58f0ed2a6c4ea077a9c28"
+                },
+                "exr": {
+                    "size": 5052216,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/christmas_photo_studio_06_2k.exr",
+                    "md5": "613e342facb022f64ddf095ec7f09a01"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1631504,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/christmas_photo_studio_06_1k.hdr",
+                    "md5": "6cff43298fcf317ff3a9e5c0f0be4db5"
+                },
+                "exr": {
+                    "size": 1349821,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/christmas_photo_studio_06_1k.exr",
+                    "md5": "542cc86d7b7d9e4859330967102d9911"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 92179079,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/christmas_photo_studio_06.zip",
+            "md5": "54aeda6f70e3efe28dc08994c97c5cbb"
+        }
+    }
+}

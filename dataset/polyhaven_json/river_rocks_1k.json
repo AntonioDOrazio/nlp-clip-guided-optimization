@@ -1,0 +1,99 @@
+{
+    "evs_cap": 21,
+    "type": 0,
+    "tags": [
+        "tree",
+        "sun",
+        "rock",
+        "river"
+    ],
+    "date_published": 1522879200,
+    "name": "River Rocks",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        -25.028351,
+        31.135016
+    ],
+    "date_taken": 1443706020,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "files_hash": "05ee0b4aba9302f2f78e44cf694025af3c41baa2",
+    "download_count": 17872,
+    "files": {
+        "tonemapped": {
+            "size": 8362509,
+            "md5": "04ed1e92a4ee893243037bf89a39f8ef",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/river_rocks.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 108362286,
+                    "md5": "548a9e56ca9583d423f7351de7f5a035",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/river_rocks_8k.hdr"
+                },
+                "exr": {
+                    "size": 103155586,
+                    "md5": "4b23ec8ea25d3acf39e0c9961fe499d5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/river_rocks_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 402220998,
+                    "md5": "2ba0f80c71b559255ff7bbc3da4d1cfc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/river_rocks_16k.hdr"
+                },
+                "exr": {
+                    "size": 372396703,
+                    "md5": "f3f74542caa8ae37a18ff7d2de2e9780",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/river_rocks_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27631343,
+                    "md5": "d4fa5ff4780b77c45588c453d203a674",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/river_rocks_4k.hdr"
+                },
+                "exr": {
+                    "size": 25537479,
+                    "md5": "7da1adc87e5287d1b57a4f907db32d3e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/river_rocks_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6947248,
+                    "md5": "46e4cd843562cb144d2f411b72d1d2d9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/river_rocks_2k.hdr"
+                },
+                "exr": {
+                    "size": 6426245,
+                    "md5": "e10b0036e55bc2f88b4c8ccad716b20d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/river_rocks_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1734246,
+                    "md5": "8539430ae89c4cc490daf068b1e69994",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/river_rocks_1k.hdr"
+                },
+                "exr": {
+                    "size": 1624958,
+                    "md5": "ae2a1328f3ec410f863139bde93ef032",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/river_rocks_1k.exr"
+                }
+            }
+        }
+    }
+}

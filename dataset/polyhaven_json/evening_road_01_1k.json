@@ -1,0 +1,296 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5400,
+    "date_published": 1571695200,
+    "name": "Evening Road 01",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "sunrise-sunset",
+        "partly cloudy",
+        "medium contrast",
+        "natural light"
+    ],
+    "date_taken": 1565544540,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "backplates": true,
+    "tags": [
+        "road",
+        "asphalt",
+        "field",
+        "grass",
+        "backplates"
+    ],
+    "sponsors": [
+        {
+            "url": "https://www.ronenbekerman.com/",
+            "name": "Ronen Bekerman"
+        },
+        "7934315",
+        "4714267"
+    ],
+    "files_hash": "13626c4f386243d5ef8dbc3544af8618e9d63c7b",
+    "download_count": 64941,
+    "files": {
+        "tonemapped": {
+            "size": 4935799,
+            "md5": "57a50c8c94a6de659446bb3c039aa770",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/evening_road_01.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 100521021,
+                    "md5": "c68f7fedff60bdc587378c9ce2b7e912",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/evening_road_01_8k.hdr"
+                },
+                "exr": {
+                    "size": 80326055,
+                    "md5": "f9ca284948df487d2933c3d7d562138d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/evening_road_01_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 387599611,
+                    "md5": "3650cf7f8de65294de0098e7df285c5b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/evening_road_01_16k.hdr"
+                },
+                "exr": {
+                    "size": 300302905,
+                    "md5": "be253502f0b832f976164afe248b83f1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/evening_road_01_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25365606,
+                    "md5": "26d46b6021e1ee65629dad9c56661adb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/evening_road_01_4k.hdr"
+                },
+                "exr": {
+                    "size": 20967564,
+                    "md5": "90f32c6c2fbf624d131cbe3bef2d4695",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/evening_road_01_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6321072,
+                    "md5": "4ece1c0b280d592f97cf0aab78c84410",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/evening_road_01_2k.hdr"
+                },
+                "exr": {
+                    "size": 5465610,
+                    "md5": "11d8aed3cd8d9e3b5cce28cb760d0f38",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/evening_road_01_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1575329,
+                    "md5": "2b932f650d2ea903c19d0a47f0b5964f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/evening_road_01_1k.hdr"
+                },
+                "exr": {
+                    "size": 1431375,
+                    "md5": "5ee585a2dd7f159bb2bbbf1b77ce68e5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/evening_road_01_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "DSC_0107": {
+                "jpg_pretty": {
+                    "size": 13267016,
+                    "md5": "b71cf1067f0bec0dac536e9d2deb34e4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/evening_road_01/jpg_pretty/DSC_0107.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6366936,
+                    "md5": "0666b2ae0711839d4958299655098c2e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/evening_road_01/jpg_plain/DSC_0107.jpg"
+                },
+                "raw": {
+                    "size": 17238642,
+                    "md5": "bd3343169a5c93c6ce374a5d9f6f9aa7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/evening_road_01/raw/DSC_0107.NEF"
+                }
+            },
+            "DSC_0216": {
+                "jpg_pretty": {
+                    "size": 14535640,
+                    "md5": "91b4dea85fb8a04a1a8cf2d3632e24cd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/evening_road_01/jpg_pretty/DSC_0216.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8829795,
+                    "md5": "7710f444ac1f21c0af0e61f6068b45f6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/evening_road_01/jpg_plain/DSC_0216.jpg"
+                },
+                "raw": {
+                    "size": 19040082,
+                    "md5": "bf32e5404a98e92654e466f6d99c704a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/evening_road_01/raw/DSC_0216.NEF"
+                }
+            },
+            "DSC_0132": {
+                "jpg_pretty": {
+                    "size": 14799381,
+                    "md5": "ca540ca22a601e1964a0e8ff6b4c8416",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/evening_road_01/jpg_pretty/DSC_0132.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9387555,
+                    "md5": "ed6bc67709262040498b211db156675f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/evening_road_01/jpg_plain/DSC_0132.jpg"
+                },
+                "raw": {
+                    "size": 18137571,
+                    "md5": "e83d7683186264d95e27ae269ded0942",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/evening_road_01/raw/DSC_0132.NEF"
+                }
+            },
+            "DSC_0242": {
+                "jpg_pretty": {
+                    "size": 13244300,
+                    "md5": "f13ff797068f22b52bfc140984714286",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/evening_road_01/jpg_pretty/DSC_0242.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6784289,
+                    "md5": "066f74aeeb15b0c9559d6dfeb31419d5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/evening_road_01/jpg_plain/DSC_0242.jpg"
+                },
+                "raw": {
+                    "size": 15409927,
+                    "md5": "12d25360938273e0d4a8184638b67be9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/evening_road_01/raw/DSC_0242.NEF"
+                }
+            },
+            "DSC_0097": {
+                "jpg_pretty": {
+                    "size": 15312116,
+                    "md5": "923dbe530f6ebc8948d647ae03e7319e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/evening_road_01/jpg_pretty/DSC_0097.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9150595,
+                    "md5": "aa082aa68a3f05846544a35ac43242f9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/evening_road_01/jpg_plain/DSC_0097.jpg"
+                },
+                "raw": {
+                    "size": 18550431,
+                    "md5": "b254fddea5ec6fa558ce7cff48bed27d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/evening_road_01/raw/DSC_0097.NEF"
+                }
+            },
+            "DSC_0152": {
+                "jpg_pretty": {
+                    "size": 13210490,
+                    "md5": "3dfbba0c7b32532a70586d27e922990f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/evening_road_01/jpg_pretty/DSC_0152.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7177306,
+                    "md5": "7869a637c1727c49cde2d57a34cfa083",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/evening_road_01/jpg_plain/DSC_0152.jpg"
+                },
+                "raw": {
+                    "size": 17598476,
+                    "md5": "dbf2d9da977649fc2ca13de9d967621b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/evening_road_01/raw/DSC_0152.NEF"
+                }
+            },
+            "DSC_0212": {
+                "jpg_pretty": {
+                    "size": 12838394,
+                    "md5": "15405f5d8fa702f41782be248838f030",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/evening_road_01/jpg_pretty/DSC_0212.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8173270,
+                    "md5": "e2f43f2cb0dc66871422cf1504e3af18",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/evening_road_01/jpg_plain/DSC_0212.jpg"
+                },
+                "raw": {
+                    "size": 16845045,
+                    "md5": "fae43ef39d893512aa8baa97c55a1e06",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/evening_road_01/raw/DSC_0212.NEF"
+                }
+            },
+            "DSC_0112": {
+                "jpg_pretty": {
+                    "size": 13791853,
+                    "md5": "eaca62ab239fa9443e68c6ed2a3071ad",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/evening_road_01/jpg_pretty/DSC_0112.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6724960,
+                    "md5": "6d290c71341eb2281bc3b80981ee1e13",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/evening_road_01/jpg_plain/DSC_0112.jpg"
+                },
+                "raw": {
+                    "size": 17424351,
+                    "md5": "3ddc7653697c9aa06b0935bd7af3ee9b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/evening_road_01/raw/DSC_0112.NEF"
+                }
+            },
+            "DSC_0122": {
+                "jpg_pretty": {
+                    "size": 14461245,
+                    "md5": "667404b9fe757a6944d4edce197611cf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/evening_road_01/jpg_pretty/DSC_0122.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9689133,
+                    "md5": "2601465550d189960940fa992c5c812d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/evening_road_01/jpg_plain/DSC_0122.jpg"
+                },
+                "raw": {
+                    "size": 18152182,
+                    "md5": "fd73334fd3689a6d4786fcfd87893e4c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/evening_road_01/raw/DSC_0122.NEF"
+                }
+            },
+            "DSC_0271": {
+                "jpg_pretty": {
+                    "size": 14289959,
+                    "md5": "e429baed9671bef189202bf7376ac946",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/evening_road_01/jpg_pretty/DSC_0271.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7715469,
+                    "md5": "9ec8f8e2544328c2eb85b7f59c5bfdd0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/evening_road_01/jpg_plain/DSC_0271.jpg"
+                },
+                "raw": {
+                    "size": 18580143,
+                    "md5": "bd11acd58092b987c9b28c9f3e7b0148",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/evening_road_01/raw/DSC_0271.NEF"
+                }
+            },
+            "DSC_0092": {
+                "jpg_pretty": {
+                    "size": 13237336,
+                    "md5": "93aa878793f8dfaa1f23ac0dceb9ae95",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/evening_road_01/jpg_pretty/DSC_0092.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5577024,
+                    "md5": "d30504ac506c69eb9eaf4ff733a3435b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/evening_road_01/jpg_plain/DSC_0092.jpg"
+                },
+                "raw": {
+                    "size": 16996988,
+                    "md5": "7098886d5243dbfe0720fa23a04e2f31",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/evening_road_01/raw/DSC_0092.NEF"
+                }
+            }
+        }
+    }
+}

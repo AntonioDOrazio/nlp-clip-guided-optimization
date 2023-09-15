@@ -1,0 +1,101 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "thatch",
+        "hide",
+        "pilanesberg",
+        "window"
+    ],
+    "date_published": 1508536800,
+    "name": "Lookout",
+    "categories": [
+        "indoor",
+        "urban",
+        "nature",
+        "medium contrast",
+        "natural light"
+    ],
+    "coords": [
+        -25.2459,
+        27.064455
+    ],
+    "date_taken": 1456041900,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "3237733"
+    ],
+    "files_hash": "290c4c487cba5344aa162bdaaf02728c41d4db9c",
+    "download_count": 21506,
+    "files": {
+        "tonemapped": {
+            "size": 6823517,
+            "md5": "911e0e5586afd224d63018a4798596f4",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/lookout.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 105638422,
+                    "md5": "5d96f8e7002b015fe0fa825add8cb903",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/lookout_8k.hdr"
+                },
+                "exr": {
+                    "size": 103000936,
+                    "md5": "240c42832b6bcfa32a8cee5510771edb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/lookout_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 406566166,
+                    "md5": "902bb949c7cbb4d849960db28c015c90",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/lookout_16k.hdr"
+                },
+                "exr": {
+                    "size": 380015188,
+                    "md5": "d4958f8fa5c1487c6d6132d1cb5f56ed",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/lookout_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27116834,
+                    "md5": "0476cfa7ebfcdd61bd54347e1cf13e0d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/lookout_4k.hdr"
+                },
+                "exr": {
+                    "size": 27017104,
+                    "md5": "7ec8cd52920c24f901891572b230a67b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/lookout_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6907055,
+                    "md5": "c7c7f037b7fd333b541d38a9977b02e1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/lookout_2k.hdr"
+                },
+                "exr": {
+                    "size": 6964643,
+                    "md5": "852f4eb0ad2e8a8726c2164735078494",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/lookout_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1757723,
+                    "md5": "226409a722297b336dd27ba571b254e0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/lookout_1k.hdr"
+                },
+                "exr": {
+                    "size": 1794929,
+                    "md5": "71657f82e6994a95e8ad4fd02ff1b209",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/lookout_1k.exr"
+                }
+            }
+        }
+    }
+}

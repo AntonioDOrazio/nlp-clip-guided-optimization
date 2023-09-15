@@ -1,0 +1,99 @@
+{
+    "evs_cap": 12,
+    "prepaid": true,
+    "type": 0,
+    "tags": [
+        "tile",
+        "victorian",
+        "window",
+        "piano",
+        "chandelier"
+    ],
+    "date_published": 1590098400,
+    "name": "Ballroom",
+    "categories": [
+        "indoor",
+        "urban",
+        "medium contrast",
+        "artificial light",
+        "natural light"
+    ],
+    "date_taken": 1555594080,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "11167855"
+    ],
+    "files_hash": "6bacfadd9630987bf4871c04788bf5dc22720d9d",
+    "download_count": 90988,
+    "files": {
+        "tonemapped": {
+            "size": 5086299,
+            "md5": "4c379e9bfbe70eee5d3e01cd865bfb78",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/ballroom.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 98460696,
+                    "md5": "48d14d1e9705dcc32623ce2861ad5271",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/ballroom_8k.hdr"
+                },
+                "exr": {
+                    "size": 82944242,
+                    "md5": "3783e01f6f663d7a412299d05e27d834",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/ballroom_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 358357207,
+                    "md5": "a4f335cc3269557b1ac418e0b738c7a0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/ballroom_16k.hdr"
+                },
+                "exr": {
+                    "size": 289357014,
+                    "md5": "6fda0cf064d7c1c7fd3c2aabcd0adf3a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/ballroom_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25537254,
+                    "md5": "7566329ce47fec7d4b7b19ae00d8e1b9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/ballroom_4k.hdr"
+                },
+                "exr": {
+                    "size": 22191304,
+                    "md5": "32bd95a66f045dde5b218caf57609eaa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/ballroom_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6536947,
+                    "md5": "a862b43742236dbc0e6f3d00f9e4c1ec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/ballroom_2k.hdr"
+                },
+                "exr": {
+                    "size": 5844149,
+                    "md5": "ae6dd4725868c30dfe414fcdcbebe050",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/ballroom_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1670493,
+                    "md5": "ae5892fce776eb531176e54e9c0176df",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/ballroom_1k.hdr"
+                },
+                "exr": {
+                    "size": 1535968,
+                    "md5": "337c5c29d7ce239285e2c0639635df5b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/ballroom_1k.exr"
+                }
+            }
+        }
+    }
+}

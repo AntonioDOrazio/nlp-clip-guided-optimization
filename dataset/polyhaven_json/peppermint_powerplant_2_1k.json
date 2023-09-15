@@ -1,0 +1,114 @@
+{
+    "evs_cap": 6,
+    "name": "Peppermint Powerplant 2",
+    "categories": [
+        "urban",
+        "natural light",
+        "sunrise-sunset",
+        "indoor",
+        "medium contrast"
+    ],
+    "type": 0,
+    "date_taken": 1604939700,
+    "tags": [
+        "abandoned",
+        "industrial",
+        "window",
+        "workshop",
+        "tiles",
+        "machine",
+        "factory"
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "date_published": 1657670400,
+    "files_hash": "21c38abd6f71ec61571848bb7b6fe2510a570c95",
+    "download_count": 27406,
+    "files": {
+        "tonemapped": {
+            "size": 71647694,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/peppermint_powerplant_2.jpg",
+            "md5": "7c27b67d1a24ee727c521b5d21813975"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 112594122,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/peppermint_powerplant_2_8k.hdr",
+                    "md5": "647cc5eb9e13ce518bc71cc5d722a2f3"
+                },
+                "exr": {
+                    "size": 356715775,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/peppermint_powerplant_2_8k.exr",
+                    "md5": "96bc3a0e311c405285d5b1650e385f69"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 452032228,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/peppermint_powerplant_2_16k.hdr",
+                    "md5": "d65404a6c4028237084fcf8d362b4613"
+                },
+                "exr": {
+                    "size": 1423001567,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/peppermint_powerplant_2_16k.exr",
+                    "md5": "93fed8a84e63738c4c31d652c5015dfb"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27753222,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/peppermint_powerplant_2_4k.hdr",
+                    "md5": "f7986e5aac8713fee530219630da0288"
+                },
+                "exr": {
+                    "size": 90023932,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/peppermint_powerplant_2_4k.exr",
+                    "md5": "9ef5e2b71e03d7d7a4317ad1fe1c5a26"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6887240,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/peppermint_powerplant_2_2k.hdr",
+                    "md5": "70d0a243fb6d7b98b35fa48ed3804ff6"
+                },
+                "exr": {
+                    "size": 23086986,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/peppermint_powerplant_2_2k.exr",
+                    "md5": "d015ff8e4bf962c38279412966ce361a"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1721277,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/peppermint_powerplant_2_1k.hdr",
+                    "md5": "42713829d33837ae063c1580d037efde"
+                },
+                "exr": {
+                    "size": 6101962,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/peppermint_powerplant_2_1k.exr",
+                    "md5": "c4cbf3005c5c622b3bd3b57aa74218e9"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 719394423,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/peppermint_powerplant_2_20k.hdr",
+                    "md5": "d8e6be15e1a69778c7c767267dea7ef8"
+                },
+                "exr": {
+                    "size": 2271162395,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/peppermint_powerplant_2_20k.exr",
+                    "md5": "4dbc4b821fa04261ece93224f6bb8cc4"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 460504296,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/peppermint_powerplant_2.zip",
+            "md5": "03c3e9d83795520821307f6186d75c9b"
+        }
+    }
+}

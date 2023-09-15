@@ -1,0 +1,99 @@
+{
+    "evs_cap": 13,
+    "type": 0,
+    "tags": [
+        "factory",
+        "fume",
+        "field"
+    ],
+    "date_published": 1556866367,
+    "name": "Industrial Sunset",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "sunrise-sunset",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1553708760,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "3267566",
+        "19440543"
+    ],
+    "files_hash": "2ed63566ff7241ad6b43c808958c4038eec1800a",
+    "download_count": 44251,
+    "files": {
+        "tonemapped": {
+            "size": 5573383,
+            "md5": "4f6fd6d7626d7006f19257333a77488f",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/industrial_sunset.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 104332946,
+                    "md5": "c669fa1f493903e55e93b5d02b285bed",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/industrial_sunset_8k.hdr"
+                },
+                "exr": {
+                    "size": 84092739,
+                    "md5": "f7a3a6a43bbcab40aea743791d91a6a9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/industrial_sunset_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 398592279,
+                    "md5": "876b2ae6f104e533093e30698e9d9b83",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/industrial_sunset_16k.hdr"
+                },
+                "exr": {
+                    "size": 318359278,
+                    "md5": "0e06bba18fc07aae79a3f9f8b432ff01",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/industrial_sunset_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26160872,
+                    "md5": "d5b04fdfadcf05db6f015b96e936944c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/industrial_sunset_4k.hdr"
+                },
+                "exr": {
+                    "size": 21425203,
+                    "md5": "63ce422fe01b6fc9d892c686a3b10421",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/industrial_sunset_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6483473,
+                    "md5": "29cef9c89b2caa775daafce0784daff1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/industrial_sunset_2k.hdr"
+                },
+                "exr": {
+                    "size": 5452465,
+                    "md5": "2c6fe3849f195942747d0e7147f77d39",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/industrial_sunset_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1630570,
+                    "md5": "db99183a8917b9cf88d03d4053acf21f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/industrial_sunset_1k.hdr"
+                },
+                "exr": {
+                    "size": 1403598,
+                    "md5": "41d48a9115e3f4b48ff854b54fe7818f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/industrial_sunset_1k.exr"
+                }
+            }
+        }
+    }
+}

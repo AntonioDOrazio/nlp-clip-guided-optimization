@@ -1,0 +1,111 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "rock",
+        "formation",
+        "forest",
+        "canyon"
+    ],
+    "date_published": 1605567600,
+    "name": "Herkuless\u00e4ulen",
+    "categories": [
+        "outdoor",
+        "nature",
+        "midday",
+        "partly cloudy",
+        "medium contrast",
+        "natural light"
+    ],
+    "coords": [
+        50.841429,
+        14.044576
+    ],
+    "date_taken": 1596969900,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "files_hash": "0c73d232da67be9af8547ec0af303503543f8202",
+    "download_count": 35032,
+    "files": {
+        "tonemapped": {
+            "size": 9375310,
+            "md5": "718cc2cd6ac6cfe7312cfeab29956d29",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/herkulessaulen.jpg"
+        },
+        "hdri": {
+            "19k": {
+                "hdr": {
+                    "size": 577797618,
+                    "md5": "6d56b08c4ea70ba529e84e7b400adeca",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/herkulessaulen_19k.hdr"
+                },
+                "exr": {
+                    "size": 537714094,
+                    "md5": "3a94415fb2e83fb7dad2bde7d42edd6a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/herkulessaulen_19k.exr"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "size": 107053658,
+                    "md5": "d3a92db278bb0ba9dd7455b1e82d1b6c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/herkulessaulen_8k.hdr"
+                },
+                "exr": {
+                    "size": 101964406,
+                    "md5": "42b075afb723a603b647a7330beebedf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/herkulessaulen_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 412838063,
+                    "md5": "787da6d28da0153e94a17b78546a35dd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/herkulessaulen_16k.hdr"
+                },
+                "exr": {
+                    "size": 388967286,
+                    "md5": "028a02b278359877c0b45f320aee6ab1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/herkulessaulen_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27309734,
+                    "md5": "bcbcd4641864c08a46fe7cc48788e441",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/herkulessaulen_4k.hdr"
+                },
+                "exr": {
+                    "size": 26146552,
+                    "md5": "948fd22b1e365d61917046017d62de54",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/herkulessaulen_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6914432,
+                    "md5": "4c9285524164dbcd3d4239e83147ecd6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/herkulessaulen_2k.hdr"
+                },
+                "exr": {
+                    "size": 6641295,
+                    "md5": "48d67514f68a58311bd401299a8f3e9b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/herkulessaulen_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1742891,
+                    "md5": "6bd98280913189557bbcb0b1b2083870",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/herkulessaulen_1k.hdr"
+                },
+                "exr": {
+                    "size": 1690324,
+                    "md5": "e8cbcbee628635ac4adba27b24e43dc0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/herkulessaulen_1k.exr"
+                }
+            }
+        }
+    }
+}

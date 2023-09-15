@@ -1,0 +1,124 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5319,
+    "tags": [
+        "tree",
+        "forest",
+        "planks",
+        "path",
+        "bush",
+        "rock",
+        "walkway"
+    ],
+    "name": "Rainforest Trail",
+    "categories": [
+        "natural light",
+        "outdoor",
+        "nature",
+        "low contrast",
+        "midday"
+    ],
+    "coords": [
+        -24.874694,
+        30.890806
+    ],
+    "date_taken": 1622205960,
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "date_published": 1657497600,
+    "prepaid": true,
+    "files_hash": "5bf6bdb8e69f4d949f256751590d49bd4ca21931",
+    "sponsors": [
+        "44302755"
+    ],
+    "download_count": 80294,
+    "files": {
+        "tonemapped": {
+            "size": 76530078,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/rainforest_trail.jpg",
+            "md5": "49d096d86ce66b36f70f2601ca2adc0e"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 115291326,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/rainforest_trail_8k.hdr",
+                    "md5": "20173b6d7dc3eecb7efb648dde9d7df5"
+                },
+                "exr": {
+                    "size": 360162394,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/rainforest_trail_8k.exr",
+                    "md5": "83162d21a70405f064c136d1427c8064"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 434005044,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rainforest_trail_16k.hdr",
+                    "md5": "1167348faf1162110bf935b6522729fd"
+                },
+                "exr": {
+                    "size": 1366460467,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rainforest_trail_16k.exr",
+                    "md5": "dbc98e999fb3b383cbf2ae8efa0ce659"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 29890662,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/rainforest_trail_4k.hdr",
+                    "md5": "3ae5fc4298ba836105b233412296acb3"
+                },
+                "exr": {
+                    "size": 93052212,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/rainforest_trail_4k.exr",
+                    "md5": "601e2f93730397a47b4025019f47d3ed"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 948078018,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rainforest_trail_24k.hdr",
+                    "md5": "12e8a86d7514c06d4aecf52b58d1e7e2"
+                },
+                "exr": {
+                    "size": 3062994945,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rainforest_trail_24k.exr",
+                    "md5": "b0ebf483c10ee0e40055861ac539703c"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7671316,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/rainforest_trail_2k.hdr",
+                    "md5": "367d54be2b9e67b600e6c035f602f953"
+                },
+                "exr": {
+                    "size": 24298547,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/rainforest_trail_2k.exr",
+                    "md5": "88bfd491ee41b81fb3c9ee2fec343f66"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1956135,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/rainforest_trail_1k.hdr",
+                    "md5": "ebcbfe5296d5a53c618086d0d4e24135"
+                },
+                "exr": {
+                    "size": 6469109,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/rainforest_trail_1k.exr",
+                    "md5": "1f827d0d294639bbf6d2cc2879ecded9"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 60933253,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/rainforest_trail.zip",
+            "md5": "42dff78a840c88f066009fe1776c24f5"
+        }
+    }
+}

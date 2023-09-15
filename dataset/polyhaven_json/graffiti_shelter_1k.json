@@ -1,0 +1,107 @@
+{
+    "evs_cap": 10,
+    "type": 0,
+    "tags": [
+        "tree",
+        "shelter",
+        "bench",
+        "road",
+        "path",
+        "graffiti",
+        "hut",
+        "autumn"
+    ],
+    "date_published": 1506982140,
+    "name": "Graffiti Shelter",
+    "categories": [
+        "indoor",
+        "urban",
+        "midday",
+        "overcast",
+        "medium contrast",
+        "natural light"
+    ],
+    "coords": [
+        52.388802,
+        9.770055
+    ],
+    "date_taken": 1478778600,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "files_hash": "695e19ebfd1521f98098d645b322c651635ab24c",
+    "sponsors": [
+        "42579608",
+        "4714267"
+    ],
+    "download_count": 31183,
+    "files": {
+        "tonemapped": {
+            "size": 6139017,
+            "md5": "c703bd260418d5e50cfca0492591286b",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/graffiti_shelter.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103545152,
+                    "md5": "3a3dda43a353226fdeae9c6f9aa31535",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/graffiti_shelter_8k.hdr"
+                },
+                "exr": {
+                    "size": 97619270,
+                    "md5": "cf93b05caa9703856c3653acef8897b4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/graffiti_shelter_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 384178545,
+                    "md5": "d3e8d2437ee9c046cf36861afa854c59",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/graffiti_shelter_16k.hdr"
+                },
+                "exr": {
+                    "size": 349995850,
+                    "md5": "e3d8425db228ec0f5e17812e6e99bff3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/graffiti_shelter_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26966901,
+                    "md5": "41664bcacb95b9a3ed5f18d24e9bbfd0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/graffiti_shelter_4k.hdr"
+                },
+                "exr": {
+                    "size": 26021254,
+                    "md5": "dacb4d1eb4101c4cb4be641e5a352b33",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/graffiti_shelter_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6937178,
+                    "md5": "fee9b99ebed1aa7a4f4d9182d31384ae",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/graffiti_shelter_2k.hdr"
+                },
+                "exr": {
+                    "size": 6816799,
+                    "md5": "357e1545538046dde505bbb191e8c4f0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/graffiti_shelter_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1771607,
+                    "md5": "8ccd36bfca55f4d6eb42ae79f38fa862",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/graffiti_shelter_1k.hdr"
+                },
+                "exr": {
+                    "size": 1774778,
+                    "md5": "5ce788e6152cf7fda1aac8f83d5a0af8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/graffiti_shelter_1k.exr"
+                }
+            }
+        }
+    }
+}

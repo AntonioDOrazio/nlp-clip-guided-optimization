@@ -1,0 +1,98 @@
+{
+    "evs_cap": 14,
+    "type": 0,
+    "whitebalance": 4800,
+    "tags": [
+        "shop",
+        "couch",
+        "gym",
+        "red",
+        "fluorescent"
+    ],
+    "date_published": 1546422073,
+    "name": "Gym Entrance",
+    "categories": [
+        "indoor",
+        "urban",
+        "medium contrast",
+        "artificial light"
+    ],
+    "date_taken": 1543141620,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "11167855"
+    ],
+    "files_hash": "54cfe3b5a8688385c2c79d47aadb03cc96ac5503",
+    "download_count": 40598,
+    "files": {
+        "tonemapped": {
+            "size": 4385653,
+            "md5": "26a60bdddedb1f43f3719e1fcd7b8c06",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/gym_entrance.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 98767390,
+                    "md5": "d63d6858e5fee37530792d8511d36e34",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/gym_entrance_8k.hdr"
+                },
+                "exr": {
+                    "size": 82580877,
+                    "md5": "0552bdc780f732837f12f005b8250682",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/gym_entrance_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 380243204,
+                    "md5": "d7f89829b798e9cd0810329a76999f36",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/gym_entrance_16k.hdr"
+                },
+                "exr": {
+                    "size": 315157272,
+                    "md5": "6f40186cd506a0e5336b4f5ea606a666",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/gym_entrance_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25247073,
+                    "md5": "568b94f37cefd31461db1cf5753e68fa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/gym_entrance_4k.hdr"
+                },
+                "exr": {
+                    "size": 21124757,
+                    "md5": "b9e59d086262084b9a304e9fceea5787",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/gym_entrance_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6406348,
+                    "md5": "26c490ef646af5182298f240d5b9a6fa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/gym_entrance_2k.hdr"
+                },
+                "exr": {
+                    "size": 5410796,
+                    "md5": "ac6db951c2ccfc6ec628a98c63681de2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/gym_entrance_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1624485,
+                    "md5": "96bf5a48b2b73e4ead7b7e133beb0561",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/gym_entrance_1k.hdr"
+                },
+                "exr": {
+                    "size": 1409991,
+                    "md5": "37fef18206f19f0ae15cc60b5a46e2ad",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/gym_entrance_1k.exr"
+                }
+            }
+        }
+    }
+}

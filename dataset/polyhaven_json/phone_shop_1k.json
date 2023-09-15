@@ -1,0 +1,103 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "lamp",
+        "shop",
+        "store",
+        "display",
+        "counter"
+    ],
+    "date_published": 1541718000,
+    "name": "Phone Shop",
+    "categories": [
+        "indoor",
+        "urban",
+        "medium contrast",
+        "artificial light"
+    ],
+    "date_taken": 1538280900,
+    "coords": [
+        45.662521,
+        -122.56504
+    ],
+    "authors": {
+        "Philip Modin": "All"
+    },
+    "sponsors": [
+        "16608220",
+        "20953239"
+    ],
+    "files_hash": "a27459e925b40dcc15c416ff3657fc51c89dd0bc",
+    "download_count": 35074,
+    "files": {
+        "tonemapped": {
+            "size": 5707290,
+            "md5": "ce767bfe0be2f97bed5c874958fc8749",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/phone_shop.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 104875716,
+                    "md5": "c82575a6eb6890b88903509ce63a8415",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/phone_shop_8k.hdr"
+                },
+                "exr": {
+                    "size": 92326524,
+                    "md5": "199c00dcfa01b70fec07c099d24ae22d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/phone_shop_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 409665791,
+                    "md5": "f16c47d3d3e89b3c06fa088cfd2b5a9d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/phone_shop_16k.hdr"
+                },
+                "exr": {
+                    "size": 355585474,
+                    "md5": "a9432ab8f6b8ee8e2511700e27e6503b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/phone_shop_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26497359,
+                    "md5": "790a3e51d9efb1cbd3bfc0e9ede5ea70",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/phone_shop_4k.hdr"
+                },
+                "exr": {
+                    "size": 23439798,
+                    "md5": "1492c1f78b41b387a9303fe861f09cb8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/phone_shop_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6680034,
+                    "md5": "8bb838b7614325dccde770ad5392ac10",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/phone_shop_2k.hdr"
+                },
+                "exr": {
+                    "size": 5937806,
+                    "md5": "a3265c58ea2a28de9bb6e5e4c5565005",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/phone_shop_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1686918,
+                    "md5": "d51639e99ad3f54c4b740d6022252da3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/phone_shop_1k.hdr"
+                },
+                "exr": {
+                    "size": 1502081,
+                    "md5": "b42666bfc98dfa982e7ad5b4b8506b3e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/phone_shop_1k.exr"
+                }
+            }
+        }
+    }
+}

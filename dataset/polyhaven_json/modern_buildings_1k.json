@@ -1,0 +1,106 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "tags": [
+        "river",
+        "building",
+        "city",
+        "urban",
+        "concrete",
+        "modern",
+        "glass",
+        "water"
+    ],
+    "date_published": 1508536800,
+    "name": "Modern Buildings",
+    "categories": [
+        "outdoor",
+        "urban",
+        "sunrise-sunset",
+        "partly cloudy",
+        "medium contrast",
+        "natural light"
+    ],
+    "coords": [
+        52.5201,
+        13.3761
+    ],
+    "date_taken": 1478447280,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "8571269"
+    ],
+    "files_hash": "36566eb16e1995654e173531290ffe1dac6bf739",
+    "download_count": 62947,
+    "files": {
+        "tonemapped": {
+            "size": 4291096,
+            "md5": "d13188a9a1292696e11fe228349168d5",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/modern_buildings.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 95003934,
+                    "md5": "c9e71c664b8f13b259ac789225dec31b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/modern_buildings_8k.hdr"
+                },
+                "exr": {
+                    "size": 76272387,
+                    "md5": "b3330f37c9432a62af3fb46ba36fab91",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/modern_buildings_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 340077284,
+                    "md5": "0d140a39045685a0857df55f1f9b74eb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/modern_buildings_16k.hdr"
+                },
+                "exr": {
+                    "size": 264275405,
+                    "md5": "5af71a9bb1594605f68431935f3023d3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/modern_buildings_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24742084,
+                    "md5": "e269c0be3efb1df33d411616cd9a7957",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/modern_buildings_4k.hdr"
+                },
+                "exr": {
+                    "size": 20683346,
+                    "md5": "c89324f2ffc5627a3d0a24895e31bdec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/modern_buildings_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6356062,
+                    "md5": "ff4c694bd73a78671fd9bc8e2b411954",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/modern_buildings_2k.hdr"
+                },
+                "exr": {
+                    "size": 5497713,
+                    "md5": "fa2de9d3356bfe31679eac1acc41b76e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/modern_buildings_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1628718,
+                    "md5": "06c4c1d646485d82a49508b95360d94e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/modern_buildings_1k.hdr"
+                },
+                "exr": {
+                    "size": 1449392,
+                    "md5": "acd67b6207ef69503bf19a79607261a6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/modern_buildings_1k.exr"
+                }
+            }
+        }
+    }
+}

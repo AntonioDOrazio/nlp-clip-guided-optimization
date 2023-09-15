@@ -1,0 +1,106 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "tags": [
+        "leaves",
+        "autumn",
+        "tree",
+        "log",
+        "bush",
+        "shrub",
+        "earth",
+        "ground",
+        "trail",
+        "path",
+        "forest"
+    ],
+    "date_published": 1509404400,
+    "name": "Autumn Ground",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "partly cloudy",
+        "medium contrast",
+        "natural light"
+    ],
+    "date_taken": 1478854500,
+    "coords": [
+        52.386216,
+        9.769556
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "files_hash": "81d66d4950a1f3b5b9a930cb746987c04685c274",
+    "download_count": 54767,
+    "files": {
+        "tonemapped": {
+            "size": 10661173,
+            "md5": "4e0738fc53e42b18b639efcc79387350",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/autumn_ground.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 110396626,
+                    "md5": "6054b0ab4eb66d1652bd4d237ce67232",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/autumn_ground_8k.hdr"
+                },
+                "exr": {
+                    "size": 115468330,
+                    "md5": "b4dfa28bb2481b2ab8c3fc5b15db93b6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/autumn_ground_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 413489360,
+                    "md5": "82d68ba99ca62a0b90fae896595d93ff",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/autumn_ground_16k.hdr"
+                },
+                "exr": {
+                    "size": 415702734,
+                    "md5": "8ff6c525584613112e76a5bc49bce344",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/autumn_ground_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 29033138,
+                    "md5": "e4a2b5e09a04eb121dfb02b32296443d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/autumn_ground_4k.hdr"
+                },
+                "exr": {
+                    "size": 31125983,
+                    "md5": "1a7e6cee70cc5fdd89256ab60a3269fc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/autumn_ground_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7536052,
+                    "md5": "039f44d61cbf03dd15590a27411d4095",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/autumn_ground_2k.hdr"
+                },
+                "exr": {
+                    "size": 8186928,
+                    "md5": "ffebac370726015850721bbe43e4f09b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/autumn_ground_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1936226,
+                    "md5": "79d2336c1f99f80a035a6d60c4c8feb7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/autumn_ground_1k.hdr"
+                },
+                "exr": {
+                    "size": 2113918,
+                    "md5": "aa65f20c89cfe47ce3b380527f2f4573",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/autumn_ground_1k.exr"
+                }
+            }
+        }
+    }
+}

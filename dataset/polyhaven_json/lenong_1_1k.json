@@ -1,0 +1,99 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "mountain",
+        "hill",
+        "pilanesberg"
+    ],
+    "date_published": 1508536800,
+    "name": "Lenong 1",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "morning-afternoon",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1456038780,
+    "coords": [
+        -25.237572,
+        27.065702
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "files_hash": "d2bb36f93d0bc34b92e41cccd00f048e77c06e37",
+    "download_count": 41407,
+    "files": {
+        "tonemapped": {
+            "size": 5657648,
+            "md5": "89e6f53aa807d6aa66bad9e8349257ab",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/lenong_1.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101353565,
+                    "md5": "00c30d933404409027540fba605a4326",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/lenong_1_8k.hdr"
+                },
+                "exr": {
+                    "size": 85345306,
+                    "md5": "56dda7b85d37f024ad5ee20963ac789c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/lenong_1_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 387278567,
+                    "md5": "cc008f577a2c656927868c33262ced47",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/lenong_1_16k.hdr"
+                },
+                "exr": {
+                    "size": 312472900,
+                    "md5": "f80ecca1bc8d79a4c78f505b08f331bd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/lenong_1_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25886975,
+                    "md5": "ba4879914982dc51337e6e1a618eb57e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/lenong_1_4k.hdr"
+                },
+                "exr": {
+                    "size": 22265575,
+                    "md5": "a0c4bdb56c11d25532b9acc1f0f64a69",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/lenong_1_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6531369,
+                    "md5": "7c7df671928839f1e78d74558fe1e0a4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/lenong_1_2k.hdr"
+                },
+                "exr": {
+                    "size": 5797855,
+                    "md5": "65cc2f776b91d2486c252975a962547e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/lenong_1_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1643699,
+                    "md5": "c1d303e8acd3c16d1db18e46c3aef84f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/lenong_1_1k.hdr"
+                },
+                "exr": {
+                    "size": 1524549,
+                    "md5": "1e3468c0741bc2d4044e384f02c98225",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/lenong_1_1k.exr"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,314 @@
+{
+    "evs_cap": 26,
+    "type": 0,
+    "whitebalance": 4750,
+    "date_published": 1579820400,
+    "name": "Autumn Meadow",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1571143080,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        {
+            "name": "Dem\u00e9trio Ruivo"
+        }
+    ],
+    "backplates": true,
+    "tags": [
+        "tree",
+        "sun",
+        "grass",
+        "autumn",
+        "field",
+        "power line",
+        "forest",
+        "backplates"
+    ],
+    "files_hash": "3b326cb390a0d74bf26111cc07f5c541821f4787",
+    "download_count": 40533,
+    "files": {
+        "tonemapped": {
+            "size": 8460978,
+            "md5": "6fce393438dddde1d7f60e1b73b85bf0",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/autumn_meadow.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101715202,
+                    "md5": "a2dcea28fab2e35fe3e173a48d48684f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/autumn_meadow_8k.hdr"
+                },
+                "exr": {
+                    "size": 94265209,
+                    "md5": "64b33dcb9babb42e75c56f7755d01699",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/autumn_meadow_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 376625444,
+                    "md5": "7ea8d7f6f3fd5122ad72f8c5af3d7f1d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/autumn_meadow_16k.hdr"
+                },
+                "exr": {
+                    "size": 351119053,
+                    "md5": "1e700ec0d103d255bf2ef2df0e898cd8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/autumn_meadow_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25909425,
+                    "md5": "96a8a1d71cb14b9db7454f0e993c7efa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/autumn_meadow_4k.hdr"
+                },
+                "exr": {
+                    "size": 24031986,
+                    "md5": "b4934660b7480a037ba5311557de1590",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/autumn_meadow_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6399718,
+                    "md5": "2295f1f719c7d580b308eaeba141d74c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/autumn_meadow_2k.hdr"
+                },
+                "exr": {
+                    "size": 6012836,
+                    "md5": "6ce6f24adebaac6942632a04a344dcfb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/autumn_meadow_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1592553,
+                    "md5": "56746d694881f874250a22102f06b465",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/autumn_meadow_1k.hdr"
+                },
+                "exr": {
+                    "size": 1513870,
+                    "md5": "6b5b80cf04f80a8e66181d947731d913",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/autumn_meadow_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "DSC_0415": {
+                "jpg_pretty": {
+                    "size": 9590176,
+                    "md5": "e0d3cb881b1722390ecc96cf63c97c0a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/jpg_pretty/DSC_0415.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8615067,
+                    "md5": "86e53c603d4f4578af9f47aa33b8acf1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/jpg_plain/DSC_0415.jpg"
+                },
+                "raw": {
+                    "size": 18386690,
+                    "md5": "e6fa5d1a14d34ed5a4e234e1ef80464e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/raw/DSC_0415.NEF"
+                }
+            },
+            "DSC_0425": {
+                "jpg_pretty": {
+                    "size": 19013446,
+                    "md5": "7c85ce1ad7fce7668ad3fb4b923fcc55",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/jpg_pretty/DSC_0425.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14816240,
+                    "md5": "e3c493342deedb95e806974b81045edc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/jpg_plain/DSC_0425.jpg"
+                },
+                "raw": {
+                    "size": 21844340,
+                    "md5": "7cb9c2080cd70f726e8d85da04abef08",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/raw/DSC_0425.NEF"
+                }
+            },
+            "DSC_0346": {
+                "jpg_pretty": {
+                    "size": 16552578,
+                    "md5": "498ff81cb06dc4431e79473a5b1d5c3b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/jpg_pretty/DSC_0346.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12669281,
+                    "md5": "70e3e9368a667eae215d45116a6e83bc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/jpg_plain/DSC_0346.jpg"
+                }
+            },
+            "DSC_0445": {
+                "jpg_pretty": {
+                    "size": 17334287,
+                    "md5": "ea1365f780ed418aa3611adc229a062b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/jpg_pretty/DSC_0445.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13735206,
+                    "md5": "50e6dca187709647d7dfbbe6780b971b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/jpg_plain/DSC_0445.jpg"
+                },
+                "raw": {
+                    "size": 20424002,
+                    "md5": "ac466cf1ae9e9eef26bd36f51de5eb6a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/raw/DSC_0445.NEF"
+                }
+            },
+            "DSC_0340": {
+                "jpg_pretty": {
+                    "size": 15179237,
+                    "md5": "49af2f83cca60587e1758899a76a5f1f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/jpg_pretty/DSC_0340.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9158908,
+                    "md5": "6d3c03b3539f58c6f5beeee9c4ab80ec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/jpg_plain/DSC_0340.JPG"
+                },
+                "raw": {
+                    "size": 19642011,
+                    "md5": "28ee65f5704720727525d26ad25639f9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/raw/DSC_0340.NEF"
+                }
+            },
+            "DSC_0450": {
+                "jpg_pretty": {
+                    "size": 14920695,
+                    "md5": "e78609366fe6543e8e07676fdee96794",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/jpg_pretty/DSC_0450.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10998158,
+                    "md5": "5c728344c7eff6fd22c92aa547126410",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/jpg_plain/DSC_0450.jpg"
+                },
+                "raw": {
+                    "size": 19251703,
+                    "md5": "7c0e426509bb9d2210acebfacff4d37f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/raw/DSC_0450.NEF"
+                }
+            },
+            "DSC_0345": {
+                "raw": {
+                    "size": 20314931,
+                    "md5": "41eeb79685a2a34b6f612adcf0821f18",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/raw/DSC_0345.NEF"
+                }
+            },
+            "DSC_0355": {
+                "jpg_pretty": {
+                    "size": 17379215,
+                    "md5": "3e8b3284ad9ae964ab2e76e5f6f68d5b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/jpg_pretty/DSC_0355.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12708028,
+                    "md5": "a29da0b31ee1edc42a32c4f7d3a45ab0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/jpg_plain/DSC_0355.jpg"
+                },
+                "raw": {
+                    "size": 20033234,
+                    "md5": "88c545d1bdb5490efb6fe0788d198f4c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/raw/DSC_0355.NEF"
+                }
+            },
+            "DSC_0465": {
+                "jpg_pretty": {
+                    "size": 14475786,
+                    "md5": "22f910c8504bed8aef428baaec58e975",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/jpg_pretty/DSC_0465.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10956519,
+                    "md5": "d2e96d29e892f484a20f364b5adbb580",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/jpg_plain/DSC_0465.jpg"
+                },
+                "raw": {
+                    "size": 19242279,
+                    "md5": "7cf74cb72390b2f66b11b9d48bd984ab",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/raw/DSC_0465.NEF"
+                }
+            },
+            "DSC_0420": {
+                "jpg_pretty": {
+                    "size": 17883306,
+                    "md5": "cc2a54cd92f1b7f60e8718aa263a69c9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/jpg_pretty/DSC_0420.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14616638,
+                    "md5": "77f217470ba62537b1edac7222de36d1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/jpg_plain/DSC_0420.jpg"
+                },
+                "raw": {
+                    "size": 20927506,
+                    "md5": "0dc0c4e618a7b7eb35e914ff26c34f9c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/raw/DSC_0420.NEF"
+                }
+            },
+            "DSC_0475": {
+                "jpg_pretty": {
+                    "size": 17507705,
+                    "md5": "62cbc93f43a24f94535cd2a4065d74cf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/jpg_pretty/DSC_0475.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12750323,
+                    "md5": "9aaebbd2acc76329f4097b8cb9944392",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/jpg_plain/DSC_0475.jpg"
+                },
+                "raw": {
+                    "size": 19916456,
+                    "md5": "7818507757d26be2290c305ba890d8a3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/raw/DSC_0475.NEF"
+                }
+            },
+            "DSC_0375": {
+                "jpg_pretty": {
+                    "size": 14042559,
+                    "md5": "fd63060ef9986ac14039e508520d90b2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/jpg_pretty/DSC_0375.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9920461,
+                    "md5": "b8ab54f062ba2a391fe543965b47d1a7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/jpg_plain/DSC_0375.jpg"
+                },
+                "raw": {
+                    "size": 18613768,
+                    "md5": "24f77c29c6d97ef6e60dec062ae0262c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/raw/DSC_0375.NEF"
+                }
+            },
+            "DSC_0390": {
+                "jpg_pretty": {
+                    "size": 16689607,
+                    "md5": "1cc682341ba0c7d377388e2f665d4ab2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/jpg_pretty/DSC_0390.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13612727,
+                    "md5": "93dc1a922d35b33d6bd6898497142c26",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/jpg_plain/DSC_0390.jpg"
+                },
+                "raw": {
+                    "size": 20711148,
+                    "md5": "fe302ab125623ff45ce733045cfa1360",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/autumn_meadow/raw/DSC_0390.NEF"
+                }
+            }
+        }
+    }
+}

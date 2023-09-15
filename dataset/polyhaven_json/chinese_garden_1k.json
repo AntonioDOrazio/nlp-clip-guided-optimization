@@ -1,0 +1,118 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "tags": [
+        "sun",
+        "tree",
+        "pond",
+        "garden",
+        "asia",
+        "architecture",
+        "china",
+        "cobblestone"
+    ],
+    "date_published": 1594677600,
+    "name": "Chinese Garden",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1593008280,
+    "coords": [
+        48.787181,
+        9.175999
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        "9910225"
+    ],
+    "files_hash": "a5fbfdf95830d90edb84b3385d4b464662c6623d",
+    "download_count": 138701,
+    "files": {
+        "tonemapped": {
+            "size": 8195195,
+            "md5": "8c9eef94a032fc1131754db60a4faf94",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/chinese_garden.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 106383189,
+                    "md5": "3277554b4ce47d9fa157626c0ae49a9d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/chinese_garden_8k.hdr"
+                },
+                "exr": {
+                    "size": 103507933,
+                    "md5": "d5ab02d071207774c2c1aa5d400e8601",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/chinese_garden_8k.exr"
+                }
+            },
+            "18k": {
+                "hdr": {
+                    "size": 500815028,
+                    "md5": "ae21a898e64210b2240de13abbe9ac1d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/chinese_garden_18k.hdr"
+                },
+                "exr": {
+                    "size": 471436473,
+                    "md5": "27fdf391f83b2d3523dab834c84fd84e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/chinese_garden_18k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 398566342,
+                    "md5": "2ed9ef8bc1702e550f1a840945392a11",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/chinese_garden_16k.hdr"
+                },
+                "exr": {
+                    "size": 380118232,
+                    "md5": "920a30822e33bf4a424f59afc5710ca8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/chinese_garden_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27523894,
+                    "md5": "607159db4533eee463b5b2204b02473c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/chinese_garden_4k.hdr"
+                },
+                "exr": {
+                    "size": 27273153,
+                    "md5": "d3955d410d429735507ad407df8108e2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/chinese_garden_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7012316,
+                    "md5": "e4c2abb3d679f68cdc5324a96d62704c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/chinese_garden_2k.hdr"
+                },
+                "exr": {
+                    "size": 7045046,
+                    "md5": "87e1d7c0c1140da1594de1f8797d1e31",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/chinese_garden_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1775259,
+                    "md5": "5e216fb65dce7564799c32e71baa3544",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/chinese_garden_1k.hdr"
+                },
+                "exr": {
+                    "size": 1812024,
+                    "md5": "1800ad652d2392d24a465770507d4f8e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/chinese_garden_1k.exr"
+                }
+            }
+        }
+    }
+}

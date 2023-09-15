@@ -1,0 +1,114 @@
+{
+    "evs_cap": 12,
+    "name": "Dark Autumn Forest",
+    "categories": [
+        "natural light",
+        "outdoor",
+        "nature",
+        "medium contrast",
+        "sunrise-sunset"
+    ],
+    "type": 0,
+    "date_taken": 1620408180,
+    "tags": [
+        "tree",
+        "forest",
+        "path",
+        "autumn",
+        "dirt"
+    ],
+    "authors": {
+        "Greg Zaal": "Processing",
+        "Dimitrios Savva": "Photography"
+    },
+    "date_published": 1658707200,
+    "prepaid": true,
+    "files_hash": "e7b88d0fc7b41705d11138829a60e2600db7f4d7",
+    "download_count": 18122,
+    "files": {
+        "tonemapped": {
+            "size": 61722843,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/dark_autumn_forest.jpg",
+            "md5": "1fe4fc37ab4d0c27a3d262bc4400f8a8"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 115512927,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/dark_autumn_forest_8k.hdr",
+                    "md5": "d8da5587fc6dfa9dbe9c80cdb24ba67e"
+                },
+                "exr": {
+                    "size": 359059629,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/dark_autumn_forest_8k.exr",
+                    "md5": "3cebe962900506d5c1d131f02730826f"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 435749389,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/dark_autumn_forest_16k.hdr",
+                    "md5": "0db4a42e70c2eabed78d26069b102b67"
+                },
+                "exr": {
+                    "size": 1366643689,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/dark_autumn_forest_16k.exr",
+                    "md5": "70af99267547e0182ee9237d78beb80d"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 29698842,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/dark_autumn_forest_4k.hdr",
+                    "md5": "d756e822f1f24716310ee2024b5b2b99"
+                },
+                "exr": {
+                    "size": 92362261,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/dark_autumn_forest_4k.exr",
+                    "md5": "588a1cfe6894576c30932a28372c1455"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 955221402,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/dark_autumn_forest_24k.hdr",
+                    "md5": "c8b36d99eda7969116ef6f27f058325f"
+                },
+                "exr": {
+                    "size": 3065565259,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/dark_autumn_forest_24k.exr",
+                    "md5": "09861b3e8e41ec472dfc3ac08a26cde2"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7537076,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/dark_autumn_forest_2k.hdr",
+                    "md5": "5ff753d96bc32f5862ea893caa6111d1"
+                },
+                "exr": {
+                    "size": 23995060,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/dark_autumn_forest_2k.exr",
+                    "md5": "4142b1749e80526ccd385cc8c6ff615e"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1899638,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/dark_autumn_forest_1k.hdr",
+                    "md5": "e39b61c0040b31322886a7eca9b2224d"
+                },
+                "exr": {
+                    "size": 6356637,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/dark_autumn_forest_1k.exr",
+                    "md5": "5d7f04ade355865f328a22f0b86b4542"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 77056492,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/dark_autumn_forest.zip",
+            "md5": "3dce7cd9acd3f7ee60a50c0c2bba05d7"
+        }
+    }
+}

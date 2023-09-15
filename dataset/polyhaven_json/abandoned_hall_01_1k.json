@@ -1,0 +1,102 @@
+{
+    "evs_cap": 3,
+    "files_hash": "bc2eb5a43b0d5d71395e1034e087f22b0278a26c",
+    "prepaid": true,
+    "type": 0,
+    "tags": [
+        "hall",
+        "window",
+        "abandoned",
+        "empty",
+        "bare"
+    ],
+    "date_published": 1539640800,
+    "sponsors": [
+        "10485422"
+    ],
+    "name": "Abandoned Hall 01",
+    "categories": [
+        "indoor",
+        "urban",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        44.318086,
+        28.631351
+    ],
+    "date_taken": 1524920820,
+    "authors": {
+        "Octavian Tudose": "All"
+    },
+    "download_count": 54592,
+    "files": {
+        "tonemapped": {
+            "size": 4531170,
+            "md5": "1230de765e242c56172e5685c112ec00",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/abandoned_hall_01.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102051896,
+                    "md5": "0edcc58a7d295dac04581938f9a77ffe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/abandoned_hall_01_8k.hdr"
+                },
+                "exr": {
+                    "size": 83581956,
+                    "md5": "c52d84a818f4c7f67312a62afa6529ac",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/abandoned_hall_01_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 391817229,
+                    "md5": "271b232c03b526fc242930fb195cb4aa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/abandoned_hall_01_16k.hdr"
+                },
+                "exr": {
+                    "size": 293735680,
+                    "md5": "69e5c2129fb6a3c2ba9b47f510be5ed4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/abandoned_hall_01_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25852280,
+                    "md5": "1e6c1bacb6e12df274eefd0cba542740",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/abandoned_hall_01_4k.hdr"
+                },
+                "exr": {
+                    "size": 21702540,
+                    "md5": "1a43dd30a8aa238a3a987f5d7a1541ec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/abandoned_hall_01_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6503079,
+                    "md5": "0ae542e79a5d5b0bf63816e704efade9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/abandoned_hall_01_2k.hdr"
+                },
+                "exr": {
+                    "size": 5538008,
+                    "md5": "9c1c497e019395c24d5b69e6dc85b3e9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/abandoned_hall_01_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1636687,
+                    "md5": "d5f7e66438f44dd986876fa1cf90acd9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/abandoned_hall_01_1k.hdr"
+                },
+                "exr": {
+                    "size": 1418070,
+                    "md5": "aef78a2e3845eb29eccf3484d89fc397",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/abandoned_hall_01_1k.exr"
+                }
+            }
+        }
+    }
+}

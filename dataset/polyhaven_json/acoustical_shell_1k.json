@@ -1,0 +1,121 @@
+{
+    "donated": true,
+    "evs_cap": 11,
+    "type": 0,
+    "whitebalance": 6500,
+    "tags": [
+        "stage",
+        "promenade",
+        "tree",
+        "garden",
+        "bay"
+    ],
+    "name": "Acoustical Shell",
+    "categories": [
+        "indoor",
+        "outdoor",
+        "natural light",
+        "urban",
+        "morning-afternoon",
+        "partly cloudy",
+        "medium contrast"
+    ],
+    "date_taken": 1668852840,
+    "coords": [
+        47.65121,
+        9.475266
+    ],
+    "authors": {
+        "Alexander Scholten": "All"
+    },
+    "info": null,
+    "files_hash": "6925f79472cac79e681026ae103fbf20974de712",
+    "date_published": 1689552000,
+    "download_count": 6764,
+    "files": {
+        "tonemapped": {
+            "size": 39457320,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/acoustical_shell.jpg",
+            "md5": "a1a007f08db23da393670fcf6caf8df1"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102031284,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/acoustical_shell_8k.hdr",
+                    "md5": "e9211b7c2148ba429579852bdcead820"
+                },
+                "exr": {
+                    "size": 312062216,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/acoustical_shell_8k.exr",
+                    "md5": "ac3d4e047241662341df72397c3f018e"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 393827393,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/acoustical_shell_16k.hdr",
+                    "md5": "ff4bb713fc092cfa372c00b7f9c79c03"
+                },
+                "exr": {
+                    "size": 1211779995,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/acoustical_shell_16k.exr",
+                    "md5": "997e9d2f9b2bdfeaf4e5dd46e7533ad7"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26063706,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/acoustical_shell_4k.hdr",
+                    "md5": "d992ba33b32f8566931922c46ad26799"
+                },
+                "exr": {
+                    "size": 80728713,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/acoustical_shell_4k.exr",
+                    "md5": "e2818be7b5faab79f94c0a22cdc42940"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6626969,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/acoustical_shell_2k.hdr",
+                    "md5": "48d90dab43a2907371dc06bb22aa73a8"
+                },
+                "exr": {
+                    "size": 21231043,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/acoustical_shell_2k.exr",
+                    "md5": "323f4039dee14304cb9f001b616c6c19"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1681811,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/acoustical_shell_1k.hdr",
+                    "md5": "70218ae0362601726fb8efd5e8f54240"
+                },
+                "exr": {
+                    "size": 5720798,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/acoustical_shell_1k.exr",
+                    "md5": "834861fc3365edfaa8b969a14b5db83f"
+                }
+            },
+            "21k": {
+                "hdr": {
+                    "size": 679535647,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/acoustical_shell_21k.hdr",
+                    "md5": "16aa2528a3c55b77ad401eed71d0900d"
+                },
+                "exr": {
+                    "size": 2107193351,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/acoustical_shell_21k.exr",
+                    "md5": "fe1f463134114f97ccfbe6a5349beb4d"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 170937837,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/acoustical_shell.zip",
+            "md5": "216337ac7ed22a7a423b51bc5f1fcc69"
+        }
+    }
+}

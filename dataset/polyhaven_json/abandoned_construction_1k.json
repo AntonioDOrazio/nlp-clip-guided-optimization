@@ -1,0 +1,107 @@
+{
+    "evs_cap": 15,
+    "files_hash": "9b5234b7b542338dc1417777e201af47fcf425e8",
+    "type": 0,
+    "whitebalance": 5550,
+    "tags": [
+        "brick",
+        "pillar",
+        "warehouse",
+        "rubble",
+        "abandoned",
+        "debris",
+        "desolate",
+        "empty",
+        "ruin",
+        "gloomy"
+    ],
+    "date_published": 1683072000,
+    "name": "Abandoned Construction",
+    "categories": [
+        "indoor",
+        "urban",
+        "natural light",
+        "medium contrast",
+        "overcast"
+    ],
+    "date_taken": 1681825380,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "info": null,
+    "download_count": 8870,
+    "files": {
+        "tonemapped": {
+            "size": 48236184,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/abandoned_construction.jpg",
+            "md5": "896549745dc629c6e1c5d306d63994d0"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101591090,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/abandoned_construction_8k.hdr",
+                    "md5": "60b49a5e2f8f7d642cb6ebf873064829"
+                },
+                "exr": {
+                    "size": 93402671,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/abandoned_construction_8k.exr",
+                    "md5": "d4ae814b39ccf3a556f9c79f7b141658"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 381245400,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/abandoned_construction_16k.hdr",
+                    "md5": "d0089b1d4a92a32c4efd82bb6b5ff3d0"
+                },
+                "exr": {
+                    "size": 327097964,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/abandoned_construction_16k.exr",
+                    "md5": "61aa83fd8695247cfa54b161e57b6a24"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26305137,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/abandoned_construction_4k.hdr",
+                    "md5": "f25d2a5521223aa2405bd00cc9f43a72"
+                },
+                "exr": {
+                    "size": 25306147,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/abandoned_construction_4k.exr",
+                    "md5": "81e5ee2878870fd6fc22e722cbbf05fb"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6731944,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/abandoned_construction_2k.hdr",
+                    "md5": "28dfa66a109cb73fd17327516ae0ebc1"
+                },
+                "exr": {
+                    "size": 6644180,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/abandoned_construction_2k.exr",
+                    "md5": "c50823ef6f1dedeeee00674b3a94148b"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1708048,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/abandoned_construction_1k.hdr",
+                    "md5": "863a7f37235e7e53458764ab5cc5a9ca"
+                },
+                "exr": {
+                    "size": 1698654,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/abandoned_construction_1k.exr",
+                    "md5": "fd26e23574255b2ba2477e9514341603"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 92330926,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/abandoned_construction.zip",
+            "md5": "2bc3f4b72d2bec5dddfaac59b58e77d7"
+        }
+    }
+}

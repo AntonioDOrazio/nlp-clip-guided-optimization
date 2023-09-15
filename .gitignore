@@ -1,4 +1,3 @@
-dataset/**
 train_results/**
 train_results_finetune/**
 clip_checkpoints/**

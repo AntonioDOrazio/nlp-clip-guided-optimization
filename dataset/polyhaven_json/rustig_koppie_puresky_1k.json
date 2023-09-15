@@ -1,0 +1,100 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "tags": [
+        "pure skies"
+    ],
+    "name": "Rustig Koppie (Pure Sky)",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "partly cloudy",
+        "morning-afternoon",
+        "high contrast",
+        "natural light",
+        "pure skies"
+    ],
+    "date_taken": 1498290060,
+    "coords": [
+        -25.795704,
+        27.6427
+    ],
+    "info": "Edited sky-only version of [Rustig Koppie](https://polyhaven.com/a/rustig_koppie).",
+    "authors": {
+        "Greg Zaal": "Original",
+        "Jarod Guest": "Sky edits"
+    },
+    "date_published": 1667606400,
+    "files_hash": "d949224d62ee2aa15200527697f7bf90ab46b3a1",
+    "download_count": 63822,
+    "files": {
+        "tonemapped": {
+            "size": 17318605,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/rustig_koppie_puresky.jpg",
+            "md5": "197bf67f03c9c1875c3a09d641c4d6bf"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 53543567,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/rustig_koppie_puresky_8k.hdr",
+                    "md5": "e92deb17acc067eb0288f6df4f654ef3"
+                },
+                "exr": {
+                    "size": 283167829,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/rustig_koppie_puresky_8k.exr",
+                    "md5": "7bbf7feff727ab66b10cb5d0f120b293"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 175491753,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rustig_koppie_puresky_16k.hdr",
+                    "md5": "c2fa0c0997e5ab8cc9e6bc60152f6018"
+                },
+                "exr": {
+                    "size": 1101362685,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rustig_koppie_puresky_16k.exr",
+                    "md5": "0077d20cb2d7640391ebe45ebff5f672"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 15257521,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/rustig_koppie_puresky_4k.hdr",
+                    "md5": "499abd33d77b000b80a7ce024fc72ec2"
+                },
+                "exr": {
+                    "size": 73428583,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/rustig_koppie_puresky_4k.exr",
+                    "md5": "c1b3b47b84bf4c1efd37f991adf789a8"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 4047254,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/rustig_koppie_puresky_2k.hdr",
+                    "md5": "08c11a244add6ef1c3e027234c1fdd22"
+                },
+                "exr": {
+                    "size": 19415823,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/rustig_koppie_puresky_2k.exr",
+                    "md5": "85a64c3fec3e15a517b50925761f1c67"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1085114,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/rustig_koppie_puresky_1k.hdr",
+                    "md5": "31122bc2490f50e8d65bde749b45ca21"
+                },
+                "exr": {
+                    "size": 5307962,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/rustig_koppie_puresky_1k.exr",
+                    "md5": "05ee1a9a210828c2a3a362884c155703"
+                }
+            }
+        }
+    }
+}

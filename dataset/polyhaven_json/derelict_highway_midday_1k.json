@@ -1,0 +1,120 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "whitebalance": 5329,
+    "tags": [
+        "abandoned",
+        "highway",
+        "road",
+        "crack",
+        "asphalt"
+    ],
+    "name": "Derelict Highway Midday",
+    "categories": [
+        "midday",
+        "natural light",
+        "outdoor",
+        "nature",
+        "clear",
+        "high contrast"
+    ],
+    "coords": [
+        -25.779730949244303,
+        27.949489902384943
+    ],
+    "date_taken": 1620820080,
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "date_published": 1653868800,
+    "prepaid": true,
+    "files_hash": "7837cb9ca2e82250f90d23a4e64ece1d47dca551",
+    "download_count": 30635,
+    "files": {
+        "tonemapped": {
+            "size": 43941064,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/derelict_highway_midday.jpg",
+            "md5": "38da9b8d1789f2a1a2797cd838427d60"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 99393638,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/derelict_highway_midday_8k.hdr",
+                    "md5": "0d8eb0937d07bd24be74aceff6ca8500"
+                },
+                "exr": {
+                    "size": 326137435,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/derelict_highway_midday_8k.exr",
+                    "md5": "734fa343476113047d1c9e5ebf6bb99a"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 372604657,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/derelict_highway_midday_16k.hdr",
+                    "md5": "b20af6092d68e8e61d33f56d4586546d"
+                },
+                "exr": {
+                    "size": 1253776019,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/derelict_highway_midday_16k.exr",
+                    "md5": "2e2cd194cdeb527929ef4fe736753ea6"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 23855800,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/derelict_highway_midday_4k.hdr",
+                    "md5": "910f0a21a2a06eb180d1012ee02534a0"
+                },
+                "exr": {
+                    "size": 82504500,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/derelict_highway_midday_4k.exr",
+                    "md5": "bd56323b5d7ff92ca5b6b1cb51d8fc63"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 833721282,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/derelict_highway_midday_24k.hdr",
+                    "md5": "e842da862239aeae9d28ea473bf307aa"
+                },
+                "exr": {
+                    "size": 2790129313,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/derelict_highway_midday_24k.exr",
+                    "md5": "6351c7785fc88106b05e808b424b5459"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5594896,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/derelict_highway_midday_2k.hdr",
+                    "md5": "f50511d8d27c657e93c72bc2ac5b3d77"
+                },
+                "exr": {
+                    "size": 21273253,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/derelict_highway_midday_2k.exr",
+                    "md5": "56ea516e0bf77268a2acacdb10b7fa06"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1377321,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/derelict_highway_midday_1k.hdr",
+                    "md5": "f94a8c07520d0f4bf6241b8380a9e5e0"
+                },
+                "exr": {
+                    "size": 5668973,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/derelict_highway_midday_1k.exr",
+                    "md5": "101505fa7e37365338354181dda3de24"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 82142299,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/derelict_highway_midday.zip",
+            "md5": "86f3f7336b394d28285c8b5f4224fe2f"
+        }
+    }
+}

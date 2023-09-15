@@ -1,0 +1,107 @@
+{
+    "evs_cap": 6,
+    "type": 0,
+    "tags": [
+        "tree",
+        "forest",
+        "bush",
+        "pine",
+        "mist"
+    ],
+    "date_published": 1506981600,
+    "name": "Misty Pines",
+    "categories": [
+        "outdoor",
+        "nature",
+        "overcast",
+        "morning-afternoon",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1480064520,
+    "coords": [
+        -24.87383,
+        30.698818
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "files_hash": "f7d877fc6c40366c320c870bd47085475e2c3aa0",
+    "sponsors": [
+        {
+            "url": "http://mdjustin.com/",
+            "name": "Justin Dolan"
+        },
+        "42579608"
+    ],
+    "download_count": 99408,
+    "files": {
+        "tonemapped": {
+            "size": 8695696,
+            "md5": "d2073546d2a8d0c7bf5e82d071fa2b29",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/misty_pines.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 105351946,
+                    "md5": "a535dbfbcd4274c351a52fe3ff062c9b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/misty_pines_8k.hdr"
+                },
+                "exr": {
+                    "size": 104979606,
+                    "md5": "caaf0a0123ca8fc0f4425544bbb0c7ff",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/misty_pines_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 393492072,
+                    "md5": "43d4b0213e6a169189b7cd16556f5b17",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/misty_pines_16k.hdr"
+                },
+                "exr": {
+                    "size": 377164264,
+                    "md5": "65a09ed0108c9599666581822a1d2055",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/misty_pines_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27461567,
+                    "md5": "72674148afccea37432739b194835e2a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/misty_pines_4k.hdr"
+                },
+                "exr": {
+                    "size": 27877625,
+                    "md5": "a38520bb4bac8f1b6308d184b76995a5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/misty_pines_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7050893,
+                    "md5": "537d41bdb35b92952ee371b7ed7953b2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/misty_pines_2k.hdr"
+                },
+                "exr": {
+                    "size": 7240306,
+                    "md5": "5cad846d7dd52f2822d95dc36185822d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/misty_pines_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1798128,
+                    "md5": "5bd07b8385458b8421dd581b02afad61",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/misty_pines_1k.hdr"
+                },
+                "exr": {
+                    "size": 1862283,
+                    "md5": "5fb1c57464e5de0eda674cec433dbc78",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/misty_pines_1k.exr"
+                }
+            }
+        }
+    }
+}

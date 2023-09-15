@@ -1,0 +1,107 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "path",
+        "rock",
+        "river",
+        "forest",
+        "tree",
+        "moss"
+    ],
+    "date_published": 1522879200,
+    "name": "Mossy Forest",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        -29.00862,
+        29.41231
+    ],
+    "date_taken": 1460641740,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "url": "http://mdjustin.com/",
+            "name": "Justin Dolan"
+        },
+        "33031620"
+    ],
+    "files_hash": "892d5ee2981cb6b09076a8823186e181edc10c08",
+    "download_count": 56375,
+    "files": {
+        "tonemapped": {
+            "size": 11070548,
+            "md5": "3e11675120c96f7998c0a8d0cdadc739",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/mossy_forest.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 115115082,
+                    "md5": "eeadb7a6add5c4e94f08aaecc8b5dbba",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/mossy_forest_8k.hdr"
+                },
+                "exr": {
+                    "size": 118158181,
+                    "md5": "ebeccacecb2253815029d26d162d3982",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/mossy_forest_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 435771006,
+                    "md5": "f2f28673ce98ba2adb8d6c01b3d178ec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/mossy_forest_16k.hdr"
+                },
+                "exr": {
+                    "size": 432474482,
+                    "md5": "785420ec3f3c8e816437302d0dae3688",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/mossy_forest_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 29757613,
+                    "md5": "10f38b35a80cb5045355726bb1e1d6f5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/mossy_forest_4k.hdr"
+                },
+                "exr": {
+                    "size": 30994971,
+                    "md5": "44e0afd80666fad4f9817221c63e14da",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/mossy_forest_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7599867,
+                    "md5": "b562c74ac25c5c12cd7b5679e2c22484",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/mossy_forest_2k.hdr"
+                },
+                "exr": {
+                    "size": 8003846,
+                    "md5": "4ca6913ea41af72ed54beb32f2fd7e54",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/mossy_forest_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1928894,
+                    "md5": "6fe9187425e83905a00f32a75a4690db",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/mossy_forest_1k.hdr"
+                },
+                "exr": {
+                    "size": 2051123,
+                    "md5": "874a245bf4f790d9cb9a89ef9c96b9e2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/mossy_forest_1k.exr"
+                }
+            }
+        }
+    }
+}

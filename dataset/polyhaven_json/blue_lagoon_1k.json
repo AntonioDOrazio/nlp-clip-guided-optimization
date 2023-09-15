@@ -1,0 +1,414 @@
+{
+    "evs_cap": 17,
+    "type": 0,
+    "whitebalance": 5400,
+    "date_published": 1526335200,
+    "name": "Blue Lagoon",
+    "categories": [
+        "outdoor",
+        "skies",
+        "urban",
+        "morning-afternoon",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        -29.8126,
+        31.0405
+    ],
+    "date_taken": 1521559560,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "16608220"
+    ],
+    "backplates": true,
+    "tags": [
+        "sun",
+        "ocean",
+        "post",
+        "pier",
+        "backplates"
+    ],
+    "files_hash": "e7a1255c307615673a30bf5df20d0d3bd01f76db",
+    "download_count": 30187,
+    "files": {
+        "tonemapped": {
+            "size": 3145746,
+            "md5": "d3dfa36bfe9e9a4b71e1eeaf61b23f04",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/blue_lagoon.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 91289951,
+                    "md5": "ece72c2e2084f7b5c9181fa2c276bcf1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/blue_lagoon_8k.hdr"
+                },
+                "exr": {
+                    "size": 63400243,
+                    "md5": "d7f718141049e334f8c712d9d0028f65",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/blue_lagoon_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 320891736,
+                    "md5": "3c1d580788959f889742d6e0d950d6d5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/blue_lagoon_16k.hdr"
+                },
+                "exr": {
+                    "size": 219692667,
+                    "md5": "a732b0f0ccd822a0756832e091fcdd73",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/blue_lagoon_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 23634144,
+                    "md5": "0c0581d19883636ff39f6cc63b6f5e97",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/blue_lagoon_4k.hdr"
+                },
+                "exr": {
+                    "size": 17090874,
+                    "md5": "9238ad8e948d1d995b9760cfc07a4742",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/blue_lagoon_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6052652,
+                    "md5": "d3a5c813f9d58b3883f6ce08590a9dd9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/blue_lagoon_2k.hdr"
+                },
+                "exr": {
+                    "size": 4550985,
+                    "md5": "3f1ebf668306ec38e5129a20f936e4cc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/blue_lagoon_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1553385,
+                    "md5": "92e44b52b3da72a078dda81160fc2cf7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/blue_lagoon_1k.hdr"
+                },
+                "exr": {
+                    "size": 1208161,
+                    "md5": "b4a1f32f7af03040f1d92edd7cc48006",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/blue_lagoon_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "DSC08507": {
+                "jpg_pretty": {
+                    "size": 11689052,
+                    "md5": "c47f74a06082ce6f11d2dc75e555a7fb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_pretty/DSC08507.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12289636,
+                    "md5": "7ae47a57ee9d675b4c69a81cb0f5d96d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_plain/DSC08507.jpg"
+                },
+                "raw": {
+                    "size": 36864000,
+                    "md5": "1d6421500c78502da2fb6540bb31ba4a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/raw/DSC08507.ARW"
+                }
+            },
+            "DSC08518": {
+                "jpg_pretty": {
+                    "size": 13740936,
+                    "md5": "88791e9b8471c29af87933148214f5a5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_pretty/DSC08518.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13557956,
+                    "md5": "08d8d0dfb0d1922bfcf99ac13a3a2883",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_plain/DSC08518.jpg"
+                },
+                "raw": {
+                    "size": 36995072,
+                    "md5": "b6b0e2ff096af67824690d977459d4fe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/raw/DSC08518.ARW"
+                }
+            },
+            "DSC08509": {
+                "jpg_pretty": {
+                    "size": 9211569,
+                    "md5": "483bb2b37c813feb7a0f9dd73c5acdc3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_pretty/DSC08509.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9904725,
+                    "md5": "3d51a93e7f6b0854ffae6ce17b81ff8e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_plain/DSC08509.jpg"
+                },
+                "raw": {
+                    "size": 36798464,
+                    "md5": "b0e09246e1e25029353e0e6b1ec31698",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/raw/DSC08509.ARW"
+                }
+            },
+            "DSC08510": {
+                "jpg_pretty": {
+                    "size": 11217421,
+                    "md5": "c62ed189af273d8c15a97af066aac0df",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_pretty/DSC08510.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12382287,
+                    "md5": "994dc8863d1d7b065cb8859f59dd8d90",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_plain/DSC08510.jpg"
+                },
+                "raw": {
+                    "size": 36929536,
+                    "md5": "69ecd3a72961f012540fc67eb99a2b24",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/raw/DSC08510.ARW"
+                }
+            },
+            "DSC08521": {
+                "jpg_pretty": {
+                    "size": 9377786,
+                    "md5": "df90439d8bfd12529fb7917d864d1cc0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_pretty/DSC08521.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10019674,
+                    "md5": "8daa99f53a30784a5e834f6f07c11747",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_plain/DSC08521.jpg"
+                },
+                "raw": {
+                    "size": 36765696,
+                    "md5": "d2d18ef0074aef022ab31ab4fc2b6aac",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/raw/DSC08521.ARW"
+                }
+            },
+            "DSC08543": {
+                "jpg_pretty": {
+                    "size": 12888027,
+                    "md5": "6d28e4b579f2346994ba2cef90407b38",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_pretty/DSC08543.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13024113,
+                    "md5": "3fe8100bbb94496ca1bb9b1999f6e704",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_plain/DSC08543.jpg"
+                },
+                "raw": {
+                    "size": 36929536,
+                    "md5": "f490b1df26169c28e73a9766c4d379a4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/raw/DSC08543.ARW"
+                }
+            },
+            "DSC08522": {
+                "jpg_pretty": {
+                    "size": 9401878,
+                    "md5": "4ceb5f6da9040a312011edb45f9e4c14",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_pretty/DSC08522.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10903135,
+                    "md5": "64a3f011e2cf9ca03c68edb054545dda",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_plain/DSC08522.jpg"
+                },
+                "raw": {
+                    "size": 36798464,
+                    "md5": "7518eb105e82789808c5938f9223246a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/raw/DSC08522.ARW"
+                }
+            },
+            "DSC08533": {
+                "jpg_pretty": {
+                    "size": 10143763,
+                    "md5": "f573a67f65dc94c1a108cb26d60528e7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_pretty/DSC08533.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9548512,
+                    "md5": "9a9efe6ac1699d59282183599a8630af",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_plain/DSC08533.jpg"
+                },
+                "raw": {
+                    "size": 36831232,
+                    "md5": "00c3d8879d095af8312a03aab1a69fb9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/raw/DSC08533.ARW"
+                }
+            },
+            "DSC08512": {
+                "jpg_pretty": {
+                    "size": 12152714,
+                    "md5": "055d512344b816ab048b6acb11568bbe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_pretty/DSC08512.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12375328,
+                    "md5": "ee4aedc9abbd2c9a36171f7b50c96a6b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_plain/DSC08512.jpg"
+                },
+                "raw": {
+                    "size": 36929536,
+                    "md5": "c7aa155683db9a1f83d11858c3509e00",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/raw/DSC08512.ARW"
+                }
+            },
+            "DSC08504": {
+                "jpg_pretty": {
+                    "size": 11831726,
+                    "md5": "a657f690e037bcfca7b6e209a93c7d0a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_pretty/DSC08504.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12761286,
+                    "md5": "90e620d1e44b3d9ead3b0ca277323ac0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_plain/DSC08504.jpg"
+                },
+                "raw": {
+                    "size": 36896768,
+                    "md5": "c5cf888f38bb52d48e4b3eba0e9e1f43",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/raw/DSC08504.ARW"
+                }
+            },
+            "DSC08515": {
+                "jpg_pretty": {
+                    "size": 10493358,
+                    "md5": "801150ba416e47f7f67afe7610dec0a5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_pretty/DSC08515.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11147154,
+                    "md5": "f1a0495e2fdb0ea5026c4081b385d989",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_plain/DSC08515.jpg"
+                },
+                "raw": {
+                    "size": 36896768,
+                    "md5": "eb3d1d3f0275a6a5f889a89da34099fe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/raw/DSC08515.ARW"
+                }
+            },
+            "DSC08548": {
+                "jpg_pretty": {
+                    "size": 11245086,
+                    "md5": "2bb8e3835791aefd407833de65a02e43",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_pretty/DSC08548.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12259658,
+                    "md5": "e8facad83c8d9b4bca7e1933c1590937",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_plain/DSC08548.jpg"
+                },
+                "raw": {
+                    "size": 36962304,
+                    "md5": "b9f9987e11de3165fbf46df48371347d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/raw/DSC08548.ARW"
+                }
+            },
+            "DSC08506": {
+                "jpg_pretty": {
+                    "size": 11312737,
+                    "md5": "b1daacc9dbafecbba6d02bc8eacb0f35",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_pretty/DSC08506.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12723259,
+                    "md5": "b31cdf8bf045f8ae4c2a3b76e3da22d7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_plain/DSC08506.jpg"
+                },
+                "raw": {
+                    "size": 36896768,
+                    "md5": "356bad71738afe72aaa09c0a40397b0e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/raw/DSC08506.ARW"
+                }
+            },
+            "DSC08517": {
+                "jpg_pretty": {
+                    "size": 11237222,
+                    "md5": "b193d0af5f2d8ec5cfb0fabfb90f78c0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_pretty/DSC08517.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12163452,
+                    "md5": "d96fed4817b6ed55a46e24dff551c89f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_plain/DSC08517.jpg"
+                },
+                "raw": {
+                    "size": 36929536,
+                    "md5": "107c54b12ca5297fa3a462268ed51f44",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/raw/DSC08517.ARW"
+                }
+            },
+            "DSC08528": {
+                "jpg_pretty": {
+                    "size": 11402652,
+                    "md5": "574c653fb7f4a6a2dc29907c75225a3b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_pretty/DSC08528.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11982820,
+                    "md5": "66c169821a06e17924dc06a04818c314",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_plain/DSC08528.jpg"
+                },
+                "raw": {
+                    "size": 36896768,
+                    "md5": "3a9b24946354fcf658c1e3435e7842b5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/raw/DSC08528.ARW"
+                }
+            },
+            "DSC08539": {
+                "jpg_pretty": {
+                    "size": 11724561,
+                    "md5": "29400a0215285d9ca9a93abf0ab36635",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_pretty/DSC08539.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12229982,
+                    "md5": "4b3fdbddfc3dcccd6a908a793501f2f8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_plain/DSC08539.jpg"
+                },
+                "raw": {
+                    "size": 36896768,
+                    "md5": "8dda84b49e809c4fb6095c24008cb37b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/raw/DSC08539.ARW"
+                }
+            },
+            "DSC08540": {
+                "jpg_pretty": {
+                    "size": 10811732,
+                    "md5": "5003ae1cc9cccf4112da6cb241330383",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_pretty/DSC08540.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11112269,
+                    "md5": "6ae0bb4dcf25f05e01e4e3016f47571a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_plain/DSC08540.jpg"
+                },
+                "raw": {
+                    "size": 36864000,
+                    "md5": "cde40bff97da95f7d350dd1a9f55de65",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/raw/DSC08540.ARW"
+                }
+            },
+            "DSC08530": {
+                "jpg_pretty": {
+                    "size": 11786267,
+                    "md5": "5dd789792a1ed44fa56cd90f0f455761",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_pretty/DSC08530.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12084405,
+                    "md5": "cb4c174c1e4012e7d5cfe3f015e3570a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/jpg_plain/DSC08530.jpg"
+                },
+                "raw": {
+                    "size": 36962304,
+                    "md5": "b0cffbf7d50c928f0e368fa3a59496dd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon/raw/DSC08530.ARW"
+                }
+            }
+        }
+    }
+}

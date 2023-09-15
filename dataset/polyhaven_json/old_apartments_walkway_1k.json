@@ -1,0 +1,100 @@
+{
+    "evs_cap": 3,
+    "prepaid": true,
+    "type": 0,
+    "tags": [
+        "tree",
+        "railing",
+        "abandoned",
+        "balcony"
+    ],
+    "date_published": 1540245600,
+    "name": "Old Apartments Walkway",
+    "categories": [
+        "indoor",
+        "urban",
+        "midday",
+        "clear",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        44.318086,
+        28.631351
+    ],
+    "date_taken": 1524917520,
+    "authors": {
+        "Octavian Tudose": "All"
+    },
+    "files_hash": "913481d85504673317d3f32f327d926c72f03b62",
+    "download_count": 19516,
+    "files": {
+        "tonemapped": {
+            "size": 6070028,
+            "md5": "4b416bcc51fab6db6695b8a97519c862",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/old_apartments_walkway.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102506181,
+                    "md5": "e29b6f0203be95f1d2ec7d4d5e645bc1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/old_apartments_walkway_8k.hdr"
+                },
+                "exr": {
+                    "size": 90063772,
+                    "md5": "b1f1681c4c8b1eaa1de926bfc74779ab",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/old_apartments_walkway_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 389472308,
+                    "md5": "2172af685abb9f9ffbf71c66aa28bbe1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/old_apartments_walkway_16k.hdr"
+                },
+                "exr": {
+                    "size": 322939351,
+                    "md5": "92cde1df5e296dd3e748a9dc2bfb164b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/old_apartments_walkway_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26100554,
+                    "md5": "268ceef0455502638cafb776ad18ab77",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/old_apartments_walkway_4k.hdr"
+                },
+                "exr": {
+                    "size": 23315920,
+                    "md5": "ac74f2e707ca07fb7a6649b4554ce5f2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/old_apartments_walkway_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6565621,
+                    "md5": "1de75e5639c1043bec4f6d0ac6878a89",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/old_apartments_walkway_2k.hdr"
+                },
+                "exr": {
+                    "size": 5897776,
+                    "md5": "5047481cf8369b20635b0de15ebd531a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/old_apartments_walkway_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1654164,
+                    "md5": "9eaef603818c3e58e56bcb47453ce5ad",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/old_apartments_walkway_1k.hdr"
+                },
+                "exr": {
+                    "size": 1489746,
+                    "md5": "71736ffe36e78a456f2e8dd8f1ac41e0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/old_apartments_walkway_1k.exr"
+                }
+            }
+        }
+    }
+}

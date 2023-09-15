@@ -1,0 +1,100 @@
+{
+    "evs_cap": 14,
+    "type": 0,
+    "tags": [
+        "balcony",
+        "dam",
+        "lake",
+        "mountain"
+    ],
+    "date_published": 1508536800,
+    "name": "Cayley Lookout",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "morning-afternoon",
+        "partly cloudy",
+        "medium contrast",
+        "natural light"
+    ],
+    "date_taken": 1460471760,
+    "coords": [
+        -28.953115,
+        29.439668
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "files_hash": "89c1c6d8c185fa9c83ca79759f0156c9d6c138ff",
+    "download_count": 31328,
+    "files": {
+        "tonemapped": {
+            "size": 4606917,
+            "md5": "7b67b31329c1168b9e32a65913711a4f",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/cayley_lookout.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101214357,
+                    "md5": "1c4bb381318bc40889fb1117de107485",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/cayley_lookout_8k.hdr"
+                },
+                "exr": {
+                    "size": 81375694,
+                    "md5": "24ced6edd20b1325430867251d9a64f4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/cayley_lookout_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 386955414,
+                    "md5": "7d32f3b4e79d790b257f78204441ede2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/cayley_lookout_16k.hdr"
+                },
+                "exr": {
+                    "size": 304316362,
+                    "md5": "486434931af5e04977473b443046bd5f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/cayley_lookout_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25667353,
+                    "md5": "ae883166d9c06657fc0106cc511e98ba",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/cayley_lookout_4k.hdr"
+                },
+                "exr": {
+                    "size": 20667035,
+                    "md5": "bd89b0b8d7f0f3b9911b59f269c68097",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/cayley_lookout_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6382102,
+                    "md5": "050097d1e383a128b1330d6197972ec0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/cayley_lookout_2k.hdr"
+                },
+                "exr": {
+                    "size": 5307433,
+                    "md5": "0575342054d8c0188282a56d5342fb90",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/cayley_lookout_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1589018,
+                    "md5": "4ea2ea22637d7f6e7e83a64430404ef1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/cayley_lookout_1k.hdr"
+                },
+                "exr": {
+                    "size": 1403712,
+                    "md5": "4db6ef57ca568fcba464e66cdb3e9d78",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/cayley_lookout_1k.exr"
+                }
+            }
+        }
+    }
+}

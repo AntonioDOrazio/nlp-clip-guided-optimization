@@ -1,0 +1,113 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "whitebalance": 5313,
+    "tags": [
+        "pure skies"
+    ],
+    "name": "Kloofendal 28d Misty (Pure Sky)",
+    "categories": [
+        "outdoor",
+        "skies",
+        "natural light",
+        "nature",
+        "partly cloudy",
+        "medium contrast",
+        "morning-afternoon",
+        "pure skies"
+    ],
+    "date_taken": 1686130440,
+    "coords": [
+        -26.123391,
+        27.883609
+    ],
+    "authors": {
+        "Greg Zaal": "Processing",
+        "Jandre van Heerden": "Photography"
+    },
+    "info": "Edited sky-only version of [Kloofendal 28d Misty](https://polyhaven.com/a/kloofendal_28d_misty).",
+    "files_hash": "ea9f1a3b89bbc5bc317ac24ec2f91814e964d5ee",
+    "date_published": 1691712000,
+    "download_count": 1674,
+    "files": {
+        "tonemapped": {
+            "size": 13719909,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/kloofendal_28d_misty_puresky.jpg",
+            "md5": "317d52731388ff6506c6fcc374d21fdf"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 56301890,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/kloofendal_28d_misty_puresky_8k.hdr",
+                    "md5": "39d268797c8d2faf9d8bb00303847a67"
+                },
+                "exr": {
+                    "size": 358123872,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/kloofendal_28d_misty_puresky_8k.exr",
+                    "md5": "dc5c17538e5bfa30c1c95e5b2bb0d202"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 183127802,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/kloofendal_28d_misty_puresky_16k.hdr",
+                    "md5": "0818915e044b2e395d706b70a76d13f4"
+                },
+                "exr": {
+                    "size": 1371401537,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/kloofendal_28d_misty_puresky_16k.exr",
+                    "md5": "36473a81dd6f46914e4fcd35611181c3"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 16126708,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/kloofendal_28d_misty_puresky_4k.hdr",
+                    "md5": "c8daf26e6596f253c0bd308e21fa6486"
+                },
+                "exr": {
+                    "size": 92424877,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/kloofendal_28d_misty_puresky_4k.exr",
+                    "md5": "f17650314aa4f1215ccda70b4c238c20"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 381256901,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/kloofendal_28d_misty_puresky_24k.hdr",
+                    "md5": "3a59d7988de3d1ece7c39178657d2a3b"
+                },
+                "exr": {
+                    "size": 2991177343,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/kloofendal_28d_misty_puresky_24k.exr",
+                    "md5": "714750ef1c03057bc2045eca0526ef83"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 4467957,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/kloofendal_28d_misty_puresky_2k.hdr",
+                    "md5": "bbda20a597cd1c7b6e1e1c9d1c1899f4"
+                },
+                "exr": {
+                    "size": 23561845,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/kloofendal_28d_misty_puresky_2k.exr",
+                    "md5": "741d39c1fd2200fe49cc3688e7a6873c"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1235831,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/kloofendal_28d_misty_puresky_1k.hdr",
+                    "md5": "1752b28c5ba858bf1826b778ffb00d4b"
+                },
+                "exr": {
+                    "size": 5976702,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/kloofendal_28d_misty_puresky_1k.exr",
+                    "md5": "07283b42c0a34b221ed93359ad8f5d8e"
+                }
+            }
+        }
+    }
+}

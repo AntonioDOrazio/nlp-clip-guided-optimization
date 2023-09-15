@@ -1,0 +1,107 @@
+{
+    "evs_cap": 24,
+    "type": 0,
+    "tags": [
+        "sun",
+        "bush",
+        "veld",
+        "pilanesberg",
+        "hill"
+    ],
+    "date_published": 1508536800,
+    "name": "Noga",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "sunrise-sunset",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1455947640,
+    "coords": [
+        -25.306583,
+        27.105391
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "url": "https://dabarti.com/",
+            "name": "Tomasz Wyszolmirski"
+        }
+    ],
+    "files_hash": "ed67e84e06d5089e9dba1fffd9d36cb44e8c2206",
+    "download_count": 32432,
+    "files": {
+        "tonemapped": {
+            "size": 7544072,
+            "md5": "5bf05afd98e9c1d547f5fe6097295490",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/noga.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 105405703,
+                    "md5": "1bbbaf97764f89b125d899a138ae7551",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/noga_8k.hdr"
+                },
+                "exr": {
+                    "size": 91773249,
+                    "md5": "86b22045ad0c11474f320ba6e33dcd74",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/noga_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 395697608,
+                    "md5": "11cb39886dfd13703f4ee27bf13c6393",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/noga_16k.hdr"
+                },
+                "exr": {
+                    "size": 348207237,
+                    "md5": "2874c960e673b2bf872a3cdac63cd810",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/noga_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27108408,
+                    "md5": "680707975c35d305d5d685b6695de6b4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/noga_4k.hdr"
+                },
+                "exr": {
+                    "size": 23274965,
+                    "md5": "8a43e1ced755716c791e4f37d882a45a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/noga_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6805709,
+                    "md5": "fc6e7a23cc9ad44ae596ed677df3a254",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/noga_2k.hdr"
+                },
+                "exr": {
+                    "size": 5811913,
+                    "md5": "07eea3fb34bfed5457b44726e2acc028",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/noga_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1674992,
+                    "md5": "fee797f04fb894475a25251f48a055f6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/noga_1k.hdr"
+                },
+                "exr": {
+                    "size": 1465143,
+                    "md5": "f693efd767cf8db4420c015e09b51f62",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/noga_1k.exr"
+                }
+            }
+        }
+    }
+}

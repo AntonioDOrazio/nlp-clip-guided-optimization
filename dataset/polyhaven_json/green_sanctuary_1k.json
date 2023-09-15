@@ -1,0 +1,114 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "tree",
+        "shade",
+        "dappled",
+        "canopy",
+        "leaves"
+    ],
+    "date_published": 1595541600,
+    "name": "Green Sanctuary",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        48.80205,
+        9.170349
+    ],
+    "date_taken": 1593256560,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        "11167855"
+    ],
+    "files_hash": "4abf07d8e333676d75a2dfcc2e1f221e828bc6a5",
+    "download_count": 33546,
+    "files": {
+        "tonemapped": {
+            "size": 12768420,
+            "md5": "ea31d629a48ba2c1e0d0853f763744aa",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/green_sanctuary.jpg"
+        },
+        "hdri": {
+            "19k": {
+                "hdr": {
+                    "size": 586498741,
+                    "md5": "cf9f4a0d53e5c5c56b690b13fd658cf6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/green_sanctuary_19k.hdr"
+                },
+                "exr": {
+                    "size": 595327741,
+                    "md5": "12fe7082e5366dcfb1ae7b89cdcc83b9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/green_sanctuary_19k.exr"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "size": 116213551,
+                    "md5": "c316ff76c17e100e0faa9549c2d728d8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/green_sanctuary_8k.hdr"
+                },
+                "exr": {
+                    "size": 122263377,
+                    "md5": "f6b9dc93a7c89b975658bd9db1c8687b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/green_sanctuary_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 441361443,
+                    "md5": "f863e8acaf5fd1dd4fa9850f8f115530",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/green_sanctuary_16k.hdr"
+                },
+                "exr": {
+                    "size": 454877648,
+                    "md5": "6b95bc15f07f5e939fd01c956f18f51a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/green_sanctuary_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 30067987,
+                    "md5": "c10dc20651b50ea60f27556de592a9f3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/green_sanctuary_4k.hdr"
+                },
+                "exr": {
+                    "size": 32049335,
+                    "md5": "f53f5bf1e56d1b3393365296e69c0c3e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/green_sanctuary_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7677355,
+                    "md5": "d5e4c45253348a515dc7322a3aaaa82c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/green_sanctuary_2k.hdr"
+                },
+                "exr": {
+                    "size": 8270920,
+                    "md5": "b132c8e07241934f9255fceb15b6d66e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/green_sanctuary_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1947740,
+                    "md5": "765e8817100cc55ae29ecafdaec50488",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/green_sanctuary_1k.hdr"
+                },
+                "exr": {
+                    "size": 2121114,
+                    "md5": "19fcd9fcf47513d7a9e366b444ad24b8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/green_sanctuary_1k.exr"
+                }
+            }
+        }
+    }
+}

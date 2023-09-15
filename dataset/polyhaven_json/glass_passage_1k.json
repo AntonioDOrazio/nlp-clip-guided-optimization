@@ -1,0 +1,106 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "tunnel",
+        "plant",
+        "tree",
+        "lamp",
+        "enclosure"
+    ],
+    "date_published": 1511996400,
+    "name": "Glass Passage",
+    "categories": [
+        "indoor",
+        "nature",
+        "urban",
+        "low contrast",
+        "natural light",
+        "artificial light"
+    ],
+    "date_taken": 1478072760,
+    "coords": [
+        52.361192,
+        4.877665
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "files_hash": "fe05deb1bf2ab219d80d2b46eb40dead252657e9",
+    "sponsors": [
+        {
+            "name": "Kimba"
+        },
+        "42579608"
+    ],
+    "download_count": 40162,
+    "files": {
+        "tonemapped": {
+            "size": 7789595,
+            "md5": "313d7906c0cdb417fdebb29816f853b7",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/glass_passage.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 105882081,
+                    "md5": "b7db8280d45a0213ae40c6ec692cd2ec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/glass_passage_8k.hdr"
+                },
+                "exr": {
+                    "size": 102424828,
+                    "md5": "d3182c23677c35c480e854fd27e14fe6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/glass_passage_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 391951421,
+                    "md5": "5f1f82db26dea9064311bedaac4dd622",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/glass_passage_16k.hdr"
+                },
+                "exr": {
+                    "size": 362573342,
+                    "md5": "2a16c2871daa44ec719014b70b076f0e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/glass_passage_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27600569,
+                    "md5": "7b3a657b829c791ee1891acbcea4f838",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/glass_passage_4k.hdr"
+                },
+                "exr": {
+                    "size": 27500502,
+                    "md5": "772ada66ab44221f7ae8b6c357375b23",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/glass_passage_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7094080,
+                    "md5": "021c5dcf1e5b8a77bf4f3f1fb1177eaf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/glass_passage_2k.hdr"
+                },
+                "exr": {
+                    "size": 7212421,
+                    "md5": "67674f763dae50655d914bf0603c48ea",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/glass_passage_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1808083,
+                    "md5": "da39b5f83fa5965e43f74e0c49a2d552",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/glass_passage_1k.hdr"
+                },
+                "exr": {
+                    "size": 1870813,
+                    "md5": "888fd92abb5fc8723dba7dce1df4fbd0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/glass_passage_1k.exr"
+                }
+            }
+        }
+    }
+}

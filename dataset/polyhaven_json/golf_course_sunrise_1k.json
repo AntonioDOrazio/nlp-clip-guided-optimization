@@ -1,0 +1,124 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5305,
+    "tags": [
+        "lake",
+        "dam",
+        "grass",
+        "tree",
+        "power line",
+        "mist"
+    ],
+    "name": "Golf Course Sunrise",
+    "categories": [
+        "natural light",
+        "outdoor",
+        "nature",
+        "clear",
+        "low contrast",
+        "sunrise-sunset"
+    ],
+    "coords": [
+        -26.421496,
+        28.026049
+    ],
+    "date_taken": 1659681360,
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "info": null,
+    "date_published": 1664928000,
+    "files_hash": "896fd75cf969527edf0e105e4b031074f687bf37",
+    "sponsors": [
+        "3267566"
+    ],
+    "download_count": 59179,
+    "files": {
+        "tonemapped": {
+            "size": 47964981,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/golf_course_sunrise.jpg",
+            "md5": "af197909a5ca0d10ad77656ef15cbbe3"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101157277,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/golf_course_sunrise_8k.hdr",
+                    "md5": "3683f813aa8be30630f0c2fce9ed4f99"
+                },
+                "exr": {
+                    "size": 385068444,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/golf_course_sunrise_8k.exr",
+                    "md5": "be7de1fee45cfb73db06fe8f46868301"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 370394956,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/golf_course_sunrise_16k.hdr",
+                    "md5": "95c0f5973620e5ddbb6e0488be0c6b66"
+                },
+                "exr": {
+                    "size": 1519721812,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/golf_course_sunrise_16k.exr",
+                    "md5": "47458849d0728ca5f96f9c537c9504a2"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25733962,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/golf_course_sunrise_4k.hdr",
+                    "md5": "61658abc6992061248334d5fc275e615"
+                },
+                "exr": {
+                    "size": 96718835,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/golf_course_sunrise_4k.exr",
+                    "md5": "eb9620994effcb41a57ab209b2ef94ad"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 808377252,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/golf_course_sunrise_24k.hdr",
+                    "md5": "f0df61137803345ef4fe374ddf4ad5a1"
+                },
+                "exr": {
+                    "size": 3383285166,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/golf_course_sunrise_24k.exr",
+                    "md5": "e01767662793812a9e5d72a9b3fc5bd7"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6311590,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/golf_course_sunrise_2k.hdr",
+                    "md5": "70db2d53a7113649ea98f07a0a08fac1"
+                },
+                "exr": {
+                    "size": 24228200,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/golf_course_sunrise_2k.exr",
+                    "md5": "6db2f81756ea5ea20a9660d5650d8a7f"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1519947,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/golf_course_sunrise_1k.hdr",
+                    "md5": "5f9ba2eca61aa75d54ede692694b3f8d"
+                },
+                "exr": {
+                    "size": 6069969,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/golf_course_sunrise_1k.exr",
+                    "md5": "dd84e18b54583abf8b0cf4d4231eb845"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 211885507,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/golf_course_sunrise.zip",
+            "md5": "aaddd5010da880abf8ad71c1f7aaebef"
+        }
+    }
+}

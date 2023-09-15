@@ -1,0 +1,119 @@
+{
+    "evs_cap": 23,
+    "type": 0,
+    "tags": [
+        "sun",
+        "tree",
+        "road",
+        "asphalt",
+        "parking",
+        "park",
+        "forest"
+    ],
+    "name": "Park Parking",
+    "categories": [
+        "outdoor",
+        "nature",
+        "midday",
+        "natural light",
+        "clear",
+        "high contrast"
+    ],
+    "coords": [
+        48.73027603099822,
+        9.079748873908013
+    ],
+    "date_taken": 1630760040,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "date_published": 1636416000,
+    "files_hash": "2c125946b5c2fea7fd0272f02fd9265fd44d0cde",
+    "download_count": 117080,
+    "files": {
+        "hdri": {
+            "19k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/park_parking_19k.hdr",
+                    "size": 549527636,
+                    "md5": "6198b37bff18a6ae5c7b8e06a10c03d6"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/park_parking_19k.exr",
+                    "size": 1359837733,
+                    "md5": "4afc783a758ef51527bbec59b232db98"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/park_parking_16k.hdr",
+                    "size": 409244033,
+                    "md5": "6b706ce17849681cbb2bf30cf78061f0"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/park_parking_16k.exr",
+                    "size": 1152951244,
+                    "md5": "a8dd79d5dc76bbb18e7b8aeb78d14aac"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/park_parking_8k.hdr",
+                    "size": 107449076,
+                    "md5": "c9af53e16827d21954e5d0be80a11671"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/park_parking_8k.exr",
+                    "size": 344577204,
+                    "md5": "0738b0cff710de36f227cfc3e00d68c1"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/park_parking_4k.hdr",
+                    "size": 27431207,
+                    "md5": "ba44100965b0ecbe0549b19e8ad37d5b"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/park_parking_4k.exr",
+                    "size": 88672975,
+                    "md5": "a6a214bd77b2e24c140ef5400dc420ca"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/park_parking_2k.hdr",
+                    "size": 6855640,
+                    "md5": "ddd01bf335e28db938098845ad62a254"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/park_parking_2k.exr",
+                    "size": 22927214,
+                    "md5": "cfb91248332fe8aedc42212b2fdac3e1"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/park_parking_1k.hdr",
+                    "size": 1696391,
+                    "md5": "8e034de7ff7946fa038140d14133eeb0"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/park_parking_1k.exr",
+                    "size": 6068934,
+                    "md5": "1aa341a4dbb525944549a4452f155db1"
+                }
+            }
+        },
+        "colorchart": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/park_parking.zip",
+            "size": 156943362,
+            "md5": "19cfc5d0818cf69fc83b79091d05b35a"
+        },
+        "tonemapped": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/park_parking.jpg",
+            "size": 56561599,
+            "md5": "d82b432be791016039b4f8148a5bde9c"
+        }
+    }
+}

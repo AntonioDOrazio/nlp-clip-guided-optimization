@@ -1,0 +1,113 @@
+{
+    "files_hash": "3a2ab74231da12433453e8891fb1643fbd40cf0f",
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5313,
+    "tags": [
+        "pure skies"
+    ],
+    "date_published": 1678492800,
+    "name": "Farm Field (Pure Sky)",
+    "categories": [
+        "natural light",
+        "outdoor",
+        "nature",
+        "partly cloudy",
+        "low contrast",
+        "midday",
+        "skies",
+        "pure skies"
+    ],
+    "coords": [
+        -23.565487,
+        30.031894
+    ],
+    "date_taken": 1666448580,
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing & Sky Edits"
+    },
+    "info": "Edited sky-only version of [Farm Field](https://polyhaven.com/a/farm_field).",
+    "download_count": 26367,
+    "files": {
+        "tonemapped": {
+            "size": 18298369,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/farm_field_puresky.jpg",
+            "md5": "d580b69fe81ef56eda424a36c1ad1250"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 70386374,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/farm_field_puresky_8k.hdr",
+                    "md5": "f30b86678245cf8cf2394f388d2e60fe"
+                },
+                "exr": {
+                    "size": 284159403,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/farm_field_puresky_8k.exr",
+                    "md5": "dcc6c409ff15c0d518cfbf1870bbc609"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 218375624,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/farm_field_puresky_16k.hdr",
+                    "md5": "f420259470fb6890e79de3b9659193e2"
+                },
+                "exr": {
+                    "size": 1077668488,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/farm_field_puresky_16k.exr",
+                    "md5": "f1ad3982739616fdf637b4d25eb513c8"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 18996174,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/farm_field_puresky_4k.hdr",
+                    "md5": "f07abd431e00742b9d2f4ba5fbb0613d"
+                },
+                "exr": {
+                    "size": 73725736,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/farm_field_puresky_4k.exr",
+                    "md5": "c80e6c28d9760ee2c38133be8ab52c8f"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 465613436,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/farm_field_puresky_24k.hdr",
+                    "md5": "8364ff281cc6c6dcf44a96029324c0fd"
+                },
+                "exr": {
+                    "size": 2432756496,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/farm_field_puresky_24k.exr",
+                    "md5": "b241b643438c7161128dbeb67f56b939"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5033248,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/farm_field_puresky_2k.hdr",
+                    "md5": "bf9103944928c6ae1596e523ce658558"
+                },
+                "exr": {
+                    "size": 19574128,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/farm_field_puresky_2k.exr",
+                    "md5": "8f0be433ec667253e8fb9fa0014be714"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1341057,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/farm_field_puresky_1k.hdr",
+                    "md5": "d9bb5cb9cbdbf253fd062846e1ec196a"
+                },
+                "exr": {
+                    "size": 5371080,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/farm_field_puresky_1k.exr",
+                    "md5": "77b594409c4a104e9fe5df5e4ba1d45e"
+                }
+            }
+        }
+    }
+}

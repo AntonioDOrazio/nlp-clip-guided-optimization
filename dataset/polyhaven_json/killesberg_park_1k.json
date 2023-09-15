@@ -1,0 +1,119 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "bush",
+        "garden",
+        "flower",
+        "park",
+        "botanical",
+        "stairs",
+        "concrete",
+        "bench"
+    ],
+    "date_published": 1605826800,
+    "name": "Killesberg Park",
+    "categories": [
+        "outdoor",
+        "nature",
+        "urban",
+        "morning-afternoon",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        48.805948,
+        9.172945
+    ],
+    "date_taken": 1603176000,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        "59361351"
+    ],
+    "files_hash": "12e09cfd6d0bf1b3f7e632f3a09b2e1c1f7d44a5",
+    "download_count": 29630,
+    "files": {
+        "tonemapped": {
+            "size": 6634315,
+            "md5": "74383de96b5df4af10648dfa161832d5",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/killesberg_park.jpg"
+        },
+        "hdri": {
+            "19k": {
+                "hdr": {
+                    "size": 544619765,
+                    "md5": "98571a8b4cb7947d44e48ab521ef8e20",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/killesberg_park_19k.hdr"
+                },
+                "exr": {
+                    "size": 447647525,
+                    "md5": "27835649a30b821c3926f9bdfb671a0c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/killesberg_park_19k.exr"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "size": 104032094,
+                    "md5": "cd3452cde6597ecdf2ba911ca5d4f1b4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/killesberg_park_8k.hdr"
+                },
+                "exr": {
+                    "size": 87968935,
+                    "md5": "a21dccde0337b6082b87fe9cdd0ae022",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/killesberg_park_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 397761496,
+                    "md5": "32f2e11b65ea7900b9c5497763c2418a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/killesberg_park_16k.hdr"
+                },
+                "exr": {
+                    "size": 328938473,
+                    "md5": "bab1ba4dbcfda02d9cace25d3ec50e37",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/killesberg_park_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26464290,
+                    "md5": "7122bb072d07196ebaaef21bbfa39d6d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/killesberg_park_4k.hdr"
+                },
+                "exr": {
+                    "size": 22523313,
+                    "md5": "0852e69f859a33a46f4dcde657a6bb57",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/killesberg_park_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6647405,
+                    "md5": "7217d3d3a4609e41c8f1f0b3ac39942c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/killesberg_park_2k.hdr"
+                },
+                "exr": {
+                    "size": 5723168,
+                    "md5": "1a02d51c5a1ff28d16fb3ddccf822035",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/killesberg_park_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1666922,
+                    "md5": "f13ecad829e8d5b9dad7ee9d0bc1a052",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/killesberg_park_1k.hdr"
+                },
+                "exr": {
+                    "size": 1477454,
+                    "md5": "ab0695cbcb7ebd4b135774a41a4197c6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/killesberg_park_1k.exr"
+                }
+            }
+        }
+    }
+}

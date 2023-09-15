@@ -1,0 +1,116 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "tags": [
+        "tree",
+        "sun",
+        "hill",
+        "mountain",
+        "rock",
+        "forest"
+    ],
+    "date_published": 1598978490,
+    "name": "Gamrig",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        50.95854,
+        14.096703
+    ],
+    "date_taken": 1596896160,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        "993026"
+    ],
+    "files_hash": "efd637882be534a603fdca1dced7be417e5ce810",
+    "download_count": 112452,
+    "files": {
+        "tonemapped": {
+            "size": 7703514,
+            "md5": "961ed33955b56ece1527d2f1f65287c9",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/gamrig.jpg"
+        },
+        "hdri": {
+            "19k": {
+                "hdr": {
+                    "size": 491392481,
+                    "md5": "e5c7984d76b6f6c103460d76461f00ee",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/gamrig_19k.hdr"
+                },
+                "exr": {
+                    "size": 418968755,
+                    "md5": "35ebf0ca295417adaec1852b0e8a449c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/gamrig_19k.exr"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "size": 100919691,
+                    "md5": "161884053e8aca2804bc16d381795a49",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/gamrig_8k.hdr"
+                },
+                "exr": {
+                    "size": 86843369,
+                    "md5": "b909b80607e04dcddec09ec8d6bf71f8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/gamrig_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 373825389,
+                    "md5": "df72047e2837b3d1d9526979873df492",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/gamrig_16k.hdr"
+                },
+                "exr": {
+                    "size": 323086180,
+                    "md5": "80f89b7a53c8f7d1f40d5b4236aeaa09",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/gamrig_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25921355,
+                    "md5": "368c81b4cf4078f3045e6c785ecde1f5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/gamrig_4k.hdr"
+                },
+                "exr": {
+                    "size": 22528341,
+                    "md5": "1f9840c7136f1ef61bc443adba1c7d33",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/gamrig_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6485472,
+                    "md5": "01cd16f936c4c2fd0011e9e7011dae4f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/gamrig_2k.hdr"
+                },
+                "exr": {
+                    "size": 5762650,
+                    "md5": "8d6935ffb654018cbfab22f86c305d83",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/gamrig_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1609207,
+                    "md5": "7c606d20d0986a95ea30c62e7e4a129a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/gamrig_1k.hdr"
+                },
+                "exr": {
+                    "size": 1490458,
+                    "md5": "dea08e033af8c7884f2ac3ee352a06cb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/gamrig_1k.exr"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "evs_cap": 11,
+    "type": 0,
+    "tags": [
+        "tree",
+        "hill",
+        "rock",
+        "cross",
+        "view",
+        "step",
+        "grass"
+    ],
+    "date_published": 1592517600,
+    "name": "Monte Scherbelino",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1590479580,
+    "coords": [
+        48.765305,
+        9.131935
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        "11167855"
+    ],
+    "files_hash": "7feaa731c1bde31a649a29bf9e6071c8a006c16b",
+    "download_count": 33291,
+    "files": {
+        "tonemapped": {
+            "size": 5338352,
+            "md5": "be018b26dc7e27c62e921bb5b4edb461",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/monte_scherbelino.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102715209,
+                    "md5": "9632dbeb6cd68e37d918ca5207ecb163",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/monte_scherbelino_8k.hdr"
+                },
+                "exr": {
+                    "size": 88302588,
+                    "md5": "893c02592a73452d7b38e90980a8b4c9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/monte_scherbelino_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 390631403,
+                    "md5": "aa701bb7ed8c65a68b6eaf77f4d84d0e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/monte_scherbelino_16k.hdr"
+                },
+                "exr": {
+                    "size": 323628308,
+                    "md5": "8809793e25701af1262999c7f3f42860",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/monte_scherbelino_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26316430,
+                    "md5": "a23397284c1e72762f083a0f52585b26",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/monte_scherbelino_4k.hdr"
+                },
+                "exr": {
+                    "size": 23311285,
+                    "md5": "66fabdfafb999b063293495d8fb22f53",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/monte_scherbelino_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6622896,
+                    "md5": "6172dfdefcb4dda6b2f6e5637cc11c0a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/monte_scherbelino_2k.hdr"
+                },
+                "exr": {
+                    "size": 6062172,
+                    "md5": "07269431dd4ae92d9f2403706a8cddc2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/monte_scherbelino_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1661112,
+                    "md5": "d5c7c6c68eba10afdafa3685d27c85db",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/monte_scherbelino_1k.hdr"
+                },
+                "exr": {
+                    "size": 1581449,
+                    "md5": "5851874b0ef60092ab59d5b22c7f7f00",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/monte_scherbelino_1k.exr"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 571146921,
+                    "md5": "945da9a39e9bf7782fef199327d3544d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/monte_scherbelino_20k.hdr"
+                },
+                "exr": {
+                    "size": 468861658,
+                    "md5": "7ed8535c81f50bddd16b151c49a69b22",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/monte_scherbelino_20k.exr"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "evs_cap": 11,
+    "type": 0,
+    "tags": [
+        "tree",
+        "building",
+        "road",
+        "hill"
+    ],
+    "date_published": 1530107687,
+    "name": "Lot 02",
+    "categories": [
+        "outdoor",
+        "urban",
+        "sunrise-sunset",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        34.3115,
+        -118.609
+    ],
+    "date_taken": 1509814800,
+    "authors": {
+        "Philip Modin": "All"
+    },
+    "files_hash": "49f7d3f013eafa673e652397659e05d289746c59",
+    "download_count": 17125,
+    "files": {
+        "tonemapped": {
+            "size": 6717702,
+            "md5": "110b70b12a2fa4d393fbdf9992ccbd90",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/lot_02.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 100500592,
+                    "md5": "eef85069a5942b03ed020888a31ebbc6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/lot_02_8k.hdr"
+                },
+                "exr": {
+                    "size": 342511770,
+                    "md5": "13f773e03301b50699386fd7fecad1d2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/lot_02_8k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25934992,
+                    "md5": "ab51eb6532f7b2fe257520cd2a65302c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/lot_02_4k.hdr"
+                },
+                "exr": {
+                    "size": 95268093,
+                    "md5": "be0e5d8b3f36b56a6bef6ed0d5291ee8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/lot_02_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6537095,
+                    "md5": "25c5db552adb1578be7fb5182002ce15",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/lot_02_2k.hdr"
+                },
+                "exr": {
+                    "size": 24226604,
+                    "md5": "006e90d2f38c6076321bfbe40e92b25a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/lot_02_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1617888,
+                    "md5": "6868dfc37dbccad005dee73b24474d2a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/lot_02_1k.hdr"
+                },
+                "exr": {
+                    "size": 6095233,
+                    "md5": "00d8ab760188a571169713f527307b23",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/lot_02_1k.exr"
+                }
+            }
+        }
+    }
+}

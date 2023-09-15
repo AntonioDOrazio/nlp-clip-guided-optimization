@@ -1,0 +1,124 @@
+{
+    "evs_cap": 6,
+    "type": 0,
+    "tags": [
+        "tree",
+        "winter",
+        "bare",
+        "concrete",
+        "brick",
+        "tower",
+        "view"
+    ],
+    "date_published": 1615244400,
+    "name": "Rural Graffiti Tower",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        48.48247,
+        10.003645
+    ],
+    "date_taken": 1609079700,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        "49655030",
+        "3237733",
+        "52787376"
+    ],
+    "files_hash": "5e4bad02a9fc263f24fbfd2226894af6acf372b7",
+    "download_count": 18553,
+    "files": {
+        "tonemapped": {
+            "size": 8106569,
+            "md5": "eea1db07d35d376fb8b99a9ef0470d41",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/rural_graffiti_tower.jpg"
+        },
+        "hdri": {
+            "19k": {
+                "hdr": {
+                    "size": 610342923,
+                    "md5": "bbbbaf8d2076974c1d4561260ce59235",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rural_graffiti_tower_19k.hdr"
+                },
+                "exr": {
+                    "size": 1417118721,
+                    "md5": "e36198538e3de6f32d0a395a7c4c176e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rural_graffiti_tower_19k.exr"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "size": 107126221,
+                    "md5": "0a8435bf77c79550b369d0a348d75541",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/rural_graffiti_tower_8k.hdr"
+                },
+                "exr": {
+                    "size": 334390161,
+                    "md5": "7997f5590ef2e007907960227b7fb887",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/rural_graffiti_tower_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 420534747,
+                    "md5": "5ef86d8abb25c61513a0661f895a582f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rural_graffiti_tower_16k.hdr"
+                },
+                "exr": {
+                    "size": 1326722909,
+                    "md5": "bffcdfd0c31f483c1cdf95d39025a598",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rural_graffiti_tower_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27110415,
+                    "md5": "63bd328d4bc49949527c11c557b25f84",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/rural_graffiti_tower_4k.hdr"
+                },
+                "exr": {
+                    "size": 85078580,
+                    "md5": "b7b5f731831116ad1f098d8ba05f22ec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/rural_graffiti_tower_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6736732,
+                    "md5": "57205a244d8e22da69ff0a05c99a4b46",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/rural_graffiti_tower_2k.hdr"
+                },
+                "exr": {
+                    "size": 21911283,
+                    "md5": "6ac6f7a5585708416d60f48b8c546d8f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/rural_graffiti_tower_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1654212,
+                    "md5": "7a7f3cab9912e7fc86cd14cc68c84241",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/rural_graffiti_tower_1k.hdr"
+                },
+                "exr": {
+                    "size": 5805299,
+                    "md5": "466e26709d965c103a2299017b701be7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/rural_graffiti_tower_1k.exr"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 176675469,
+            "md5": "ab17a61bef8a9da7d88d280dacf7c435",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/rural_graffiti_tower.zip"
+        }
+    }
+}

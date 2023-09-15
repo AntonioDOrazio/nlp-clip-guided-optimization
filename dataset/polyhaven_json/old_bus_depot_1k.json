@@ -1,0 +1,272 @@
+{
+    "evs_cap": 15,
+    "type": 0,
+    "whitebalance": 7150,
+    "date_published": 1571090400,
+    "name": "Old Bus Depot",
+    "categories": [
+        "indoor",
+        "urban",
+        "midday",
+        "medium contrast",
+        "natural light"
+    ],
+    "date_taken": 1564490340,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "49683360"
+    ],
+    "backplates": true,
+    "tags": [
+        "warehouse",
+        "industrial",
+        "concrete",
+        "abandoned",
+        "backplates"
+    ],
+    "files_hash": "8852acb26e3768c1fcc12cf9edb648ef8d1d7ddf",
+    "download_count": 44812,
+    "files": {
+        "tonemapped": {
+            "size": 6313277,
+            "md5": "d77beee52f2ffe13e4242c692ffa4742",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/old_bus_depot.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102841732,
+                    "md5": "4b59a299eebad73e852fda0df56732c4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/old_bus_depot_8k.hdr"
+                },
+                "exr": {
+                    "size": 92528370,
+                    "md5": "c4b8b80735592fd3d31c2c67990921b2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/old_bus_depot_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 383624749,
+                    "md5": "93ddaa41444e43ea0a472a949cafe649",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/old_bus_depot_16k.hdr"
+                },
+                "exr": {
+                    "size": 319763572,
+                    "md5": "45b4e00ac10692306758215627796d89",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/old_bus_depot_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26642881,
+                    "md5": "f3978f1c73dc0ad9808be87951b3f42e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/old_bus_depot_4k.hdr"
+                },
+                "exr": {
+                    "size": 24977426,
+                    "md5": "2faf4c28980fe6307114021d1642afcb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/old_bus_depot_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6796355,
+                    "md5": "2694e5244fb415ed9fc0830788d520f4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/old_bus_depot_2k.hdr"
+                },
+                "exr": {
+                    "size": 6568098,
+                    "md5": "bfc406745382ffcc711f599d84302c66",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/old_bus_depot_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1721954,
+                    "md5": "643ee784b929154e983aa0cb9a431c68",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/old_bus_depot_1k.hdr"
+                },
+                "exr": {
+                    "size": 1706695,
+                    "md5": "d3953479205c2e3fbb52fc4798e10206",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/old_bus_depot_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "DSC_0619": {
+                "jpg_pretty": {
+                    "size": 13078346,
+                    "md5": "1cbec96b1df769432d0b91658fca1a13",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/old_bus_depot/jpg_pretty/DSC_0619.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4870756,
+                    "md5": "bb6817d0797ff32bff089bdebf3fe94a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/old_bus_depot/jpg_plain/DSC_0619.jpg"
+                },
+                "raw": {
+                    "size": 18088238,
+                    "md5": "1a55b70737ddc09943bfc9aecfe507e2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/old_bus_depot/raw/DSC_0619.NEF"
+                }
+            },
+            "DSC_0565": {
+                "jpg_pretty": {
+                    "size": 11377409,
+                    "md5": "9b580e52c378eb892e90fcb6aa26de26",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/old_bus_depot/jpg_pretty/DSC_0565.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6965127,
+                    "md5": "2cb9f8f2f434da74e7946871e6c61462",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/old_bus_depot/jpg_plain/DSC_0565.jpg"
+                },
+                "raw": {
+                    "size": 17531827,
+                    "md5": "fcab4666854340811ffed1011ce98f83",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/old_bus_depot/raw/DSC_0565.NEF"
+                }
+            },
+            "DSC_0763": {
+                "jpg_pretty": {
+                    "size": 14781783,
+                    "md5": "64067a101df3d92e12b9a77be011735e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/old_bus_depot/jpg_pretty/DSC_0763.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8369255,
+                    "md5": "fc0e610da2c443d2eca79365ad212b2f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/old_bus_depot/jpg_plain/DSC_0763.jpg"
+                },
+                "raw": {
+                    "size": 18286817,
+                    "md5": "98f11869c966bde5900d4e5dd661cad6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/old_bus_depot/raw/DSC_0763.NEF"
+                }
+            },
+            "DSC_0601": {
+                "jpg_pretty": {
+                    "size": 14787558,
+                    "md5": "dce4519c5f5730c6d86afa121ea67fbc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/old_bus_depot/jpg_pretty/DSC_0601.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7702011,
+                    "md5": "39f43c6a6abf82224c7ca6cebdd49a88",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/old_bus_depot/jpg_plain/DSC_0601.jpg"
+                },
+                "raw": {
+                    "size": 18388625,
+                    "md5": "5393884ab7386212712eebad578bb906",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/old_bus_depot/raw/DSC_0601.NEF"
+                }
+            },
+            "DSC_0523": {
+                "jpg_pretty": {
+                    "size": 13412062,
+                    "md5": "8294001642587f2267fb5b19480a27be",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/old_bus_depot/jpg_pretty/DSC_0523.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5235636,
+                    "md5": "7add004002333c8eef63ad42b9ec4f6e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/old_bus_depot/jpg_plain/DSC_0523.jpg"
+                },
+                "raw": {
+                    "size": 18718093,
+                    "md5": "72c271a4606f4028467778675739ed0b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/old_bus_depot/raw/DSC_0523.NEF"
+                }
+            },
+            "DSC_0578": {
+                "jpg_pretty": {
+                    "size": 15738421,
+                    "md5": "2cc004159f44588957e09a3d41957f7d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/old_bus_depot/jpg_pretty/DSC_0578.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7495379,
+                    "md5": "4362005ab0039fc551d548c2e9af3d7e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/old_bus_depot/jpg_plain/DSC_0578.jpg"
+                },
+                "raw": {
+                    "size": 17817011,
+                    "md5": "7ae9f9ca4668aee68a1210a4df9bdb35",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/old_bus_depot/raw/DSC_0578.NEF"
+                }
+            },
+            "DSC_0787": {
+                "jpg_pretty": {
+                    "size": 10349311,
+                    "md5": "b36a35e8731c18f38ca7f45f8cc6e1ce",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/old_bus_depot/jpg_pretty/DSC_0787.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6213382,
+                    "md5": "bf6c2f87b301e314c73d879042f29201",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/old_bus_depot/jpg_plain/DSC_0787.jpg"
+                },
+                "raw": {
+                    "size": 16689147,
+                    "md5": "9c23379cddc6c8443b8843e7bb9cd6c0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/old_bus_depot/raw/DSC_0787.NEF"
+                }
+            },
+            "DSC_0727": {
+                "jpg_pretty": {
+                    "size": 13388289,
+                    "md5": "f5aa631e3585f6e7c33928afe3d58d74",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/old_bus_depot/jpg_pretty/DSC_0727.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6444552,
+                    "md5": "0865ed3676e785bf5b36b6fdede7c5cb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/old_bus_depot/jpg_plain/DSC_0727.jpg"
+                },
+                "raw": {
+                    "size": 16875084,
+                    "md5": "db3cb941784d405432ee72664335bb9f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/old_bus_depot/raw/DSC_0727.NEF"
+                }
+            },
+            "DSC_0769": {
+                "jpg_pretty": {
+                    "size": 11575471,
+                    "md5": "6ef2408903c0825cd5c245eaf4a3b86b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/old_bus_depot/jpg_pretty/DSC_0769.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6721853,
+                    "md5": "3b0a5f34b5f8a94197bd1a518b1991ab",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/old_bus_depot/jpg_plain/DSC_0769.jpg"
+                },
+                "raw": {
+                    "size": 16717868,
+                    "md5": "551e0178be13bfd3828e64406b4335e5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/old_bus_depot/raw/DSC_0769.NEF"
+                }
+            },
+            "DSC_0757": {
+                "jpg_pretty": {
+                    "size": 15241676,
+                    "md5": "1d321093277a3a0d25841b8ae42b6b21",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/old_bus_depot/jpg_pretty/DSC_0757.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8318791,
+                    "md5": "54191e540d6ea524f7757683c5398c5a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/old_bus_depot/jpg_plain/DSC_0757.jpg"
+                },
+                "raw": {
+                    "size": 18367789,
+                    "md5": "f50da1e30c634cf0afa671c4cdae5835",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/old_bus_depot/raw/DSC_0757.NEF"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,363 @@
+{
+    "evs_cap": 21,
+    "type": 0,
+    "whitebalance": 5400,
+    "date_published": 1511996400,
+    "name": "Kiara 8 Sunset",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "sunrise-sunset",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1472139240,
+    "coords": [
+        -28.508926,
+        28.56654
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "8571269"
+    ],
+    "backplates": true,
+    "tags": [
+        "sun",
+        "mountain",
+        "valley",
+        "rock",
+        "backplates"
+    ],
+    "files_hash": "c30aae57927a11ad0245fd0d68d2381b802f10b5",
+    "download_count": 86034,
+    "files": {
+        "tonemapped": {
+            "size": 6099306,
+            "md5": "27971791900cb4faf1d6071d81b07dcc",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/kiara_8_sunset.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102056890,
+                    "md5": "75b2cc2bf0a7397f8d1cc6bcef846edf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/kiara_8_sunset_8k.hdr"
+                },
+                "exr": {
+                    "size": 82552480,
+                    "md5": "4dbfeedd3fd9d3a99b263a6cec6a655b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/kiara_8_sunset_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 380222111,
+                    "md5": "6265c5eaaea7f13355645e758ab490c3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/kiara_8_sunset_16k.hdr"
+                },
+                "exr": {
+                    "size": 306221301,
+                    "md5": "aa2c14cb127de50d9aed77e000d44b7d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/kiara_8_sunset_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25862306,
+                    "md5": "e5adddf87cf40d30f094ce9fcf5fcc4f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/kiara_8_sunset_4k.hdr"
+                },
+                "exr": {
+                    "size": 20695386,
+                    "md5": "fb1b929608ad3de853f8b9bfac2fb060",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/kiara_8_sunset_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6256713,
+                    "md5": "4f379bd9ffa3112851422c5e7e582e07",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/kiara_8_sunset_2k.hdr"
+                },
+                "exr": {
+                    "size": 5189317,
+                    "md5": "123f6db37cdf9c6698bf6ce5c454f462",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/kiara_8_sunset_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1504134,
+                    "md5": "4da6f66a0c62af608a0149f38b3d3f58",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/kiara_8_sunset_1k.hdr"
+                },
+                "exr": {
+                    "size": 1334471,
+                    "md5": "d9696392ecf142e28a7865e15dd83b7a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/kiara_8_sunset_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "20160825-DSC01828": {
+                "jpg_pretty": {
+                    "size": 31585614,
+                    "md5": "71bb47b1cdefc0c2738ae43c812b14f3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/jpg_pretty/20160825-DSC01828.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20976473,
+                    "md5": "b0f29c324d8f165850aa15c65d9541a5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/jpg_plain/20160825-DSC01828.jpg"
+                },
+                "raw": {
+                    "size": 37388288,
+                    "md5": "fd067a50591d33343c79ea8c8177c7b7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/raw/20160825-DSC01828.ARW"
+                }
+            },
+            "20160825-DSC01831": {
+                "jpg_pretty": {
+                    "size": 24052550,
+                    "md5": "67d51273835acd2f50016a421a899006",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/jpg_pretty/20160825-DSC01831.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15076896,
+                    "md5": "625bec3a8d1c83108e857452ac6be6e0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/jpg_plain/20160825-DSC01831.jpg"
+                },
+                "raw": {
+                    "size": 37060608,
+                    "md5": "1e3f04a5bc70a60ea1e6852a607cab73",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/raw/20160825-DSC01831.ARW"
+                }
+            },
+            "20160825-DSC01843": {
+                "jpg_pretty": {
+                    "size": 26787014,
+                    "md5": "f2f81f3395b6f80b509daa32869f804a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/jpg_pretty/20160825-DSC01843.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18450957,
+                    "md5": "9a77113950c743dac7c1777e31083f3a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/jpg_plain/20160825-DSC01843.jpg"
+                },
+                "raw": {
+                    "size": 37322752,
+                    "md5": "a2cd78141f33d280a02c39071e2b4429",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/raw/20160825-DSC01843.ARW"
+                }
+            },
+            "20160825-DSC01822": {
+                "jpg_pretty": {
+                    "size": 22382656,
+                    "md5": "8b3655f0fb63285e5480c443fec0b037",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/jpg_pretty/20160825-DSC01822.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14608275,
+                    "md5": "868da6afe590f82c62ec7983e8d82d9e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/jpg_plain/20160825-DSC01822.jpg"
+                },
+                "raw": {
+                    "size": 37060608,
+                    "md5": "c1f57e46af86377f83712230960858ec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/raw/20160825-DSC01822.ARW"
+                }
+            },
+            "20160825-DSC01855": {
+                "jpg_pretty": {
+                    "size": 29114336,
+                    "md5": "c9540dbe783526e48617b1dd1cb16373",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/jpg_pretty/20160825-DSC01855.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15702113,
+                    "md5": "4c122a39ace5a8f83e183bbf6b6f6752",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/jpg_plain/20160825-DSC01855.jpg"
+                },
+                "raw": {
+                    "size": 37191680,
+                    "md5": "85527545d513d024d6a2c85a21b79ba6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/raw/20160825-DSC01855.ARW"
+                }
+            },
+            "20160825-DSC01834": {
+                "jpg_pretty": {
+                    "size": 25570376,
+                    "md5": "6acf1eeb4aafa4054163209a0ab33a7a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/jpg_pretty/20160825-DSC01834.jpg"
+                },
+                "jpg_plain": {
+                    "size": 17998442,
+                    "md5": "0e27cf89dde3344eab793ccd0c5d7968",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/jpg_plain/20160825-DSC01834.jpg"
+                },
+                "raw": {
+                    "size": 37289984,
+                    "md5": "82cd13b19cccb77c52c512b9af3451f4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/raw/20160825-DSC01834.ARW"
+                }
+            },
+            "20160825-DSC01813": {
+                "jpg_pretty": {
+                    "size": 25141898,
+                    "md5": "3d1625d1ddeb9c0096f9766ac94025ad",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/jpg_pretty/20160825-DSC01813.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16355462,
+                    "md5": "7b9b81320033f7ccb840b8c39b326406",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/jpg_plain/20160825-DSC01813.jpg"
+                },
+                "raw": {
+                    "size": 37093376,
+                    "md5": "0fbd717d926af1456e757562c103eeca",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/raw/20160825-DSC01813.ARW"
+                }
+            },
+            "20160825-DSC01846": {
+                "jpg_pretty": {
+                    "size": 35476356,
+                    "md5": "0d736cbf7056d13f67c81c604e65782d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/jpg_pretty/20160825-DSC01846.jpg"
+                },
+                "jpg_plain": {
+                    "size": 23930672,
+                    "md5": "1ff7aeaed032535ecdef30a18185413c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/jpg_plain/20160825-DSC01846.jpg"
+                },
+                "raw": {
+                    "size": 37486592,
+                    "md5": "42dd67069e670bb545e37a644667ca29",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/raw/20160825-DSC01846.ARW"
+                }
+            },
+            "20160825-DSC01825": {
+                "jpg_pretty": {
+                    "size": 24626134,
+                    "md5": "86b7c9bec28139bc1e932502a1c8a2de",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/jpg_pretty/20160825-DSC01825.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16885646,
+                    "md5": "44e5484f3c086cbc7948e36d8f110592",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/jpg_plain/20160825-DSC01825.jpg"
+                },
+                "raw": {
+                    "size": 37289984,
+                    "md5": "c8bc5cd76a31f20e1c1311b1d04b9bde",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/raw/20160825-DSC01825.ARW"
+                }
+            },
+            "20160825-DSC01858": {
+                "jpg_pretty": {
+                    "size": 29969733,
+                    "md5": "955a0afcddb86bacc1979172b6a5476b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/jpg_pretty/20160825-DSC01858.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20280845,
+                    "md5": "4981c1e9a6779ea9487aa8adb518fa86",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/jpg_plain/20160825-DSC01858.jpg"
+                },
+                "raw": {
+                    "size": 37322752,
+                    "md5": "74cda8e657b602a490d5b72980fcd8c7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/raw/20160825-DSC01858.ARW"
+                }
+            },
+            "20160825-DSC01816": {
+                "jpg_pretty": {
+                    "size": 22992952,
+                    "md5": "094094bbce19ac9442935e230f33b698",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/jpg_pretty/20160825-DSC01816.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16353052,
+                    "md5": "f29a8d0763b44644485c15fca67e7de5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/jpg_plain/20160825-DSC01816.jpg"
+                },
+                "raw": {
+                    "size": 37224448,
+                    "md5": "ece2e309cb82a14d47bbd4a3b55574cc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/raw/20160825-DSC01816.ARW"
+                }
+            },
+            "20160825-DSC01849": {
+                "jpg_pretty": {
+                    "size": 33759247,
+                    "md5": "6a817c687970b57107d115b4d3448bdf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/jpg_pretty/20160825-DSC01849.jpg"
+                },
+                "jpg_plain": {
+                    "size": 22991462,
+                    "md5": "07994fd57239c91188d61a9067cf71c5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/jpg_plain/20160825-DSC01849.jpg"
+                },
+                "raw": {
+                    "size": 37552128,
+                    "md5": "e27c3fbba9e32b33908e1727a645e0db",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/raw/20160825-DSC01849.ARW"
+                }
+            },
+            "20160825-DSC01861": {
+                "jpg_pretty": {
+                    "size": 24678557,
+                    "md5": "5bcd20c8dfdffeec9408af4cdeacd736",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/jpg_pretty/20160825-DSC01861.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16269030,
+                    "md5": "afd31747a8ba31aadbfc1e256185e919",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/jpg_plain/20160825-DSC01861.jpg"
+                },
+                "raw": {
+                    "size": 37158912,
+                    "md5": "a16588b606f7f19449cd02e796c98037",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/raw/20160825-DSC01861.ARW"
+                }
+            },
+            "20160825-DSC01840": {
+                "jpg_pretty": {
+                    "size": 20368049,
+                    "md5": "fd8a49f1edbbf4208ae9f0fa922cb584",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/jpg_pretty/20160825-DSC01840.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15429519,
+                    "md5": "dd5ee222574eecd7d40e1bb1c5a5affb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/jpg_plain/20160825-DSC01840.jpg"
+                },
+                "raw": {
+                    "size": 37060608,
+                    "md5": "23bf9fcffbccd49a914770173a9eaca7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/raw/20160825-DSC01840.ARW"
+                }
+            },
+            "20160825-DSC01852": {
+                "jpg_pretty": {
+                    "size": 23383031,
+                    "md5": "d71e8ecb7e085df8a7a1ff8e911d99c1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/jpg_pretty/20160825-DSC01852.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15194630,
+                    "md5": "40ce99148b1d87e9cb0b26555f9e00d3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/jpg_plain/20160825-DSC01852.jpg"
+                },
+                "raw": {
+                    "size": 37027840,
+                    "md5": "ce95094227c19f0289178dccc6ef2de3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kiara_8_sunset/raw/20160825-DSC01852.ARW"
+                }
+            }
+        }
+    }
+}

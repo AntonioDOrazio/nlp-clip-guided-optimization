@@ -1,0 +1,96 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "tags": [
+        "snow",
+        "winter",
+        "abandoned",
+        "pillar",
+        "column",
+        "concrete"
+    ],
+    "date_published": 1556229600,
+    "name": "Pylons",
+    "categories": [
+        "outdoor",
+        "urban",
+        "morning-afternoon",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1547730840,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "files_hash": "4ffba3c58998f6199fa41615b685cac795ae48b7",
+    "download_count": 8297,
+    "files": {
+        "tonemapped": {
+            "size": 5127489,
+            "md5": "702f109575c7de3809137cca0070eee4",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/pylons.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 100874129,
+                    "md5": "e9f3bd02e5c174fc002b9dcbe332f5d9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/pylons_8k.hdr"
+                },
+                "exr": {
+                    "size": 83960647,
+                    "md5": "ae5e699114502671f5fbf33c01ce0da6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/pylons_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 387196875,
+                    "md5": "c1106bcfb8cdffe33e3cbe11fb691b80",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/pylons_16k.hdr"
+                },
+                "exr": {
+                    "size": 304335274,
+                    "md5": "9185818b31fa90678d28ec6034eca5c5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/pylons_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25803093,
+                    "md5": "dbea0eb40c000d81b822705d52ab4b1a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/pylons_4k.hdr"
+                },
+                "exr": {
+                    "size": 22452222,
+                    "md5": "79f3997760f635a71f7973114481344f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/pylons_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6558146,
+                    "md5": "a099b889f1b044b19901b1355212ae12",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/pylons_2k.hdr"
+                },
+                "exr": {
+                    "size": 5913122,
+                    "md5": "848b064960b8d032fed81745360497eb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/pylons_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1665751,
+                    "md5": "9741c8b7e17bcb71dd080d6fc615769b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/pylons_1k.hdr"
+                },
+                "exr": {
+                    "size": 1555684,
+                    "md5": "3690dd4ae8227d68f41b289d07a4a645",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/pylons_1k.exr"
+                }
+            }
+        }
+    }
+}

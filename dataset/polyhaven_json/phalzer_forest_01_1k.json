@@ -1,0 +1,119 @@
+{
+    "evs_cap": 12,
+    "tags": [
+        "tree",
+        "forest",
+        "rock",
+        "formation",
+        "pine"
+    ],
+    "date_published": 1622584800,
+    "name": "Pf\u00e4lzer Forest 01",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1616331840,
+    "coords": [
+        49.112136,
+        7.822462
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "type": 0,
+    "sponsors": [
+        "3237733"
+    ],
+    "files_hash": "83ccc1207892b3efd062ae3116453a33c1ce6660",
+    "download_count": 70828,
+    "files": {
+        "tonemapped": {
+            "size": 14009201,
+            "md5": "48b75b0f597981a1b2b17629b553b849",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/phalzer_forest_01.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 116852877,
+                    "md5": "4eaa918cf3864c5a8a7d96f3052c2106",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/phalzer_forest_01_8k.hdr"
+                },
+                "exr": {
+                    "size": 360362516,
+                    "md5": "4a4aa4dd4faf90975cc4f3aec3989ed8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/phalzer_forest_01_8k.exr"
+                }
+            },
+            "18k": {
+                "hdr": {
+                    "size": 535837869,
+                    "md5": "2e82380d7e0ea60e69c8ab8aac03548d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/phalzer_forest_01_18k.hdr"
+                },
+                "exr": {
+                    "size": 1288108264,
+                    "md5": "3715aada1d6e91d16fc22c0d05ffda22",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/phalzer_forest_01_18k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 449532307,
+                    "md5": "a39d944fdda6b397fc390de18dbb12f4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/phalzer_forest_01_16k.hdr"
+                },
+                "exr": {
+                    "size": 1202069231,
+                    "md5": "aad351bbdfd39a579e0e09bd92f8278e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/phalzer_forest_01_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 29964560,
+                    "md5": "e1cd1eeefeb42803e3411157b082dca7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/phalzer_forest_01_4k.hdr"
+                },
+                "exr": {
+                    "size": 92971597,
+                    "md5": "e81686d7b1027cca111b8b39d7a2f6c8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/phalzer_forest_01_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7613704,
+                    "md5": "4b1be828926b42920c48a0699017ba38",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/phalzer_forest_01_2k.hdr"
+                },
+                "exr": {
+                    "size": 24150386,
+                    "md5": "60f2b71a52255f825c7fff3ae1cd901b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/phalzer_forest_01_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1922136,
+                    "md5": "cc7796ce97d1f737d7ecbcbb0b8ee8c1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/phalzer_forest_01_1k.hdr"
+                },
+                "exr": {
+                    "size": 6403270,
+                    "md5": "64fb7391cf3481adca93cbc37a4ec294",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/phalzer_forest_01_1k.exr"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 167553098,
+            "md5": "93498082a5dd28659de8f5588893b9fa",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/phalzer_forest_01.zip"
+        }
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "name": "Belfast Farmhouse",
+    "categories": [
+        "natural light",
+        "outdoor",
+        "nature",
+        "high contrast",
+        "partly cloudy",
+        "morning-afternoon"
+    ],
+    "type": 0,
+    "date_taken": 1622646960,
+    "whitebalance": 5329,
+    "tags": [
+        "tree",
+        "sun",
+        "grass",
+        "hill"
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "evs_cap": 22,
+    "date_published": 1652659200,
+    "sponsors": [
+        "37678923"
+    ],
+    "prepaid": true,
+    "files_hash": "04a4fdd5ad90e5382a654f598b595f8ac3a64df1",
+    "download_count": 186522,
+    "files": {
+        "tonemapped": {
+            "size": 49531640,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/belfast_farmhouse.jpg",
+            "md5": "4f0d7fdcbd50beab45b7ae3953e0f31b"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 99469139,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/belfast_farmhouse_8k.hdr",
+                    "md5": "066d0c86942aeafdf1c64654711f4e1b"
+                },
+                "exr": {
+                    "size": 335046266,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/belfast_farmhouse_8k.exr",
+                    "md5": "44213d83c6f258a05bed17899a81722d"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 360656594,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/belfast_farmhouse_16k.hdr",
+                    "md5": "6cff9ab5477c13b30ba14ae258e8f58b"
+                },
+                "exr": {
+                    "size": 1276583186,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/belfast_farmhouse_16k.exr",
+                    "md5": "f2d7176e32a7e61fb22be4bf00042f30"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24810875,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/belfast_farmhouse_4k.hdr",
+                    "md5": "7ff4d46b6876cf990c60865900dd9437"
+                },
+                "exr": {
+                    "size": 85786901,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/belfast_farmhouse_4k.exr",
+                    "md5": "80851b9e48d82baa8c202d28ea445bbd"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 783349842,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/belfast_farmhouse_24k.hdr",
+                    "md5": "9874071f370af08d9d1cadd2921653e9"
+                },
+                "exr": {
+                    "size": 2870869261,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/belfast_farmhouse_24k.exr",
+                    "md5": "887e0f57cc260bd91859d2cf9c1ffa9d"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6102951,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/belfast_farmhouse_2k.hdr",
+                    "md5": "e5b33ba0ace94a5af4924e3ec67e86ce"
+                },
+                "exr": {
+                    "size": 22292995,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/belfast_farmhouse_2k.exr",
+                    "md5": "dbb65426b0813f149e5cc64798134520"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1538290,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/belfast_farmhouse_1k.hdr",
+                    "md5": "61000e689c12cd773cebc91868bd1ad8"
+                },
+                "exr": {
+                    "size": 5949107,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/belfast_farmhouse_1k.exr",
+                    "md5": "ac79e4ac4d37c7905affdfc82ce767e3"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 67273888,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/belfast_farmhouse.zip",
+            "md5": "91c16115475eda952c350551185c263c"
+        }
+    }
+}

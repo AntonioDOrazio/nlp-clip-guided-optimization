@@ -1,0 +1,109 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "forest",
+        "river",
+        "dirt",
+        "root"
+    ],
+    "date_published": 1598306400,
+    "name": "Lauter Waterfall",
+    "categories": [
+        "outdoor",
+        "nature",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        48.278791,
+        9.513502
+    ],
+    "date_taken": 1594549740,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "files_hash": "1df3db2fa950230a439063edaf160b61511175a6",
+    "download_count": 77908,
+    "files": {
+        "tonemapped": {
+            "size": 14305348,
+            "md5": "3e79a33adc3fb5bd0c53a3210718f34d",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/lauter_waterfall.jpg"
+        },
+        "hdri": {
+            "19k": {
+                "hdr": {
+                    "size": 574593089,
+                    "md5": "5532dc1d66574e5a6f9664989542e674",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/lauter_waterfall_19k.hdr"
+                },
+                "exr": {
+                    "size": 206777805,
+                    "md5": "f05b7ca5ee56c4fa13699d378e843674",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/lauter_waterfall_19k.exr"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "size": 110927021,
+                    "md5": "ae6f7d931909dd95603941721af2786f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/lauter_waterfall_8k.hdr"
+                },
+                "exr": {
+                    "size": 47294824,
+                    "md5": "950bcacee3d0e3dd48185d5b59c2243b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/lauter_waterfall_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 428152398,
+                    "md5": "67b67dd69ac10fbb2e507944414fb969",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/lauter_waterfall_16k.hdr"
+                },
+                "exr": {
+                    "size": 149366336,
+                    "md5": "c3598c49a4febab8899d502ee4a3d87d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/lauter_waterfall_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 28417881,
+                    "md5": "916c327239bcbec72e37a6b587d835cc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/lauter_waterfall_4k.hdr"
+                },
+                "exr": {
+                    "size": 13649935,
+                    "md5": "5c390ce49f3bfd7253bf09f6642b9f9f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/lauter_waterfall_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7207842,
+                    "md5": "adb007170d4bf7ce37191bfeb851937b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/lauter_waterfall_2k.hdr"
+                },
+                "exr": {
+                    "size": 3633975,
+                    "md5": "3c2fe93859e54903a0eb5b9884cd0470",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/lauter_waterfall_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1814113,
+                    "md5": "e83be73a83aeb3d032d8e103d8c52f4f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/lauter_waterfall_1k.hdr"
+                },
+                "exr": {
+                    "size": 937524,
+                    "md5": "a9b85ffe207bfa59a6b4243b546a075f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/lauter_waterfall_1k.exr"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "whitebalance": 5313,
+    "tags": [
+        "sun",
+        "concrete",
+        "river",
+        "water",
+        "bush",
+        "bridge",
+        "dam",
+        "wall"
+    ],
+    "name": "Dam Wall",
+    "categories": [
+        "natural light",
+        "outdoor",
+        "nature",
+        "partly cloudy",
+        "high contrast",
+        "midday"
+    ],
+    "date_taken": 1672327260,
+    "coords": [
+        -28.508723,
+        26.777737
+    ],
+    "info": null,
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "files_hash": "66ba632e2679f51c5dcd726c8789b8706471a1f7",
+    "date_published": 1677456000,
+    "download_count": 55035,
+    "files": {
+        "tonemapped": {
+            "size": 45386808,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/dam_wall.jpg",
+            "md5": "2c7c4c51742542de78bc5bd286c82f3f"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 98598988,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/dam_wall_8k.hdr",
+                    "md5": "2c4630ad813d29c5243face4840de2e6"
+                },
+                "exr": {
+                    "size": 383306987,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/dam_wall_8k.exr",
+                    "md5": "c55f6a82507a207c0d5073f417f674f6"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 365241523,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/dam_wall_16k.hdr",
+                    "md5": "0341e1c0388ea19f22b18c4ee66d3e1a"
+                },
+                "exr": {
+                    "size": 1514661247,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/dam_wall_16k.exr",
+                    "md5": "88a730d8f58698e0a8ba6191343945f3"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25053323,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/dam_wall_4k.hdr",
+                    "md5": "04659fa8faaf989001b7eb18a08aecc5"
+                },
+                "exr": {
+                    "size": 96210679,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/dam_wall_4k.exr",
+                    "md5": "91ce0e91cf6e8c66340f326faffd434a"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6234838,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/dam_wall_2k.hdr",
+                    "md5": "33b05a652d5021d50fe26d52b2ca5ff2"
+                },
+                "exr": {
+                    "size": 24121532,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/dam_wall_2k.exr",
+                    "md5": "0885374c49e7e80c70a6beef16a818e2"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 799505466,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/dam_wall_24k.hdr",
+                    "md5": "18ab7d1916cd8348e6754b3e4c71c1bd"
+                },
+                "exr": {
+                    "size": 3373205272,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/dam_wall_24k.exr",
+                    "md5": "be754d8306d0fd0b9b6228f2cc794a70"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1563727,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/dam_wall_1k.hdr",
+                    "md5": "6a10a97e47c3cdff81ccc393452513b5"
+                },
+                "exr": {
+                    "size": 6055980,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/dam_wall_1k.exr",
+                    "md5": "2f9c5cd9c01535fb0161ab831d579fcc"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 231009716,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/dam_wall.zip",
+            "md5": "59cc4c031fa1e7787bc3a4b2947af1a8"
+        }
+    }
+}

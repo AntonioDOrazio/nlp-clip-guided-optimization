@@ -1,0 +1,102 @@
+{
+    "evs_cap": 16,
+    "type": 0,
+    "tags": [
+        "lake",
+        "water",
+        "path",
+        "dam",
+        "bridge",
+        "tree",
+        "dirt",
+        "road"
+    ],
+    "date_published": 1564716836,
+    "name": "Arboretum",
+    "categories": [
+        "outdoor",
+        "nature",
+        "sunrise-sunset",
+        "partly cloudy",
+        "medium contrast",
+        "natural light"
+    ],
+    "date_taken": 1554909600,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "10485422"
+    ],
+    "files_hash": "f89734dc6760ae28d8800c60b8428a873bb301da",
+    "download_count": 23800,
+    "files": {
+        "tonemapped": {
+            "size": 11072566,
+            "md5": "6695aad3d1b79e407948bb56135ba7c4",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/arboretum.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 113925434,
+                    "md5": "ae0612c5d574f5c19cdc402b9f6deb7a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/arboretum_8k.hdr"
+                },
+                "exr": {
+                    "size": 114676800,
+                    "md5": "9db60090d4931f32a406da3d10bf03c2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/arboretum_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 433390575,
+                    "md5": "d30512e4db1852215a421797a9479857",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/arboretum_16k.hdr"
+                },
+                "exr": {
+                    "size": 424022023,
+                    "md5": "b3be9b65240ecc4ba86ab353b0e01627",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/arboretum_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 29122524,
+                    "md5": "372193ccba3fef0575ce7c76d125bb3c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/arboretum_4k.hdr"
+                },
+                "exr": {
+                    "size": 29562541,
+                    "md5": "5e03b2485521192ef825c65317cf637c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/arboretum_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7337210,
+                    "md5": "cd6ffa5772a09a6563e0e76b7ae9d12e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/arboretum_2k.hdr"
+                },
+                "exr": {
+                    "size": 7481701,
+                    "md5": "85bb643e8632dd6df655058ddef198b7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/arboretum_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1835238,
+                    "md5": "00d4303c69874535f5ee25d6b4e433ce",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/arboretum_1k.hdr"
+                },
+                "exr": {
+                    "size": 1880606,
+                    "md5": "427ba1fa578a555e37b459658faac94c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/arboretum_1k.exr"
+                }
+            }
+        }
+    }
+}

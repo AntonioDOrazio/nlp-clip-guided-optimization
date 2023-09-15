@@ -1,0 +1,122 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "whitebalance": 5313,
+    "tags": [
+        "sun",
+        "grass",
+        "rock",
+        "hilltop",
+        "mist",
+        "fog"
+    ],
+    "name": "Kloofendal 28d Misty",
+    "categories": [
+        "outdoor",
+        "skies",
+        "natural light",
+        "nature",
+        "partly cloudy",
+        "medium contrast",
+        "morning-afternoon"
+    ],
+    "date_taken": 1686130440,
+    "coords": [
+        -26.123391,
+        27.883609
+    ],
+    "authors": {
+        "Greg Zaal": "Processing",
+        "Jandre van Heerden": "Photography"
+    },
+    "info": null,
+    "files_hash": "9e9a1300b31df2d6b2edce24979237942978ba14",
+    "date_published": 1691107200,
+    "download_count": 4199,
+    "files": {
+        "tonemapped": {
+            "size": 38531150,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/kloofendal_28d_misty.jpg",
+            "md5": "73197068cb736046dd9abb8261237397"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 98975492,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/kloofendal_28d_misty_8k.hdr",
+                    "md5": "f43d761f4d40f1437c8756ae3a7d277c"
+                },
+                "exr": {
+                    "size": 383487578,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/kloofendal_28d_misty_8k.exr",
+                    "md5": "664e666df695b7ddd5c114ff2b0dfca7"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 369594204,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/kloofendal_28d_misty_16k.hdr",
+                    "md5": "37a3a7a010ff582455e160e764444b68"
+                },
+                "exr": {
+                    "size": 1513772427,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/kloofendal_28d_misty_16k.exr",
+                    "md5": "16c51106bf913ecc8aff16eda93c398e"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24918563,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/kloofendal_28d_misty_4k.hdr",
+                    "md5": "efad207930dce847ddf20b1bbe9723c5"
+                },
+                "exr": {
+                    "size": 96237971,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/kloofendal_28d_misty_4k.exr",
+                    "md5": "a480ef7b121a1d0e077192e71d47beca"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 816150906,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/kloofendal_28d_misty_24k.hdr",
+                    "md5": "c5418a780f11f65424131b089b746454"
+                },
+                "exr": {
+                    "size": 3361615360,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/kloofendal_28d_misty_24k.exr",
+                    "md5": "6f36ce762140f913f263ffbbfe829191"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6161738,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/kloofendal_28d_misty_2k.hdr",
+                    "md5": "d47d3de871ee7f638cc7e7f18a82da29"
+                },
+                "exr": {
+                    "size": 24122444,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/kloofendal_28d_misty_2k.exr",
+                    "md5": "d1de108731accec4d845af484624ee7d"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1537647,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/kloofendal_28d_misty_1k.hdr",
+                    "md5": "c40065351bf1a380ad39e6b53ffd3764"
+                },
+                "exr": {
+                    "size": 6058346,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/kloofendal_28d_misty_1k.exr",
+                    "md5": "9a4564a1cfe94df2f86ad49c3f358ec4"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 809619041,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/kloofendal_28d_misty.zip",
+            "md5": "f9333c4fdbe7b1696f2b96a23fbb01c5"
+        }
+    }
+}

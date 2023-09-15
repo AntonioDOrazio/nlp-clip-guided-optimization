@@ -1,0 +1,99 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "blender",
+        "timber",
+        "computer",
+        "chair",
+        "lamp",
+        "people"
+    ],
+    "date_published": 1506981960,
+    "name": "Blender Institute",
+    "categories": [
+        "indoor",
+        "urban",
+        "low contrast",
+        "artificial light"
+    ],
+    "coords": [
+        52.368259,
+        4.915855
+    ],
+    "date_taken": 1477930440,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "files_hash": "62d113c7f67a8c8bdd867ebf1cbb14ca18d5566e",
+    "download_count": 21604,
+    "files": {
+        "tonemapped": {
+            "size": 4842659,
+            "md5": "1fda11197bdf6ed48d94cd645a930044",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/blender_institute.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 93768532,
+                    "md5": "b8c2f4df1c07a116d574777f25090298",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/blender_institute_8k.hdr"
+                },
+                "exr": {
+                    "size": 83503526,
+                    "md5": "0ccc61412660cb2214632df28c4b8205",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/blender_institute_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 343389812,
+                    "md5": "23baff4526c46eff902f5b2d92381764",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/blender_institute_16k.hdr"
+                },
+                "exr": {
+                    "size": 298059987,
+                    "md5": "f2bd57047ca7d6054c1ae2b8b956195f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/blender_institute_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24441972,
+                    "md5": "badb412b703b0f282455604fde50ceb2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/blender_institute_4k.hdr"
+                },
+                "exr": {
+                    "size": 22170050,
+                    "md5": "57bd654e58357d74c477ef62432c84d5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/blender_institute_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6307270,
+                    "md5": "83a521ae7a04943b98c5ecd973a63e4b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/blender_institute_2k.hdr"
+                },
+                "exr": {
+                    "size": 5845608,
+                    "md5": "e06b6dc8f2afdc1c65e93b9918ced1e2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/blender_institute_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1629114,
+                    "md5": "9c1b7e357c6912a9228c21a31efe69ee",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/blender_institute_1k.hdr"
+                },
+                "exr": {
+                    "size": 1557394,
+                    "md5": "37a71d36c65999b7a39be0c9cdc61e64",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/blender_institute_1k.exr"
+                }
+            }
+        }
+    }
+}

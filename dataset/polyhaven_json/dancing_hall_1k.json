@@ -1,0 +1,463 @@
+{
+    "evs_cap": 19,
+    "type": 0,
+    "whitebalance": 6400,
+    "tags": [
+        "lamp",
+        "hall",
+        "architecture",
+        "empty",
+        "curtain",
+        "stage",
+        "backplates"
+    ],
+    "name": "Dancing Hall",
+    "categories": [
+        "urban",
+        "medium contrast",
+        "indoor",
+        "artificial light"
+    ],
+    "backplates": true,
+    "date_taken": 1663330200,
+    "info": null,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "date_published": 1665964800,
+    "files_hash": "1f353cf41d97f61e12282e04b439fcff0ddc4493",
+    "download_count": 39890,
+    "files": {
+        "tonemapped": {
+            "size": 41980471,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/dancing_hall.jpg",
+            "md5": "cf78870f26ef3197b3b92da1a910d880"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101338649,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/dancing_hall_8k.hdr",
+                    "md5": "38e024afc2cdb79413d8ffba1633d0b4"
+                },
+                "exr": {
+                    "size": 89188664,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/dancing_hall_8k.exr",
+                    "md5": "f886b7b1cd143d70dfd92de0b3706a6f"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 380304209,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/dancing_hall_16k.hdr",
+                    "md5": "7c04e6fb7bb154951117f1f2c38d78d7"
+                },
+                "exr": {
+                    "size": 313456740,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/dancing_hall_16k.exr",
+                    "md5": "edfbef77e60d7d86247ea6699c3931f6"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26422417,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/dancing_hall_4k.hdr",
+                    "md5": "922ff6e524abf497c98af5ea9621d50f"
+                },
+                "exr": {
+                    "size": 24374584,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/dancing_hall_4k.exr",
+                    "md5": "2738211167ff7fe26d0edb608aeb4a81"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6793001,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/dancing_hall_2k.hdr",
+                    "md5": "af4d64c9a2742cca8342d4007b4d3096"
+                },
+                "exr": {
+                    "size": 6475135,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/dancing_hall_2k.exr",
+                    "md5": "075f64afeca2df215087629a60fe4449"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1725266,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/dancing_hall_1k.hdr",
+                    "md5": "2d8c98f2e75647367251284d9692a91a"
+                },
+                "exr": {
+                    "size": 1689353,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/dancing_hall_1k.exr",
+                    "md5": "609eaea32bf0fa53193dd061bbb6748a"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 97877729,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/dancing_hall.zip",
+            "md5": "f44a149046ba6f6e03549ba5fc450622"
+        },
+        "backplates": {
+            "10": {
+                "jpg_pretty": {
+                    "size": 10771612,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_pretty/10.jpg",
+                    "md5": "88222f8e5c951439a3e6dea8ff0a3f93"
+                },
+                "jpg_plain": {
+                    "size": 9409913,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_plain/10.jpg",
+                    "md5": "696e7d06ea4ce52a46169f6b0a3c11d2"
+                },
+                "raw": {
+                    "size": 24162100,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/raw/10.NEF",
+                    "md5": "be6332e03245ded78ff4d645f0ead5c8"
+                }
+            },
+            "11": {
+                "jpg_pretty": {
+                    "size": 10990382,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_pretty/11.jpg",
+                    "md5": "a38e6574cf46078f7ba1d48a7cd28a2f"
+                },
+                "jpg_plain": {
+                    "size": 9443646,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_plain/11.jpg",
+                    "md5": "bd175760c5bfbb027a42b694e4c93382"
+                },
+                "raw": {
+                    "size": 23996161,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/raw/11.NEF",
+                    "md5": "f4ca2eb6e7054b1a15d284e645659ebd"
+                }
+            },
+            "12": {
+                "jpg_pretty": {
+                    "size": 10204504,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_pretty/12.jpg",
+                    "md5": "f24f0e990dce33842c7f44c55639093b"
+                },
+                "jpg_plain": {
+                    "size": 8638543,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_plain/12.jpg",
+                    "md5": "3f6d6753d004c37fe4cbe8c1da734689"
+                },
+                "raw": {
+                    "size": 23825934,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/raw/12.NEF",
+                    "md5": "8f82f306cce7400b2e860f9adc023294"
+                }
+            },
+            "13": {
+                "jpg_pretty": {
+                    "size": 11158338,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_pretty/13.jpg",
+                    "md5": "af39d03651f9743cc1613992947eea1d"
+                },
+                "jpg_plain": {
+                    "size": 9194706,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_plain/13.jpg",
+                    "md5": "c7cb6dbde41aa0f4b3afbf9ce0b392bb"
+                },
+                "raw": {
+                    "size": 24149002,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/raw/13.NEF",
+                    "md5": "ed0b2d3a26fa29141a3eddd98d4ab323"
+                }
+            },
+            "14": {
+                "jpg_pretty": {
+                    "size": 11906838,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_pretty/14.jpg",
+                    "md5": "e4dd3d88827751699ea93815540d611e"
+                },
+                "jpg_plain": {
+                    "size": 10012814,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_plain/14.jpg",
+                    "md5": "76fbe1301ec637a7d03b010ddbd06bf8"
+                },
+                "raw": {
+                    "size": 24734522,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/raw/14.NEF",
+                    "md5": "7d6fb217d7a731f67f3370f03be3029f"
+                }
+            },
+            "15": {
+                "jpg_pretty": {
+                    "size": 12125282,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_pretty/15.jpg",
+                    "md5": "e1fae2c95744457262dbaedd6345b3ce"
+                },
+                "jpg_plain": {
+                    "size": 10180239,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_plain/15.jpg",
+                    "md5": "17a1f020d0523d7e03b696de68d68d18"
+                },
+                "raw": {
+                    "size": 24436819,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/raw/15.NEF",
+                    "md5": "829f0043bf369317a1464a375d11cf83"
+                }
+            },
+            "16": {
+                "jpg_pretty": {
+                    "size": 12851333,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_pretty/16.jpg",
+                    "md5": "25b5cccc3cd054429e175b5f1488e793"
+                },
+                "jpg_plain": {
+                    "size": 10080799,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_plain/16.jpg",
+                    "md5": "d983466fba5d34be729a9f0d9c460d38"
+                },
+                "raw": {
+                    "size": 24782935,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/raw/16.NEF",
+                    "md5": "2e3f01792dbe652c243e87aa47b096eb"
+                }
+            },
+            "17": {
+                "jpg_pretty": {
+                    "size": 10869474,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_pretty/17.jpg",
+                    "md5": "23ddb7bf28afc136bf9a7371184e8c3a"
+                },
+                "jpg_plain": {
+                    "size": 8921329,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_plain/17.jpg",
+                    "md5": "e0344a14f73ea727d9a097b79666bd74"
+                },
+                "raw": {
+                    "size": 24036880,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/raw/17.NEF",
+                    "md5": "9c1c5a962bdb42e94407cefbaf821ab6"
+                }
+            },
+            "18": {
+                "jpg_pretty": {
+                    "size": 10160680,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_pretty/18.jpg",
+                    "md5": "ff44e4bb965c7cd982ca8f1dda35d525"
+                },
+                "jpg_plain": {
+                    "size": 9651074,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_plain/18.jpg",
+                    "md5": "54ab5f665e7aff8fa0802d54c4a8b231"
+                },
+                "raw": {
+                    "size": 25202449,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/raw/18.NEF",
+                    "md5": "836a85753067e55bb4b3843bfc609d19"
+                }
+            },
+            "19": {
+                "jpg_pretty": {
+                    "size": 10673225,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_pretty/19.jpg",
+                    "md5": "6f70f9f1cb8976f6762297403511b729"
+                },
+                "jpg_plain": {
+                    "size": 9358955,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_plain/19.jpg",
+                    "md5": "7bcb807e4e94955ae39896d6e3d0b80b"
+                },
+                "raw": {
+                    "size": 24503454,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/raw/19.NEF",
+                    "md5": "3901a54d77e2c565c4c85ab3f3722058"
+                }
+            },
+            "20": {
+                "jpg_pretty": {
+                    "size": 11908184,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_pretty/20.jpg",
+                    "md5": "7bfbe67b424d40df2d4b8eafd30efb2c"
+                },
+                "jpg_plain": {
+                    "size": 9908474,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_plain/20.jpg",
+                    "md5": "a9a40d517ad1366aacf05c7a006b3679"
+                },
+                "raw": {
+                    "size": 25282188,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/raw/20.NEF",
+                    "md5": "d4ffa76d501ad9ea41b9f1e6db129ad5"
+                }
+            },
+            "21": {
+                "jpg_pretty": {
+                    "size": 11730481,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_pretty/21.jpg",
+                    "md5": "169bff21e98b67eb4d750f0970fe2374"
+                },
+                "jpg_plain": {
+                    "size": 10069072,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_plain/21.jpg",
+                    "md5": "6641415db685fad3777043d9c90ede7e"
+                },
+                "raw": {
+                    "size": 24332230,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/raw/21.NEF",
+                    "md5": "44a42e31cdc37af64bacffd33656b183"
+                }
+            },
+            "01": {
+                "jpg_pretty": {
+                    "size": 10101857,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_pretty/01.jpg",
+                    "md5": "5164fe002850bf3e6c0f4192ef3ef46a"
+                },
+                "jpg_plain": {
+                    "size": 9006929,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_plain/01.jpg",
+                    "md5": "8208a3e8a41337d1e38891fd1fee4fbb"
+                },
+                "raw": {
+                    "size": 23613296,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/raw/01.NEF",
+                    "md5": "a100cfeefc1c5c05c753365de887a5c6"
+                }
+            },
+            "02": {
+                "jpg_pretty": {
+                    "size": 11815217,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_pretty/02.jpg",
+                    "md5": "8c3b58221135aa931f802e647fa8cd70"
+                },
+                "jpg_plain": {
+                    "size": 9725884,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_plain/02.jpg",
+                    "md5": "657933214f579547d085a990243f0cbe"
+                },
+                "raw": {
+                    "size": 24103086,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/raw/02.NEF",
+                    "md5": "46f0f9c0f48218bfecee2a6561e10956"
+                }
+            },
+            "03": {
+                "jpg_pretty": {
+                    "size": 10944118,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_pretty/03.jpg",
+                    "md5": "ad1bf709265c5c181e7d9c7555fc67c4"
+                },
+                "jpg_plain": {
+                    "size": 9002383,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_plain/03.jpg",
+                    "md5": "65ddd7842518d5015410b2d8cf720e84"
+                },
+                "raw": {
+                    "size": 23921473,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/raw/03.NEF",
+                    "md5": "a45c72ab81a1e0ca74180ea3e2ee63af"
+                }
+            },
+            "04": {
+                "jpg_pretty": {
+                    "size": 10725762,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_pretty/04.jpg",
+                    "md5": "2d8ec32de4c30fe0d99134a50685e186"
+                },
+                "jpg_plain": {
+                    "size": 9308764,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_plain/04.jpg",
+                    "md5": "2abe54545751e3f03d8f8e65aea20516"
+                },
+                "raw": {
+                    "size": 24020670,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/raw/04.NEF",
+                    "md5": "59dfad5670b75fd405fab9fed11fad6e"
+                }
+            },
+            "05": {
+                "jpg_pretty": {
+                    "size": 10741571,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_pretty/05.jpg",
+                    "md5": "30e4199136bb16066074aa48f859a12c"
+                },
+                "jpg_plain": {
+                    "size": 9093027,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_plain/05.jpg",
+                    "md5": "da47dae83abdc0b694908ad60a2cf054"
+                },
+                "raw": {
+                    "size": 24038676,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/raw/05.NEF",
+                    "md5": "c7712de0f25ae7e9091264e70917ad0d"
+                }
+            },
+            "06": {
+                "jpg_pretty": {
+                    "size": 11464569,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_pretty/06.jpg",
+                    "md5": "b7bec39b6bf9b6e326b02bb0024aa7b8"
+                },
+                "jpg_plain": {
+                    "size": 9372871,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_plain/06.jpg",
+                    "md5": "692d96848689a6911160ae9052f768fa"
+                },
+                "raw": {
+                    "size": 24103094,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/raw/06.NEF",
+                    "md5": "bc26dd8d0f13ba29486fe8e69bc51e1d"
+                }
+            },
+            "07": {
+                "jpg_pretty": {
+                    "size": 11539791,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_pretty/07.jpg",
+                    "md5": "dd6cc8f03075da020147fc1187bb588b"
+                },
+                "jpg_plain": {
+                    "size": 9225720,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_plain/07.jpg",
+                    "md5": "f85db2497cb134e8a27fa8f1b734680a"
+                },
+                "raw": {
+                    "size": 23781793,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/raw/07.NEF",
+                    "md5": "c26842186913ae7f957060a6bf82de4e"
+                }
+            },
+            "08": {
+                "jpg_pretty": {
+                    "size": 10804059,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_pretty/08.jpg",
+                    "md5": "9ccedec61fb0ba854ed6a15b3312e872"
+                },
+                "jpg_plain": {
+                    "size": 8883276,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_plain/08.jpg",
+                    "md5": "ab21c670448dec878f1188b11b9b7e14"
+                },
+                "raw": {
+                    "size": 23638684,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/raw/08.NEF",
+                    "md5": "6b0538d1364913e43a2f8f902e61dadf"
+                }
+            },
+            "09": {
+                "jpg_pretty": {
+                    "size": 15677941,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_pretty/09.jpg",
+                    "md5": "09c2265c58ad1eebc4cab4d0d4cea50a"
+                },
+                "jpg_plain": {
+                    "size": 9262694,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/jpg_plain/09.jpg",
+                    "md5": "444e6021723913be1eb112f0cfda03a8"
+                },
+                "raw": {
+                    "size": 23853687,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dancing_hall/raw/09.NEF",
+                    "md5": "38d2a985b81932ed5625334bc3bdbbc9"
+                }
+            }
+        }
+    }
+}

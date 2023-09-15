@@ -1,0 +1,120 @@
+{
+    "evs_cap": 21,
+    "type": 0,
+    "tags": [
+        "sand",
+        "beach",
+        "dam",
+        "tree"
+    ],
+    "name": "Sandsloot",
+    "categories": [
+        "artificial light",
+        "night",
+        "outdoor",
+        "nature",
+        "high contrast",
+        "partly cloudy",
+        "skies"
+    ],
+    "date_taken": 1602190440,
+    "coords": [
+        -25.4104285,
+        27.7371016
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "date_published": 1648425600,
+    "sponsors": [
+        "71756406"
+    ],
+    "files_hash": "13cc849b6e412ad10f107c9f46c1005e2115a2df",
+    "download_count": 61274,
+    "files": {
+        "hdri": {
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/sandsloot_16k.hdr",
+                    "size": 417211805,
+                    "md5": "1f5a540987d4272ecdc8d13636010de6"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/sandsloot_16k.exr",
+                    "size": 350983004,
+                    "md5": "1517e074620d964ba9922d7480e01cf4"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/sandsloot_24k.hdr",
+                    "size": 932426169,
+                    "md5": "b606379ff1e293a26b6dff55dd88a29a"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/sandsloot_24k.exr",
+                    "size": 846198646,
+                    "md5": "93fb36cf93ce730d0918907aa91aeb38"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/sandsloot_8k.hdr",
+                    "size": 107202563,
+                    "md5": "01b8fe64b0a152cff3b50669a745fe48"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/sandsloot_8k.exr",
+                    "size": 97864462,
+                    "md5": "c0ffee616bb26efa9300c84855164460"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/sandsloot_4k.hdr",
+                    "size": 26965857,
+                    "md5": "5070744fbc9c233c6a83300ccb2e7f04"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/sandsloot_4k.exr",
+                    "size": 24424918,
+                    "md5": "a2a533489567094c52991ac97fa2d02d"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/sandsloot_2k.hdr",
+                    "size": 6819833,
+                    "md5": "1505cbb4f71b975e1dfcd33e905e5e40"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/sandsloot_2k.exr",
+                    "size": 6233434,
+                    "md5": "4fbb96c5a464803316af7813cef30e19"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/sandsloot_1k.hdr",
+                    "size": 1738907,
+                    "md5": "5412a9eb97eacb098923401e21411982"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/sandsloot_1k.exr",
+                    "size": 1615635,
+                    "md5": "8b26518c1fb850d3e852fce26e94a6ca"
+                }
+            }
+        },
+        "colorchart": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/sandsloot.zip",
+            "size": 32536894,
+            "md5": "7e84baffcb1403cb61e431fb3b97e47d"
+        },
+        "tonemapped": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/sandsloot.jpg",
+            "size": 6302938,
+            "md5": "61ec43753fb4f063292e4a652c9cce6a"
+        }
+    }
+}

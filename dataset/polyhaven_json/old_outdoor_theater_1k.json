@@ -1,0 +1,98 @@
+{
+    "evs_cap": 23,
+    "type": 0,
+    "tags": [
+        "sun",
+        "arena",
+        "europe"
+    ],
+    "date_published": 1568325600,
+    "name": "Old Outdoor Theater",
+    "categories": [
+        "outdoor",
+        "skies",
+        "urban",
+        "midday",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1563190380,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "3267566"
+    ],
+    "files_hash": "ae3d6d63dd764081862123fc126ca703deb112c6",
+    "download_count": 38371,
+    "files": {
+        "tonemapped": {
+            "size": 4326473,
+            "md5": "60ca1edb25ab2f01c3deea091b807d05",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/old_outdoor_theater.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 95469490,
+                    "md5": "18a226a53c608965cdca421f5ed323e4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/old_outdoor_theater_8k.hdr"
+                },
+                "exr": {
+                    "size": 76930418,
+                    "md5": "6bac371b6805c71578e9028d6590c859",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/old_outdoor_theater_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 357770771,
+                    "md5": "31da77d0cc07b1e76939f2f6c148b205",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/old_outdoor_theater_16k.hdr"
+                },
+                "exr": {
+                    "size": 277603630,
+                    "md5": "cb3b42be06293cbd99ca4745ea7a6f22",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/old_outdoor_theater_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24434920,
+                    "md5": "002e50be4c2b37eb0bf50a6496f2988f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/old_outdoor_theater_4k.hdr"
+                },
+                "exr": {
+                    "size": 20286922,
+                    "md5": "542d6a2ffbcfaabfdf0b783801607ad7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/old_outdoor_theater_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6162562,
+                    "md5": "a2e2008b67473182be59c651c602943c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/old_outdoor_theater_2k.hdr"
+                },
+                "exr": {
+                    "size": 5270865,
+                    "md5": "9d6675396874bccdc92119e73c084daa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/old_outdoor_theater_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1564606,
+                    "md5": "9004d2d0b845dfa314b3b296a7b79045",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/old_outdoor_theater_1k.hdr"
+                },
+                "exr": {
+                    "size": 1373493,
+                    "md5": "ed033ad62fefaa2f276a6e1f9381f30d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/old_outdoor_theater_1k.exr"
+                }
+            }
+        }
+    }
+}

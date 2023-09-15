@@ -1,0 +1,113 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "whitebalance": 5313,
+    "tags": [
+        "pure skies"
+    ],
+    "name": "Drakensberg Solitary Mountain (Pure Sky)",
+    "categories": [
+        "natural light",
+        "outdoor",
+        "nature",
+        "skies",
+        "clear",
+        "morning-afternoon",
+        "high contrast",
+        "pure skies"
+    ],
+    "date_taken": 1652610420,
+    "coords": [
+        -28.94226,
+        29.32537
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "info": "Edited sky-only version of [Drakensberg Solitary Mountain](https://polyhaven.com/a/drakensberg_solitary_mountain).",
+    "files_hash": "bd9887e272576d761a737c899592e21c167fed42",
+    "date_published": 1672531200,
+    "download_count": 16346,
+    "files": {
+        "tonemapped": {
+            "size": 18872021,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/drakensberg_solitary_mountain_puresky.jpg",
+            "md5": "81fff9080526a549816716357a469ea5"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 66100802,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/drakensberg_solitary_mountain_puresky_8k.hdr",
+                    "md5": "50390e9277cc902d6bc66818b5dd7c71"
+                },
+                "exr": {
+                    "size": 286184984,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/drakensberg_solitary_mountain_puresky_8k.exr",
+                    "md5": "4d023703c2efdc27ccdfe6b38de556cf"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 202519132,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/drakensberg_solitary_mountain_puresky_16k.hdr",
+                    "md5": "e6ea77a96b940cd851457b6977b94b69"
+                },
+                "exr": {
+                    "size": 1089254719,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/drakensberg_solitary_mountain_puresky_16k.exr",
+                    "md5": "828558da180b528399615e571957c6ae"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 17380481,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/drakensberg_solitary_mountain_puresky_4k.hdr",
+                    "md5": "2bcbf7dc8e8e6a93e1dd3bbaa5980618"
+                },
+                "exr": {
+                    "size": 73550925,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/drakensberg_solitary_mountain_puresky_4k.exr",
+                    "md5": "bbae110029270a0a3934cc23a0d86ca9"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 4295914,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/drakensberg_solitary_mountain_puresky_2k.hdr",
+                    "md5": "1216ca705372f464bf8f75c0740070ee"
+                },
+                "exr": {
+                    "size": 19266435,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/drakensberg_solitary_mountain_puresky_2k.exr",
+                    "md5": "5e6c63ab162f0288a90b2cd79700d827"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 424225286,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/drakensberg_solitary_mountain_puresky_24k.hdr",
+                    "md5": "6ecf4ff815aa5f5d5a909492251bcb15"
+                },
+                "exr": {
+                    "size": 2455980589,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/drakensberg_solitary_mountain_puresky_24k.exr",
+                    "md5": "baa803b79a2ad63ffdeb5a45e64fd4ff"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1081235,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/drakensberg_solitary_mountain_puresky_1k.hdr",
+                    "md5": "7788cb7f80b849a88f66d4fd3a89104b"
+                },
+                "exr": {
+                    "size": 5239384,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/drakensberg_solitary_mountain_puresky_1k.exr",
+                    "md5": "c7ea719a180f547aff01aa9c9e6790f9"
+                }
+            }
+        }
+    }
+}

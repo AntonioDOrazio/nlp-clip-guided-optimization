@@ -1,0 +1,98 @@
+{
+    "evs_cap": 10,
+    "type": 0,
+    "tags": [
+        "tree",
+        "path",
+        "forest",
+        "canopy"
+    ],
+    "date_published": 1512688194,
+    "name": "River Walk 2",
+    "categories": [
+        "outdoor",
+        "nature",
+        "sunrise-sunset",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1507822800,
+    "coords": [
+        -25.033604,
+        31.132956
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "files_hash": "ed1f40ae79db8256446cf640cb1e5804e80310fd",
+    "download_count": 15714,
+    "files": {
+        "tonemapped": {
+            "size": 11686703,
+            "md5": "c24b649bd6445ba18f9299927f297d2b",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/river_walk_2.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 115521918,
+                    "md5": "2aeff4af91df606b59d993b05c27ddba",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/river_walk_2_8k.hdr"
+                },
+                "exr": {
+                    "size": 120421753,
+                    "md5": "e9af92f196327c57fecc712ed495c2cb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/river_walk_2_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 437193267,
+                    "md5": "56c8488ddc7a4b5f6d66c6deafa313e8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/river_walk_2_16k.hdr"
+                },
+                "exr": {
+                    "size": 445106376,
+                    "md5": "83dac36361a7649e49e0dd3ca554676f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/river_walk_2_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 29901477,
+                    "md5": "f917e314c26132f57bede2097f3bc1fb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/river_walk_2_4k.hdr"
+                },
+                "exr": {
+                    "size": 31427895,
+                    "md5": "ae05f7fadc8502f050f4ce1350b09995",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/river_walk_2_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7613076,
+                    "md5": "f605042c43e2d12c084cfeac3ff74c8a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/river_walk_2_2k.hdr"
+                },
+                "exr": {
+                    "size": 8002824,
+                    "md5": "65680369081b76713dc113094e758932",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/river_walk_2_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1918831,
+                    "md5": "e95a0cdbfdbdb69107c57499bef51d73",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/river_walk_2_1k.hdr"
+                },
+                "exr": {
+                    "size": 2011573,
+                    "md5": "9edd391c90fcf0c3580464631134efd9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/river_walk_2_1k.exr"
+                }
+            }
+        }
+    }
+}

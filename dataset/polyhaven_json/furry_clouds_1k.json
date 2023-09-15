@@ -1,0 +1,488 @@
+{
+    "evs_cap": 21,
+    "type": 0,
+    "date_published": 1522879200,
+    "name": "Furry Clouds",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "urban",
+        "morning-afternoon",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        -33.899629,
+        18.403475
+    ],
+    "date_taken": 1464703440,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "url": "http://www.eidyknowles.com/",
+            "name": "Eidy"
+        }
+    ],
+    "backplates": true,
+    "tags": [
+        "path",
+        "promenade",
+        "sun",
+        "field",
+        "building",
+        "ocean",
+        "railing",
+        "backplates"
+    ],
+    "files_hash": "d965e5ce011c3ba07d12f0921e853c005f2995d3",
+    "download_count": 67786,
+    "files": {
+        "tonemapped": {
+            "size": 6188467,
+            "md5": "5ce145fb679a36b72c4a3b4bca1b9ebb",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/furry_clouds.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 99528650,
+                    "md5": "571331ac80ffcd94a6ca9478b994f0be",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/furry_clouds_8k.hdr"
+                },
+                "exr": {
+                    "size": 82804039,
+                    "md5": "e75e98a501a59e100ce993287a7d725c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/furry_clouds_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 357752036,
+                    "md5": "70999b0f0eb20163be806b9b25af6493",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/furry_clouds_16k.hdr"
+                },
+                "exr": {
+                    "size": 293583260,
+                    "md5": "88ce9319aa626717c31d96b242b0e3fa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/furry_clouds_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25921082,
+                    "md5": "b062ac64cc936e911b8311b09cad5b66",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/furry_clouds_4k.hdr"
+                },
+                "exr": {
+                    "size": 22274674,
+                    "md5": "a208c477562f257dbd757fb99aba946c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/furry_clouds_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6644344,
+                    "md5": "5d8bbca6298ab7ad6cf0c285ec2dc734",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/furry_clouds_2k.hdr"
+                },
+                "exr": {
+                    "size": 5936430,
+                    "md5": "b546548cffd29ce4b2c58a407d642646",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/furry_clouds_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1691273,
+                    "md5": "fb243f87b4deb76f66a09d084c1ce0e9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/furry_clouds_1k.hdr"
+                },
+                "exr": {
+                    "size": 1570789,
+                    "md5": "21356f9376dc78b2574170ae39d2b0fb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/furry_clouds_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "IMG_0519": {
+                "jpg_pretty": {
+                    "size": 8896596,
+                    "md5": "c3a50d7e7596a0071dbb6d83250af3c4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_pretty/IMG_0519.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7441216,
+                    "md5": "5f05bee819947de6e4661bc175be8c65",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_plain/IMG_0519.jpg"
+                },
+                "raw": {
+                    "size": 23498870,
+                    "md5": "82c14cc0109d4e5eece5acd4520bd11b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/raw/IMG_0519.dng"
+                }
+            },
+            "IMG_0529": {
+                "jpg_pretty": {
+                    "size": 7918089,
+                    "md5": "77fc6e8a7841c026ccd44550ae7f0af2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_pretty/IMG_0529.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6537953,
+                    "md5": "520e4687eea60ded3790b7b592be93ed",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_plain/IMG_0529.jpg"
+                },
+                "raw": {
+                    "size": 21637050,
+                    "md5": "942fadb20905305df0403c04a5755095",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/raw/IMG_0529.dng"
+                }
+            },
+            "IMG_0528": {
+                "jpg_pretty": {
+                    "size": 7445234,
+                    "md5": "ec3ee673821493ce7234d4615523eaed",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_pretty/IMG_0528.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6570535,
+                    "md5": "8a2f541c4339eb85eccb65d175bd961d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_plain/IMG_0528.jpg"
+                },
+                "raw": {
+                    "size": 22068542,
+                    "md5": "1b29f8b65164845acb91e331d0bc8a03",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/raw/IMG_0528.dng"
+                }
+            },
+            "IMG_0539": {
+                "jpg_pretty": {
+                    "size": 7863255,
+                    "md5": "8791c07f00083cd54a5c4d7cacf1f0dd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_pretty/IMG_0539.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6310161,
+                    "md5": "e8cc3429586988ea953a94c56b560bc7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_plain/IMG_0539.jpg"
+                },
+                "raw": {
+                    "size": 20898908,
+                    "md5": "6df9ebeb6e322c6552d07916e71863e6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/raw/IMG_0539.dng"
+                }
+            },
+            "IMG_0538": {
+                "jpg_pretty": {
+                    "size": 7845863,
+                    "md5": "41657355fa12442e0ceac661ff021fc9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_pretty/IMG_0538.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6895061,
+                    "md5": "d7a1e2934b62be856546ea07d074436d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_plain/IMG_0538.jpg"
+                },
+                "raw": {
+                    "size": 22773892,
+                    "md5": "8d8478755fb64c09590eec85f44c4aee",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/raw/IMG_0538.dng"
+                }
+            },
+            "IMG_0526": {
+                "jpg_pretty": {
+                    "size": 9598568,
+                    "md5": "59cf61f0a4717b474ea4893722793216",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_pretty/IMG_0526.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7970464,
+                    "md5": "a648e5fb3df08e4375c7a4855dc353b2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_plain/IMG_0526.jpg"
+                },
+                "raw": {
+                    "size": 23122818,
+                    "md5": "a69d73ddc6f9f6f211a31187277b1c09",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/raw/IMG_0526.dng"
+                }
+            },
+            "IMG_0537": {
+                "jpg_pretty": {
+                    "size": 8322285,
+                    "md5": "d2cb36a5a9d34c722266d6bde36fee01",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_pretty/IMG_0537.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6791348,
+                    "md5": "6731aeb2424562531160cfb5fc93bf2e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_plain/IMG_0537.jpg"
+                },
+                "raw": {
+                    "size": 22149508,
+                    "md5": "c5f7b2ee5f36c0b66fbd1346c20181d4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/raw/IMG_0537.dng"
+                }
+            },
+            "IMG_0525": {
+                "jpg_pretty": {
+                    "size": 8914622,
+                    "md5": "dd3b4bb1c07c63853bd91b38a99fba55",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_pretty/IMG_0525.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7523049,
+                    "md5": "3df6bfef3ca439bc42b32bed30ef9346",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_plain/IMG_0525.jpg"
+                },
+                "raw": {
+                    "size": 21740100,
+                    "md5": "a27928ea55ad1844e4ef0059697bd788",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/raw/IMG_0525.dng"
+                }
+            },
+            "IMG_0536": {
+                "jpg_pretty": {
+                    "size": 8348458,
+                    "md5": "39b7afeb86e565f4639e996b8ce25927",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_pretty/IMG_0536.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6740089,
+                    "md5": "46cfae7323a7c27523d239040a0444d6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_plain/IMG_0536.jpg"
+                },
+                "raw": {
+                    "size": 22127210,
+                    "md5": "246e12124a28cbed551a6186c6a2b7fc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/raw/IMG_0536.dng"
+                }
+            },
+            "IMG_0524": {
+                "jpg_pretty": {
+                    "size": 7377576,
+                    "md5": "2f3a6ebe831438cc067be9300f18f7b4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_pretty/IMG_0524.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6083983,
+                    "md5": "00959b4886e026dd97aa575c51b77215",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_plain/IMG_0524.jpg"
+                },
+                "raw": {
+                    "size": 21334204,
+                    "md5": "3d300d613ab7a378b4766bd20da100be",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/raw/IMG_0524.dng"
+                }
+            },
+            "IMG_0535": {
+                "jpg_pretty": {
+                    "size": 8401439,
+                    "md5": "2c45ea34ef95c052312a7eeb3cfa2cae",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_pretty/IMG_0535.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6611930,
+                    "md5": "44fe97321fece8e680c64a4c92fbd3d4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_plain/IMG_0535.jpg"
+                },
+                "raw": {
+                    "size": 21671298,
+                    "md5": "0874039885bfd28c2c434347af07a3ec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/raw/IMG_0535.dng"
+                }
+            },
+            "IMG_0523": {
+                "jpg_pretty": {
+                    "size": 7163364,
+                    "md5": "ace831b94a09d5e9137f6017ff26c0de",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_pretty/IMG_0523.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6709012,
+                    "md5": "6149b3b9205dd700f6d1e6fedc25d03b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_plain/IMG_0523.jpg"
+                },
+                "raw": {
+                    "size": 20974562,
+                    "md5": "fc34c49b09b6f96f26fc392eab962af1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/raw/IMG_0523.dng"
+                }
+            },
+            "IMG_0534": {
+                "jpg_pretty": {
+                    "size": 9325198,
+                    "md5": "4cae6fbea483007202d89ad4616aa064",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_pretty/IMG_0534.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7188717,
+                    "md5": "e0da62c5c9605705b0cb1976392415c6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_plain/IMG_0534.jpg"
+                },
+                "raw": {
+                    "size": 22481058,
+                    "md5": "b6ffe51a0d32af44cc225743b84157e2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/raw/IMG_0534.dng"
+                }
+            },
+            "IMG_0522": {
+                "jpg_pretty": {
+                    "size": 5989655,
+                    "md5": "54ce9d72ba031148be305d3c9a12398c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_pretty/IMG_0522.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4889298,
+                    "md5": "6d7b40008e5339e1799369b6c6edcf72",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_plain/IMG_0522.jpg"
+                },
+                "raw": {
+                    "size": 21402158,
+                    "md5": "775b30905e40f03e06c9f59fb3165a68",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/raw/IMG_0522.dng"
+                }
+            },
+            "IMG_0533": {
+                "jpg_pretty": {
+                    "size": 8655492,
+                    "md5": "ef5d6e2e957a96a6c910bea50a7c15fb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_pretty/IMG_0533.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6924657,
+                    "md5": "32ca7b1cce978a51ee99360d6db764bd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_plain/IMG_0533.jpg"
+                },
+                "raw": {
+                    "size": 21950072,
+                    "md5": "4d7d47c1725070721afe7faa7275d4af",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/raw/IMG_0533.dng"
+                }
+            },
+            "IMG_0521": {
+                "jpg_pretty": {
+                    "size": 7376046,
+                    "md5": "c9a847b756bee68c4a9096b8a71704fd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_pretty/IMG_0521.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6278521,
+                    "md5": "ce3c9ba79ba28899d5cf1351b9aeb4bd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_plain/IMG_0521.jpg"
+                },
+                "raw": {
+                    "size": 22390096,
+                    "md5": "487f394ab0a41dce07c90c31684a7c5b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/raw/IMG_0521.dng"
+                }
+            },
+            "IMG_0532": {
+                "jpg_pretty": {
+                    "size": 6757338,
+                    "md5": "3af710cc9ef9015d64ee1e9647a14504",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_pretty/IMG_0532.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5697323,
+                    "md5": "440b9420a81bff5520569a798497e6cb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_plain/IMG_0532.jpg"
+                },
+                "raw": {
+                    "size": 21833120,
+                    "md5": "a198370a6656ff4b8cb578c45afea13a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/raw/IMG_0532.dng"
+                }
+            },
+            "IMG_0543": {
+                "jpg_pretty": {
+                    "size": 8579512,
+                    "md5": "3bce772e4ba3dcac2d45aaf81a721094",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_pretty/IMG_0543.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7156728,
+                    "md5": "ac2767da5b816ca092f6ae586771e700",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_plain/IMG_0543.jpg"
+                },
+                "raw": {
+                    "size": 22210790,
+                    "md5": "860563dcad079473eca755c5e5691077",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/raw/IMG_0543.dng"
+                }
+            },
+            "IMG_0520": {
+                "jpg_pretty": {
+                    "size": 9645665,
+                    "md5": "c750d105527b719dbc63e8c38c858564",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_pretty/IMG_0520.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7985990,
+                    "md5": "cbedf71dbdbedc8b22746348ea7b8e66",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_plain/IMG_0520.jpg"
+                },
+                "raw": {
+                    "size": 23593596,
+                    "md5": "d5dd94f5d09e781770da4088ecc3d181",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/raw/IMG_0520.dng"
+                }
+            },
+            "IMG_0531": {
+                "jpg_pretty": {
+                    "size": 6785075,
+                    "md5": "6e0672283e2d429ceacc9f5cbf0049c3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_pretty/IMG_0531.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5280632,
+                    "md5": "28a082036b7bf9ca890c084db3c5d655",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_plain/IMG_0531.jpg"
+                },
+                "raw": {
+                    "size": 20903778,
+                    "md5": "408f4c240ba7724cb02489e4148d96bd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/raw/IMG_0531.dng"
+                }
+            },
+            "IMG_0530": {
+                "jpg_pretty": {
+                    "size": 8758205,
+                    "md5": "22efbd6df3d6a3255515db12b73d45b9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_pretty/IMG_0530.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7092011,
+                    "md5": "211a484c55e2e6fd655326e9a34fd3da",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_plain/IMG_0530.jpg"
+                },
+                "raw": {
+                    "size": 22414048,
+                    "md5": "4b1f8cff5f2eaa0cbf1c1e96b4e277d2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/raw/IMG_0530.dng"
+                }
+            },
+            "IMG_0541": {
+                "jpg_pretty": {
+                    "size": 10167012,
+                    "md5": "9a649815df66d003869d671a207d993b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_pretty/IMG_0541.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8156781,
+                    "md5": "f3a9b556f954a9210b9f8c0df737ef2b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/jpg_plain/IMG_0541.jpg"
+                },
+                "raw": {
+                    "size": 22725568,
+                    "md5": "21cf9f7429dc3a063313013cfd42f3dc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/furry_clouds/raw/IMG_0541.dng"
+                }
+            }
+        }
+    }
+}

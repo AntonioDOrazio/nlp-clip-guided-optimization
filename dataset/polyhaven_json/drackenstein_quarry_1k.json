@@ -1,0 +1,118 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "tags": [
+        "hill",
+        "hilltop",
+        "grass",
+        "field",
+        "sun"
+    ],
+    "name": "Drackenstein Quarry",
+    "categories": [
+        "outdoor",
+        "skies",
+        "partly cloudy",
+        "nature",
+        "natural light",
+        "low contrast",
+        "sunrise-sunset"
+    ],
+    "date_taken": 1641135720,
+    "coords": [
+        48.548582,
+        9.657288
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "date_published": 1644278400,
+    "files_hash": "3c0f85f9ce1163e0909e78eeed2ac4f71bd7bf43",
+    "download_count": 172612,
+    "files": {
+        "hdri": {
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/drackenstein_quarry_16k.hdr",
+                    "size": 408296808,
+                    "md5": "20143f1a7c1467e359695aaa18b86d01"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/drackenstein_quarry_16k.exr",
+                    "size": 1086832050,
+                    "md5": "5dee05c3b515268497c8db025aa40321"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/drackenstein_quarry_20k.hdr",
+                    "size": 601059586,
+                    "md5": "5c9c9de245789a75579e89c7c53736a4"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/drackenstein_quarry_20k.exr",
+                    "size": 1389514880,
+                    "md5": "d02632d2c7a36f730c4ccc1a1d8a49d5"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/drackenstein_quarry_8k.hdr",
+                    "size": 105789298,
+                    "md5": "2d5081297c064081750f50aac0a70030"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/drackenstein_quarry_8k.exr",
+                    "size": 328061342,
+                    "md5": "d1e408ad54bed2da1e00c7198f645787"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/drackenstein_quarry_4k.hdr",
+                    "size": 26757331,
+                    "md5": "276084ce1709ec6f5b40bd1973acdbf9"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/drackenstein_quarry_4k.exr",
+                    "size": 84630455,
+                    "md5": "30598634b1595cc5b444e7a3b5e8257a"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/drackenstein_quarry_2k.hdr",
+                    "size": 6690881,
+                    "md5": "d6bbd0ef1200e2226cef848ca418f44c"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/drackenstein_quarry_2k.exr",
+                    "size": 22064139,
+                    "md5": "a330031cc5a4be596b57dd42f00bed69"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/drackenstein_quarry_1k.hdr",
+                    "size": 1670865,
+                    "md5": "9a67f132dc5893f4f649757a2105a4c8"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/drackenstein_quarry_1k.exr",
+                    "size": 5900786,
+                    "md5": "fdfb920e9fb2ad7bebd3e2a6fda1c576"
+                }
+            }
+        },
+        "colorchart": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/drackenstein_quarry.zip",
+            "size": 202911580,
+            "md5": "12f8a2c33e931e3dd5ad4579aefdb61f"
+        },
+        "tonemapped": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/drackenstein_quarry.jpg",
+            "size": 48532888,
+            "md5": "712e4aca1526d3da56c233d2f02f5963"
+        }
+    }
+}

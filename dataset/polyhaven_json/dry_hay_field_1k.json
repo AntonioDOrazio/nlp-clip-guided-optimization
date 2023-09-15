@@ -1,0 +1,128 @@
+{
+    "donated": true,
+    "evs_cap": 27,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "grass",
+        "field",
+        "hay",
+        "path",
+        "rural",
+        "tree"
+    ],
+    "name": "Dry Hay Field",
+    "categories": [
+        "outdoor",
+        "nature",
+        "partly cloudy",
+        "natural light",
+        "midday",
+        "low contrast"
+    ],
+    "date_taken": 1628162160,
+    "authors": {
+        "Alexander Scholten": "All"
+    },
+    "date_published": 1629676800,
+    "files_hash": "0d999521d12e49737288a053ca83c56cd40b4fdb",
+    "download_count": 34564,
+    "files": {
+        "hdri": {
+            "29k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/dry_hay_field_29k.hdr",
+                    "size": 1233534435,
+                    "md5": "df606f827fd0ad463753087331a5b4f1"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/dry_hay_field_29k.exr",
+                    "size": 4106076321,
+                    "md5": "5d442c1d1e1d0eeab2e0abdeaa627b2a"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/dry_hay_field_16k.hdr",
+                    "size": 392271457,
+                    "md5": "81a9342cb6ca27e9be4dec221fabe2ac"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/dry_hay_field_16k.exr",
+                    "size": 1266330608,
+                    "md5": "d56e12f3566e6d8697d628dfed7bc1cc"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/dry_hay_field_24k.hdr",
+                    "size": 868153677,
+                    "md5": "581a0057c2bdbf53d98c1050b6325a58"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/dry_hay_field_24k.exr",
+                    "size": 2866089107,
+                    "md5": "b2bda480a53b8b49470a10836620d50b"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/dry_hay_field_8k.hdr",
+                    "size": 103616570,
+                    "md5": "977efbe3fc7dfc7c77d3e9768c79a020"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/dry_hay_field_8k.exr",
+                    "size": 332499190,
+                    "md5": "e37f2708452b2ff3baeb5ce8edac4c3e"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/dry_hay_field_4k.hdr",
+                    "size": 26275921,
+                    "md5": "e1c3f95a5091fb403e225feff9c5ade3"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/dry_hay_field_4k.exr",
+                    "size": 85592677,
+                    "md5": "417efc8a903c23f055930bfbcc09850d"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/dry_hay_field_2k.hdr",
+                    "size": 6599831,
+                    "md5": "6e3ffeafa7df813560e7feaa63ad106e"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/dry_hay_field_2k.exr",
+                    "size": 22408600,
+                    "md5": "30fa1c0e7e9a21a684601f28378d0c28"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/dry_hay_field_1k.hdr",
+                    "size": 1672069,
+                    "md5": "82a8af6c60b34f32087ec5da4d25f7e0"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/dry_hay_field_1k.exr",
+                    "size": 6014366,
+                    "md5": "dd60eb1e0964ea6881dc5eda4adc2e61"
+                }
+            }
+        },
+        "colorchart": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/dry_hay_field.zip",
+            "size": 131665664,
+            "md5": "4bb6f6380cfb2f6adc34934834d3ed9c"
+        },
+        "tonemapped": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/dry_hay_field.jpg",
+            "size": 45622815,
+            "md5": "d915589485afa2977d9c5edc628e49dc"
+        }
+    }
+}

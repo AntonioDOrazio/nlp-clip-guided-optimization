@@ -1,0 +1,312 @@
+{
+    "evs_cap": 23,
+    "type": 0,
+    "whitebalance": 6590,
+    "date_published": 1581375600,
+    "name": "Abandoned Parking",
+    "categories": [
+        "outdoor",
+        "skies",
+        "urban",
+        "midday",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1565001960,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "3237733"
+    ],
+    "backplates": true,
+    "tags": [
+        "parking",
+        "asphalt",
+        "road",
+        "tree",
+        "bush",
+        "derelict",
+        "abandoned",
+        "industrial",
+        "backplates"
+    ],
+    "files_hash": "755a567c45a96a277b298c973fcb3cecfba9cf92",
+    "download_count": 77452,
+    "files": {
+        "tonemapped": {
+            "size": 5701494,
+            "md5": "52a63a5562573c2f49f287c525041923",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/abandoned_parking.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 100792964,
+                    "md5": "7e9ac01eda5c5f9491769a9929cc8382",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/abandoned_parking_8k.hdr"
+                },
+                "exr": {
+                    "size": 83172595,
+                    "md5": "80a2190dd8bf44a676605362e6fce12a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/abandoned_parking_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 377543141,
+                    "md5": "43024ae9532d6a0cd4d7bf36e2efb8e1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/abandoned_parking_16k.hdr"
+                },
+                "exr": {
+                    "size": 303825300,
+                    "md5": "d288eaf31bef460f4abf1257ac43219c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/abandoned_parking_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25661358,
+                    "md5": "ea5e366174c57a1a53a4a9818fd87799",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/abandoned_parking_4k.hdr"
+                },
+                "exr": {
+                    "size": 21416098,
+                    "md5": "48fad5e5f941f10d3b739127a1675db4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/abandoned_parking_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6449449,
+                    "md5": "9dfafbd4bd6372cb80b2974a6bdc5fa1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/abandoned_parking_2k.hdr"
+                },
+                "exr": {
+                    "size": 5496559,
+                    "md5": "e3046a33b4e9640ad6497a27f94d3505",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/abandoned_parking_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1622097,
+                    "md5": "9d67f178c07118add802f982d9f1ce65",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/abandoned_parking_1k.hdr"
+                },
+                "exr": {
+                    "size": 1426310,
+                    "md5": "cde91e1653611197b97336332fa61f23",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/abandoned_parking_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "DSC_0561": {
+                "jpg_pretty": {
+                    "size": 16419399,
+                    "md5": "42123a48fa462e74ed6cdf4eeae9b0ec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/jpg_pretty/DSC_0561.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12742012,
+                    "md5": "226c35218e0125e67510bdf37064e493",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/jpg_plain/DSC_0561.jpg"
+                },
+                "raw": {
+                    "size": 20664810,
+                    "md5": "65ede9c9cbb4e7bdd072cb1df35c42bf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/raw/DSC_0561.NEF"
+                }
+            },
+            "DSC_0571": {
+                "jpg_pretty": {
+                    "size": 15663946,
+                    "md5": "abd72186c80d6f442b3f7d12db1a1c11",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/jpg_pretty/DSC_0571.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11207825,
+                    "md5": "33e217a4e2d64f2344fc7503f1b6e52e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/jpg_plain/DSC_0571.jpg"
+                },
+                "raw": {
+                    "size": 19946683,
+                    "md5": "89f3d69b3ed1a3a2a7e3f71c35ed0a31",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/raw/DSC_0571.NEF"
+                }
+            },
+            "DSC_0521": {
+                "jpg_pretty": {
+                    "size": 15417304,
+                    "md5": "add34fdffc14893d7d43d615af1a54a8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/jpg_pretty/DSC_0521.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11642577,
+                    "md5": "05834608fcc045d4f7f54f5957aa79e8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/jpg_plain/DSC_0521.jpg"
+                },
+                "raw": {
+                    "size": 20319414,
+                    "md5": "441e1e8a63d297e899ecb1f380a66e0f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/raw/DSC_0521.NEF"
+                }
+            },
+            "DSC_0586": {
+                "jpg_pretty": {
+                    "size": 17634877,
+                    "md5": "fa28b597021912d241618d497fde863e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/jpg_pretty/DSC_0586.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12180647,
+                    "md5": "46eccaf5ac207fa12875ed97eebc8591",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/jpg_plain/DSC_0586.jpg"
+                },
+                "raw": {
+                    "size": 20531508,
+                    "md5": "e926eb904f3b5fdce8e9d550fb5e68cc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/raw/DSC_0586.NEF"
+                }
+            },
+            "DSC_0486": {
+                "jpg_pretty": {
+                    "size": 13181776,
+                    "md5": "0c3a76d97808316331409957f27c0850",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/jpg_pretty/DSC_0486.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8811562,
+                    "md5": "fc428851e2c2682913d01bfd673afe39",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/jpg_plain/DSC_0486.jpg"
+                },
+                "raw": {
+                    "size": 18856075,
+                    "md5": "4b91df4e1aaf95e4d92b81a19462b6c1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/raw/DSC_0486.NEF"
+                }
+            },
+            "DSC_0496": {
+                "jpg_pretty": {
+                    "size": 13441139,
+                    "md5": "80870a490bb201683060716fe7b38f2c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/jpg_pretty/DSC_0496.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9443953,
+                    "md5": "963733db7fcc16b1bc72cfc001b4d688",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/jpg_plain/DSC_0496.jpg"
+                },
+                "raw": {
+                    "size": 19079334,
+                    "md5": "be22747bc38f3ab1fa5c919c7e84cf7f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/raw/DSC_0496.NEF"
+                }
+            },
+            "DSC_0551": {
+                "jpg_pretty": {
+                    "size": 12182129,
+                    "md5": "d36cfc2b76a34b50b3cda503365e0518",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/jpg_pretty/DSC_0551.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7475550,
+                    "md5": "6c20aa97824d380128d034f94ee61bc4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/jpg_plain/DSC_0551.jpg"
+                },
+                "raw": {
+                    "size": 18160132,
+                    "md5": "10faf68941c4e09e91e3f9fc60f4641b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/raw/DSC_0551.NEF"
+                }
+            },
+            "DSC_0566": {
+                "jpg_pretty": {
+                    "size": 15277548,
+                    "md5": "daf70ff1932ec523a967c15704dff921",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/jpg_pretty/DSC_0566.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11250858,
+                    "md5": "99c5cef94f81943e9c8c1626bee88583",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/jpg_plain/DSC_0566.jpg"
+                },
+                "raw": {
+                    "size": 19937415,
+                    "md5": "1e66670ff83c1d805a4d75f77d7c3ba7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/raw/DSC_0566.NEF"
+                }
+            },
+            "DSC_0621": {
+                "jpg_pretty": {
+                    "size": 16970057,
+                    "md5": "43f3742cf709eed6121027f87fa2e94e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/jpg_pretty/DSC_0621.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11695331,
+                    "md5": "91b40815fbf5a00b63543c416d174ff3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/jpg_plain/DSC_0621.jpg"
+                },
+                "raw": {
+                    "size": 19974641,
+                    "md5": "1bc2cd638a699425be71bd1897fa4abb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/raw/DSC_0621.NEF"
+                }
+            },
+            "DSC_0491": {
+                "jpg_pretty": {
+                    "size": 12937863,
+                    "md5": "711328e01d30dad81e4d80321ec1d8f3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/jpg_pretty/DSC_0491.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8790678,
+                    "md5": "92d2b3e4fe94eb90e2bdd17c8dd6b948",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/jpg_plain/DSC_0491.jpg"
+                },
+                "raw": {
+                    "size": 18693495,
+                    "md5": "f7f57baadc970090ddb63bbd8f7b8a55",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/raw/DSC_0491.NEF"
+                }
+            },
+            "DSC_0516": {
+                "jpg_pretty": {
+                    "size": 14415011,
+                    "md5": "d8354c49b3199d2904ebd44c27676baf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/jpg_pretty/DSC_0516.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10269299,
+                    "md5": "6d10ce1756eea04f76bd056948dc0375",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/jpg_plain/DSC_0516.jpg"
+                },
+                "raw": {
+                    "size": 19628547,
+                    "md5": "f38dd0f841169403bc9af830a785fc1c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/raw/DSC_0516.NEF"
+                }
+            },
+            "DSC_0526": {
+                "jpg_pretty": {
+                    "size": 12382370,
+                    "md5": "4f75cc7b6c8b7d026377b0e833ea1aff",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/jpg_pretty/DSC_0526.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7529084,
+                    "md5": "45291c9b724c688b33a4778b3e6ba9ea",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/jpg_plain/DSC_0526.jpg"
+                },
+                "raw": {
+                    "size": 18582755,
+                    "md5": "64c99de0ab29aeac1663c0038327d2ce",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_parking/raw/DSC_0526.NEF"
+                }
+            }
+        }
+    }
+}

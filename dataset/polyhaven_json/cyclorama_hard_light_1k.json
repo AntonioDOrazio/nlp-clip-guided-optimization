@@ -1,0 +1,106 @@
+{
+    "evs_cap": 26,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "studio",
+        "lamp",
+        "umbrella",
+        "white",
+        "infinity",
+        "clean"
+    ],
+    "name": "Cyclorama Hard Light",
+    "categories": [
+        "studio",
+        "indoor",
+        "high contrast",
+        "urban",
+        "artificial light"
+    ],
+    "coords": [
+        49.2318106642269,
+        28.459069581792956
+    ],
+    "date_taken": 1649247480,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "date_published": 1658275200,
+    "files_hash": "f75ac746759d9800de0f5c9e2719d889e9a359ee",
+    "download_count": 43474,
+    "files": {
+        "tonemapped": {
+            "size": 23397084,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/cyclorama_hard_light.jpg",
+            "md5": "d6df778510914443ae5ace4d852fb199"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 92090073,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/cyclorama_hard_light_8k.hdr",
+                    "md5": "21770324ebc0bd047d2946bd031233bd"
+                },
+                "exr": {
+                    "size": 54623152,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/cyclorama_hard_light_8k.exr",
+                    "md5": "f2b381185787cadf9f50c3bdeb7f2e78"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 329190480,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/cyclorama_hard_light_16k.hdr",
+                    "md5": "0a7541a6d1d90b2c75a2316de11dcec4"
+                },
+                "exr": {
+                    "size": 197416303,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/cyclorama_hard_light_16k.exr",
+                    "md5": "afeb3a8d9e8c27fcce9c9b9d507f371d"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 23268458,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/cyclorama_hard_light_4k.hdr",
+                    "md5": "b6528498cc02b7275c47181bcc6f97fd"
+                },
+                "exr": {
+                    "size": 13427089,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/cyclorama_hard_light_4k.exr",
+                    "md5": "9cc0b010343c9adcce0e805a2f568e64"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5684995,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/cyclorama_hard_light_2k.hdr",
+                    "md5": "e5c1acd8cb9f1b368d962ed00ee2e869"
+                },
+                "exr": {
+                    "size": 3360222,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/cyclorama_hard_light_2k.exr",
+                    "md5": "940755c5ccdbeac24ab5903d03c00004"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1409711,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/cyclorama_hard_light_1k.hdr",
+                    "md5": "dd931a2cebeaed50407fdbfc7146212d"
+                },
+                "exr": {
+                    "size": 882178,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/cyclorama_hard_light_1k.exr",
+                    "md5": "cfbbbec5777fa60ebabc45c4ac4c6c82"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 72034468,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/cyclorama_hard_light.zip",
+            "md5": "8876aa1511654e70db454ef028657018"
+        }
+    }
+}

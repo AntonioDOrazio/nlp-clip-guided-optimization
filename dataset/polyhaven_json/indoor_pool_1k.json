@@ -1,0 +1,96 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "tags": [
+        "pool",
+        "water",
+        "lamp",
+        "chair"
+    ],
+    "date_published": 1560808800,
+    "name": "Indoor Pool",
+    "categories": [
+        "indoor",
+        "urban",
+        "low contrast",
+        "artificial light"
+    ],
+    "date_taken": 1554283440,
+    "authors": {
+        "Oliksiy Yakovlyev": "All"
+    },
+    "sponsors": [
+        "11167855"
+    ],
+    "files_hash": "3e7ca6240027c3528efb23058d6b855f1d92e172",
+    "download_count": 16835,
+    "files": {
+        "tonemapped": {
+            "size": 2782728,
+            "md5": "5df0bb56d70ce7880d735a0eaa4a120d",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/indoor_pool.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 96458166,
+                    "md5": "439f3bc205d446baa9c01620627d8b84",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/indoor_pool_8k.hdr"
+                },
+                "exr": {
+                    "size": 70377802,
+                    "md5": "c8e4cf5de7a5cccace7b9be7c6edf821",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/indoor_pool_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 397128385,
+                    "md5": "5fcc209536ae58a543730f2740084d9e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/indoor_pool_16k.hdr"
+                },
+                "exr": {
+                    "size": 293730456,
+                    "md5": "ef5e5cf52968fe3c6cc445027f442762",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/indoor_pool_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24246911,
+                    "md5": "54c8cc63d4b2323d78999e4f1d8de6cc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/indoor_pool_4k.hdr"
+                },
+                "exr": {
+                    "size": 17366069,
+                    "md5": "84fde2558e625fa42fb575c7d2b19b47",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/indoor_pool_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5926534,
+                    "md5": "acf0b5200b9c7eb66f79c0d96e567047",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/indoor_pool_2k.hdr"
+                },
+                "exr": {
+                    "size": 4347028,
+                    "md5": "c1636ffef2a5644645eb1d77897949b0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/indoor_pool_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1440681,
+                    "md5": "e4c4a70a8fb2d5759f286a022cbcd990",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/indoor_pool_1k.hdr"
+                },
+                "exr": {
+                    "size": 1138811,
+                    "md5": "7aac93cfc38a6537bb4300322ec2c95a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/indoor_pool_1k.exr"
+                }
+            }
+        }
+    }
+}

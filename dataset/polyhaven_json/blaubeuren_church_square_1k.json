@@ -1,0 +1,122 @@
+{
+    "evs_cap": 17,
+    "type": 0,
+    "tags": [
+        "snow",
+        "winter",
+        "town",
+        "europe",
+        "christmas",
+        "road",
+        "path"
+    ],
+    "date_published": 1612220400,
+    "name": "Blaubeuren Church Square",
+    "categories": [
+        "outdoor",
+        "urban",
+        "night",
+        "overcast",
+        "medium contrast",
+        "artificial light"
+    ],
+    "date_taken": 1609955580,
+    "coords": [
+        48.411932,
+        9.784667
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        "49655030"
+    ],
+    "files_hash": "5de3d27a9b6d7ee7c156644d4c9c9c3a4b0697bf",
+    "download_count": 45298,
+    "files": {
+        "tonemapped": {
+            "size": 9139173,
+            "md5": "b335051721be70846d214057229fa1a7",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/blaubeuren_church_square.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 109546502,
+                    "md5": "ab202f4f4ba45cdda7f00ae753dbde74",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/blaubeuren_church_square_8k.hdr"
+                },
+                "exr": {
+                    "size": 345179326,
+                    "md5": "5e12ccf1f819138419cb2b17dc2bbb01",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/blaubeuren_church_square_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 434528819,
+                    "md5": "81e3a68bc259b807f4b8c9d3018f1f06",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/blaubeuren_church_square_16k.hdr"
+                },
+                "exr": {
+                    "size": 1369096621,
+                    "md5": "97f2b73bad5194279968e7552a05f383",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/blaubeuren_church_square_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27458463,
+                    "md5": "09638a30f902dda4b928af202418dfeb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/blaubeuren_church_square_4k.hdr"
+                },
+                "exr": {
+                    "size": 87800071,
+                    "md5": "104bd345cfee8402d9c996dd56798fce",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/blaubeuren_church_square_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6943762,
+                    "md5": "d82321e3cf8b7e3d280bdd758fc8b872",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/blaubeuren_church_square_2k.hdr"
+                },
+                "exr": {
+                    "size": 22870564,
+                    "md5": "19edf0e3bd79497599d4eea418813af1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/blaubeuren_church_square_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1752148,
+                    "md5": "3e456ede1bb13fc84461cdd6c3878dc8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/blaubeuren_church_square_1k.hdr"
+                },
+                "exr": {
+                    "size": 6098924,
+                    "md5": "80e64ac812144a7156d4cd55a0f5af7e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/blaubeuren_church_square_1k.exr"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 673834094,
+                    "md5": "26b9267dd72ac083e58dd3e0d291ef33",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/blaubeuren_church_square_20k.hdr"
+                },
+                "exr": {
+                    "size": 1195605701,
+                    "md5": "d0d7251f1e4765181b17f1c60523e123",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/blaubeuren_church_square_20k.exr"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 232068977,
+            "md5": "034f8955fd280b5c76f4409d78a389d8",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/blaubeuren_church_square.zip"
+        }
+    }
+}

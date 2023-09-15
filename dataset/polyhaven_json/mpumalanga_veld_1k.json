@@ -1,0 +1,103 @@
+{
+    "evs_cap": 21,
+    "type": 0,
+    "tags": [
+        "grass",
+        "view",
+        "sun",
+        "wind"
+    ],
+    "date_published": 1522879200,
+    "name": "Mpumalanga Veld",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "sunrise-sunset",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        -24.889112,
+        30.876935
+    ],
+    "date_taken": 1443279960,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "3567764"
+    ],
+    "files_hash": "7c7dfa199b47e856379fd36f47cf21a53eb3f34c",
+    "download_count": 39552,
+    "files": {
+        "tonemapped": {
+            "size": 7179133,
+            "md5": "fefdcb27b8542d2a12dd466ed2c414df",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/mpumalanga_veld.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 104208385,
+                    "md5": "aca340bb8729eecd709e0465e6762a45",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/mpumalanga_veld_8k.hdr"
+                },
+                "exr": {
+                    "size": 86282259,
+                    "md5": "f9105088fc3b928f443b4398e1c12c4c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/mpumalanga_veld_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 388561884,
+                    "md5": "f03121a4cc66493f0f55f9aeccaeca18",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/mpumalanga_veld_16k.hdr"
+                },
+                "exr": {
+                    "size": 324127798,
+                    "md5": "16ce555a62678dcb6ee95f5e49245ca3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/mpumalanga_veld_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26478536,
+                    "md5": "ff4eac34d62aae856096eb7eac2c4407",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/mpumalanga_veld_4k.hdr"
+                },
+                "exr": {
+                    "size": 21848453,
+                    "md5": "754117afed909cca0f84e61b1905c10a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/mpumalanga_veld_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6567668,
+                    "md5": "bcad31f42e58a745c57d1cb8601dd0b5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/mpumalanga_veld_2k.hdr"
+                },
+                "exr": {
+                    "size": 5468178,
+                    "md5": "019a0667e6e1a7023a2dacd12fa3b32e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/mpumalanga_veld_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1601762,
+                    "md5": "d0c54d781471c86a3e52d9846f0258c3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/mpumalanga_veld_1k.hdr"
+                },
+                "exr": {
+                    "size": 1382004,
+                    "md5": "5e71316eece9f1ea172c29c7c3cda60d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/mpumalanga_veld_1k.exr"
+                }
+            }
+        }
+    }
+}

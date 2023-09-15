@@ -1,0 +1,567 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "whitebalance": 5400,
+    "date_published": 1511996400,
+    "name": "Fish Hoek Beach",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "sunrise-sunset",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        -34.139809,
+        18.432651
+    ],
+    "date_taken": 1464501360,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "4779464"
+    ],
+    "backplates": true,
+    "tags": [
+        "beach",
+        "hill",
+        "ocean",
+        "water",
+        "backplates"
+    ],
+    "files_hash": "d12f2a4ebc6f9d5295a41c09eeb0772a70f09d02",
+    "download_count": 69791,
+    "files": {
+        "tonemapped": {
+            "size": 2179730,
+            "md5": "771173ffa871c7da6a9c9042aaf7ce2b",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/fish_hoek_beach.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 89133520,
+                    "md5": "0bd3765a182985bb69615d6bb19dc3f1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/fish_hoek_beach_8k.hdr"
+                },
+                "exr": {
+                    "size": 53534293,
+                    "md5": "e39e38442d02e6a272c020f2549b9aa4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/fish_hoek_beach_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 329140512,
+                    "md5": "8844475f3ca8ebac35eb4261e7288532",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/fish_hoek_beach_16k.hdr"
+                },
+                "exr": {
+                    "size": 198074160,
+                    "md5": "a062350d69664423c99e90817110aee2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/fish_hoek_beach_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 22597746,
+                    "md5": "ea908c504477cdf367fb4c39db39c7c8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/fish_hoek_beach_4k.hdr"
+                },
+                "exr": {
+                    "size": 13785332,
+                    "md5": "23624ab6e43f1358ebcc568a4d87c711",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/fish_hoek_beach_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5604540,
+                    "md5": "96a35ddb7ce39b1e2114adfbae839957",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/fish_hoek_beach_2k.hdr"
+                },
+                "exr": {
+                    "size": 3528079,
+                    "md5": "d077dc4d8f3f27457f4e355ffdd4da04",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/fish_hoek_beach_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1407819,
+                    "md5": "368eec1c61e1b481efd82bce6c1878b6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/fish_hoek_beach_1k.hdr"
+                },
+                "exr": {
+                    "size": 922097,
+                    "md5": "71dd035f19aee2cdfc740d96f47cde83",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/fish_hoek_beach_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "IMG_0028": {
+                "jpg_pretty": {
+                    "size": 4168445,
+                    "md5": "7027da66a9962a9b2653e03ecc18789b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_pretty/IMG_0028.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4906968,
+                    "md5": "dbfd0fa66fe446fc59e37f724db1cb21",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_plain/IMG_0028.jpg"
+                },
+                "raw": {
+                    "size": 19407350,
+                    "md5": "9d54e6c94e08a4d13d6e1f993e87854e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/raw/IMG_0028.dng"
+                }
+            },
+            "IMG_0029": {
+                "jpg_pretty": {
+                    "size": 4184463,
+                    "md5": "c9fbc5d8c59ccd0711588b729126a73c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_pretty/IMG_0029.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5244196,
+                    "md5": "8401b34b42147313a7de1963db34139b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_plain/IMG_0029.jpg"
+                },
+                "raw": {
+                    "size": 20072592,
+                    "md5": "03e685c5b8d0e790b7c7d1806df22acf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/raw/IMG_0029.dng"
+                }
+            },
+            "IMG_0026": {
+                "jpg_pretty": {
+                    "size": 3821509,
+                    "md5": "f94cad8de75a91d442e38c399c0e359c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_pretty/IMG_0026.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4582878,
+                    "md5": "5823abea01b814ffdf707b37d984f77d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_plain/IMG_0026.jpg"
+                },
+                "raw": {
+                    "size": 20547504,
+                    "md5": "2f4e7ad8e64251acd077ab3e44378c01",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/raw/IMG_0026.dng"
+                }
+            },
+            "IMG_0027": {
+                "jpg_pretty": {
+                    "size": 3682425,
+                    "md5": "cce0d941ed2e613b715ba51c64e3823a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_pretty/IMG_0027.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4733178,
+                    "md5": "69f07daf3f5242079cabfa4f93cf0be7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_plain/IMG_0027.jpg"
+                },
+                "raw": {
+                    "size": 19889120,
+                    "md5": "3e4ca66ec0dccecc20ccde56ee78d154",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/raw/IMG_0027.dng"
+                }
+            },
+            "IMG_0035": {
+                "jpg_pretty": {
+                    "size": 3016744,
+                    "md5": "ab815ff05377a702a19284f083e6ef3e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_pretty/IMG_0035.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4344558,
+                    "md5": "3e530445657b3fe6080cbe99776b6ff7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_plain/IMG_0035.jpg"
+                },
+                "raw": {
+                    "size": 20160472,
+                    "md5": "90ba58ab00672b7d3b1ff38764d24542",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/raw/IMG_0035.dng"
+                }
+            },
+            "IMG_0033": {
+                "jpg_pretty": {
+                    "size": 3817851,
+                    "md5": "aef789ab66fd106470cbf065a01b4b96",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_pretty/IMG_0033.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5040892,
+                    "md5": "16a491862783b471938936695dba4b3b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_plain/IMG_0033.jpg"
+                },
+                "raw": {
+                    "size": 20409982,
+                    "md5": "5608e3669bea1a98291b609237387551",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/raw/IMG_0033.dng"
+                }
+            },
+            "IMG_0034": {
+                "jpg_pretty": {
+                    "size": 3946363,
+                    "md5": "fb1d2a459f597758c51e1b28f5c54895",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_pretty/IMG_0034.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4979703,
+                    "md5": "2e0ad44d30fb50027c753f3ce7743de1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_plain/IMG_0034.jpg"
+                },
+                "raw": {
+                    "size": 20477438,
+                    "md5": "a8b2a668fb8b2c19e819a4a6e7d95ffe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/raw/IMG_0034.dng"
+                }
+            },
+            "IMG_0031": {
+                "jpg_pretty": {
+                    "size": 4853843,
+                    "md5": "63943fd0e1707a30057c715db5d37cc8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_pretty/IMG_0031.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5014619,
+                    "md5": "13148727949dfb91698afccc2aafd41a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_plain/IMG_0031.jpg"
+                },
+                "raw": {
+                    "size": 18984724,
+                    "md5": "b17d96941bca8d75d09c313667246ade",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/raw/IMG_0031.dng"
+                }
+            },
+            "IMG_0032": {
+                "jpg_pretty": {
+                    "size": 3263118,
+                    "md5": "f53e10055c8b00332d2b3a17892d899f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_pretty/IMG_0032.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4474342,
+                    "md5": "c4fa3c32cbe6e5fdcb4384536bb17d41",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_plain/IMG_0032.jpg"
+                },
+                "raw": {
+                    "size": 20018026,
+                    "md5": "558b3b448d44caf2ef8f0bc34218ddd8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/raw/IMG_0032.dng"
+                }
+            },
+            "IMG_0030": {
+                "jpg_pretty": {
+                    "size": 3968970,
+                    "md5": "5721cdee4016b65e7b78871d91ab320b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_pretty/IMG_0030.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5136329,
+                    "md5": "528a4353b67a76b6efa9775c8658343f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_plain/IMG_0030.jpg"
+                },
+                "raw": {
+                    "size": 20201534,
+                    "md5": "34f91e7b860aaf1a7b348603cd85c30d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/raw/IMG_0030.dng"
+                }
+            },
+            "IMG_0019": {
+                "jpg_pretty": {
+                    "size": 3114396,
+                    "md5": "d994714fd8c00a410907f2b0d03cbcb1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_pretty/IMG_0019.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4598308,
+                    "md5": "f6639bc009a0460cf6f098417b78ffca",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_plain/IMG_0019.jpg"
+                },
+                "raw": {
+                    "size": 20686306,
+                    "md5": "75d664cdc18d96b85fa8b688bfd79f87",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/raw/IMG_0019.dng"
+                }
+            },
+            "IMG_0039": {
+                "jpg_pretty": {
+                    "size": 3693377,
+                    "md5": "a97cc1da603aba94f5d6423c1dd2fa3d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_pretty/IMG_0039.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4615563,
+                    "md5": "4597e3ff5146e72b3b2a3b6c555df593",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_plain/IMG_0039.jpg"
+                },
+                "raw": {
+                    "size": 19128682,
+                    "md5": "2049cb3444201d9f2a792ba3c09c4eb0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/raw/IMG_0039.dng"
+                }
+            },
+            "IMG_0037": {
+                "jpg_pretty": {
+                    "size": 3558721,
+                    "md5": "4e785d8798d7d0f0cecff6238992c5a9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_pretty/IMG_0037.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4512974,
+                    "md5": "56932dc58099320aba0ba62c2a541c90",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_plain/IMG_0037.jpg"
+                },
+                "raw": {
+                    "size": 18606730,
+                    "md5": "28f218a31ad976dfb1cc9388b96a42a1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/raw/IMG_0037.dng"
+                }
+            },
+            "IMG_0016": {
+                "jpg_pretty": {
+                    "size": 3513704,
+                    "md5": "2cef45d2d43bdd5f401ce3263d22b138",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_pretty/IMG_0016.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4240287,
+                    "md5": "91ff7a75e0f57faad23f1e0323ca4fe1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_plain/IMG_0016.jpg"
+                },
+                "raw": {
+                    "size": 19259126,
+                    "md5": "935034a46a845ead798c5be91b36c6c3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/raw/IMG_0016.dng"
+                }
+            },
+            "IMG_0024": {
+                "jpg_pretty": {
+                    "size": 7388681,
+                    "md5": "b70b6ae4706dec1f51a0cc8e32c6f38f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_pretty/IMG_0024.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7825439,
+                    "md5": "53fdef7573f1ad3e6137d1d48c1f546a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_plain/IMG_0024.jpg"
+                },
+                "raw": {
+                    "size": 23630722,
+                    "md5": "512009b852f04f87eadb4853ca91c6cf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/raw/IMG_0024.dng"
+                }
+            },
+            "IMG_0046": {
+                "jpg_pretty": {
+                    "size": 2961710,
+                    "md5": "8b311fbd024643cc06d7e4e2ad25a504",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_pretty/IMG_0046.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4346291,
+                    "md5": "c4d67557f0019d9058d0616e6ab41be2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_plain/IMG_0046.jpg"
+                },
+                "raw": {
+                    "size": 19705178,
+                    "md5": "c5be7c520c9ff3a92440bb7cca5bc689",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/raw/IMG_0046.dng"
+                }
+            },
+            "IMG_0025": {
+                "jpg_pretty": {
+                    "size": 7235917,
+                    "md5": "8a30afb931d9260c0990a8f13b7e9f86",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_pretty/IMG_0025.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7873960,
+                    "md5": "5a5201cb49ae8e7a5833702a9f07e267",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_plain/IMG_0025.jpg"
+                },
+                "raw": {
+                    "size": 23860552,
+                    "md5": "cef34cf20adff218348eed6a5a14a24c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/raw/IMG_0025.dng"
+                }
+            },
+            "IMG_0047": {
+                "jpg_pretty": {
+                    "size": 3354144,
+                    "md5": "545c727e196e0512f229f672e08d22c5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_pretty/IMG_0047.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4496045,
+                    "md5": "7053108f524a6657ac6218d846c101a6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_plain/IMG_0047.jpg"
+                },
+                "raw": {
+                    "size": 20233570,
+                    "md5": "19f9e3c086f18732bcad7e377dea9e7f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/raw/IMG_0047.dng"
+                }
+            },
+            "IMG_0022": {
+                "jpg_pretty": {
+                    "size": 3036970,
+                    "md5": "223c8d3480a93406f39e2e3132adfe2b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_pretty/IMG_0022.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4377899,
+                    "md5": "8779010d456fbb2a096626cf88dd2d8a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_plain/IMG_0022.jpg"
+                },
+                "raw": {
+                    "size": 19656316,
+                    "md5": "424035566eb5728f2f1c2c7f9ef32c7f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/raw/IMG_0022.dng"
+                }
+            },
+            "IMG_0044": {
+                "jpg_pretty": {
+                    "size": 3459068,
+                    "md5": "e12e9c6e183433508b57933608b27f60",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_pretty/IMG_0044.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4585969,
+                    "md5": "b028a13fea2581feae820b5078baf4fa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_plain/IMG_0044.jpg"
+                },
+                "raw": {
+                    "size": 20797552,
+                    "md5": "963e04e899da1350e8e531198d844c17",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/raw/IMG_0044.dng"
+                }
+            },
+            "IMG_0023": {
+                "jpg_pretty": {
+                    "size": 3698421,
+                    "md5": "101ab058005de4197639c515be5b4c90",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_pretty/IMG_0023.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4965665,
+                    "md5": "99885573ecc170a41e7487662bd65402",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_plain/IMG_0023.jpg"
+                },
+                "raw": {
+                    "size": 20130948,
+                    "md5": "59562e8d2212f30d6251d84a0174d365",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/raw/IMG_0023.dng"
+                }
+            },
+            "IMG_0045": {
+                "jpg_pretty": {
+                    "size": 3427883,
+                    "md5": "59a4965659e05142fb5a99db3fcaf21a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_pretty/IMG_0045.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4545834,
+                    "md5": "a0e4bf8ab690ecb407de4722c051a371",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_plain/IMG_0045.jpg"
+                },
+                "raw": {
+                    "size": 19062488,
+                    "md5": "5d1e406e6a884a81780512aa2fbc9b56",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/raw/IMG_0045.dng"
+                }
+            },
+            "IMG_0020": {
+                "jpg_pretty": {
+                    "size": 4924639,
+                    "md5": "accd12fca8c6a628fd9bd30e55faac13",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_pretty/IMG_0020.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5874976,
+                    "md5": "58b8afcf14bf6890de85389889d11bfe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_plain/IMG_0020.jpg"
+                },
+                "raw": {
+                    "size": 21349852,
+                    "md5": "e99dcffd292f5d9b9a2d10e60907ae70",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/raw/IMG_0020.dng"
+                }
+            },
+            "IMG_0042": {
+                "jpg_pretty": {
+                    "size": 4406719,
+                    "md5": "3fd8ef201d266a95a598ce73e641e761",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_pretty/IMG_0042.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5368743,
+                    "md5": "9e578b4e3f0264afb1477bdf4914531d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_plain/IMG_0042.jpg"
+                },
+                "raw": {
+                    "size": 21382110,
+                    "md5": "fbead0e06625deba23a68f8d98cf82c4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/raw/IMG_0042.dng"
+                }
+            },
+            "IMG_0021": {
+                "jpg_pretty": {
+                    "size": 3471538,
+                    "md5": "da236528a6ba8495ba18d1e78e1edefc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_pretty/IMG_0021.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4448292,
+                    "md5": "068c1753bdae407acc48b270fa2448ed",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_plain/IMG_0021.jpg"
+                },
+                "raw": {
+                    "size": 19039540,
+                    "md5": "ac7dafdd6055f750ec694ebeff5a031b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/raw/IMG_0021.dng"
+                }
+            },
+            "IMG_0043": {
+                "jpg_pretty": {
+                    "size": 3777372,
+                    "md5": "a190f9a0e409bc06a156d642314d349d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_pretty/IMG_0043.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4771084,
+                    "md5": "32fa483fd7341abd6c28e297e33e3590",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_plain/IMG_0043.jpg"
+                },
+                "raw": {
+                    "size": 19403250,
+                    "md5": "f5e0f8f83e3c4674cd18ae5ee9eda60e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/raw/IMG_0043.dng"
+                }
+            },
+            "IMG_0041": {
+                "jpg_pretty": {
+                    "size": 3743405,
+                    "md5": "93a5113030fc26c5ffdcf232f51537e5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_pretty/IMG_0041.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4863505,
+                    "md5": "aca4f455640ab346a0aed50c5672b8ef",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/jpg_plain/IMG_0041.jpg"
+                },
+                "raw": {
+                    "size": 21039102,
+                    "md5": "1d5b140d54c7ab0d672584506fd4eeed",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/fish_hoek_beach/raw/IMG_0041.dng"
+                }
+            }
+        }
+    }
+}

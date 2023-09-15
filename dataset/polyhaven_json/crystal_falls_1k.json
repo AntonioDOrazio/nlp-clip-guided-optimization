@@ -1,0 +1,108 @@
+{
+    "evs_cap": 26,
+    "type": 0,
+    "tags": [
+        "tree",
+        "rock",
+        "waterfall",
+        "river",
+        "pond",
+        "sun",
+        "forest"
+    ],
+    "date_published": 1506981600,
+    "name": "Crystal Falls",
+    "categories": [
+        "outdoor",
+        "nature",
+        "clear",
+        "midday",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1486897440,
+    "coords": [
+        -29.057131,
+        29.399313
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "url": "https://www.idin-jewellery.co.uk/",
+            "name": "Idin Jewellery"
+        }
+    ],
+    "files_hash": "fd8310fc53d0c89ba3ef1a2cf88cfbacaa231710",
+    "download_count": 33343,
+    "files": {
+        "tonemapped": {
+            "size": 8205885,
+            "md5": "84fbde36c52d548569fca468db3e15be",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/crystal_falls.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 105778689,
+                    "md5": "a62db3de0fc6c753b33cdeb4a302fe3e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/crystal_falls_8k.hdr"
+                },
+                "exr": {
+                    "size": 107032860,
+                    "md5": "04ca6215aa31017fff30fa6a7fc882df",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/crystal_falls_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 393730214,
+                    "md5": "ce6b3f9de9c596def424878daa7207dd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/crystal_falls_16k.hdr"
+                },
+                "exr": {
+                    "size": 381982909,
+                    "md5": "4638c606f73019e822fdea1d0a639e3a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/crystal_falls_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27519965,
+                    "md5": "c6b0115879dff1f853dc94e4ec14796f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/crystal_falls_4k.hdr"
+                },
+                "exr": {
+                    "size": 28328577,
+                    "md5": "04594d3aaa67cb147ed4e55a6d1bbd21",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/crystal_falls_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7038538,
+                    "md5": "873dd3f933de310bc1d32fa33e8e8872",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/crystal_falls_2k.hdr"
+                },
+                "exr": {
+                    "size": 7334286,
+                    "md5": "c55ca74442639847636c1d66c6feff24",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/crystal_falls_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1786255,
+                    "md5": "654f93e45859f0a8806376d9cee22e6f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/crystal_falls_1k.hdr"
+                },
+                "exr": {
+                    "size": 1886690,
+                    "md5": "dc7409b857c6241cac93b48e773697dd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/crystal_falls_1k.exr"
+                }
+            }
+        }
+    }
+}

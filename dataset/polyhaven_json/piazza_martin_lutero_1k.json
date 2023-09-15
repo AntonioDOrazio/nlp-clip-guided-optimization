@@ -1,0 +1,640 @@
+{
+    "evs_cap": 24,
+    "type": 0,
+    "whitebalance": 5400,
+    "date_published": 1516666900,
+    "name": "Piazza Martin Lutero",
+    "categories": [
+        "outdoor",
+        "nature",
+        "urban",
+        "morning-afternoon",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1510126620,
+    "coords": [
+        41.8912,
+        12.4975
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "8571269"
+    ],
+    "backplates": true,
+    "tags": [
+        "tree",
+        "sun",
+        "road",
+        "europe",
+        "fountain",
+        "rome",
+        "park",
+        "walkway",
+        "street",
+        "backplates"
+    ],
+    "files_hash": "5b521e79c3cedd6f1daaf8c21b25021c8fd50bc6",
+    "download_count": 55016,
+    "files": {
+        "tonemapped": {
+            "size": 8765295,
+            "md5": "01f4737875a72f686e3d803dbade34a6",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/piazza_martin_lutero.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103929887,
+                    "md5": "02958a4c8be023092a2e0e5f2fcf8bdf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/piazza_martin_lutero_8k.hdr"
+                },
+                "exr": {
+                    "size": 104695874,
+                    "md5": "4edf614bc59376b14b8b794222582c66",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/piazza_martin_lutero_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 380633131,
+                    "md5": "d1f2069975dea7efa8ad62fe2976f767",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/piazza_martin_lutero_16k.hdr"
+                },
+                "exr": {
+                    "size": 378971781,
+                    "md5": "7706d6843ca43f3853a9d57d1820fcb9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/piazza_martin_lutero_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26842172,
+                    "md5": "741ee06a330cc20010575b4d83beb5d0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/piazza_martin_lutero_4k.hdr"
+                },
+                "exr": {
+                    "size": 27382059,
+                    "md5": "003faf80a75b6b5e4d3faaa40dcae71d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/piazza_martin_lutero_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6769194,
+                    "md5": "c3435d673fb76b7c718a3f22d35390dd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/piazza_martin_lutero_2k.hdr"
+                },
+                "exr": {
+                    "size": 7009079,
+                    "md5": "6cfb6cd5674c2e4cd439e2ec11761330",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/piazza_martin_lutero_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1704097,
+                    "md5": "241fe45dc21e154d0870037f9f4334b1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/piazza_martin_lutero_1k.hdr"
+                },
+                "exr": {
+                    "size": 1791638,
+                    "md5": "e24808c7a60ac6f423d42852247cc469",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/piazza_martin_lutero_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "DSC07649": {
+                "jpg_pretty": {
+                    "size": 38012227,
+                    "md5": "4b0178fa47831663653a3734399d0271",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_pretty/DSC07649.jpg"
+                },
+                "jpg_plain": {
+                    "size": 23930546,
+                    "md5": "e069ebdcb4b13d0bfd27b967d8d51e1d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_plain/DSC07649.jpg"
+                },
+                "raw": {
+                    "size": 37584896,
+                    "md5": "03db78b23e07cc8fb4d3718ee5a848d2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/raw/DSC07649.ARW"
+                }
+            },
+            "DSC07628": {
+                "jpg_pretty": {
+                    "size": 41930756,
+                    "md5": "7c282df82c9569fa9952771361b652c9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_pretty/DSC07628.jpg"
+                },
+                "jpg_plain": {
+                    "size": 23909177,
+                    "md5": "d7df732c53763715a1cd4f3a52cf0d49",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_plain/DSC07628.jpg"
+                },
+                "raw": {
+                    "size": 37683200,
+                    "md5": "75d5a9a472776502c7ad0362645ee779",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/raw/DSC07628.ARW"
+                }
+            },
+            "DSC07610": {
+                "jpg_pretty": {
+                    "size": 37779148,
+                    "md5": "78ed90fc8da3a19d5421293cb242687a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_pretty/DSC07610.jpg"
+                },
+                "jpg_plain": {
+                    "size": 24477765,
+                    "md5": "62923dd6da9c1cd40e56fac3f477b157",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_plain/DSC07610.jpg"
+                },
+                "raw": {
+                    "size": 37584896,
+                    "md5": "da61376cdee289889cd25dd20c14f30d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/raw/DSC07610.ARW"
+                }
+            },
+            "DSC07632": {
+                "jpg_pretty": {
+                    "size": 35702202,
+                    "md5": "57c0bc0117fb33ac18d8a1c95178f855",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_pretty/DSC07632.jpg"
+                },
+                "jpg_plain": {
+                    "size": 24844247,
+                    "md5": "776bf8dfd2c536e12e5f90078a1beee9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_plain/DSC07632.jpg"
+                },
+                "raw": {
+                    "size": 37584896,
+                    "md5": "9a514303c8512b9272d1de9e885070e4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/raw/DSC07632.ARW"
+                }
+            },
+            "DSC07633": {
+                "jpg_pretty": {
+                    "size": 32824284,
+                    "md5": "e16645d4e5eff02b00a152b5018736db",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_pretty/DSC07633.jpg"
+                },
+                "jpg_plain": {
+                    "size": 26368763,
+                    "md5": "95fb6db95a4f5c228e42781c11356cbd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_plain/DSC07633.jpg"
+                },
+                "raw": {
+                    "size": 37584896,
+                    "md5": "a3f2194bd24b44a8f1792ef4a2f8adc3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/raw/DSC07633.ARW"
+                }
+            },
+            "DSC07655": {
+                "jpg_pretty": {
+                    "size": 34611117,
+                    "md5": "1968833e0ccf003c6758e720bcb09659",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_pretty/DSC07655.jpg"
+                },
+                "jpg_plain": {
+                    "size": 22146993,
+                    "md5": "0d0c0bfe907e6d618eecde4210a592fb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_plain/DSC07655.jpg"
+                },
+                "raw": {
+                    "size": 37584896,
+                    "md5": "61dfa76f923829c6b377d5e600b3aa6c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/raw/DSC07655.ARW"
+                }
+            },
+            "DSC07612": {
+                "jpg_pretty": {
+                    "size": 47637967,
+                    "md5": "bb9b048442ea7c3c7c18bcd69389d9ca",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_pretty/DSC07612.jpg"
+                },
+                "jpg_plain": {
+                    "size": 29603336,
+                    "md5": "8a6477e57607176ecafd25f586cf4c65",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_plain/DSC07612.jpg"
+                },
+                "raw": {
+                    "size": 37519360,
+                    "md5": "b9e0331b50a8b317016eb51167db90af",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/raw/DSC07612.ARW"
+                }
+            },
+            "DSC07656": {
+                "jpg_pretty": {
+                    "size": 26942725,
+                    "md5": "1229b307d293a48219d3b3a8290ce3e2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_pretty/DSC07656.jpg"
+                },
+                "jpg_plain": {
+                    "size": 17230633,
+                    "md5": "0ef53439932be5d40267cd0f4345cd9d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_plain/DSC07656.jpg"
+                },
+                "raw": {
+                    "size": 37388288,
+                    "md5": "217e007c0a5e8c1b8f41024ed29726fb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/raw/DSC07656.ARW"
+                }
+            },
+            "DSC07613": {
+                "jpg_pretty": {
+                    "size": 45623603,
+                    "md5": "a9d7b1686abb7b01cfeef4fb8d65ddfd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_pretty/DSC07613.jpg"
+                },
+                "jpg_plain": {
+                    "size": 28473236,
+                    "md5": "4db65e300630e42481e55ee8a25b988b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_plain/DSC07613.jpg"
+                },
+                "raw": {
+                    "size": 37552128,
+                    "md5": "31020126c12443c627485be29c007526",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/raw/DSC07613.ARW"
+                }
+            },
+            "DSC07615": {
+                "jpg_pretty": {
+                    "size": 31242767,
+                    "md5": "77b36bd585543de30a49f39b3b29358a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_pretty/DSC07615.jpg"
+                },
+                "jpg_plain": {
+                    "size": 22910376,
+                    "md5": "9b554b152a028e0efcd141665f05c73e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_plain/DSC07615.jpg"
+                },
+                "raw": {
+                    "size": 37584896,
+                    "md5": "c74c0f4b4d4b09c1c9a3a1613b16091d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/raw/DSC07615.ARW"
+                }
+            },
+            "DSC07637": {
+                "jpg_pretty": {
+                    "size": 26561137,
+                    "md5": "86bde41e3938e5396de44ed2c1ca5820",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_pretty/DSC07637.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18211541,
+                    "md5": "bcea1dbece880779af9983794238263c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_plain/DSC07637.jpg"
+                },
+                "raw": {
+                    "size": 37453824,
+                    "md5": "24e10254953441d8505374a371e0623a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/raw/DSC07637.ARW"
+                }
+            },
+            "DSC07651": {
+                "jpg_pretty": {
+                    "size": 32890659,
+                    "md5": "2a70cfb4339c519f621b7b9234c901c9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_pretty/DSC07651.jpg"
+                },
+                "jpg_plain": {
+                    "size": 21783781,
+                    "md5": "b331dfe04b94b00dcfabd6831eac0ebe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_plain/DSC07651.jpg"
+                },
+                "raw": {
+                    "size": 37552128,
+                    "md5": "0bd03d001b164deb9d779f4e7636d85e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/raw/DSC07651.ARW"
+                }
+            },
+            "DSC07617": {
+                "jpg_pretty": {
+                    "size": 25003678,
+                    "md5": "017b4cb2a0960b4973e49122ef913965",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_pretty/DSC07617.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19099200,
+                    "md5": "4e4649df981b2ef06ad3a65c52c024b7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_plain/DSC07617.jpg"
+                },
+                "raw": {
+                    "size": 37486592,
+                    "md5": "b81092370ff4677cf9ed8d092376df12",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/raw/DSC07617.ARW"
+                }
+            },
+            "DSC07639": {
+                "jpg_pretty": {
+                    "size": 31636843,
+                    "md5": "7f04724d92f291fff81034d4e9dc7fa2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_pretty/DSC07639.jpg"
+                },
+                "jpg_plain": {
+                    "size": 21276375,
+                    "md5": "4b19eae4bbd414ca33bc9ccacc41feff",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_plain/DSC07639.jpg"
+                },
+                "raw": {
+                    "size": 37552128,
+                    "md5": "acf33b1626c75404dc393eadebf2f868",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/raw/DSC07639.ARW"
+                }
+            },
+            "DSC07618": {
+                "jpg_pretty": {
+                    "size": 28952061,
+                    "md5": "01769d4af3db27e1cf0ad05dd0a4c529",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_pretty/DSC07618.jpg"
+                },
+                "jpg_plain": {
+                    "size": 21055128,
+                    "md5": "1ac29139331adf0759d08c86f403a003",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_plain/DSC07618.jpg"
+                },
+                "raw": {
+                    "size": 37552128,
+                    "md5": "3aeaaf705c384973598c3f003f320432",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/raw/DSC07618.ARW"
+                }
+            },
+            "DSC07619": {
+                "jpg_pretty": {
+                    "size": 32301397,
+                    "md5": "21b18ebaace4cd551678bbd05856767f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_pretty/DSC07619.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20842737,
+                    "md5": "c1ccf370c3eab2e501dff6685d9455f4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_plain/DSC07619.jpg"
+                },
+                "raw": {
+                    "size": 37519360,
+                    "md5": "388a6d5cdac002f5a49694ae8d6a4778",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/raw/DSC07619.ARW"
+                }
+            },
+            "DSC07641": {
+                "jpg_pretty": {
+                    "size": 32291622,
+                    "md5": "6e122e867d8f9c43d876623ed86bb281",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_pretty/DSC07641.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20036704,
+                    "md5": "e0ff0415f1984a90bf5968017f5bde3d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_plain/DSC07641.jpg"
+                },
+                "raw": {
+                    "size": 37453824,
+                    "md5": "4eaad8b13204ed1da05abb158867f49f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/raw/DSC07641.ARW"
+                }
+            },
+            "DSC07663": {
+                "jpg_pretty": {
+                    "size": 29117531,
+                    "md5": "3dd424a63cfc1aa3c02f7be94420771f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_pretty/DSC07663.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20724740,
+                    "md5": "68c6bb387460375069a7f3c24ad175bc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_plain/DSC07663.jpg"
+                },
+                "raw": {
+                    "size": 37486592,
+                    "md5": "41f8f9069bf7c9b53192cb662003a276",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/raw/DSC07663.ARW"
+                }
+            },
+            "DSC07620": {
+                "jpg_pretty": {
+                    "size": 34583797,
+                    "md5": "4c1e67b084d3e89f6f74e0e25dc4b98d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_pretty/DSC07620.jpg"
+                },
+                "jpg_plain": {
+                    "size": 22559388,
+                    "md5": "baab10036f0eebec36f440d99798a532",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_plain/DSC07620.jpg"
+                },
+                "raw": {
+                    "size": 37584896,
+                    "md5": "8cc872fc7dd54870e64697ea45f7c6aa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/raw/DSC07620.ARW"
+                }
+            },
+            "DSC07621": {
+                "jpg_pretty": {
+                    "size": 29530468,
+                    "md5": "98bbc91ff99c7f73fb4a604e434afa4c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_pretty/DSC07621.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20562697,
+                    "md5": "347d8f4cba3650f2be56948721c6179c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_plain/DSC07621.jpg"
+                },
+                "raw": {
+                    "size": 37519360,
+                    "md5": "4099f470b658962cb2bc6d3fe522e157",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/raw/DSC07621.ARW"
+                }
+            },
+            "DSC07665": {
+                "jpg_pretty": {
+                    "size": 27987286,
+                    "md5": "05bb064dd74a2d41a6a515c2b9469217",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_pretty/DSC07665.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20475052,
+                    "md5": "7fb0860bf2f34fbed59291064fa58bef",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_plain/DSC07665.jpg"
+                },
+                "raw": {
+                    "size": 37453824,
+                    "md5": "f935113b732bd2b2e86d66a52b445df2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/raw/DSC07665.ARW"
+                }
+            },
+            "DSC07622": {
+                "jpg_pretty": {
+                    "size": 28980293,
+                    "md5": "3710cf1cc21bd98ee159129b2c5ce726",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_pretty/DSC07622.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19575114,
+                    "md5": "80bd41559ca48280729d50ecc9a21d73",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_plain/DSC07622.jpg"
+                },
+                "raw": {
+                    "size": 37453824,
+                    "md5": "7e2cddcba7f860d3f5ec37f02664448c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/raw/DSC07622.ARW"
+                }
+            },
+            "DSC07644": {
+                "jpg_pretty": {
+                    "size": 32276757,
+                    "md5": "96b422b7363d6bb994b9116549925a35",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_pretty/DSC07644.jpg"
+                },
+                "jpg_plain": {
+                    "size": 21178182,
+                    "md5": "c3dd566809d5c6f9a75c930ae9a1c9c2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_plain/DSC07644.jpg"
+                },
+                "raw": {
+                    "size": 37421056,
+                    "md5": "01e0762fae2d11acbb717948bf9bb745",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/raw/DSC07644.ARW"
+                }
+            },
+            "DSC07623": {
+                "jpg_pretty": {
+                    "size": 34585638,
+                    "md5": "6873625ca82a2418d027675b5b024037",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_pretty/DSC07623.jpg"
+                },
+                "jpg_plain": {
+                    "size": 22031724,
+                    "md5": "b45210d9a278f49d34a93ef37ff882ac",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_plain/DSC07623.jpg"
+                },
+                "raw": {
+                    "size": 37552128,
+                    "md5": "2842b12112e75b56c625021604ed0d45",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/raw/DSC07623.ARW"
+                }
+            },
+            "DSC07667": {
+                "jpg_pretty": {
+                    "size": 26970336,
+                    "md5": "d58388fe8065fc22295df654215d0412",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_pretty/DSC07667.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20128298,
+                    "md5": "d45e96db8cefe609e75aac9e67695a82",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_plain/DSC07667.jpg"
+                },
+                "raw": {
+                    "size": 37486592,
+                    "md5": "9eaba808427985da903b44a2fa79cc5c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/raw/DSC07667.ARW"
+                }
+            },
+            "DSC07624": {
+                "jpg_pretty": {
+                    "size": 44898565,
+                    "md5": "f98a3786f5e648e573d7ad8a43995293",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_pretty/DSC07624.jpg"
+                },
+                "jpg_plain": {
+                    "size": 29938673,
+                    "md5": "d029ce344f044132cbc0ee64695cef0f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_plain/DSC07624.jpg"
+                },
+                "raw": {
+                    "size": 37552128,
+                    "md5": "6e9ee1b045a7970c51b9be1cdc33d64d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/raw/DSC07624.ARW"
+                }
+            },
+            "DSC07646": {
+                "jpg_pretty": {
+                    "size": 30155216,
+                    "md5": "ca1eb8e8dfc4a9e48f4e4758f5e341c8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_pretty/DSC07646.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19962785,
+                    "md5": "d40ae470b11062cd38ad35fb4daf7959",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_plain/DSC07646.jpg"
+                },
+                "raw": {
+                    "size": 37584896,
+                    "md5": "4324c389f56383e52192f3b86ea55be1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/raw/DSC07646.ARW"
+                }
+            },
+            "DSC07647": {
+                "jpg_pretty": {
+                    "size": 31479653,
+                    "md5": "2a9dfa1ae487f4fbb89ef873a8c16c93",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_pretty/DSC07647.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19895426,
+                    "md5": "9f6c63ca00b655e98ef4424db39fc00a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_plain/DSC07647.jpg"
+                },
+                "raw": {
+                    "size": 37584896,
+                    "md5": "b4d97afb20359517486fcff3760875c3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/raw/DSC07647.ARW"
+                }
+            },
+            "DSC07669": {
+                "jpg_pretty": {
+                    "size": 35002713,
+                    "md5": "6b3c9efc26bcbebc14bbdf61673ddcd3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_pretty/DSC07669.jpg"
+                },
+                "jpg_plain": {
+                    "size": 22679470,
+                    "md5": "979500f8ab34da22d1158552c7ef649b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_plain/DSC07669.jpg"
+                },
+                "raw": {
+                    "size": 37486592,
+                    "md5": "2632ab1fd957a236206848aa416deda4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/raw/DSC07669.ARW"
+                }
+            },
+            "DSC07626": {
+                "jpg_pretty": {
+                    "size": 37415142,
+                    "md5": "1674b63c182fe8151e9656b5aa446963",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_pretty/DSC07626.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20095270,
+                    "md5": "c4453c3b31df74ec3f6dd12fe9832338",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_plain/DSC07626.jpg"
+                },
+                "raw": {
+                    "size": 37486592,
+                    "md5": "c5cbbd7681dcf9cfd32461ec5c4c7f98",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/raw/DSC07626.ARW"
+                }
+            },
+            "DSC07660": {
+                "jpg_pretty": {
+                    "size": 29241853,
+                    "md5": "89c527eaa1cad9e48bf182ae5a294313",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_pretty/DSC07660.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20823744,
+                    "md5": "9b5801f7e796cb6f815fc27b692aaf53",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/jpg_plain/DSC07660.jpg"
+                },
+                "raw": {
+                    "size": 37453824,
+                    "md5": "e293dfdeae62306d5ab036b2886e8591",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_martin_lutero/raw/DSC07660.ARW"
+                }
+            }
+        }
+    }
+}

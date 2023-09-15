@@ -1,0 +1,102 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "table",
+        "chair",
+        "restaurant",
+        "window",
+        "door"
+    ],
+    "date_published": 1548370800,
+    "name": "Bush Restaurant",
+    "categories": [
+        "indoor",
+        "urban",
+        "medium contrast",
+        "natural light"
+    ],
+    "date_taken": 1547457840,
+    "coords": [
+        -25.333589,
+        27.146091
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "8571269"
+    ],
+    "files_hash": "dcb5fa3c85a85956ae0a55a7e8f95bd45b6396ec",
+    "download_count": 36141,
+    "files": {
+        "tonemapped": {
+            "size": 5637364,
+            "md5": "7dfdccfd2db83310057969c2128deaf8",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/bush_restaurant.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102162041,
+                    "md5": "5eceb9326d02a09236a9817c09366e04",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/bush_restaurant_8k.hdr"
+                },
+                "exr": {
+                    "size": 91840773,
+                    "md5": "648d775a75b2e666168556f33a26fc71",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/bush_restaurant_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 386513442,
+                    "md5": "96704ecf303f5539908a720db7910e67",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/bush_restaurant_16k.hdr"
+                },
+                "exr": {
+                    "size": 333288592,
+                    "md5": "f89228d0e9a94b6263dcfb3d727f12d2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/bush_restaurant_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26260709,
+                    "md5": "35327e1d912d28a29cdc8fa0f66a6346",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/bush_restaurant_4k.hdr"
+                },
+                "exr": {
+                    "size": 23719524,
+                    "md5": "1bbb20c9a4c00a85e402acb638ade8ad",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/bush_restaurant_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6642604,
+                    "md5": "bf5fb380db272ea2a5be13460991856b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/bush_restaurant_2k.hdr"
+                },
+                "exr": {
+                    "size": 5926472,
+                    "md5": "d3a729662afcabd1d92290f294bcc48d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/bush_restaurant_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1674345,
+                    "md5": "66573962dda2ab3015eaa2441fd12842",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/bush_restaurant_1k.hdr"
+                },
+                "exr": {
+                    "size": 1475585,
+                    "md5": "c3e33c46332150d9a87af388417b5246",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/bush_restaurant_1k.exr"
+                }
+            }
+        }
+    }
+}

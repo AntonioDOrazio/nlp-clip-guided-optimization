@@ -1,0 +1,103 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "tags": [
+        "forest",
+        "cave",
+        "rock"
+    ],
+    "date_published": 1522879200,
+    "name": "Hiker's Cave",
+    "categories": [
+        "indoor",
+        "nature",
+        "midday",
+        "medium contrast",
+        "natural light"
+    ],
+    "coords": [
+        -29.001688,
+        29.401594
+    ],
+    "date_taken": 1460638380,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "url": "http://www.patreon.com/homoeros",
+            "name": "Homoeros"
+        }
+    ],
+    "files_hash": "ed575a1a29028e4c7e2ad7380aaaa327b65074d1",
+    "download_count": 19204,
+    "files": {
+        "tonemapped": {
+            "size": 9518853,
+            "md5": "fa748c3a80b1e16ae989c9a0ef53580a",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/hikers_cave.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 109944241,
+                    "md5": "031398c4d047e53d2173a9db29e69984",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/hikers_cave_8k.hdr"
+                },
+                "exr": {
+                    "size": 110411019,
+                    "md5": "72b1e6c82a27058eda35e19610276178",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/hikers_cave_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 419171365,
+                    "md5": "600aaa242e5885035bb7c99fd6d2349a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/hikers_cave_16k.hdr"
+                },
+                "exr": {
+                    "size": 399002573,
+                    "md5": "0468e696bab0cd40cc2cc0f57d5efeb6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/hikers_cave_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 28480398,
+                    "md5": "7aa02069e00241789fb46e9f1d30daa5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/hikers_cave_4k.hdr"
+                },
+                "exr": {
+                    "size": 29164760,
+                    "md5": "6113b01bea020c3f07c55eb6add841da",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/hikers_cave_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7292816,
+                    "md5": "97c5900e26c9e691ef1d922a5da231a8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/hikers_cave_2k.hdr"
+                },
+                "exr": {
+                    "size": 7517727,
+                    "md5": "41817718d980d5fa7989a59500c048fd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/hikers_cave_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1845444,
+                    "md5": "ecc07fe6a2aba07a6c812b2fb200cd07",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/hikers_cave_1k.hdr"
+                },
+                "exr": {
+                    "size": 1906092,
+                    "md5": "1e118b76be5778edf4d0bbb94505c5ce",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/hikers_cave_1k.exr"
+                }
+            }
+        }
+    }
+}

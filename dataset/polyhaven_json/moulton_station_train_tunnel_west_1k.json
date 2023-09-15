@@ -1,0 +1,104 @@
+{
+    "evs_cap": 24,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "tree",
+        "rail",
+        "track",
+        "rock",
+        "forest",
+        "tunnel"
+    ],
+    "date_published": 1539295200,
+    "name": "Moulton Station Train Tunnel West",
+    "coords": [
+        45.833325,
+        -122.388037
+    ],
+    "date_taken": 1532090940,
+    "authors": {
+        "Philip Modin": "All"
+    },
+    "sponsors": [
+        "10485422"
+    ],
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "clear",
+        "low contrast"
+    ],
+    "files_hash": "e856ffdce57dbffdd1e0d7210d46489dac18c726",
+    "download_count": 10791,
+    "files": {
+        "tonemapped": {
+            "size": 10296515,
+            "md5": "4c9f67aa1f8954e6c11c95b5a45b1417",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/moulton_station_train_tunnel_west.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 112653512,
+                    "md5": "2fde998c4f31c230d5b05ab852552e10",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/moulton_station_train_tunnel_west_8k.hdr"
+                },
+                "exr": {
+                    "size": 112935431,
+                    "md5": "d4de29009c365558639b135fd3a648c4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/moulton_station_train_tunnel_west_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 428310580,
+                    "md5": "dc8862604e6580fe29728242ca912846",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/moulton_station_train_tunnel_west_16k.hdr"
+                },
+                "exr": {
+                    "size": 424002147,
+                    "md5": "52eb7c751db7d929d0bfda6c53c8c085",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/moulton_station_train_tunnel_west_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 29014194,
+                    "md5": "0bf45451ac39f44c4b61e7964ac2b1f5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/moulton_station_train_tunnel_west_4k.hdr"
+                },
+                "exr": {
+                    "size": 29117479,
+                    "md5": "a00431d723349f81b4d5c32314297750",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/moulton_station_train_tunnel_west_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7359066,
+                    "md5": "b490c3d14833b429da093003e3f36cf5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/moulton_station_train_tunnel_west_2k.hdr"
+                },
+                "exr": {
+                    "size": 7377032,
+                    "md5": "42cfbc28b0de485c87002c20ca5d1320",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/moulton_station_train_tunnel_west_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1850612,
+                    "md5": "947e9be88fd512c98426a200c96e9138",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/moulton_station_train_tunnel_west_1k.hdr"
+                },
+                "exr": {
+                    "size": 1860249,
+                    "md5": "5b91aa645d97786ea823e675deb95095",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/moulton_station_train_tunnel_west_1k.exr"
+                }
+            }
+        }
+    }
+}

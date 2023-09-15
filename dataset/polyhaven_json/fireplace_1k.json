@@ -1,0 +1,102 @@
+{
+    "evs_cap": 10,
+    "type": 0,
+    "tags": [
+        "fire",
+        "couch",
+        "room",
+        "lounge"
+    ],
+    "date_published": 1522879200,
+    "name": "Fireplace",
+    "categories": [
+        "indoor",
+        "urban",
+        "night",
+        "high contrast",
+        "artificial light"
+    ],
+    "date_taken": 1480020060,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "name": "Karonis"
+        },
+        {
+            "name": "Karonis"
+        }
+    ],
+    "files_hash": "2cdc5ff4b51fd83d465ba6e61d4b1386aae8f6cd",
+    "download_count": 168759,
+    "files": {
+        "tonemapped": {
+            "size": 4528196,
+            "md5": "21f42a925bfd34df7cacedb9ce3a3245",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/fireplace.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 92879216,
+                    "md5": "352c8446225924880a7e229daa382cf5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/fireplace_8k.hdr"
+                },
+                "exr": {
+                    "size": 88627523,
+                    "md5": "811a89ba9937a534b85da9fab948009f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/fireplace_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 354599387,
+                    "md5": "74946ac4553f79ff2a4b64061b4db61a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/fireplace_16k.hdr"
+                },
+                "exr": {
+                    "size": 331182276,
+                    "md5": "8dbfb47823ecdbce7fbd36eec4dcbe2c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/fireplace_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 23868611,
+                    "md5": "e21dbf71e2b37ef3b580d4bc82e345af",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/fireplace_4k.hdr"
+                },
+                "exr": {
+                    "size": 22881165,
+                    "md5": "7fabbb81e1cbbc29bf019d0d7fcff235",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/fireplace_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6077839,
+                    "md5": "5d691354b7be2bad71d8cc4f0ea05cae",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/fireplace_2k.hdr"
+                },
+                "exr": {
+                    "size": 5850773,
+                    "md5": "f41a12459772b04f3d2bea8a71b90bd4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/fireplace_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1552233,
+                    "md5": "fecf7bf4d46ca3969e12e1a077593e36",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/fireplace_1k.hdr"
+                },
+                "exr": {
+                    "size": 1511559,
+                    "md5": "603c1d75afe0d68e728c39328485267f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/fireplace_1k.exr"
+                }
+            }
+        }
+    }
+}

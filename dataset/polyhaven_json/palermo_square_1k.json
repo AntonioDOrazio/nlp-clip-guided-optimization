@@ -1,0 +1,107 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "city",
+        "town",
+        "europe",
+        "square",
+        "street",
+        "cobblestone"
+    ],
+    "date_published": 1572303600,
+    "name": "Palermo Square",
+    "categories": [
+        "outdoor",
+        "urban",
+        "sunrise-sunset",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        38.114014,
+        13.356755
+    ],
+    "date_taken": 1569823500,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "files_hash": "6f776d7e3ea45bd8f556e3c8e24d39a2dc21ba3c",
+    "sponsors": [
+        {
+            "name": "Kimba"
+        },
+        "4714267"
+    ],
+    "download_count": 40947,
+    "files": {
+        "tonemapped": {
+            "size": 5755913,
+            "md5": "4023fe6291f6edf71baa95fba18dc57c",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/palermo_square.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101285817,
+                    "md5": "a53ec7572281b21872d7174fbcd89211",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/palermo_square_8k.hdr"
+                },
+                "exr": {
+                    "size": 85493747,
+                    "md5": "f2151195e6362e537bd61d6934714b0f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/palermo_square_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 374975626,
+                    "md5": "18cc70ab19f457f626c2ef1f72c90f98",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/palermo_square_16k.hdr"
+                },
+                "exr": {
+                    "size": 305553975,
+                    "md5": "f3ac073187c6897ebf8d8d16462b126b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/palermo_square_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26052147,
+                    "md5": "0e0a0dfc843ff03a52329d774957562c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/palermo_square_4k.hdr"
+                },
+                "exr": {
+                    "size": 22264901,
+                    "md5": "ece3b58645a73dd738a12264dd492601",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/palermo_square_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6530332,
+                    "md5": "9aa2d3a22fbd49cf4013d9b119a72b57",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/palermo_square_2k.hdr"
+                },
+                "exr": {
+                    "size": 5640111,
+                    "md5": "12c30654c98c4d6a5e7eca7fed99fc73",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/palermo_square_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1601746,
+                    "md5": "46831c43a5805c824f55f3f46f9b845e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/palermo_square_1k.hdr"
+                },
+                "exr": {
+                    "size": 1425533,
+                    "md5": "a9afc9f6c42046d7fadce6ea254b02ab",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/palermo_square_1k.exr"
+                }
+            }
+        }
+    }
+}

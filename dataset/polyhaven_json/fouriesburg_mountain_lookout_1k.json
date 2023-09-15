@@ -1,0 +1,125 @@
+{
+    "evs_cap": 24,
+    "type": 0,
+    "whitebalance": 5319,
+    "tags": [
+        "sun",
+        "brick",
+        "wall",
+        "rock",
+        "mountain",
+        "view",
+        "valley",
+        "hilltop"
+    ],
+    "name": "Fouriesburg Mountain Lookout",
+    "categories": [
+        "outdoor",
+        "nature",
+        "natural light",
+        "partly cloudy",
+        "sunrise-sunset",
+        "high contrast",
+        "skies"
+    ],
+    "coords": [
+        -28.613037025190057,
+        28.19707592213517
+    ],
+    "date_taken": 1629566520,
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "info": null,
+    "date_published": 1661817600,
+    "prepaid": true,
+    "files_hash": "f216f11baad376957aa737a1c1f98358308553f3",
+    "download_count": 23484,
+    "files": {
+        "tonemapped": {
+            "size": 35824082,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/fouriesburg_mountain_lookout.jpg",
+            "md5": "6f2b3389468c32345d5d61facc47206e"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 94515270,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/fouriesburg_mountain_lookout_8k.hdr",
+                    "md5": "67ea0fd2f940922089f7a2cf039c2c78"
+                },
+                "exr": {
+                    "size": 315965468,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/fouriesburg_mountain_lookout_8k.exr",
+                    "md5": "cd3a4d4177efc79c556bd6ea7ba7c9bf"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 347789852,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/fouriesburg_mountain_lookout_16k.hdr",
+                    "md5": "3750864a1315ba6f7660a6f117d35dd9"
+                },
+                "exr": {
+                    "size": 1202019725,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/fouriesburg_mountain_lookout_16k.exr",
+                    "md5": "4fa04ebb9e086ecc73d41c0a8ef491fe"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 23419202,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/fouriesburg_mountain_lookout_4k.hdr",
+                    "md5": "3e261d61c1e8d4101499ae5add9b9dda"
+                },
+                "exr": {
+                    "size": 81261532,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/fouriesburg_mountain_lookout_4k.exr",
+                    "md5": "5de0432712da18ca04b4cfcc90fbe766"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 764026318,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/fouriesburg_mountain_lookout_24k.hdr",
+                    "md5": "d9af223d93ee2dcf330099c3fbab4a64"
+                },
+                "exr": {
+                    "size": 2710057455,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/fouriesburg_mountain_lookout_24k.exr",
+                    "md5": "369a029bf46a59bfd7fbc1a101620328"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5656775,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/fouriesburg_mountain_lookout_2k.hdr",
+                    "md5": "452c2adcc5c8e80e82c685da84a3bc41"
+                },
+                "exr": {
+                    "size": 21240126,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/fouriesburg_mountain_lookout_2k.exr",
+                    "md5": "e0391dad8498ebfbce33e612aeafb8c5"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1393198,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/fouriesburg_mountain_lookout_1k.hdr",
+                    "md5": "a7531997a62ccef2f1ae578bcd53f041"
+                },
+                "exr": {
+                    "size": 5711261,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/fouriesburg_mountain_lookout_1k.exr",
+                    "md5": "400d4a0bfec799d00195db13af0fbf79"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 65489842,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/fouriesburg_mountain_lookout.zip",
+            "md5": "7f54e58b03031a2db2cfc4c1c66226d7"
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "date_published": 1522879200,
+    "evs_cap": 12,
+    "files_hash": "50b222ecea3c7b919f7b7617ebd3be6b844c5b30",
+    "name": "Garage",
+    "categories": [
+        "indoor",
+        "urban",
+        "high contrast",
+        "natural light",
+        "artificial light"
+    ],
+    "type": 0,
+    "date_taken": 1449668460,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "tags": [
+        "garage",
+        "fluorescent",
+        "concrete",
+        "parking",
+        "shelves",
+        "orange",
+        "mess",
+        "tools",
+        "junk"
+    ],
+    "download_count": 23138,
+    "files": {
+        "tonemapped": {
+            "size": 4212895,
+            "md5": "76867ecf2f2f2d9d210413d4648ff3c9",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/garage.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 95973228,
+                    "md5": "f86c29ed9ba8ae253860c01b4148b8de",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/garage_8k.hdr"
+                },
+                "exr": {
+                    "size": 77415808,
+                    "md5": "720822dbae0be654abce18379c2f7fa8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/garage_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 347094579,
+                    "md5": "4ee1732c3be0b37363407447cd264c6d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/garage_16k.hdr"
+                },
+                "exr": {
+                    "size": 269690038,
+                    "md5": "f79b76c94956c8098190eb8530ff0a5a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/garage_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25306132,
+                    "md5": "db0addd6c347c7eb9e4b0388cb76b18e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/garage_4k.hdr"
+                },
+                "exr": {
+                    "size": 21053875,
+                    "md5": "97f855c60f2608c0a147a2431e4f5c69",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/garage_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6415142,
+                    "md5": "e43a391386ea83de09d259d607b2ef2a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/garage_2k.hdr"
+                },
+                "exr": {
+                    "size": 5389758,
+                    "md5": "c4699a62953f303d217dbebbcb70a4a1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/garage_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1612302,
+                    "md5": "ece1c55eb8d1bfb59026153510d1b7cd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/garage_1k.hdr"
+                },
+                "exr": {
+                    "size": 1385390,
+                    "md5": "b6d7170948cb4f9348fdbffbfa25f219",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/garage_1k.exr"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "donated": true,
+    "evs_cap": 27,
+    "type": 0,
+    "whitebalance": 6500,
+    "tags": [
+        "tree",
+        "lake",
+        "railing",
+        "grass",
+        "concrete",
+        "winter",
+        "path"
+    ],
+    "name": "Frozen Lake",
+    "categories": [
+        "natural light",
+        "outdoor",
+        "nature",
+        "low contrast",
+        "clear",
+        "morning-afternoon"
+    ],
+    "coords": [
+        48.696161,
+        9.201121
+    ],
+    "date_taken": 1642000740,
+    "authors": {
+        "Alexander Scholten": "All"
+    },
+    "date_published": 1646006400,
+    "files_hash": "4fe338dabc46ef4ffc2578b823fdd5a7453aab74",
+    "download_count": 18810,
+    "files": {
+        "hdri": {
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/frozen_lake_16k.hdr",
+                    "size": 391667370,
+                    "md5": "b829d608d774264a9b968ac441ae9a4f"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/frozen_lake_16k.exr",
+                    "size": 1316349767,
+                    "md5": "f81720378a40142a4bb243b6f6bbd04e"
+                }
+            },
+            "21k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/frozen_lake_21k.hdr",
+                    "size": 680708952,
+                    "md5": "989e457b4cd99c3feee545e348efad93"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/frozen_lake_21k.exr",
+                    "size": 2322467670,
+                    "md5": "3a8e0ad22c1594bd38feeb73ab784095"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/frozen_lake_8k.hdr",
+                    "size": 101715525,
+                    "md5": "cf9df6b8fa149f49d0f26827d74eb054"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/frozen_lake_8k.exr",
+                    "size": 336719551,
+                    "md5": "0b929ef2fd04004da766074b01a8fde8"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/frozen_lake_4k.hdr",
+                    "size": 25363012,
+                    "md5": "cb1179e0ceaae737f9aed4ffa3dbf10e"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/frozen_lake_4k.exr",
+                    "size": 86030800,
+                    "md5": "e0e9183b5cbc9599edc6787d44f6ad6c"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/frozen_lake_2k.hdr",
+                    "size": 6128451,
+                    "md5": "f454f2925bc3cc20c9cd467fb76357d5"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/frozen_lake_2k.exr",
+                    "size": 22281768,
+                    "md5": "01f5d45970d5a88cf9a769a4623b228f"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/frozen_lake_1k.hdr",
+                    "size": 1489758,
+                    "md5": "e249ce0073cd31640529073da5c5b549"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/frozen_lake_1k.exr",
+                    "size": 5930760,
+                    "md5": "7ba11dfefd82f714bbb4406d2d1d66f1"
+                }
+            }
+        },
+        "colorchart": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/frozen_lake.zip",
+            "size": 397376064,
+            "md5": "53c63eefe69b2e21e53f8c31bdb95d0b"
+        },
+        "tonemapped": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/frozen_lake.jpg",
+            "size": 46487131,
+            "md5": "6dd8216699d092c99377aa941fe55081"
+        }
+    }
+}

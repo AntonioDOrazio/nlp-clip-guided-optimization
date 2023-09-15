@@ -1,0 +1,416 @@
+{
+    "evs_cap": 14,
+    "type": 0,
+    "whitebalance": 6000,
+    "date_published": 1598565600,
+    "name": "Abandoned Waterworks",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1588606440,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "backplates": true,
+    "tags": [
+        "tree",
+        "concrete",
+        "overgrown",
+        "abandoned",
+        "backplates"
+    ],
+    "sponsors": [
+        "3237733",
+        "7934315",
+        "11167855"
+    ],
+    "files_hash": "49c2a2283421e3bff90eacc51c0f069878074e2b",
+    "download_count": 25805,
+    "files": {
+        "tonemapped": {
+            "size": 6436703,
+            "md5": "d8844feee5f84f69d2020d69455a6095",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/abandoned_waterworks.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101550615,
+                    "md5": "14fca5eba02a89ea8ecf00c579859c9a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/abandoned_waterworks_8k.hdr"
+                },
+                "exr": {
+                    "size": 86437576,
+                    "md5": "b59d5d14c1a2ed0661b3a1c8969970f5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/abandoned_waterworks_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 372840864,
+                    "md5": "1d65908e8c7467024173bd2b157655e6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/abandoned_waterworks_16k.hdr"
+                },
+                "exr": {
+                    "size": 307646519,
+                    "md5": "eebef90fbb764c93346f88855dd69118",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/abandoned_waterworks_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26205808,
+                    "md5": "8c54181a80bd689aeb7ab82912f13497",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/abandoned_waterworks_4k.hdr"
+                },
+                "exr": {
+                    "size": 22768852,
+                    "md5": "582c03ece87e2ac15bc6eec48e437916",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/abandoned_waterworks_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6646462,
+                    "md5": "31fba28c6be56499dec3726d7e682123",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/abandoned_waterworks_2k.hdr"
+                },
+                "exr": {
+                    "size": 5962770,
+                    "md5": "72bc3368159ffcefa0f5f76990f3d0e8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/abandoned_waterworks_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1690281,
+                    "md5": "37316126fae86f8cf765492e6721c862",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/abandoned_waterworks_1k.hdr"
+                },
+                "exr": {
+                    "size": 1573024,
+                    "md5": "1c276144b29af9d275fc44a9432fa3d2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/abandoned_waterworks_1k.exr"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 70188981,
+            "md5": "6cec5bd1cc7f97f492bcebb05528dc64",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/abandoned_waterworks.zip"
+        },
+        "backplates": {
+            "DSC_0717": {
+                "jpg_pretty": {
+                    "size": 14288534,
+                    "md5": "f11a7ee2e708b3414180cbf55189b476",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_pretty/DSC_0717.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10717567,
+                    "md5": "64eb019ceb28603b67a9b530b6c39ffc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_plain/DSC_0717.jpg"
+                },
+                "raw": {
+                    "size": 19407097,
+                    "md5": "3a724083aff6502dee84d72a4044c95e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/raw/DSC_0717.NEF"
+                }
+            },
+            "DSC_0536": {
+                "jpg_pretty": {
+                    "size": 16216045,
+                    "md5": "5131c2f55140bd753bacc532466b1dac",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_pretty/DSC_0536.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13434080,
+                    "md5": "7ec48f856be10a85b9093d17d233b220",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_plain/DSC_0536.jpg"
+                },
+                "raw": {
+                    "size": 20465994,
+                    "md5": "94c2d6e02b0c33f33250549799dfc39d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/raw/DSC_0536.NEF"
+                }
+            },
+            "DSC_0712": {
+                "jpg_pretty": {
+                    "size": 13489466,
+                    "md5": "3e40b2fe6311d538b23090adb18c2796",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_pretty/DSC_0712.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9905027,
+                    "md5": "f7f36ac858f3219638436bbba3287384",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_plain/DSC_0712.jpg"
+                },
+                "raw": {
+                    "size": 18864737,
+                    "md5": "c2dbb5aef5af77bcfc2b282d699f04bd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/raw/DSC_0712.NEF"
+                }
+            },
+            "DSC_0501": {
+                "jpg_pretty": {
+                    "size": 18250861,
+                    "md5": "07be310b7df35d423a8456dd180589e9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_pretty/DSC_0501.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15314146,
+                    "md5": "56ecd80dd1d2a322e8dfc845eb9c41b5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_plain/DSC_0501.jpg"
+                },
+                "raw": {
+                    "size": 20879899,
+                    "md5": "05d4b39d175d18b5d7d898935cf98ece",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/raw/DSC_0501.NEF"
+                }
+            },
+            "DSC_0556": {
+                "jpg_pretty": {
+                    "size": 16799505,
+                    "md5": "ae273aa009739cb466658629f2028097",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_pretty/DSC_0556.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14162902,
+                    "md5": "c0ab709bb9731cc808296224d7ef6c65",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_plain/DSC_0556.jpg"
+                },
+                "raw": {
+                    "size": 20529057,
+                    "md5": "5b3e05ad5899577971480dfa3e6a05ac",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/raw/DSC_0556.NEF"
+                }
+            },
+            "DSC_0611": {
+                "jpg_pretty": {
+                    "size": 14895213,
+                    "md5": "09c85766a26e85e271dc4c9367d43488",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_pretty/DSC_0611.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10884030,
+                    "md5": "65371d27b0c3a8b01cedcada8966b602",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_plain/DSC_0611.jpg"
+                },
+                "raw": {
+                    "size": 19695950,
+                    "md5": "fac6aa938ed7e3a9aa07edbb1c010a28",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/raw/DSC_0611.NEF"
+                }
+            },
+            "DSC_0677": {
+                "jpg_pretty": {
+                    "size": 16896913,
+                    "md5": "b1aa8d8814614b311e18280dc1236d0d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_pretty/DSC_0677.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13860782,
+                    "md5": "13cbf1bdd9df4089459423a0942f4d2b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_plain/DSC_0677.jpg"
+                },
+                "raw": {
+                    "size": 20617036,
+                    "md5": "69695f2e336d98e3e73bff9f5e7e58f4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/raw/DSC_0677.NEF"
+                }
+            },
+            "DSC_0511": {
+                "jpg_pretty": {
+                    "size": 17444556,
+                    "md5": "a451515dd9223343e301f9277a5f6ae2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_pretty/DSC_0511.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15476544,
+                    "md5": "7920af86a245bddd3bfebc2790dd9ad0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_plain/DSC_0511.jpg"
+                },
+                "raw": {
+                    "size": 22694692,
+                    "md5": "d49eab2127e2d3ff0001c592e6e90851",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/raw/DSC_0511.NEF"
+                }
+            },
+            "DSC_0621": {
+                "jpg_pretty": {
+                    "size": 15430310,
+                    "md5": "98e32dc54dfe884eacfc1872e8373c12",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_pretty/DSC_0621.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12012204,
+                    "md5": "1d030d0fdefad347a012b2d23f7a018e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_plain/DSC_0621.jpg"
+                },
+                "raw": {
+                    "size": 19989550,
+                    "md5": "778e1a0dea47221e9e5680427e05bc26",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/raw/DSC_0621.NEF"
+                }
+            },
+            "DSC_0687": {
+                "jpg_pretty": {
+                    "size": 15827900,
+                    "md5": "36234bf1118446db07e23ccf144d72f1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_pretty/DSC_0687.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13050536,
+                    "md5": "37abb3ad570a6ea4e76f2d8632fdeeb7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_plain/DSC_0687.jpg"
+                },
+                "raw": {
+                    "size": 20196790,
+                    "md5": "0fc81f9bcc1698003dd61838e11142eb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/raw/DSC_0687.NEF"
+                }
+            },
+            "DSC_0727": {
+                "jpg_pretty": {
+                    "size": 16587573,
+                    "md5": "564af96a03f4dc87584805e9b6b13d02",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_pretty/DSC_0727.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12930276,
+                    "md5": "2d437c2954b731c330d3cd090aeac369",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_plain/DSC_0727.jpg"
+                },
+                "raw": {
+                    "size": 20154001,
+                    "md5": "d504952c90b8790efe0bc916ce7b577b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/raw/DSC_0727.NEF"
+                }
+            },
+            "DSC_0506": {
+                "jpg_pretty": {
+                    "size": 16011180,
+                    "md5": "802f50579471d82847e16f2ad35b1719",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_pretty/DSC_0506.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14007024,
+                    "md5": "08f9d7f9261e9dd853c680ab600544f9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_plain/DSC_0506.jpg"
+                },
+                "raw": {
+                    "size": 20511683,
+                    "md5": "3d344481aa5d68e1f4a8da3a7f6c1195",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/raw/DSC_0506.NEF"
+                }
+            },
+            "DSC_0647": {
+                "jpg_pretty": {
+                    "size": 16479926,
+                    "md5": "8dc42e15d16694bc5d1ba67e3376a7d5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_pretty/DSC_0647.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13239363,
+                    "md5": "f17df6ab12ff9b918bec01aecdc8bae8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_plain/DSC_0647.jpg"
+                },
+                "raw": {
+                    "size": 20097438,
+                    "md5": "b1a894f3f89d94b8753a183422236f97",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/raw/DSC_0647.NEF"
+                }
+            },
+            "DSC_0702": {
+                "jpg_pretty": {
+                    "size": 14851004,
+                    "md5": "beff0b62abc2ff8642ffef63e891a17a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_pretty/DSC_0702.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11679118,
+                    "md5": "7d23ab60f331bc02a51a6e077589969f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_plain/DSC_0702.jpg"
+                },
+                "raw": {
+                    "size": 19513224,
+                    "md5": "0b357947c3a4d772a32f5ed313bb0f52",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/raw/DSC_0702.NEF"
+                }
+            },
+            "DSC_0571": {
+                "jpg_pretty": {
+                    "size": 18620782,
+                    "md5": "16c837414c4fc9afc887bad553df3fff",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_pretty/DSC_0571.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14539925,
+                    "md5": "38e6698e5e9fe5ba2ef3ebb78a1cd10b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_plain/DSC_0571.jpg"
+                },
+                "raw": {
+                    "size": 20449144,
+                    "md5": "0d427f48e9f7af811d1786fee42d6077",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/raw/DSC_0571.NEF"
+                }
+            },
+            "DSC_0581": {
+                "jpg_pretty": {
+                    "size": 15755657,
+                    "md5": "f8d7c84e5106fc4b8ac6ccb027e33022",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_pretty/DSC_0581.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12668999,
+                    "md5": "f324059b2d489fd56141848215ab962d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_plain/DSC_0581.jpg"
+                },
+                "raw": {
+                    "size": 19691396,
+                    "md5": "40f58941d5dec5637ff20b14f7f66a36",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/raw/DSC_0581.NEF"
+                }
+            },
+            "DSC_0596": {
+                "jpg_pretty": {
+                    "size": 14674156,
+                    "md5": "a786d33f738580e07eaa8478f735cfb0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_pretty/DSC_0596.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11855316,
+                    "md5": "65765ec764417d0bfaa9d68cd3a3a87e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_plain/DSC_0596.jpg"
+                },
+                "raw": {
+                    "size": 19950795,
+                    "md5": "5e5c6c66f8a65e4ce126d0daee564faa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/raw/DSC_0596.NEF"
+                }
+            },
+            "DSC_0662": {
+                "jpg_pretty": {
+                    "size": 15704594,
+                    "md5": "c5bf3e43279e3f1bd6e5e20d70096aab",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_pretty/DSC_0662.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12693666,
+                    "md5": "9235315872cb62c8a4b50f550b687e59",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/jpg_plain/DSC_0662.jpg"
+                },
+                "raw": {
+                    "size": 19857868,
+                    "md5": "9aec7ebc7a710029070254efce0f7d06",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_waterworks/raw/DSC_0662.NEF"
+                }
+            }
+        }
+    }
+}

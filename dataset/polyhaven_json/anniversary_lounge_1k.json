@@ -1,0 +1,115 @@
+{
+    "evs_cap": 10,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "window",
+        "room",
+        "couch",
+        "lamp",
+        "carpet",
+        "table"
+    ],
+    "date_published": 1538690400,
+    "name": "Anniversary Lounge",
+    "categories": [
+        "indoor",
+        "urban",
+        "medium contrast",
+        "natural light",
+        "artificial light"
+    ],
+    "date_taken": 1538401500,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "url": "https://www.idin-jewellery.co.uk/",
+            "name": "Idin Jewellery"
+        }
+    ],
+    "files_hash": "185de1e23d0df5735cbafea1993c63397a44a47d",
+    "download_count": 34888,
+    "files": {
+        "tonemapped": {
+            "size": 4877022,
+            "md5": "3df39e24797865650d33278341d77847",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/anniversary_lounge.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102109575,
+                    "md5": "1795e61ec7a7fa163457c388e43a5785",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/anniversary_lounge_8k.hdr"
+                },
+                "exr": {
+                    "size": 89058703,
+                    "md5": "7ac0b056a8487b0e3a6beb685539a2f3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/anniversary_lounge_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 389428621,
+                    "md5": "7703a0769c1521cdf7e3c0b4e3e2f821",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/anniversary_lounge_16k.hdr"
+                },
+                "exr": {
+                    "size": 332960874,
+                    "md5": "04f6833d8a646321bbbbd9f58c7cbd84",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/anniversary_lounge_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25940983,
+                    "md5": "78427da03f56bedcfac108f0b47170e5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/anniversary_lounge_4k.hdr"
+                },
+                "exr": {
+                    "size": 22744737,
+                    "md5": "5f8cf255425d35050b62eae9f93df965",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/anniversary_lounge_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6461923,
+                    "md5": "2abe7be03ac56282a223f69a6ebfc142",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/anniversary_lounge_2k.hdr"
+                },
+                "exr": {
+                    "size": 5716786,
+                    "md5": "070e5c68c9da04d43b478a26197eb01a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/anniversary_lounge_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1612616,
+                    "md5": "526883ad3e5f7d355276cb31b5527269",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/anniversary_lounge_1k.hdr"
+                },
+                "exr": {
+                    "size": 1474072,
+                    "md5": "48578f296627a887adfe2d0cdb5281ba",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/anniversary_lounge_1k.exr"
+                }
+            },
+            "21k": {
+                "hdr": {
+                    "size": 647765359,
+                    "md5": "6b74605bb8ef0dff38b455da4195f84b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/anniversary_lounge_21k.hdr"
+                },
+                "exr": {
+                    "size": 553535188,
+                    "md5": "377ccebb8c570846412595cb9b6bb662",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/anniversary_lounge_21k.exr"
+                }
+            }
+        }
+    }
+}

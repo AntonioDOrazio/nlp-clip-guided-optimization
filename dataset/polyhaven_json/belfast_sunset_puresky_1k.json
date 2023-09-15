@@ -1,0 +1,116 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "pure skies"
+    ],
+    "name": "Belfast Sunset (Pure Sky)",
+    "categories": [
+        "natural light",
+        "outdoor",
+        "nature",
+        "low contrast",
+        "partly cloudy",
+        "sunrise-sunset",
+        "skies",
+        "pure skies"
+    ],
+    "coords": [
+        -25.687944,
+        30.113194
+    ],
+    "date_taken": 1622654820,
+    "authors": {
+        "Greg Zaal": "Processing",
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Sky edits"
+    },
+    "info": "Edited sky-only version of [Belfast Sunset](https://polyhaven.com/a/belfast_sunset).",
+    "date_published": 1666137600,
+    "files_hash": "52069dda20d0309f5009c492aa97b968effd3f32",
+    "sponsors": [
+        "3267566"
+    ],
+    "download_count": 143372,
+    "files": {
+        "tonemapped": {
+            "size": 16150434,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/belfast_sunset_puresky.jpg",
+            "md5": "5313193c1b09d9776dd3395d08b6beee"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 65609474,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/belfast_sunset_puresky_8k.hdr",
+                    "md5": "5b41ff9c64101ee024333679d712177a"
+                },
+                "exr": {
+                    "size": 282701812,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/belfast_sunset_puresky_8k.exr",
+                    "md5": "9a694480036c0bffac2076f722cea49c"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 202202809,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/belfast_sunset_puresky_16k.hdr",
+                    "md5": "14c83d45dd2d71901122b114fded6991"
+                },
+                "exr": {
+                    "size": 1074717627,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/belfast_sunset_puresky_16k.exr",
+                    "md5": "3d3f3b44160de29d9a306bde9720af32"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 17420114,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/belfast_sunset_puresky_4k.hdr",
+                    "md5": "52d2339c16069a2aaa7fd37a320d8495"
+                },
+                "exr": {
+                    "size": 73122844,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/belfast_sunset_puresky_4k.exr",
+                    "md5": "b9581a5489c421cf0cd8745ba8b00ef6"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 435160646,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/belfast_sunset_puresky_24k.hdr",
+                    "md5": "e8fd47f400d5336b04bfa734503818b9"
+                },
+                "exr": {
+                    "size": 2433925184,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/belfast_sunset_puresky_24k.exr",
+                    "md5": "86bab35fcc4becdfe6ea882494de6cdf"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 4563204,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/belfast_sunset_puresky_2k.hdr",
+                    "md5": "4bb56d6163ef1c7ec762e4a7ef8ede81"
+                },
+                "exr": {
+                    "size": 19394356,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/belfast_sunset_puresky_2k.exr",
+                    "md5": "7cebadb7c38bb9aac3d9597b3fc4d7a6"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1190247,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/belfast_sunset_puresky_1k.hdr",
+                    "md5": "38890f597727936a44d17a97f7f73354"
+                },
+                "exr": {
+                    "size": 5310274,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/belfast_sunset_puresky_1k.exr",
+                    "md5": "f560550314c83d0403d68b95b2c5beea"
+                }
+            }
+        }
+    }
+}

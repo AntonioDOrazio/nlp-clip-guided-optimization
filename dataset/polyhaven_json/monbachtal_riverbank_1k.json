@@ -1,0 +1,118 @@
+{
+    "evs_cap": 13,
+    "type": 0,
+    "tags": [
+        "rock",
+        "tree",
+        "forest",
+        "river",
+        "water",
+        "waterfall",
+        "stream"
+    ],
+    "name": "Monbachtal Riverbank",
+    "categories": [
+        "outdoor",
+        "nature",
+        "natural light",
+        "medium contrast",
+        "midday"
+    ],
+    "date_taken": 1619255280,
+    "coords": [
+        48.803131,
+        8.740544
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "date_published": 1631577600,
+    "files_hash": "2969137cf9becd979ec1b9ed327e2b4847d38593",
+    "download_count": 36493,
+    "files": {
+        "hdri": {
+            "19k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/monbachtal_riverbank_19k.hdr",
+                    "size": 615345235,
+                    "md5": "59ec5af4434367133ad9d7025961057f"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/monbachtal_riverbank_19k.exr",
+                    "size": 1160306276,
+                    "md5": "de7c51a22790292c345539490d88bce3"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/monbachtal_riverbank_16k.hdr",
+                    "size": 442526525,
+                    "md5": "9ecb82fd41d327d0fc3d2556d8eef749"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/monbachtal_riverbank_16k.exr",
+                    "size": 955336347,
+                    "md5": "c3e440dea7b5d550f0fbd64caea6dff8"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/monbachtal_riverbank_8k.hdr",
+                    "size": 114525908,
+                    "md5": "6c1b3825c28adadd5d1895fa7c18f4e6"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/monbachtal_riverbank_8k.exr",
+                    "size": 265258926,
+                    "md5": "86dc0c0bf0d540a7188106b425382824"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/monbachtal_riverbank_4k.hdr",
+                    "size": 29323876,
+                    "md5": "079475520c17a7b83dc79f72b87e150b"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/monbachtal_riverbank_4k.exr",
+                    "size": 72307128,
+                    "md5": "5e491392868a0285a3a0c29e0709daf1"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/monbachtal_riverbank_2k.hdr",
+                    "size": 7455147,
+                    "md5": "be811062febb33265a5e92adf27de658"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/monbachtal_riverbank_2k.exr",
+                    "size": 20108180,
+                    "md5": "cdd1983f299b39c58ca706a78403fc2c"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/monbachtal_riverbank_1k.hdr",
+                    "size": 1888057,
+                    "md5": "8c5605f2409a2ba41870cb7bc7ed23a5"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/monbachtal_riverbank_1k.exr",
+                    "size": 6234758,
+                    "md5": "389666b2a1be696ce943a64249f9142b"
+                }
+            }
+        },
+        "colorchart": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/monbachtal_riverbank.zip",
+            "size": 156480300,
+            "md5": "70c084fb34fbe087baa93a83643b5fbb"
+        },
+        "tonemapped": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/monbachtal_riverbank.jpg",
+            "size": 63448679,
+            "md5": "860a86095a5375a88015dca73643d3f3"
+        }
+    }
+}

@@ -1,0 +1,298 @@
+{
+    "evs_cap": 24,
+    "type": 0,
+    "whitebalance": 5400,
+    "date_published": 1536012000,
+    "name": "Portland Landing pad",
+    "categories": [
+        "outdoor",
+        "urban",
+        "midday",
+        "partly cloudy",
+        "medium contrast",
+        "natural light"
+    ],
+    "date_taken": 1534409820,
+    "coords": [
+        45.5142,
+        -122.676
+    ],
+    "authors": {
+        "Philip Modin": "All"
+    },
+    "sponsors": [
+        "10004313",
+        "3237733",
+        "11164276"
+    ],
+    "backplates": true,
+    "tags": [
+        "sun",
+        "building",
+        "helipad",
+        "construction",
+        "crane",
+        "city",
+        "backplates"
+    ],
+    "files_hash": "22e272ad34dec2f424d4ef628442a1c477f725d7",
+    "download_count": 88470,
+    "files": {
+        "tonemapped": {
+            "size": 4046983,
+            "md5": "37b01e565f8eb7c981c4436eeb228457",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/portland_landing_pad.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101650350,
+                    "md5": "bcade1b6ab03d6b122c886ebab3adb6b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/portland_landing_pad_8k.hdr"
+                },
+                "exr": {
+                    "size": 273034618,
+                    "md5": "ac2b3f8e709d57171433325770ab6505",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/portland_landing_pad_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 396671945,
+                    "md5": "9455190d398500d63844d3789624cb2b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/portland_landing_pad_16k.hdr"
+                },
+                "exr": {
+                    "size": 963332079,
+                    "md5": "0e615d3ab97c74e8d75aa7191122c0a7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/portland_landing_pad_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25351348,
+                    "md5": "2e559ce50a02d5979d95ca5d014b15d3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/portland_landing_pad_4k.hdr"
+                },
+                "exr": {
+                    "size": 79209223,
+                    "md5": "ca21c67367e9add26dc6b41b7675ea0d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/portland_landing_pad_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6209100,
+                    "md5": "6a20259ddb304543bd89025008228673",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/portland_landing_pad_2k.hdr"
+                },
+                "exr": {
+                    "size": 21124868,
+                    "md5": "fb968ff6ec7ce83c25e942f5e3698e36",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/portland_landing_pad_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1566495,
+                    "md5": "7aa540cb6ee7e10edb36a781d5dd7067",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/portland_landing_pad_1k.hdr"
+                },
+                "exr": {
+                    "size": 5705442,
+                    "md5": "d04b64506da7ab36aed899df33643636",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/portland_landing_pad_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "DSC06364": {
+                "jpg_pretty": {
+                    "size": 3954860,
+                    "md5": "beb788c3e8468e553cf64832afec6bf3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/portland_landing_pad/jpg_pretty/DSC06364.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8412683,
+                    "md5": "ff37030c2924ec7304488db2aa9cabc8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/portland_landing_pad/jpg_plain/DSC06364.jpg"
+                },
+                "raw": {
+                    "size": 20811264,
+                    "md5": "2987d12b7a52313eb03488285d418765",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/portland_landing_pad/raw/DSC06364.ARW"
+                }
+            },
+            "DSC06374": {
+                "jpg_pretty": {
+                    "size": 2875056,
+                    "md5": "ca706ffd73565a2d8efe6249e50c5993",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/portland_landing_pad/jpg_pretty/DSC06374.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7967921,
+                    "md5": "2718e51d7dc42433f9e33bb58560e072",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/portland_landing_pad/jpg_plain/DSC06374.jpg"
+                },
+                "raw": {
+                    "size": 20691456,
+                    "md5": "951222537370af411583be54c5b5e5e6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/portland_landing_pad/raw/DSC06374.ARW"
+                }
+            },
+            "DSC06384": {
+                "jpg_pretty": {
+                    "size": 3800741,
+                    "md5": "9d722a9afd35f34db0cccdc3c0f4eff9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/portland_landing_pad/jpg_pretty/DSC06384.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9651356,
+                    "md5": "62080df5292570bc6577046a52d5b2bb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/portland_landing_pad/jpg_plain/DSC06384.jpg"
+                },
+                "raw": {
+                    "size": 20819968,
+                    "md5": "35c5a128897dca71e93f3d2f47f372fb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/portland_landing_pad/raw/DSC06384.ARW"
+                }
+            },
+            "DSC06394": {
+                "jpg_pretty": {
+                    "size": 5447885,
+                    "md5": "2bef7e99d8666834515ac7e466def3b0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/portland_landing_pad/jpg_pretty/DSC06394.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8912573,
+                    "md5": "a7f79b18f73cfd4d58abbdbe31991baf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/portland_landing_pad/jpg_plain/DSC06394.jpg"
+                },
+                "raw": {
+                    "size": 20761600,
+                    "md5": "c54fd830a2a7081b922f6b318a993ae3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/portland_landing_pad/raw/DSC06394.ARW"
+                }
+            },
+            "DSC06349": {
+                "jpg_pretty": {
+                    "size": 5766733,
+                    "md5": "a68a67d61ef4a41a1f2227a284a3594f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/portland_landing_pad/jpg_pretty/DSC06349.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9807975,
+                    "md5": "497e7641e7df94c07c7e28c15e5b33be",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/portland_landing_pad/jpg_plain/DSC06349.jpg"
+                },
+                "raw": {
+                    "size": 20873728,
+                    "md5": "97328bf83cab0ebb3f50175d1c19a497",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/portland_landing_pad/raw/DSC06349.ARW"
+                }
+            },
+            "DSC06359": {
+                "jpg_pretty": {
+                    "size": 5057773,
+                    "md5": "04f55eddc44f0a5ab0df0afb135fe446",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/portland_landing_pad/jpg_pretty/DSC06359.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10435789,
+                    "md5": "92c10a757352da3c3212b54349ca81d7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/portland_landing_pad/jpg_plain/DSC06359.jpg"
+                },
+                "raw": {
+                    "size": 20874240,
+                    "md5": "720bb05ad20d133592ff8d472973bc2f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/portland_landing_pad/raw/DSC06359.ARW"
+                }
+            },
+            "DSC06369": {
+                "jpg_pretty": {
+                    "size": 5573407,
+                    "md5": "be58170584ce8d71fd085d5c79f4c57b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/portland_landing_pad/jpg_pretty/DSC06369.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6394546,
+                    "md5": "2d6c98d61a9aebfe643cbed4e02b835c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/portland_landing_pad/jpg_plain/DSC06369.jpg"
+                },
+                "raw": {
+                    "size": 20708864,
+                    "md5": "a07683eb6dfe011fd8b9ace55d368eff",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/portland_landing_pad/raw/DSC06369.ARW"
+                }
+            },
+            "DSC06379": {
+                "jpg_pretty": {
+                    "size": 5647233,
+                    "md5": "0716c47b2834cb11c0fc8bfc26c81dbb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/portland_landing_pad/jpg_pretty/DSC06379.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9669193,
+                    "md5": "9c74120a282951e7a651467b1fa837b1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/portland_landing_pad/jpg_plain/DSC06379.jpg"
+                },
+                "raw": {
+                    "size": 20765696,
+                    "md5": "9761dec7cc35a70275dc6db51072b499",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/portland_landing_pad/raw/DSC06379.ARW"
+                }
+            },
+            "DSC06389": {
+                "jpg_pretty": {
+                    "size": 3754023,
+                    "md5": "19a051bee6d6608c90ba77d3af9a761d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/portland_landing_pad/jpg_pretty/DSC06389.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9888748,
+                    "md5": "d2568d2a303fbb6ae3aa58095d4ff245",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/portland_landing_pad/jpg_plain/DSC06389.jpg"
+                },
+                "raw": {
+                    "size": 20845056,
+                    "md5": "83ed78739816ef6f480c86e88d985510",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/portland_landing_pad/raw/DSC06389.ARW"
+                }
+            },
+            "DSC06399": {
+                "jpg_pretty": {
+                    "size": 5128555,
+                    "md5": "89da25e608ea563fb01184988313c719",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/portland_landing_pad/jpg_pretty/DSC06399.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8171826,
+                    "md5": "5fa68e34a4a76bd4b790cbe8f81bdf3b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/portland_landing_pad/jpg_plain/DSC06399.jpg"
+                },
+                "raw": {
+                    "size": 20707840,
+                    "md5": "81f7ef36c937b447b77da1599be042f5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/portland_landing_pad/raw/DSC06399.ARW"
+                }
+            },
+            "DSC06354": {
+                "jpg_pretty": {
+                    "size": 5521571,
+                    "md5": "de76c70c455ef661e754d9f1f6b0909f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/portland_landing_pad/jpg_pretty/DSC06354.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9572781,
+                    "md5": "664add7cabf9282a30454237c7aa8ba2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/portland_landing_pad/jpg_plain/DSC06354.jpg"
+                },
+                "raw": {
+                    "size": 20777984,
+                    "md5": "a9fc375ef79f4249645045db95e5db39",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/portland_landing_pad/raw/DSC06354.ARW"
+                }
+            }
+        }
+    }
+}

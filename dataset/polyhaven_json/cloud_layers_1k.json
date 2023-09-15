@@ -1,0 +1,106 @@
+{
+    "evs_cap": 21,
+    "type": 0,
+    "tags": [
+        "sun",
+        "grass",
+        "path"
+    ],
+    "date_published": 1511996400,
+    "name": "Cloud Layers",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "midday",
+        "partly cloudy",
+        "natural light",
+        "high contrast"
+    ],
+    "coords": [
+        -26.15857,
+        27.971349
+    ],
+    "date_taken": 1451395800,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "url": "https://www.idin-jewellery.co.uk/",
+            "name": "Idin Jewellery"
+        },
+        "7934315"
+    ],
+    "files_hash": "364bbf09ec007b096719ad0ad0f2b74c7f4f1df0",
+    "download_count": 152813,
+    "files": {
+        "tonemapped": {
+            "size": 8068365,
+            "md5": "0b9e99d99874ad20e5f0b396e1d8ef57",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/cloud_layers.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 109198054,
+                    "md5": "d76cd9586f0c8b85db6e7ab1356cfe44",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/cloud_layers_8k.hdr"
+                },
+                "exr": {
+                    "size": 100579791,
+                    "md5": "653ec981d1a039a35dcfcd6e418afb0b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/cloud_layers_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 408513866,
+                    "md5": "69050af938ae841e1fcb70186803927a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/cloud_layers_16k.hdr"
+                },
+                "exr": {
+                    "size": 359850967,
+                    "md5": "1240bcfa4a232532733b96295e456e38",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/cloud_layers_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27763254,
+                    "md5": "c93c30e5984e723157c411f32fc9c3e5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/cloud_layers_4k.hdr"
+                },
+                "exr": {
+                    "size": 25773020,
+                    "md5": "04b76fc2cad2f51cfdedcfb78790313f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/cloud_layers_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6985914,
+                    "md5": "4f0d6e3d46dd31e8bff222ba3b9c9eed",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/cloud_layers_2k.hdr"
+                },
+                "exr": {
+                    "size": 6680150,
+                    "md5": "be157014877d454e2bb28e0449d6f2f9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/cloud_layers_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1744648,
+                    "md5": "fcff84024e4cc92692620d3c77440d52",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/cloud_layers_1k.hdr"
+                },
+                "exr": {
+                    "size": 1719529,
+                    "md5": "6550219cc9c9c30e056e13027c9e6e04",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/cloud_layers_1k.exr"
+                }
+            }
+        }
+    }
+}

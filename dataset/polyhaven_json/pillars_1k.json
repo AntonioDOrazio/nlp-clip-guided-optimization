@@ -1,0 +1,102 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "tags": [
+        "column",
+        "architecture",
+        "monument"
+    ],
+    "date_published": 1522879200,
+    "name": "Pillars",
+    "categories": [
+        "indoor",
+        "urban",
+        "morning-afternoon",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1464946620,
+    "coords": [
+        -33.952428,
+        18.458931
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "name": "3DLux"
+        }
+    ],
+    "files_hash": "793f0f39679924c39569576950718318208f481a",
+    "download_count": 29056,
+    "files": {
+        "tonemapped": {
+            "size": 7365344,
+            "md5": "b4a7d5412154acf3d4a5cd5bbe7b7891",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/pillars.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 106341497,
+                    "md5": "e73b299da1e453c47888b9cea147dbf4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/pillars_8k.hdr"
+                },
+                "exr": {
+                    "size": 103383042,
+                    "md5": "2226e21c56490cebbdfa54d816ca862d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/pillars_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 400760533,
+                    "md5": "41b5480cc99145714c69a601ac405993",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/pillars_16k.hdr"
+                },
+                "exr": {
+                    "size": 369130850,
+                    "md5": "366371885561708f45af36c95c7858b5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/pillars_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27418054,
+                    "md5": "ba192df3e0bd5ba0785c50c600cf2a28",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/pillars_4k.hdr"
+                },
+                "exr": {
+                    "size": 27164093,
+                    "md5": "f8035d4e5d3b6ddf98589660b1135eed",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/pillars_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6934542,
+                    "md5": "d9ebfe9e8a2326fedc0454f114c40956",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/pillars_2k.hdr"
+                },
+                "exr": {
+                    "size": 6882022,
+                    "md5": "392d19ca9fef649b0f9e5c647257eb49",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/pillars_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1737864,
+                    "md5": "9bd45511dc187854410bfcb6932d9bd1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/pillars_1k.hdr"
+                },
+                "exr": {
+                    "size": 1715643,
+                    "md5": "21355d0e7c95985c8ec863fbce2534c0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/pillars_1k.exr"
+                }
+            }
+        }
+    }
+}

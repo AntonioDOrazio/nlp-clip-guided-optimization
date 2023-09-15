@@ -1,0 +1,105 @@
+{
+    "evs_cap": 13,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "tree",
+        "sun",
+        "grass",
+        "path",
+        "park"
+    ],
+    "date_published": 1545977695,
+    "name": "Approaching Storm",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "morning-afternoon",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1545928380,
+    "coords": [
+        -26.122814,
+        28.0104283
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "8571269"
+    ],
+    "files_hash": "4da79109a3eeb45ea35aca05a4504cb8abfec0f0",
+    "download_count": 120212,
+    "files": {
+        "tonemapped": {
+            "size": 6491748,
+            "md5": "667b4a8301592c53bd81382d8e6b2659",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/approaching_storm.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 100536598,
+                    "md5": "e2cb3117176d27f0e440bb3e0d9ba749",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/approaching_storm_8k.hdr"
+                },
+                "exr": {
+                    "size": 82033221,
+                    "md5": "784d2092c2a1af20b083cfebcc8274fe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/approaching_storm_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 372375990,
+                    "md5": "22b5583875e57a27521cabdf001b7bf7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/approaching_storm_16k.hdr"
+                },
+                "exr": {
+                    "size": 300943702,
+                    "md5": "2681545466b44765ff8f13b8d6ffe250",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/approaching_storm_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25555644,
+                    "md5": "1ee5b3edecdaddd45b06691af9f4d516",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/approaching_storm_4k.hdr"
+                },
+                "exr": {
+                    "size": 21240772,
+                    "md5": "dc3ac291411fb3eccfe32674d16dc709",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/approaching_storm_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6388690,
+                    "md5": "ba38ced7364a37bdf46235b2d76011b0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/approaching_storm_2k.hdr"
+                },
+                "exr": {
+                    "size": 5500281,
+                    "md5": "388e822fb4f6a8bd4fc704655ad460c6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/approaching_storm_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1602599,
+                    "md5": "c14623ac2d16651c80546f8e77dd8917",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/approaching_storm_1k.hdr"
+                },
+                "exr": {
+                    "size": 1436000,
+                    "md5": "1eb85a84805a76a298f9cd75e3024577",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/approaching_storm_1k.exr"
+                }
+            }
+        }
+    }
+}

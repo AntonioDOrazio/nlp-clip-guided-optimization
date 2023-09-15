@@ -1,0 +1,123 @@
+{
+    "donated": true,
+    "evs_cap": 11,
+    "type": 0,
+    "whitebalance": 6500,
+    "tags": [
+        "beach",
+        "leaves",
+        "autumn",
+        "log",
+        "fence",
+        "calm",
+        "lake",
+        "trees"
+    ],
+    "name": "Promenade De Vidy",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "overcast",
+        "low contrast",
+        "morning-afternoon"
+    ],
+    "date_taken": 1669992300,
+    "coords": [
+        46.517861,
+        6.58489
+    ],
+    "authors": {
+        "Alexander Scholten": "All"
+    },
+    "info": null,
+    "files_hash": "df3f0437b51c18ea48561b75ea3292a5f281eddf",
+    "date_published": 1690761600,
+    "download_count": 5088,
+    "files": {
+        "tonemapped": {
+            "size": 42405561,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/promenade_de_vidy.jpg",
+            "md5": "d8d8d45d566e6eb1062d578166298fa5"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103781694,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/promenade_de_vidy_8k.hdr",
+                    "md5": "45aaafd422d907a877f552ceb82c3445"
+                },
+                "exr": {
+                    "size": 315222063,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/promenade_de_vidy_8k.exr",
+                    "md5": "312d81e0026eb0b1014630f1998b0a52"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 399193440,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/promenade_de_vidy_16k.hdr",
+                    "md5": "3f844f5c0b3ae5dc4587c3c2cdcf5fc3"
+                },
+                "exr": {
+                    "size": 1229017027,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/promenade_de_vidy_16k.exr",
+                    "md5": "292265284084abe2265a503b8fefce7f"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26279137,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/promenade_de_vidy_4k.hdr",
+                    "md5": "a901f614a39dfa0be46e1c7858c3c953"
+                },
+                "exr": {
+                    "size": 81090296,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/promenade_de_vidy_4k.exr",
+                    "md5": "cdff9465ac32f2e5377910d0c66487d5"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6555539,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/promenade_de_vidy_2k.hdr",
+                    "md5": "25170438e1e0b16c8d98293d04788aff"
+                },
+                "exr": {
+                    "size": 21207600,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/promenade_de_vidy_2k.exr",
+                    "md5": "8254338d045a06129de40b7dda6b232e"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1636993,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/promenade_de_vidy_1k.hdr",
+                    "md5": "e68373996b1ce2a2147071bc2f1294ff"
+                },
+                "exr": {
+                    "size": 5692581,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/promenade_de_vidy_1k.exr",
+                    "md5": "4e75cf8383128305178bd0a29ed2a35a"
+                }
+            },
+            "21k": {
+                "hdr": {
+                    "size": 685575292,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/promenade_de_vidy_21k.hdr",
+                    "md5": "4fd4fa356a7bd6d247ab3a3076b28a18"
+                },
+                "exr": {
+                    "size": 2135233281,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/promenade_de_vidy_21k.exr",
+                    "md5": "f592bd98ff179b606134a58db29c7115"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 363234047,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/promenade_de_vidy.zip",
+            "md5": "63acf2726d5b8b8b5cabb13fc53de1f7"
+        }
+    }
+}

@@ -1,0 +1,363 @@
+{
+    "evs_cap": 18,
+    "type": 0,
+    "whitebalance": 3800,
+    "date_published": 1526480313,
+    "name": "Blue Lagoon Night",
+    "categories": [
+        "outdoor",
+        "urban",
+        "night",
+        "partly cloudy",
+        "high contrast",
+        "artificial light"
+    ],
+    "coords": [
+        -29.8126,
+        31.0402
+    ],
+    "date_taken": 1521582480,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "7947474"
+    ],
+    "backplates": true,
+    "tags": [
+        "lamp",
+        "stars",
+        "ocean",
+        "city",
+        "promenade",
+        "backplates"
+    ],
+    "files_hash": "19de58f653507590fc7bdc68f6cea8387500fa43",
+    "download_count": 69472,
+    "files": {
+        "tonemapped": {
+            "size": 3792719,
+            "md5": "e25d509c60572a962cb2f458d35560d1",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/blue_lagoon_night.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 96267139,
+                    "md5": "9117498dd4c9bd020dd1db6d2f85ad11",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/blue_lagoon_night_8k.hdr"
+                },
+                "exr": {
+                    "size": 80795224,
+                    "md5": "e14971b36c46772f925615bc3bb51207",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/blue_lagoon_night_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 367340924,
+                    "md5": "9fb803a5909ab97d7d8c8adcbacc0195",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/blue_lagoon_night_16k.hdr"
+                },
+                "exr": {
+                    "size": 306101136,
+                    "md5": "05c6968142ad35280bdb15b0ab467d59",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/blue_lagoon_night_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24748162,
+                    "md5": "c775220b091d1950ae8515e965cddfdb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/blue_lagoon_night_4k.hdr"
+                },
+                "exr": {
+                    "size": 20746481,
+                    "md5": "55669ad93fbbedb52fb720d5c029a7f9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/blue_lagoon_night_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6299487,
+                    "md5": "f333e207b81d70f0d5af5837007a815c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/blue_lagoon_night_2k.hdr"
+                },
+                "exr": {
+                    "size": 5296028,
+                    "md5": "100047d136375727c5b01c44a530f311",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/blue_lagoon_night_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1596565,
+                    "md5": "8c990c28e85d10d89202bca2bf870b71",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/blue_lagoon_night_1k.hdr"
+                },
+                "exr": {
+                    "size": 1357475,
+                    "md5": "6d3bbf456b9065e7e06e357dcbe07f94",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/blue_lagoon_night_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "DSC08664": {
+                "jpg_pretty": {
+                    "size": 21401674,
+                    "md5": "eae247844498f579ec3e557934c0b6a6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/jpg_pretty/DSC08664.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20007125,
+                    "md5": "da590383698e63e2cc9a93009244dfe0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/jpg_plain/DSC08664.jpg"
+                },
+                "raw": {
+                    "size": 36929536,
+                    "md5": "5b8b8dc7b7e0608d1c38c277daf4da66",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/raw/DSC08664.ARW"
+                }
+            },
+            "DSC08675": {
+                "jpg_pretty": {
+                    "size": 22407514,
+                    "md5": "6f2ab49c4499c81549ea349637e3a456",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/jpg_pretty/DSC08675.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18787512,
+                    "md5": "00b7496fe2c2c3cfb13da6ce9900b65c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/jpg_plain/DSC08675.jpg"
+                },
+                "raw": {
+                    "size": 36929536,
+                    "md5": "65e30f8c090aeae21d29579481a4ca2b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/raw/DSC08675.ARW"
+                }
+            },
+            "DSC08676": {
+                "jpg_pretty": {
+                    "size": 22168425,
+                    "md5": "38c3c3fa5cacc9b83b13936cd1340d1b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/jpg_pretty/DSC08676.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18340621,
+                    "md5": "5a3711bea82350cfa58a14bd06559ecb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/jpg_plain/DSC08676.jpg"
+                },
+                "raw": {
+                    "size": 36929536,
+                    "md5": "f99c42ef8212a4a9ec2a01b046e27e75",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/raw/DSC08676.ARW"
+                }
+            },
+            "DSC08666": {
+                "jpg_pretty": {
+                    "size": 20600734,
+                    "md5": "47a441cd165438c71f24a099e9c8a7b2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/jpg_pretty/DSC08666.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19491009,
+                    "md5": "a96025bd8f096274ebc6f43aefe77cfb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/jpg_plain/DSC08666.jpg"
+                },
+                "raw": {
+                    "size": 36896768,
+                    "md5": "11953589fb76d1fe6098c26344f8443b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/raw/DSC08666.ARW"
+                }
+            },
+            "DSC08677": {
+                "jpg_pretty": {
+                    "size": 22538123,
+                    "md5": "2f905aaa6d2b9188700e4a97d3548abf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/jpg_pretty/DSC08677.jpg"
+                },
+                "jpg_plain": {
+                    "size": 17262803,
+                    "md5": "53bb80b5439e2a3d77632dafa62f7f2d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/jpg_plain/DSC08677.jpg"
+                },
+                "raw": {
+                    "size": 36929536,
+                    "md5": "b940beabf18669d38f584f8c1426f594",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/raw/DSC08677.ARW"
+                }
+            },
+            "DSC08667": {
+                "jpg_pretty": {
+                    "size": 20085827,
+                    "md5": "b7dc37d56fb2511f1dbcb88d2add75a8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/jpg_pretty/DSC08667.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18266120,
+                    "md5": "b86b31e0c61f2f46c93d3aa7d0171aba",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/jpg_plain/DSC08667.jpg"
+                },
+                "raw": {
+                    "size": 36962304,
+                    "md5": "c49846481fa529983d83d829d8a99358",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/raw/DSC08667.ARW"
+                }
+            },
+            "DSC08678": {
+                "jpg_pretty": {
+                    "size": 32789711,
+                    "md5": "1dec7ea9a1669c9238426e33d4115e7e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/jpg_pretty/DSC08678.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19842155,
+                    "md5": "eab6036f9c9934f1d6301218898c03c9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/jpg_plain/DSC08678.jpg"
+                },
+                "raw": {
+                    "size": 37060608,
+                    "md5": "68778d1c347c6b0e787de3f1e0ea74f2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/raw/DSC08678.ARW"
+                }
+            },
+            "DSC08669": {
+                "jpg_pretty": {
+                    "size": 22614464,
+                    "md5": "9c3507d4aa02b277f6b81856ceda0ad8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/jpg_pretty/DSC08669.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19928030,
+                    "md5": "a7d7453d9c0a345f893ff83c0e6ad05c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/jpg_plain/DSC08669.jpg"
+                },
+                "raw": {
+                    "size": 36929536,
+                    "md5": "cf3e059a648d91d2e9302e05d1713d5d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/raw/DSC08669.ARW"
+                }
+            },
+            "DSC08659": {
+                "jpg_pretty": {
+                    "size": 22741699,
+                    "md5": "c43e1c3778bc37f869010e020fce2339",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/jpg_pretty/DSC08659.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19236570,
+                    "md5": "377f3bec77bd162819952acccd1bc7d6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/jpg_plain/DSC08659.jpg"
+                },
+                "raw": {
+                    "size": 36896768,
+                    "md5": "7e0f5ebf7e7776cd46e18c8d6245f98f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/raw/DSC08659.ARW"
+                }
+            },
+            "DSC08670": {
+                "jpg_pretty": {
+                    "size": 23144879,
+                    "md5": "091b848b4244a81d1eee8619fedc792f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/jpg_pretty/DSC08670.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20098318,
+                    "md5": "bf4f8f516c61b17a36deba247d01bec2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/jpg_plain/DSC08670.jpg"
+                },
+                "raw": {
+                    "size": 36929536,
+                    "md5": "fed037b6869d0383d038157965d899ae",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/raw/DSC08670.ARW"
+                }
+            },
+            "DSC08661": {
+                "jpg_pretty": {
+                    "size": 22080005,
+                    "md5": "76643579f16ac4530917551e52332c23",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/jpg_pretty/DSC08661.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18402478,
+                    "md5": "6a437c41ee710e1313e5c4c380c7e16d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/jpg_plain/DSC08661.jpg"
+                },
+                "raw": {
+                    "size": 36962304,
+                    "md5": "55cee80816e414b32ced46eab1080be3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/raw/DSC08661.ARW"
+                }
+            },
+            "DSC08672": {
+                "jpg_pretty": {
+                    "size": 19719830,
+                    "md5": "f332c1c5155c551c81dcb5ba21217688",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/jpg_pretty/DSC08672.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18722790,
+                    "md5": "741e9b3b5bdd5e537b28d9f91a2cfe87",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/jpg_plain/DSC08672.jpg"
+                },
+                "raw": {
+                    "size": 36896768,
+                    "md5": "eecf927d63b3bb3101c8f7d7ee260a9a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/raw/DSC08672.ARW"
+                }
+            },
+            "DSC08651": {
+                "jpg_pretty": {
+                    "size": 24201024,
+                    "md5": "9fcd40facb128365776c4b631c59be73",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/jpg_pretty/DSC08651.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20414589,
+                    "md5": "e6a58f742f4d5b11ef92239c5fa2a888",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/jpg_plain/DSC08651.jpg"
+                },
+                "raw": {
+                    "size": 36896768,
+                    "md5": "5510824f17d42b9c032ac522ffcda5f6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/raw/DSC08651.ARW"
+                }
+            },
+            "DSC08673": {
+                "jpg_pretty": {
+                    "size": 22190631,
+                    "md5": "dc00011c85368bc0fbd43d835976cf8b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/jpg_pretty/DSC08673.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18491720,
+                    "md5": "edac0a31120cba06c1ec4c32d523494f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/jpg_plain/DSC08673.jpg"
+                },
+                "raw": {
+                    "size": 36995072,
+                    "md5": "d6210bce71144d30676d59e781bae043",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/raw/DSC08673.ARW"
+                }
+            },
+            "DSC08674": {
+                "jpg_pretty": {
+                    "size": 20851052,
+                    "md5": "7937d601dec81c802ed910d63006eec0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/jpg_pretty/DSC08674.jpg"
+                },
+                "jpg_plain": {
+                    "size": 17783302,
+                    "md5": "0877a326b815f3206923f9b0778649f3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/jpg_plain/DSC08674.jpg"
+                },
+                "raw": {
+                    "size": 36896768,
+                    "md5": "dd9ac9bdeddba8abe19e5783ca952b96",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/blue_lagoon_night/raw/DSC08674.ARW"
+                }
+            }
+        }
+    }
+}

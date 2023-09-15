@@ -1,0 +1,293 @@
+{
+    "evs_cap": 6,
+    "type": 0,
+    "whitebalance": 5400,
+    "date_published": 1525730400,
+    "name": "Lythwood Field",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        -29.4378,
+        30.0529
+    ],
+    "date_taken": 1521794880,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "10485422"
+    ],
+    "backplates": true,
+    "tags": [
+        "tree",
+        "grass",
+        "field",
+        "backplates"
+    ],
+    "files_hash": "6c302d01e539ba8024aea5bd8a9c78280df3dacc",
+    "download_count": 84946,
+    "files": {
+        "tonemapped": {
+            "size": 6396271,
+            "md5": "44f6b56543295ed2bd7fd03ec5900dad",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/lythwood_field.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 96374027,
+                    "md5": "e3c5cc3da61c0801c2bf510308ecfe0a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/lythwood_field_8k.hdr"
+                },
+                "exr": {
+                    "size": 82593955,
+                    "md5": "701b351dbcbac748cdbe40fd64317697",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/lythwood_field_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 343069784,
+                    "md5": "4731b0381d077b36b0704212c78749a1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/lythwood_field_16k.hdr"
+                },
+                "exr": {
+                    "size": 300185815,
+                    "md5": "b0192b23c381f9d61760295eee67f4d5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/lythwood_field_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24768232,
+                    "md5": "bed60c4eaeae141014d936a39acd31bc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/lythwood_field_4k.hdr"
+                },
+                "exr": {
+                    "size": 21166389,
+                    "md5": "05fd615172823685ae7df0520f24bc46",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/lythwood_field_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6207908,
+                    "md5": "b1380acba9aceaee3dc28298b38ef944",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/lythwood_field_2k.hdr"
+                },
+                "exr": {
+                    "size": 5317984,
+                    "md5": "612949ebb5ed87dc188387f063940da5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/lythwood_field_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1565709,
+                    "md5": "d7058fd90febacb3678a74f4a4940234",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/lythwood_field_1k.hdr"
+                },
+                "exr": {
+                    "size": 1341558,
+                    "md5": "a15927bb8083fa3dd831e77fafdae9b1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/lythwood_field_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "DSC08774": {
+                "jpg_pretty": {
+                    "size": 26298002,
+                    "md5": "1a7f7fca9fff4480c5226d201ec1d1cd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_field/jpg_pretty/DSC08774.jpg"
+                },
+                "jpg_plain": {
+                    "size": 17729405,
+                    "md5": "3f3692a49b589ac883578aebc9f0f75f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_field/jpg_plain/DSC08774.jpg"
+                },
+                "raw": {
+                    "size": 37289984,
+                    "md5": "83a1a8058f40a07db418752961071b82",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_field/raw/DSC08774.ARW"
+                }
+            },
+            "DSC08786": {
+                "jpg_pretty": {
+                    "size": 23487491,
+                    "md5": "847c7f413db538877c06cf7f26a48e84",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_field/jpg_pretty/DSC08786.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16939902,
+                    "md5": "c493085b2c65d1b98eb8f9131ce344f0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_field/jpg_plain/DSC08786.jpg"
+                },
+                "raw": {
+                    "size": 37289984,
+                    "md5": "3f70216878faaf512f7de04727a7693c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_field/raw/DSC08786.ARW"
+                }
+            },
+            "DSC08776": {
+                "jpg_pretty": {
+                    "size": 24719848,
+                    "md5": "bffe8f33ec356c0cb4308c44bf1bcd09",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_field/jpg_pretty/DSC08776.jpg"
+                },
+                "jpg_plain": {
+                    "size": 17846428,
+                    "md5": "262275b1d0bea57df61f7d7131bb1060",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_field/jpg_plain/DSC08776.jpg"
+                },
+                "raw": {
+                    "size": 37257216,
+                    "md5": "e8abb3b93f3ee9c870fa13cdbfd1c805",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_field/raw/DSC08776.ARW"
+                }
+            },
+            "DSC08788": {
+                "jpg_pretty": {
+                    "size": 20919128,
+                    "md5": "a24c1865452287cdbb8a9ed2feb14900",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_field/jpg_pretty/DSC08788.jpg"
+                },
+                "jpg_plain": {
+                    "size": 17485092,
+                    "md5": "6a7ed5046483e7d69bafd00ce00ef64c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_field/jpg_plain/DSC08788.jpg"
+                },
+                "raw": {
+                    "size": 37289984,
+                    "md5": "ecf981e481ff53d2ef59a120da928803",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_field/raw/DSC08788.ARW"
+                }
+            },
+            "DSC08778": {
+                "jpg_pretty": {
+                    "size": 23208890,
+                    "md5": "af52ca6e2d75659a9cca590bd024c0f6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_field/jpg_pretty/DSC08778.jpg"
+                },
+                "jpg_plain": {
+                    "size": 17832881,
+                    "md5": "00c475e83f5a252e9f1087448c443258",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_field/jpg_plain/DSC08778.jpg"
+                },
+                "raw": {
+                    "size": 37224448,
+                    "md5": "9f71c03820c004a19a5ae8b8f1679025",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_field/raw/DSC08778.ARW"
+                }
+            },
+            "DSC08780": {
+                "jpg_pretty": {
+                    "size": 21073425,
+                    "md5": "a9e6f110509e4fff7a501698954e313b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_field/jpg_pretty/DSC08780.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16206401,
+                    "md5": "bea94c0f709e5f8499c2d394f111b0c9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_field/jpg_plain/DSC08780.jpg"
+                },
+                "raw": {
+                    "size": 37224448,
+                    "md5": "dd71084b8be75f3b5363dbd629d66c6d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_field/raw/DSC08780.ARW"
+                }
+            },
+            "DSC08791": {
+                "jpg_pretty": {
+                    "size": 19640254,
+                    "md5": "cb0049dc11de1b1cbc212b59d5febaf6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_field/jpg_pretty/DSC08791.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16560690,
+                    "md5": "20729e57d798d6aff1053189d57f91b0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_field/jpg_plain/DSC08791.jpg"
+                },
+                "raw": {
+                    "size": 37257216,
+                    "md5": "f0b4dd2eb0401397cc27d0fa296a1644",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_field/raw/DSC08791.ARW"
+                }
+            },
+            "DSC08792": {
+                "jpg_pretty": {
+                    "size": 24190712,
+                    "md5": "0473f93ff6bd33b3e3a1b686702f35bf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_field/jpg_pretty/DSC08792.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19704812,
+                    "md5": "52e72b4335684e2b4f10b89c47cc12c2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_field/jpg_plain/DSC08792.jpg"
+                },
+                "raw": {
+                    "size": 37486592,
+                    "md5": "69c25c36035dcb0876967d8c5df33918",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_field/raw/DSC08792.ARW"
+                }
+            },
+            "DSC08772": {
+                "jpg_pretty": {
+                    "size": 24088061,
+                    "md5": "2527e6313d66723cc3860ba6dac15af4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_field/jpg_pretty/DSC08772.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20211982,
+                    "md5": "f2de61f34c08d7ac9e90076ac8b3ed87",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_field/jpg_plain/DSC08772.jpg"
+                },
+                "raw": {
+                    "size": 37486592,
+                    "md5": "7bb6de3edb27aa08ade6ed966dbd5a4a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_field/raw/DSC08772.ARW"
+                }
+            },
+            "DSC08783": {
+                "jpg_pretty": {
+                    "size": 17224596,
+                    "md5": "d4fb17eefb2c18d0199b8e3cb3def6b8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_field/jpg_pretty/DSC08783.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13293539,
+                    "md5": "cffd57428769d14e53a3f7319e30840e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_field/jpg_plain/DSC08783.jpg"
+                },
+                "raw": {
+                    "size": 37027840,
+                    "md5": "a644d91fd28c03adb95d0a1c91152cd5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_field/raw/DSC08783.ARW"
+                }
+            },
+            "DSC08784": {
+                "jpg_pretty": {
+                    "size": 16207893,
+                    "md5": "5d25344ec9b67370bcc3b000e9e92b0f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_field/jpg_pretty/DSC08784.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13838332,
+                    "md5": "97b6b357041bc9fe0e495d39e2a0376b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_field/jpg_plain/DSC08784.jpg"
+                },
+                "raw": {
+                    "size": 37093376,
+                    "md5": "919bf69bae6c8756ad2bcd56ae7c17b2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_field/raw/DSC08784.ARW"
+                }
+            }
+        }
+    }
+}

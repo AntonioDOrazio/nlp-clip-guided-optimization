@@ -1,0 +1,95 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "thatch",
+        "couch",
+        "garden",
+        "plant",
+        "gazebo"
+    ],
+    "date_published": 1508536800,
+    "name": "Lapa",
+    "categories": [
+        "indoor",
+        "urban",
+        "medium contrast",
+        "natural light",
+        "artificial light"
+    ],
+    "date_taken": 1441450560,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "files_hash": "3853c442aa82fa6815e0d195fe8e0feb6dc939c8",
+    "download_count": 28693,
+    "files": {
+        "tonemapped": {
+            "size": 5792737,
+            "md5": "daf226ab050e6014645c4fd484139644",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/lapa.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101392402,
+                    "md5": "6db7a9a0658e80f917c30080d4dc7e96",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/lapa_8k.hdr"
+                },
+                "exr": {
+                    "size": 94608639,
+                    "md5": "0b593d3cf1f28472ab98fe46a2a7f7cf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/lapa_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 372967510,
+                    "md5": "8b0f59fe90bbb29112948f1841fd6f49",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/lapa_16k.hdr"
+                },
+                "exr": {
+                    "size": 330526936,
+                    "md5": "ca1ceed0eef9ad993a065daef1244fa1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/lapa_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26398128,
+                    "md5": "a5d83527988bae8a7664e946c6f4443d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/lapa_4k.hdr"
+                },
+                "exr": {
+                    "size": 24696859,
+                    "md5": "10d7d7f68fe21f8c25a6cb176d3556ed",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/lapa_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6759964,
+                    "md5": "ba7cb29b8be3672ece2d9628eb51fec3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/lapa_2k.hdr"
+                },
+                "exr": {
+                    "size": 6369075,
+                    "md5": "4524c000d5bf17cf26dcf77daee830e2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/lapa_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1720439,
+                    "md5": "b7907266e1cc63c86b36cf3c9769a3b1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/lapa_1k.hdr"
+                },
+                "exr": {
+                    "size": 1647616,
+                    "md5": "ac89004fdd8efcad8a62a542ee32086b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/lapa_1k.exr"
+                }
+            }
+        }
+    }
+}

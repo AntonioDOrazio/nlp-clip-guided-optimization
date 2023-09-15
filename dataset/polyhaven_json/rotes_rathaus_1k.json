@@ -1,0 +1,122 @@
+{
+    "donated": true,
+    "evs_cap": 11,
+    "type": 0,
+    "tags": [
+        "europe",
+        "building",
+        "architecture",
+        "street",
+        "square",
+        "brick",
+        "tree",
+        "city"
+    ],
+    "name": "Rotes Rathaus",
+    "categories": [
+        "natural light",
+        "sunrise-sunset",
+        "outdoor",
+        "urban",
+        "low contrast",
+        "clear"
+    ],
+    "coords": [
+        52.519056,
+        13.407608
+    ],
+    "date_taken": 1660285680,
+    "authors": {
+        "Alexander Scholten": "All"
+    },
+    "info": null,
+    "date_published": 1664150400,
+    "files_hash": "8ce064b6c9f2057eb66570c99fe759c54f66c529",
+    "download_count": 39758,
+    "files": {
+        "tonemapped": {
+            "size": 36324318,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/rotes_rathaus.jpg",
+            "md5": "995e65d5ed38723ba7dd1ee477e0c5f7"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 96835158,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/rotes_rathaus_8k.hdr",
+                    "md5": "f69f9e9e963e412e363fd87a2596ce29"
+                },
+                "exr": {
+                    "size": 318942735,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/rotes_rathaus_8k.exr",
+                    "md5": "1972e7c1fd939575e02391fe7a9d1b5c"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 367737177,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rotes_rathaus_16k.hdr",
+                    "md5": "d1102ab3ad32112a42ac2713f020f447"
+                },
+                "exr": {
+                    "size": 1250728845,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rotes_rathaus_16k.exr",
+                    "md5": "7784c8ff7a6d0b1bc53cd6c61dc4e1b6"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24340449,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/rotes_rathaus_4k.hdr",
+                    "md5": "78ac8448cd6be15ae23ec2cfb6b70964"
+                },
+                "exr": {
+                    "size": 81390050,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/rotes_rathaus_4k.exr",
+                    "md5": "301ed5a8156897329f12e329acb6fdba"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5896841,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/rotes_rathaus_2k.hdr",
+                    "md5": "f81d5bfe9c5db40f8687b0e05c42f81b"
+                },
+                "exr": {
+                    "size": 21093026,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/rotes_rathaus_2k.exr",
+                    "md5": "7e285e60c7b0ac556c901b07f003b82a"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1424654,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/rotes_rathaus_1k.hdr",
+                    "md5": "deac9b1149abbe7eea6f18251e831cdb"
+                },
+                "exr": {
+                    "size": 5640837,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/rotes_rathaus_1k.exr",
+                    "md5": "31611815de14f8be8f3d849576b2520f"
+                }
+            },
+            "21k": {
+                "hdr": {
+                    "size": 624035629,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rotes_rathaus_21k.hdr",
+                    "md5": "53769ad04f5d15bf1048165ebf775d54"
+                },
+                "exr": {
+                    "size": 2174033975,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rotes_rathaus_21k.exr",
+                    "md5": "ecec6d6594239e53f2198eecd7b6bda5"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 398168758,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/rotes_rathaus.zip",
+            "md5": "7cabcc7ad76d5dd8b2abc3e6acfafe52"
+        }
+    }
+}

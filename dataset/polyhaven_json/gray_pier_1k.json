@@ -1,0 +1,99 @@
+{
+    "evs_cap": 6,
+    "type": 0,
+    "tags": [
+        "pier",
+        "lake",
+        "winter",
+        "tree",
+        "grass"
+    ],
+    "date_published": 1522879200,
+    "name": "Gray Pier",
+    "categories": [
+        "outdoor",
+        "nature",
+        "midday",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1455621720,
+    "authors": {
+        "Sergey Rudavin": "All"
+    },
+    "sponsors": [
+        "7947474"
+    ],
+    "files_hash": "54730f2484c2b216fb7e1f78414deca6a756e754",
+    "download_count": 29533,
+    "files": {
+        "tonemapped": {
+            "size": 4452508,
+            "md5": "1c951d822edfa3a5a1444d3a20904c37",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/gray_pier.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 94892124,
+                    "md5": "1f5ee8cdcad34f6256149eeaff8073ba",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/gray_pier_8k.hdr"
+                },
+                "exr": {
+                    "size": 78697202,
+                    "md5": "0464526cede3e99b07f8bf02a8ebdfb8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/gray_pier_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 352170838,
+                    "md5": "ba6b55c23bffc22b3fd245ae7c5bed36",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/gray_pier_16k.hdr"
+                },
+                "exr": {
+                    "size": 284143950,
+                    "md5": "cf99fc9bb0e68227fd8143582a6f8461",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/gray_pier_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24232379,
+                    "md5": "6c9dd8b7606c45bcb388e9525e01ee43",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/gray_pier_4k.hdr"
+                },
+                "exr": {
+                    "size": 20587954,
+                    "md5": "d775de3bb3f459a751763c75afa182f5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/gray_pier_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6079929,
+                    "md5": "8f36421f5e9cdbebc950bc950879fde3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/gray_pier_2k.hdr"
+                },
+                "exr": {
+                    "size": 5326922,
+                    "md5": "41de3e557abc6646fe1ff45679a6229a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/gray_pier_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1557220,
+                    "md5": "c506797d139b2b2a975b7142b1703bc1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/gray_pier_1k.hdr"
+                },
+                "exr": {
+                    "size": 1397665,
+                    "md5": "01ca77f6a53b2b01a3b1522e7a4951b0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/gray_pier_1k.exr"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "evs_cap": 24,
+    "type": 0,
+    "tags": [
+        "field",
+        "tree",
+        "grass",
+        "sun"
+    ],
+    "name": "Dreifaltigkeitsberg",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "natural light",
+        "midday",
+        "clear"
+    ],
+    "coords": [
+        48.079648,
+        8.764125
+    ],
+    "date_taken": 1630836960,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "date_published": 1638835200,
+    "sponsors": [
+        "70827508"
+    ],
+    "files_hash": "7f1ec78072c044198ddf120804737f0d29c112d0",
+    "download_count": 171893,
+    "files": {
+        "hdri": {
+            "17k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/dreifaltigkeitsberg_17k.hdr",
+                    "size": 450098033,
+                    "md5": "48306e13d591b5d9b66a5724668a3f2d"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/dreifaltigkeitsberg_17k.exr",
+                    "size": 1088175595,
+                    "md5": "5c92d779e61ac1136bb0bf5e0232a0a1"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/dreifaltigkeitsberg_16k.hdr",
+                    "size": 397602130,
+                    "md5": "9050e7346d22235ccd21c12704bcec5f"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/dreifaltigkeitsberg_16k.exr",
+                    "size": 1075158455,
+                    "md5": "7f94f65a5ef6c98d870ad75c9d597a90"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/dreifaltigkeitsberg_8k.hdr",
+                    "size": 105183580,
+                    "md5": "0b64a44079e4dfa7613874848bda7410"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/dreifaltigkeitsberg_8k.exr",
+                    "size": 330142701,
+                    "md5": "d00cfca8fe2605746362c37c6438ebf0"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/dreifaltigkeitsberg_4k.hdr",
+                    "size": 26679675,
+                    "md5": "289581c289c6defb075ed2228fc0a3e6"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/dreifaltigkeitsberg_4k.exr",
+                    "size": 85493424,
+                    "md5": "4bf96fdd5bfbc878959a203357a97dae"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/dreifaltigkeitsberg_2k.hdr",
+                    "size": 6538154,
+                    "md5": "cd09bf4c03c96291698775e197c04b72"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/dreifaltigkeitsberg_2k.exr",
+                    "size": 22070818,
+                    "md5": "2aa6ef89bf5921c78d097907cc010b53"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/dreifaltigkeitsberg_1k.hdr",
+                    "size": 1591092,
+                    "md5": "4cbe535463fef0b1cc2110285411aabb"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/dreifaltigkeitsberg_1k.exr",
+                    "size": 5853852,
+                    "md5": "a941c0b9d77cf59cd85a0335c1f6e2bd"
+                }
+            }
+        },
+        "colorchart": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/dreifaltigkeitsberg.zip",
+            "size": 433159359,
+            "md5": "a639aeff42b5a7cc128d47c23b9f6e8d"
+        },
+        "tonemapped": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/dreifaltigkeitsberg.jpg",
+            "size": 55294383,
+            "md5": "a34da0d32de1958596476d754031f142"
+        }
+    }
+}

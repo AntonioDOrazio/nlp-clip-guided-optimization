@@ -1,0 +1,102 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "tree",
+        "dam",
+        "lookout",
+        "mountain",
+        "rock",
+        "lake",
+        "sunset"
+    ],
+    "date_published": 1506981600,
+    "name": "Fish Eagle Hill",
+    "categories": [
+        "outdoor",
+        "nature",
+        "partly cloudy",
+        "sunrise-sunset",
+        "medium contrast",
+        "natural light"
+    ],
+    "date_taken": 1416848640,
+    "coords": [
+        -25.269157,
+        27.126741
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "files_hash": "52997ed8ce09a41ddca4428cc2fe481b2b249689",
+    "download_count": 19196,
+    "files": {
+        "tonemapped": {
+            "size": 8712691,
+            "md5": "57ab3b0e38de7ae77bf27cf46e1e407d",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/fish_eagle_hill.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 113059708,
+                    "md5": "6725f195232168c23f59afc985ab3f0f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/fish_eagle_hill_8k.hdr"
+                },
+                "exr": {
+                    "size": 108557259,
+                    "md5": "cb4d119da81654d8a54a3c9a5fc2cd47",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/fish_eagle_hill_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 426486792,
+                    "md5": "a74ad1e1b4c65e9c727ff1f0fcd59c43",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/fish_eagle_hill_16k.hdr"
+                },
+                "exr": {
+                    "size": 392784198,
+                    "md5": "c660bf8fe8300a303d8633553f68ca7e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/fish_eagle_hill_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 28582110,
+                    "md5": "785cdb1d884231b2eccac0a876c2e5e7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/fish_eagle_hill_4k.hdr"
+                },
+                "exr": {
+                    "size": 27207823,
+                    "md5": "0b048d3c788447da837b808052400263",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/fish_eagle_hill_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7168833,
+                    "md5": "af2481ccbf0185140f33271da2ca3496",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/fish_eagle_hill_2k.hdr"
+                },
+                "exr": {
+                    "size": 6837794,
+                    "md5": "31728eb6df8ea31a4be97f6fc52d4c33",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/fish_eagle_hill_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1788179,
+                    "md5": "7fcf5141ed4a82952798f269154d937b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/fish_eagle_hill_1k.hdr"
+                },
+                "exr": {
+                    "size": 1728210,
+                    "md5": "63d00c6b9728e4fe22f8a83e409a2b19",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/fish_eagle_hill_1k.exr"
+                }
+            }
+        }
+    }
+}

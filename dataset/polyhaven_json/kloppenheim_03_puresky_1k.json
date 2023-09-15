@@ -1,0 +1,112 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "tags": [
+        "pure skies"
+    ],
+    "name": "Kloppenheim 03 (Pure Sky)",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "midday",
+        "partly cloudy",
+        "medium contrast",
+        "natural light",
+        "pure skies"
+    ],
+    "date_taken": 1572698940,
+    "coords": [
+        -25.6542194,
+        30.16192135
+    ],
+    "info": "Edited sky-only version of [Kloppenheim 03](https://polyhaven.com/a/kloppenheim_03).",
+    "authors": {
+        "Greg Zaal": "Original",
+        "Jarod Guest": "Sky Edits"
+    },
+    "files_hash": "aa54d38dc6385dfbdb4a2bc3fc2ebbfbba13bb50",
+    "date_published": 1674864000,
+    "download_count": 16537,
+    "files": {
+        "tonemapped": {
+            "size": 16119759,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/kloppenheim_03_puresky.jpg",
+            "md5": "05c8325777aa95286a57370ca0dd9b65"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 72416931,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/kloppenheim_03_puresky_8k.hdr",
+                    "md5": "0365257949bb9e088d9d7905af71e260"
+                },
+                "exr": {
+                    "size": 282941329,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/kloppenheim_03_puresky_8k.exr",
+                    "md5": "ec9c4c6006baaa3d4f69e83fd01b0c12"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 220781216,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/kloppenheim_03_puresky_16k.hdr",
+                    "md5": "520c055c341d4b70c9610ce700ccce33"
+                },
+                "exr": {
+                    "size": 1075297445,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/kloppenheim_03_puresky_16k.exr",
+                    "md5": "403e839ee2017f5adec689dd4abd9795"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 19682492,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/kloppenheim_03_puresky_4k.hdr",
+                    "md5": "09c9e57a51e6eed81ac70e194d58eab2"
+                },
+                "exr": {
+                    "size": 73698227,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/kloppenheim_03_puresky_4k.exr",
+                    "md5": "f60b252af67d8e878abf5cb774ff10b0"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 473513964,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/kloppenheim_03_puresky_24k.hdr",
+                    "md5": "3e72a47e239ca6a5d380ea81f278340a"
+                },
+                "exr": {
+                    "size": 2427338668,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/kloppenheim_03_puresky_24k.exr",
+                    "md5": "22a16c4628790b902754e95e559dd19d"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5324445,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/kloppenheim_03_puresky_2k.hdr",
+                    "md5": "06abf490739e537e9339d619a2a3c941"
+                },
+                "exr": {
+                    "size": 19658210,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/kloppenheim_03_puresky_2k.exr",
+                    "md5": "3ced32581a718a23ca7271e7a8525663"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1428760,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/kloppenheim_03_puresky_1k.hdr",
+                    "md5": "4398fb83b085aed97cef788cda6f9e2d"
+                },
+                "exr": {
+                    "size": 5406100,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/kloppenheim_03_puresky_1k.exr",
+                    "md5": "c607a88e86639e4db9b528a60209ea82"
+                }
+            }
+        }
+    }
+}

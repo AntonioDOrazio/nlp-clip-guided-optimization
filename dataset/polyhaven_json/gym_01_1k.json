@@ -1,0 +1,100 @@
+{
+    "date_published": 1547766000,
+    "sponsors": [
+        {
+            "name": "Homoeros",
+            "url": "http://www.patreon.com/homoeros"
+        }
+    ],
+    "evs_cap": 14,
+    "files_hash": "3772c21789510b20bd4fe54a82f6cecd8228fe6e",
+    "name": "Gym 01",
+    "categories": [
+        "indoor",
+        "urban",
+        "medium contrast",
+        "artificial light"
+    ],
+    "type": 0,
+    "date_taken": 1543139940,
+    "tags": [
+        "fluorescent",
+        "gym",
+        "weights",
+        "fitness",
+        "exercise"
+    ],
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "download_count": 19224,
+    "files": {
+        "tonemapped": {
+            "size": 6053364,
+            "md5": "936209c379fabab0d725d0d132905872",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/gym_01.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102532947,
+                    "md5": "7dca3c988664f80729ecb98209507738",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/gym_01_8k.hdr"
+                },
+                "exr": {
+                    "size": 91308935,
+                    "md5": "9ac0f9a9929f97eb50fc2579b6df119b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/gym_01_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 393074819,
+                    "md5": "3a3867d571f99d520c40971ae28e0fff",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/gym_01_16k.hdr"
+                },
+                "exr": {
+                    "size": 335301038,
+                    "md5": "1a0328ed76dc37b32b7730d4d11b28f4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/gym_01_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26267460,
+                    "md5": "224249f53f5d4864c2750164160440d6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/gym_01_4k.hdr"
+                },
+                "exr": {
+                    "size": 24121758,
+                    "md5": "40707db819a1360949dc778dbe20f8e3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/gym_01_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6716092,
+                    "md5": "2ddef5e5d605505a8a697616d1ea1413",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/gym_01_2k.hdr"
+                },
+                "exr": {
+                    "size": 6363874,
+                    "md5": "81d20684f2c6ea1dc8c33bfc6c16d711",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/gym_01_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1723805,
+                    "md5": "65aeb6cb2d9515052021abd31089a229",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/gym_01_1k.hdr"
+                },
+                "exr": {
+                    "size": 1679558,
+                    "md5": "1e89c6bd8a6431f9efb0fd9b30203004",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/gym_01_1k.exr"
+                }
+            }
+        }
+    }
+}

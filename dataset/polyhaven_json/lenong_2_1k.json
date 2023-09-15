@@ -1,0 +1,106 @@
+{
+    "evs_cap": 24,
+    "type": 0,
+    "tags": [
+        "grass",
+        "mountain",
+        "tree",
+        "bush",
+        "rock",
+        "sun",
+        "sunrise"
+    ],
+    "date_published": 1506981600,
+    "name": "Lenong 2",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "clear",
+        "sunrise-sunset",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        -25.244369,
+        27.066399
+    ],
+    "date_taken": 1468128660,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "files_hash": "13e95a76ed33334b1661996bf441f87da9bd8139",
+    "sponsors": [
+        "11167855"
+    ],
+    "download_count": 62694,
+    "files": {
+        "tonemapped": {
+            "size": 6106853,
+            "md5": "546657f6e7e80273aaf37c889ab5cfca",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/lenong_2.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 96056897,
+                    "md5": "6b937ac816257c7bd0df603229bd4146",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/lenong_2_8k.hdr"
+                },
+                "exr": {
+                    "size": 80848538,
+                    "md5": "d79a383d3749b50693151d270ebd3019",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/lenong_2_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 348260310,
+                    "md5": "d32b94fef146822f697fa31a77842807",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/lenong_2_16k.hdr"
+                },
+                "exr": {
+                    "size": 294731611,
+                    "md5": "dc783ca3f4f3cd0a0f6c90deb8ee511e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/lenong_2_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24521441,
+                    "md5": "65fdd591442d1b4ae015e93ea7825601",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/lenong_2_4k.hdr"
+                },
+                "exr": {
+                    "size": 20919476,
+                    "md5": "e38f60099988fa3842b9c039a0dc5b87",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/lenong_2_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6054624,
+                    "md5": "ca70d2cfdc308c659f5160e11304c738",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/lenong_2_2k.hdr"
+                },
+                "exr": {
+                    "size": 5353900,
+                    "md5": "bc49163e40406e2feb55a753be14d49d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/lenong_2_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1504242,
+                    "md5": "e51f1ebf9b42c90f8d3be40bbc04b797",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/lenong_2_1k.hdr"
+                },
+                "exr": {
+                    "size": 1381460,
+                    "md5": "f588c4cf4323969014d3db911519c78d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/lenong_2_1k.exr"
+                }
+            }
+        }
+    }
+}

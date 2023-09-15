@@ -1,0 +1,708 @@
+{
+    "evs_cap": 21,
+    "type": 0,
+    "whitebalance": 5400,
+    "date_published": 1511996400,
+    "name": "Green Point Park",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "morning-afternoon",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1464866040,
+    "coords": [
+        -33.904106,
+        18.401097
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "url": "https://www.artstation.com/eidy",
+            "name": "Eidy"
+        },
+        "7937768"
+    ],
+    "backplates": true,
+    "tags": [
+        "sun",
+        "grass",
+        "buildings",
+        "mountain",
+        "field",
+        "backplates"
+    ],
+    "files_hash": "862bfdfa0083bded3172b45581037631f6ba4937",
+    "download_count": 188952,
+    "files": {
+        "tonemapped": {
+            "size": 5782949,
+            "md5": "7bfd07a2757c77242f7127dc8ca5dc1e",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/green_point_park.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 99833321,
+                    "md5": "261c4fdd519188f2aa5df1d280e9b8e7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/green_point_park_8k.hdr"
+                },
+                "exr": {
+                    "size": 83653155,
+                    "md5": "63e937c4bdef7148498d20cd0bb18e10",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/green_point_park_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 363908557,
+                    "md5": "139785ad5283341db16e356f62baec06",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/green_point_park_16k.hdr"
+                },
+                "exr": {
+                    "size": 303439278,
+                    "md5": "2a70ab6679bce8d205b355e4aaaaa016",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/green_point_park_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25864362,
+                    "md5": "ec4d60d067c7bdfe038f8a35a8e26429",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/green_point_park_4k.hdr"
+                },
+                "exr": {
+                    "size": 22077896,
+                    "md5": "33679bced29e0b36dfd0fe229911012a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/green_point_park_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6591186,
+                    "md5": "452a789a83eedf4a96282b5320d34bfb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/green_point_park_2k.hdr"
+                },
+                "exr": {
+                    "size": 5758450,
+                    "md5": "98aa7e9daa086e9c8d5e33d5503f4438",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/green_point_park_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1664799,
+                    "md5": "850e2b9b07c72eb2ae1fc8e13d12ab85",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/green_point_park_1k.hdr"
+                },
+                "exr": {
+                    "size": 1497059,
+                    "md5": "88b2a090a95598251a8f46f38655bc8d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/green_point_park_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "IMG_0709": {
+                "jpg_pretty": {
+                    "size": 9091779,
+                    "md5": "26e9014ef9dbf18d0ec3390b089ec00b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_pretty/IMG_0709.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7588088,
+                    "md5": "afdc9e2957bfbc38b385df1784681b2c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_plain/IMG_0709.jpg"
+                },
+                "raw": {
+                    "size": 23057158,
+                    "md5": "5af767b766763358e896f70878a4ab14",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/raw/IMG_0709.dng"
+                }
+            },
+            "IMG_0708": {
+                "jpg_pretty": {
+                    "size": 7806446,
+                    "md5": "50127266979eff9380f7a3df69161bed",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_pretty/IMG_0708.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6286270,
+                    "md5": "c4424f0995d7e2467dfcd5c7195f7416",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_plain/IMG_0708.jpg"
+                },
+                "raw": {
+                    "size": 21663776,
+                    "md5": "cff1c94697163c59084865e2e3ef1a9d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/raw/IMG_0708.dng"
+                }
+            },
+            "IMG_0707": {
+                "jpg_pretty": {
+                    "size": 7573090,
+                    "md5": "ad8ff6cf60f6f86600f1828eb7585973",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_pretty/IMG_0707.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6190673,
+                    "md5": "913bc564f8dbf00bd4930bc1e7d969dd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_plain/IMG_0707.jpg"
+                },
+                "raw": {
+                    "size": 21584058,
+                    "md5": "4f1afb6939ce550ec0d5d27ef562f1b6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/raw/IMG_0707.dng"
+                }
+            },
+            "IMG_0704": {
+                "jpg_pretty": {
+                    "size": 5976829,
+                    "md5": "9020d138100cdf9c4e301855fb7a518c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_pretty/IMG_0704.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5085782,
+                    "md5": "6e6b705c880249a44facdd4c022e9597",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_plain/IMG_0704.jpg"
+                },
+                "raw": {
+                    "size": 21845854,
+                    "md5": "41fc2e7056a807fd8e5a2843380c47d0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/raw/IMG_0704.dng"
+                }
+            },
+            "IMG_0703": {
+                "jpg_pretty": {
+                    "size": 7321873,
+                    "md5": "269e1f8dd4d5693f5bf0b8fa55422967",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_pretty/IMG_0703.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6070059,
+                    "md5": "2a7e4e95f3d1ab04c27cca6cf8614402",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_plain/IMG_0703.jpg"
+                },
+                "raw": {
+                    "size": 22006868,
+                    "md5": "075e91c4760368f04555602179c9fdd6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/raw/IMG_0703.dng"
+                }
+            },
+            "IMG_0702": {
+                "jpg_pretty": {
+                    "size": 8102028,
+                    "md5": "5e618cd3e8ea384c2fcf53712f4e189d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_pretty/IMG_0702.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6661399,
+                    "md5": "0d1bd6775fc5ae3cb0476d9e5176b2df",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_plain/IMG_0702.jpg"
+                },
+                "raw": {
+                    "size": 22338698,
+                    "md5": "10f88dd655347e6a58d0db0e815fad01",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/raw/IMG_0702.dng"
+                }
+            },
+            "IMG_0701": {
+                "jpg_pretty": {
+                    "size": 7456944,
+                    "md5": "5aa80b190b8b12cc6ac8b9a218df1c03",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_pretty/IMG_0701.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6188378,
+                    "md5": "a5a1b63d7827544fba8bd0cee6f1f17d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_plain/IMG_0701.jpg"
+                },
+                "raw": {
+                    "size": 21888764,
+                    "md5": "14bfadb223b26b30bcd053738b67b0f3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/raw/IMG_0701.dng"
+                }
+            },
+            "IMG_0689": {
+                "jpg_pretty": {
+                    "size": 6200976,
+                    "md5": "72885f4b28ceb9e62000d28905566aa1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_pretty/IMG_0689.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5331697,
+                    "md5": "08f4e5b15c07a7781170051e04a41c02",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_plain/IMG_0689.jpg"
+                },
+                "raw": {
+                    "size": 22722434,
+                    "md5": "40417637026e70e61e024da16efc2757",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/raw/IMG_0689.dng"
+                }
+            },
+            "IMG_0700": {
+                "jpg_pretty": {
+                    "size": 7024429,
+                    "md5": "0338d5677d9e9c744c74e1c895b02b9a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_pretty/IMG_0700.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5799637,
+                    "md5": "91b172ac68a944b68ba34c29b19b3413",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_plain/IMG_0700.jpg"
+                },
+                "raw": {
+                    "size": 21562004,
+                    "md5": "77d0c53f025851c59b38896d053d0bba",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/raw/IMG_0700.dng"
+                }
+            },
+            "IMG_0688": {
+                "jpg_pretty": {
+                    "size": 6024729,
+                    "md5": "7720de13402199fd7d2acf39a2a2e6bb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_pretty/IMG_0688.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5244266,
+                    "md5": "8f8f060cc5180cb77b968aeda0ca3d27",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_plain/IMG_0688.jpg"
+                },
+                "raw": {
+                    "size": 22470648,
+                    "md5": "949061678f32521b50b75a6dd16c8a49",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/raw/IMG_0688.dng"
+                }
+            },
+            "IMG_0687": {
+                "jpg_pretty": {
+                    "size": 6345896,
+                    "md5": "7bb7b62d9b8e1c4ed7924a5d5af22dbe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_pretty/IMG_0687.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6129463,
+                    "md5": "5d46055126b148985352df7363d12146",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_plain/IMG_0687.jpg"
+                },
+                "raw": {
+                    "size": 23085402,
+                    "md5": "1aa3c285d361aa4939b113b815642641",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/raw/IMG_0687.dng"
+                }
+            },
+            "IMG_0686": {
+                "jpg_pretty": {
+                    "size": 5589011,
+                    "md5": "34f370d5d65af0c0046355666e382a74",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_pretty/IMG_0686.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4715029,
+                    "md5": "d4eeecac8122ce80dd3e54e24a4b9791",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_plain/IMG_0686.jpg"
+                },
+                "raw": {
+                    "size": 22153510,
+                    "md5": "6743ff0378610e557a390524e8dba368",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/raw/IMG_0686.dng"
+                }
+            },
+            "IMG_0696": {
+                "jpg_pretty": {
+                    "size": 6475101,
+                    "md5": "fd190ebca580b18d2dbf78e183a96401",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_pretty/IMG_0696.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5466969,
+                    "md5": "682d06998cc714e61e8560bbf4de1529",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_plain/IMG_0696.jpg"
+                },
+                "raw": {
+                    "size": 22107512,
+                    "md5": "b590505a941e480bb59bea5fecde1a0c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/raw/IMG_0696.dng"
+                }
+            },
+            "IMG_0695": {
+                "jpg_pretty": {
+                    "size": 7999795,
+                    "md5": "cf96b7c06e9842acb8f788307346c4ac",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_pretty/IMG_0695.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6594936,
+                    "md5": "71b6eb6291601c31b049eb07650acb8c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_plain/IMG_0695.jpg"
+                },
+                "raw": {
+                    "size": 22382100,
+                    "md5": "fa1a95dccbaab63655ada099678efcb6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/raw/IMG_0695.dng"
+                }
+            },
+            "IMG_0694": {
+                "jpg_pretty": {
+                    "size": 7800317,
+                    "md5": "d5b946edf497760d06a6cdcd161aff19",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_pretty/IMG_0694.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6525128,
+                    "md5": "124e0207457a07ce276056288c7d61da",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_plain/IMG_0694.jpg"
+                },
+                "raw": {
+                    "size": 22543850,
+                    "md5": "ef2ad32760dc6fe2e3edb5a0db3d62b7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/raw/IMG_0694.dng"
+                }
+            },
+            "IMG_0693": {
+                "jpg_pretty": {
+                    "size": 7507181,
+                    "md5": "aac488405ee9656f91be56f5bb6e289e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_pretty/IMG_0693.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6310442,
+                    "md5": "7b217b50f683a2f27463d2d45d9d6544",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_plain/IMG_0693.jpg"
+                },
+                "raw": {
+                    "size": 22553160,
+                    "md5": "4eb37061de7cc01f9a1179e3c79dce5d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/raw/IMG_0693.dng"
+                }
+            },
+            "IMG_0692": {
+                "jpg_pretty": {
+                    "size": 7021870,
+                    "md5": "967eead41d4af04e0283e65cacb2e144",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_pretty/IMG_0692.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6001278,
+                    "md5": "d2fdd730ce0feef6d3f9f000698e5e72",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_plain/IMG_0692.jpg"
+                },
+                "raw": {
+                    "size": 22577708,
+                    "md5": "6352f71b7200aa9b9915d87e9e15b750",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/raw/IMG_0692.dng"
+                }
+            },
+            "IMG_0691": {
+                "jpg_pretty": {
+                    "size": 5902632,
+                    "md5": "e53d94de9c30c83f06596e933373f1d5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_pretty/IMG_0691.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5085987,
+                    "md5": "1f8bf930ab7bda6ea9a3ee852a1124d6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_plain/IMG_0691.jpg"
+                },
+                "raw": {
+                    "size": 22387078,
+                    "md5": "ccf2167922afff99e0cac4314bd53367",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/raw/IMG_0691.dng"
+                }
+            },
+            "IMG_0690": {
+                "jpg_pretty": {
+                    "size": 5739446,
+                    "md5": "210b93560267c0866c70df87d224fa29",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_pretty/IMG_0690.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4957339,
+                    "md5": "e2833f815103504b424965f7e024edec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_plain/IMG_0690.jpg"
+                },
+                "raw": {
+                    "size": 21661014,
+                    "md5": "bb31018f1539c728cf6dd975455764ed",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/raw/IMG_0690.dng"
+                }
+            },
+            "IMG_0713": {
+                "jpg_pretty": {
+                    "size": 10249840,
+                    "md5": "1ea0f8ebb25b4451f9e4292b6545357c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_pretty/IMG_0713.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7848557,
+                    "md5": "b553ac2ab7373dae844fc7390ff8a8de",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_plain/IMG_0713.jpg"
+                },
+                "raw": {
+                    "size": 22835872,
+                    "md5": "2770e5bb976906be65a75d2fbbe090db",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/raw/IMG_0713.dng"
+                }
+            },
+            "IMG_0679": {
+                "jpg_pretty": {
+                    "size": 8066437,
+                    "md5": "c0b1f1331d1f224c669cb2ccc02a3bf8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_pretty/IMG_0679.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6855139,
+                    "md5": "add756422fc9f4e933720f09cd36809e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_plain/IMG_0679.jpg"
+                },
+                "raw": {
+                    "size": 24449790,
+                    "md5": "ed9010576aaa8ef281a78ec93514f482",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/raw/IMG_0679.dng"
+                }
+            },
+            "IMG_0712": {
+                "jpg_pretty": {
+                    "size": 6172141,
+                    "md5": "291f40a8b3edd1801fbbb2ecbeece6b7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_pretty/IMG_0712.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5547679,
+                    "md5": "85466671923cb7671f416e4c6bdf0fc3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_plain/IMG_0712.jpg"
+                },
+                "raw": {
+                    "size": 22086752,
+                    "md5": "cd90b81b8fe063a3759d15198efbe33b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/raw/IMG_0712.dng"
+                }
+            },
+            "IMG_0678": {
+                "jpg_pretty": {
+                    "size": 8797089,
+                    "md5": "0006d4fcb900bd99b12ae482512c95e1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_pretty/IMG_0678.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7454926,
+                    "md5": "624f64b3dfebf82a12044d857a14895e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_plain/IMG_0678.jpg"
+                },
+                "raw": {
+                    "size": 25173686,
+                    "md5": "46dc60801fdc9521071018fc144c797f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/raw/IMG_0678.dng"
+                }
+            },
+            "IMG_0711": {
+                "jpg_pretty": {
+                    "size": 6765662,
+                    "md5": "38960bd02f6474a78b01de8edb767bc5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_pretty/IMG_0711.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6296650,
+                    "md5": "8b4f60d85e19244ef769a76797197c7e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_plain/IMG_0711.jpg"
+                },
+                "raw": {
+                    "size": 22245234,
+                    "md5": "67d98e7eeaf930c68e59f4fbe90a1cdc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/raw/IMG_0711.dng"
+                }
+            },
+            "IMG_0677": {
+                "jpg_pretty": {
+                    "size": 8836023,
+                    "md5": "b3a8586fb6283bb88ff6bbedddbfa414",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_pretty/IMG_0677.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8174278,
+                    "md5": "94da1ac8ee7fd4cb9d8e24efc9e4baf0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_plain/IMG_0677.jpg"
+                },
+                "raw": {
+                    "size": 25229628,
+                    "md5": "2fc7efe503f19df0cf522feecc258cbf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/raw/IMG_0677.dng"
+                }
+            },
+            "IMG_0699": {
+                "jpg_pretty": {
+                    "size": 6570815,
+                    "md5": "e0985d8b0b6994285d040d5532939cba",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_pretty/IMG_0699.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5475875,
+                    "md5": "8aa62eea8351dd1c5e182c0fa91bcf71",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_plain/IMG_0699.jpg"
+                },
+                "raw": {
+                    "size": 21855348,
+                    "md5": "79250a700e3f5145f48430da0ad45def",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/raw/IMG_0699.dng"
+                }
+            },
+            "IMG_0710": {
+                "jpg_pretty": {
+                    "size": 6972974,
+                    "md5": "0c3f3cf699620647df18710aa3c56ca3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_pretty/IMG_0710.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5830572,
+                    "md5": "f371304596c45fb3d69f9302a5310f36",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_plain/IMG_0710.jpg"
+                },
+                "raw": {
+                    "size": 22267046,
+                    "md5": "a7a15e9c6c08c27b6f4414040f188204",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/raw/IMG_0710.dng"
+                }
+            },
+            "IMG_0698": {
+                "jpg_pretty": {
+                    "size": 5748606,
+                    "md5": "7a863e035e1b5539f6d5afa9972761a8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_pretty/IMG_0698.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4377775,
+                    "md5": "8f458c330ab53eafcf6013b1115cba0f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_plain/IMG_0698.jpg"
+                },
+                "raw": {
+                    "size": 21695180,
+                    "md5": "ba94b82eccf29465ef568270668c1a00",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/raw/IMG_0698.dng"
+                }
+            },
+            "IMG_0697": {
+                "jpg_pretty": {
+                    "size": 5487530,
+                    "md5": "cf39a59241625a3dbae90031f40debc3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_pretty/IMG_0697.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4377710,
+                    "md5": "326094ddb98c462b5c5e07a1909de23e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_plain/IMG_0697.jpg"
+                },
+                "raw": {
+                    "size": 21604148,
+                    "md5": "d57c0151ad0cf204f860af5e67dd56f8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/raw/IMG_0697.dng"
+                }
+            },
+            "IMG_0685": {
+                "jpg_pretty": {
+                    "size": 8554819,
+                    "md5": "3e6d8dec2b3093d48bf3942c0cf4e3b2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_pretty/IMG_0685.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7226954,
+                    "md5": "c5c6947cabd1b84ea5f05f575c784fe6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_plain/IMG_0685.jpg"
+                },
+                "raw": {
+                    "size": 23901302,
+                    "md5": "65d91e301a402997739baac1bdb107ed",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/raw/IMG_0685.dng"
+                }
+            },
+            "IMG_0684": {
+                "jpg_pretty": {
+                    "size": 7960257,
+                    "md5": "330eb65e3c34ea5ac21141f20d7d04d3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_pretty/IMG_0684.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6618329,
+                    "md5": "bc31f1a81d8a00e9f61a86c7e8bfb10d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_plain/IMG_0684.jpg"
+                },
+                "raw": {
+                    "size": 23876914,
+                    "md5": "c01b985c9566037bb849f3fce1ce4a2d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/raw/IMG_0684.dng"
+                }
+            },
+            "IMG_0683": {
+                "jpg_pretty": {
+                    "size": 8090753,
+                    "md5": "77c03b1f9f81fb8d4d1042b6a1b88770",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_pretty/IMG_0683.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7413428,
+                    "md5": "87a697483ed998c6603ca8cba69c4c39",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_plain/IMG_0683.jpg"
+                },
+                "raw": {
+                    "size": 23913122,
+                    "md5": "766a1ff1a90b99424ac92120f7a6f7af",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/raw/IMG_0683.dng"
+                }
+            },
+            "IMG_0682": {
+                "jpg_pretty": {
+                    "size": 9011882,
+                    "md5": "0df64d89d15d436dcb586fc92d8f457d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_pretty/IMG_0682.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7500302,
+                    "md5": "369828beefc1b56e139511a33d146c15",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_plain/IMG_0682.jpg"
+                },
+                "raw": {
+                    "size": 23910846,
+                    "md5": "f1bc8e87c25cc4d158e8a914070551f7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/raw/IMG_0682.dng"
+                }
+            },
+            "IMG_0681": {
+                "jpg_pretty": {
+                    "size": 9236216,
+                    "md5": "f1090dbb1bdc075cf43dedcb1fff6405",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_pretty/IMG_0681.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7835640,
+                    "md5": "143f167dcc4aa070818557bd8a239a44",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_plain/IMG_0681.jpg"
+                },
+                "raw": {
+                    "size": 24607864,
+                    "md5": "f8bba947bb40162cc2941a3620c61d33",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/raw/IMG_0681.dng"
+                }
+            },
+            "IMG_0680": {
+                "jpg_pretty": {
+                    "size": 10413042,
+                    "md5": "c4b4849f923e173ca480f88213cb6bc0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_pretty/IMG_0680.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8819782,
+                    "md5": "07eed25de742eb1f4119300b9dfda5d0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/jpg_plain/IMG_0680.jpg"
+                },
+                "raw": {
+                    "size": 24412030,
+                    "md5": "32bb1d34716e4fd6206eb41e7f2b6c1c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/green_point_park/raw/IMG_0680.dng"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "tree",
+        "forest",
+        "autumn",
+        "leaves",
+        "rock",
+        "cave"
+    ],
+    "date_published": 1599234185,
+    "name": "Forest Cave",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        48.404825,
+        9.801174
+    ],
+    "date_taken": 1572445920,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "files_hash": "f0e15e492510dc31d82e3a5cc47e8cf61257ecd6",
+    "download_count": 30381,
+    "files": {
+        "tonemapped": {
+            "size": 15719786,
+            "md5": "cda2161ec23eb2dcf10ea3020532040d",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/forest_cave.jpg"
+        },
+        "hdri": {
+            "19k": {
+                "hdr": {
+                    "size": 619684918,
+                    "md5": "4abf8d57afbd3e12ad599d73c6d9a139",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/forest_cave_19k.hdr"
+                },
+                "exr": {
+                    "size": 624741120,
+                    "md5": "d58838bc0fbd345baf87c26f85fa759c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/forest_cave_19k.exr"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "size": 115097499,
+                    "md5": "db8b17e04cb12cce436db4b353d25311",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/forest_cave_8k.hdr"
+                },
+                "exr": {
+                    "size": 120684165,
+                    "md5": "070a4fd44d7809d12424a1aa4cb15f2e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/forest_cave_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 437850141,
+                    "md5": "183a5012176b68373c480807e08411ad",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/forest_cave_16k.hdr"
+                },
+                "exr": {
+                    "size": 448858714,
+                    "md5": "a9c4eaaaaff21353d7a462345d32624a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/forest_cave_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 29832678,
+                    "md5": "f0ee71c114ff514fd0efd755efcf94a6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/forest_cave_4k.hdr"
+                },
+                "exr": {
+                    "size": 31659361,
+                    "md5": "9ffdec0d83d89828dc868a11a3fad5d5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/forest_cave_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7658528,
+                    "md5": "66f2bdc8acf51c1847100555e4d094fe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/forest_cave_2k.hdr"
+                },
+                "exr": {
+                    "size": 8161591,
+                    "md5": "92f06151ef559cc1b0ab46392a1a2c81",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/forest_cave_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1948560,
+                    "md5": "e770a97ceda827f0fb3abb244a5874bd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/forest_cave_1k.hdr"
+                },
+                "exr": {
+                    "size": 2075257,
+                    "md5": "9875bb06e83afa3e21a79900e277b731",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/forest_cave_1k.exr"
+                }
+            }
+        }
+    }
+}

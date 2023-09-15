@@ -1,0 +1,112 @@
+{
+    "evs_cap": 20,
+    "type": 0,
+    "tags": [
+        "forest",
+        "grass",
+        "pine",
+        "sun"
+    ],
+    "name": "J&E Gray 02",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "natural light",
+        "high contrast"
+    ],
+    "date_taken": 1604335500,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "date_published": 1638144000,
+    "prepaid": true,
+    "files_hash": "34142230463933bfdeb29dd3e5f286981b9d4590",
+    "download_count": 274555,
+    "files": {
+        "hdri": {
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/je_gray_02_16k.hdr",
+                    "size": 424798606,
+                    "md5": "e9da4da57edae5bc6b38d7882ed27fea"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/je_gray_02_16k.exr",
+                    "size": 418737993,
+                    "md5": "ef73c0797fb56b065283b0fa847ca86e"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/je_gray_02_24k.hdr",
+                    "size": 922283420,
+                    "md5": "0c56514bc51bd50e45968d2f9a336d17"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/je_gray_02_24k.exr",
+                    "size": 946611619,
+                    "md5": "eae38ed17daac06c8b76d6776057e4d6"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/je_gray_02_8k.hdr",
+                    "size": 113334622,
+                    "md5": "428cb52d55d2d90f97e5a517a4d818d1"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/je_gray_02_8k.exr",
+                    "size": 118804417,
+                    "md5": "108930afd9e38a5d703f275687702650"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/je_gray_02_4k.hdr",
+                    "size": 29120842,
+                    "md5": "e38d17ad433078c7bfe2d5f9bc9dff9d"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/je_gray_02_4k.exr",
+                    "size": 30552463,
+                    "md5": "4e2fc8b5d0d872bb60b8ff801402e674"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/je_gray_02_2k.hdr",
+                    "size": 7367180,
+                    "md5": "1c7876cff8b53ccc109cf0a00cdbb859"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/je_gray_02_2k.exr",
+                    "size": 7771641,
+                    "md5": "8898f06944eac9f616f2d13cb64f1915"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/je_gray_02_1k.hdr",
+                    "size": 1857839,
+                    "md5": "9767513e600eb8a5d2a255547e3b92ca"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/je_gray_02_1k.exr",
+                    "size": 1975802,
+                    "md5": "c52782390c16be5cc12a5aa7a809b24a"
+                }
+            }
+        },
+        "colorchart": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/je_gray_02.zip",
+            "size": 55259434,
+            "md5": "325f7d783fddeffb5f4ffbdcf7c8f983"
+        },
+        "tonemapped": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/je_gray_02.jpg",
+            "size": 63557696,
+            "md5": "82884fa69ddaedcd0af5b159523da16a"
+        }
+    }
+}

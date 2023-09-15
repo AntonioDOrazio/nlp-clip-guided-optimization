@@ -1,0 +1,103 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "tags": [
+        "brick",
+        "architecture",
+        "tunnel",
+        "passage"
+    ],
+    "date_published": 1506981600,
+    "name": "Georgentor",
+    "categories": [
+        "indoor",
+        "urban",
+        "medium contrast",
+        "natural light"
+    ],
+    "date_taken": 1478603400,
+    "coords": [
+        51.053077,
+        13.737925
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "url": "http://digic.jp/",
+            "name": "Digic"
+        }
+    ],
+    "files_hash": "8670689360cbc1257cb1b23f8fd01e1fe0736f7f",
+    "download_count": 51284,
+    "files": {
+        "tonemapped": {
+            "size": 6031406,
+            "md5": "2978bdc5a08c21b282ae93e75ab3118f",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/georgentor.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103431283,
+                    "md5": "7f747de793d2e6a36f62cbdaba66a5bc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/georgentor_8k.hdr"
+                },
+                "exr": {
+                    "size": 92594008,
+                    "md5": "2703ef27d626b981f4ca402e6d1cee22",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/georgentor_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 389206607,
+                    "md5": "c5d32f76e20eb736e6ef440a458eb747",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/georgentor_16k.hdr"
+                },
+                "exr": {
+                    "size": 335536612,
+                    "md5": "87e56aedcdb93a67611b3b4277eb8875",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/georgentor_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26653356,
+                    "md5": "00c618031420fa999dae098080780229",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/georgentor_4k.hdr"
+                },
+                "exr": {
+                    "size": 24508654,
+                    "md5": "559d664cdcc09ce5663e3a047fc2974f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/georgentor_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6758045,
+                    "md5": "362b12bc010fd8c7941765d29bac78c3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/georgentor_2k.hdr"
+                },
+                "exr": {
+                    "size": 6319301,
+                    "md5": "88fd476db36e4b22ff24144097a56584",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/georgentor_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1702901,
+                    "md5": "ed85ba5f87d84195e61261ed02976779",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/georgentor_1k.hdr"
+                },
+                "exr": {
+                    "size": 1612411,
+                    "md5": "5fe0d4410660bd6b7faae8d815275350",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/georgentor_1k.exr"
+                }
+            }
+        }
+    }
+}

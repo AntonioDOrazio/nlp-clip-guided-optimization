@@ -1,0 +1,115 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "tags": [
+        "tree",
+        "grass",
+        "path",
+        "view",
+        "park"
+    ],
+    "date_published": 1597960800,
+    "name": "Bismarckturm",
+    "categories": [
+        "outdoor",
+        "nature",
+        "sunrise-sunset",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        48.792952,
+        9.161568
+    ],
+    "date_taken": 1593794820,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        "3267566"
+    ],
+    "files_hash": "dc210b7e3d5b5cd1c5ec18719b5ba056a0b8e2f6",
+    "download_count": 58849,
+    "files": {
+        "tonemapped": {
+            "size": 11067395,
+            "md5": "28e84f0348e41513b764bb415a696acf",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/bismarckturm.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 99201898,
+                    "md5": "8abbbdb910ee8eab4295121f2fd312d5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/bismarckturm_8k.hdr"
+                },
+                "exr": {
+                    "size": 36869788,
+                    "md5": "e77856e4b2670a3d52d43026208999a8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/bismarckturm_8k.exr"
+                }
+            },
+            "18k": {
+                "hdr": {
+                    "size": 496886310,
+                    "md5": "b7128bd0c0bfdf18fdabe85ade875b40",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/bismarckturm_18k.hdr"
+                },
+                "exr": {
+                    "size": 157466342,
+                    "md5": "7e7a46eddaa1bceacb262543e09338e4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/bismarckturm_18k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 385938022,
+                    "md5": "8431a337d3c3c14ccf9d9a1385337ff3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/bismarckturm_16k.hdr"
+                },
+                "exr": {
+                    "size": 118056479,
+                    "md5": "6c21a5e1d88ac544148436aced3711b1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/bismarckturm_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24045380,
+                    "md5": "8b6fb1401636913247102f7a709ee529",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/bismarckturm_4k.hdr"
+                },
+                "exr": {
+                    "size": 9879946,
+                    "md5": "273c50ae1bfde588a607ddca0ea47014",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/bismarckturm_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5447173,
+                    "md5": "0689e7f312ea179e1ad72f64b469d454",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/bismarckturm_2k.hdr"
+                },
+                "exr": {
+                    "size": 2324693,
+                    "md5": "8233696f5d89cb79350563541b4a2f55",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/bismarckturm_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1304988,
+                    "md5": "1c8db7b5e0e7a8336641548b5f6304bf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/bismarckturm_1k.hdr"
+                },
+                "exr": {
+                    "size": 538042,
+                    "md5": "59208b16108964b650e68764cad8ca2a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/bismarckturm_1k.exr"
+                }
+            }
+        }
+    }
+}

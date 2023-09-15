@@ -1,0 +1,107 @@
+{
+    "evs_cap": 20,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "sun",
+        "mountain",
+        "view",
+        "dam",
+        "lake",
+        "hilltop"
+    ],
+    "date_published": 1557784800,
+    "name": "Qwantani",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "morning-afternoon",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        -28.48536987,
+        29.01268416
+    ],
+    "date_taken": 1556803080,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "files_hash": "9b9eff771be1f296ff8331f05cc26f218a644921",
+    "sponsors": [
+        "10485422",
+        "59361351"
+    ],
+    "download_count": 96155,
+    "files": {
+        "tonemapped": {
+            "size": 5226706,
+            "md5": "bcda21bca797a7d9b4b2f4bf23c5fe77",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/qwantani.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 99605634,
+                    "md5": "23e30f5316b45806c895121379afadc1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/qwantani_8k.hdr"
+                },
+                "exr": {
+                    "size": 78440325,
+                    "md5": "edd904e19f74752971d606bcf0f11851",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/qwantani_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 373672601,
+                    "md5": "1b513d5e6f90a8f3ff296bc68629d781",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/qwantani_16k.hdr"
+                },
+                "exr": {
+                    "size": 292127529,
+                    "md5": "5ef830a11f644e8faa849f044cbba1d2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/qwantani_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25312211,
+                    "md5": "aaf35656919f2202546c12b3365aae6d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/qwantani_4k.hdr"
+                },
+                "exr": {
+                    "size": 19974105,
+                    "md5": "75e1ce3a0f05891ac3d29a5ff65d9afc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/qwantani_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6232913,
+                    "md5": "2910218404c2f8b24526d23d34b603ec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/qwantani_2k.hdr"
+                },
+                "exr": {
+                    "size": 5031987,
+                    "md5": "adeaaf175976dd73697f5c9095a4cd6b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/qwantani_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1513994,
+                    "md5": "150ecaac490bbf78e1ac7d2970caf24d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/qwantani_1k.hdr"
+                },
+                "exr": {
+                    "size": 1301373,
+                    "md5": "a2be51de82b53bb71850de3a6f24f0f0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/qwantani_1k.exr"
+                }
+            }
+        }
+    }
+}

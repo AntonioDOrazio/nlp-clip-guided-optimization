@@ -1,0 +1,98 @@
+{
+    "evs_cap": 15,
+    "type": 0,
+    "tags": [
+        "hall",
+        "empty",
+        "victorian",
+        "window",
+        "couch"
+    ],
+    "date_published": 1544482800,
+    "name": "Music Hall 02",
+    "categories": [
+        "indoor",
+        "urban",
+        "medium contrast",
+        "artificial light",
+        "natural light"
+    ],
+    "date_taken": 1538299740,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "8571269"
+    ],
+    "files_hash": "29287936341c71c1a1621ef3d1c502e0eb29d6b3",
+    "download_count": 25551,
+    "files": {
+        "tonemapped": {
+            "size": 3888755,
+            "md5": "d6ec0f86755ff1dd48471b10ca5b51fc",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/music_hall_02.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 98073156,
+                    "md5": "39912d95d0a7cbab2483cef02498057b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/music_hall_02_8k.hdr"
+                },
+                "exr": {
+                    "size": 78943728,
+                    "md5": "e4a0e03727a0bcd36ab954975b939519",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/music_hall_02_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 377388415,
+                    "md5": "f799a57941978ba68c05ec5f8d31df86",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/music_hall_02_16k.hdr"
+                },
+                "exr": {
+                    "size": 295279501,
+                    "md5": "369e37376e9a84dadff0ab0b2e3f4bab",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/music_hall_02_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24988117,
+                    "md5": "f9ec370142267e43673ac027423f454c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/music_hall_02_4k.hdr"
+                },
+                "exr": {
+                    "size": 20231890,
+                    "md5": "e03cf86009a2a7127e10285704fd503c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/music_hall_02_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6304435,
+                    "md5": "665547e1c5b0a03c24dfcce1850a26b8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/music_hall_02_2k.hdr"
+                },
+                "exr": {
+                    "size": 5195558,
+                    "md5": "9fcec1d37a7db50f2796418e4ce64e39",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/music_hall_02_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1593294,
+                    "md5": "c02c797b9c2f3d0128352a3169058519",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/music_hall_02_1k.hdr"
+                },
+                "exr": {
+                    "size": 1359627,
+                    "md5": "e447f2587ce7808ec994ca113c43f087",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/music_hall_02_1k.exr"
+                }
+            }
+        }
+    }
+}

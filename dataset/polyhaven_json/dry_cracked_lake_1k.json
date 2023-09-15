@@ -1,0 +1,122 @@
+{
+    "evs_cap": 26,
+    "type": 0,
+    "whitebalance": 5319,
+    "tags": [
+        "sun",
+        "tree",
+        "dirt",
+        "field",
+        "mud",
+        "dry"
+    ],
+    "name": "Dry Cracked Lake",
+    "categories": [
+        "natural light",
+        "outdoor",
+        "nature",
+        "high contrast",
+        "skies",
+        "partly cloudy",
+        "morning-afternoon"
+    ],
+    "date_taken": 1631974680,
+    "coords": [
+        -25.531355,
+        26.808768
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "date_published": 1654473600,
+    "prepaid": true,
+    "files_hash": "cfdc61a9d880ad750b1e9df896e8c59e76a6a5c0",
+    "download_count": 29998,
+    "files": {
+        "tonemapped": {
+            "size": 45135528,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/dry_cracked_lake.jpg",
+            "md5": "70e1121a61441369ccc69aab71630698"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 100505217,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/dry_cracked_lake_8k.hdr",
+                    "md5": "c36fc595adb50eb93813380b25ff6271"
+                },
+                "exr": {
+                    "size": 329560178,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/dry_cracked_lake_8k.exr",
+                    "md5": "3f08bd7ae764395530e2730cbe991edf"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 375261242,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/dry_cracked_lake_16k.hdr",
+                    "md5": "7ebf7e04769509719a643019851147e6"
+                },
+                "exr": {
+                    "size": 1261877006,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/dry_cracked_lake_16k.exr",
+                    "md5": "4efd938ddf8500c5a7b7c07f189bc889"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24652420,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/dry_cracked_lake_4k.hdr",
+                    "md5": "7d217702567907138c885c3f44561128"
+                },
+                "exr": {
+                    "size": 84206487,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/dry_cracked_lake_4k.exr",
+                    "md5": "f3cbfc4dc3b98ec56c5855898d10894e"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 833549637,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/dry_cracked_lake_24k.hdr",
+                    "md5": "9c018003db751573e6e3c2c3e9af3e83"
+                },
+                "exr": {
+                    "size": 2848124540,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/dry_cracked_lake_24k.exr",
+                    "md5": "d44641a3989137732036c2dcb53b01a1"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6139217,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/dry_cracked_lake_2k.hdr",
+                    "md5": "1526684813341d23432dde5e335ecab6"
+                },
+                "exr": {
+                    "size": 21962386,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/dry_cracked_lake_2k.exr",
+                    "md5": "0c23bbc44dc0d4c44d099dad63d9f1ad"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1575261,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/dry_cracked_lake_1k.hdr",
+                    "md5": "6ed80ffa72ae8c6167e6d95761cd2900"
+                },
+                "exr": {
+                    "size": 5891972,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/dry_cracked_lake_1k.exr",
+                    "md5": "bdfe94732f5879d7d887ceaf486f1ec6"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 66463572,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/dry_cracked_lake.zip",
+            "md5": "eb6c45df6ad71bc62d2ecbe3cd9e78a7"
+        }
+    }
+}

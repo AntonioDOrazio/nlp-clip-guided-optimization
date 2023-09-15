@@ -1,0 +1,106 @@
+{
+    "evs_cap": 14,
+    "prepaid": true,
+    "type": 0,
+    "tags": [
+        "workshop",
+        "hall",
+        "warehouse",
+        "industrial",
+        "machine",
+        "metal"
+    ],
+    "date_published": 1536616800,
+    "name": "Machine Shop 01",
+    "categories": [
+        "indoor",
+        "urban",
+        "medium contrast",
+        "natural light"
+    ],
+    "date_taken": 1535666400,
+    "coords": [
+        50.929001,
+        34.811448
+    ],
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        {
+            "url": "https://www.frame4.co.uk/",
+            "name": "Frame 4 Animation Studios"
+        }
+    ],
+    "files_hash": "f932893146723eac4dff127bc2e4740e10203363",
+    "download_count": 28849,
+    "files": {
+        "tonemapped": {
+            "size": 8120194,
+            "md5": "7a01300a03e05544f4822fa93fef58c2",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/machine_shop_01.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 107407696,
+                    "md5": "ce3b4ff6a487f5ab818714f563da437e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/machine_shop_01_8k.hdr"
+                },
+                "exr": {
+                    "size": 103306739,
+                    "md5": "4af243b41e9bafabe0f83f7234825a87",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/machine_shop_01_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 418035449,
+                    "md5": "e2e57b57501e461b66b9c18daeb57b20",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/machine_shop_01_16k.hdr"
+                },
+                "exr": {
+                    "size": 380592352,
+                    "md5": "f2b1f029731d48d0eaa65ed200bcfbcb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/machine_shop_01_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27523817,
+                    "md5": "9298b1c4d5e169f4c6dba12e0df03fe3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/machine_shop_01_4k.hdr"
+                },
+                "exr": {
+                    "size": 27072740,
+                    "md5": "8aa97d56ae2581dc5ad17b082befa6ed",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/machine_shop_01_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7001931,
+                    "md5": "ffc376e3035fc548f06c4000a0de0208",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/machine_shop_01_2k.hdr"
+                },
+                "exr": {
+                    "size": 6996022,
+                    "md5": "b6e99aaaa7022a21ebfb47c5708a6c25",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/machine_shop_01_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1779374,
+                    "md5": "fa36b82037cdea942aebed80f1112631",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/machine_shop_01_1k.hdr"
+                },
+                "exr": {
+                    "size": 1812807,
+                    "md5": "65daff51ac984d79287d258d755553fd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/machine_shop_01_1k.exr"
+                }
+            }
+        }
+    }
+}

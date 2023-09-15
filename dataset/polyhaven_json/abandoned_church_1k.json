@@ -1,0 +1,100 @@
+{
+    "evs_cap": 15,
+    "type": 0,
+    "tags": [
+        "tree",
+        "autumn",
+        "church",
+        "abandoned",
+        "leaves"
+    ],
+    "date_published": 1562018400,
+    "name": "Abandoned Church",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1553444400,
+    "coords": [
+        50.995194,
+        35.105417
+    ],
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "files_hash": "c1cc015ca53f949262aac6e1e8441842b8ed5675",
+    "download_count": 18025,
+    "files": {
+        "tonemapped": {
+            "size": 7381772,
+            "md5": "c7a3cacad06b24675ae429f48bac40cd",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/abandoned_church.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 106669894,
+                    "md5": "b3aac13a9182a93206ddff64f57f8f44",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/abandoned_church_8k.hdr"
+                },
+                "exr": {
+                    "size": 94288654,
+                    "md5": "d68670c40cb9f3590a416d53effb8dbf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/abandoned_church_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 402600725,
+                    "md5": "42b6d22116966b875203a438ff4d288b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/abandoned_church_16k.hdr"
+                },
+                "exr": {
+                    "size": 347400373,
+                    "md5": "5f772846765f93d330b14fe76ee723e0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/abandoned_church_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27183288,
+                    "md5": "4636d63ee3d70e48dcfd69c28e30a4d2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/abandoned_church_4k.hdr"
+                },
+                "exr": {
+                    "size": 24415319,
+                    "md5": "a163e8950285cf362094c2d92ed44800",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/abandoned_church_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6861217,
+                    "md5": "163664ff76452038329591b7051a952d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/abandoned_church_2k.hdr"
+                },
+                "exr": {
+                    "size": 6305418,
+                    "md5": "d65de0537ba663860f9d6585f3fe5525",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/abandoned_church_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1730881,
+                    "md5": "bc3293ffeb416ce12468c57598fa6578",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/abandoned_church_1k.hdr"
+                },
+                "exr": {
+                    "size": 1633107,
+                    "md5": "a9ddcc132328eddb5cfe4024df2f51ff",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/abandoned_church_1k.exr"
+                }
+            }
+        }
+    }
+}

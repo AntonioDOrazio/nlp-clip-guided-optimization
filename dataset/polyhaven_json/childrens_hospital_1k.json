@@ -1,0 +1,98 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "whitebalance": 5050,
+    "tags": [
+        "bed",
+        "ward",
+        "medical",
+        "hospital",
+        "room"
+    ],
+    "date_published": 1554415200,
+    "name": "Children's Hospital",
+    "categories": [
+        "indoor",
+        "urban",
+        "high contrast",
+        "artificial light"
+    ],
+    "date_taken": 1550246280,
+    "authors": {
+        "Oliksiy Yakovlyev": "All"
+    },
+    "sponsors": [
+        "77433244"
+    ],
+    "files_hash": "16ecf39751eab7d5f68e5a030f70aafaae2de4ca",
+    "download_count": 15845,
+    "files": {
+        "tonemapped": {
+            "size": 3494900,
+            "md5": "aa24c3ff721f5f64ec4e491f7a35a45e",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/childrens_hospital.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 99311765,
+                    "md5": "dab7391194c905c2ebdebbf9e80ffba2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/childrens_hospital_8k.hdr"
+                },
+                "exr": {
+                    "size": 76216444,
+                    "md5": "519b0c3ed6a6537ad9e194d78911789d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/childrens_hospital_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 407404891,
+                    "md5": "603f9e4942715cf1bbc8c1fc92986f96",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/childrens_hospital_16k.hdr"
+                },
+                "exr": {
+                    "size": 312734882,
+                    "md5": "f4c2850d3da48a3c516eea6a7f4ffeb6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/childrens_hospital_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24796141,
+                    "md5": "d664375df0777876814d5353afff3c47",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/childrens_hospital_4k.hdr"
+                },
+                "exr": {
+                    "size": 18730824,
+                    "md5": "90de45273985613d9543f02edc1d3cc4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/childrens_hospital_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5979344,
+                    "md5": "616048f5e36df268eb04cbaf2c0b0231",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/childrens_hospital_2k.hdr"
+                },
+                "exr": {
+                    "size": 4597140,
+                    "md5": "2cf55c4fb884029fc33d99d5e40ebe8c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/childrens_hospital_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1444947,
+                    "md5": "5336fbe3b7df01ff2becc27a865ec4a9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/childrens_hospital_1k.hdr"
+                },
+                "exr": {
+                    "size": 1161821,
+                    "md5": "6106dd930efa771cff9d6a9160dfb9bd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/childrens_hospital_1k.exr"
+                }
+            }
+        }
+    }
+}

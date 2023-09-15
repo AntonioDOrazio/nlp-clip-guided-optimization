@@ -1,0 +1,118 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5319,
+    "tags": [
+        "rock",
+        "hill",
+        "view",
+        "cannon",
+        "ocean",
+        "mountain"
+    ],
+    "date_published": 1600380000,
+    "name": "Cannon",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "midday",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        -34.176869,
+        18.419998
+    ],
+    "date_taken": 1581673800,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "11164276"
+    ],
+    "files_hash": "478df1624ce6236a0fd33b82f96b33a4ecb65180",
+    "download_count": 222940,
+    "files": {
+        "tonemapped": {
+            "size": 5104291,
+            "md5": "9125a8a15f6734b0366b1ab8c9e4cefc",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/cannon.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 88080974,
+                    "md5": "573dc362688cb82d21cffcc6fbc9e758",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/cannon_8k.hdr"
+                },
+                "exr": {
+                    "size": 24121268,
+                    "md5": "4255aa9f1050387c12c02f5453ed32a1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/cannon_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 363927537,
+                    "md5": "a3545c813b549195d36c27025d9cde6d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/cannon_16k.hdr"
+                },
+                "exr": {
+                    "size": 81098532,
+                    "md5": "e22dc6ed4157635f3c469d89980243a9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/cannon_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 21748761,
+                    "md5": "81ff9915b6a6f9146084c3d18c23bea2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/cannon_4k.hdr"
+                },
+                "exr": {
+                    "size": 6834735,
+                    "md5": "16abc5708507c5db54a7af5b132d4d0c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/cannon_4k.exr"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 823315219,
+                    "md5": "9302ad664a02a7be359b124148d0f328",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/cannon_24k.hdr"
+                },
+                "exr": {
+                    "size": 167702618,
+                    "md5": "d2a665a2471a303d0be14300e9b98d7a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/cannon_24k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5682084,
+                    "md5": "dede8625d6ca239bf802cfa07d33cbce",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/cannon_2k.hdr"
+                },
+                "exr": {
+                    "size": 1897095,
+                    "md5": "b52b966cb07935720d98ce6a6ac719c1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/cannon_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1516385,
+                    "md5": "654ba47b8adf0ba4b7b686c0e866a856",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/cannon_1k.hdr"
+                },
+                "exr": {
+                    "size": 533847,
+                    "md5": "09b4a6ba7519862086abebe075022487",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/cannon_1k.exr"
+                }
+            }
+        }
+    }
+}

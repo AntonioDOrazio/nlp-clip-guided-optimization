@@ -1,0 +1,514 @@
+{
+    "evs_cap": 10,
+    "type": 0,
+    "whitebalance": 5400,
+    "date_published": 1529659914,
+    "name": "Lythwood Room",
+    "categories": [
+        "indoor",
+        "urban",
+        "midday",
+        "overcast",
+        "low contrast",
+        "natural light",
+        "artificial light"
+    ],
+    "date_taken": 1521710520,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "backplates": true,
+    "tags": [
+        "couch",
+        "bed",
+        "lamp",
+        "window",
+        "mantel",
+        "carpet",
+        "backplates"
+    ],
+    "sponsors": [
+        "4714267"
+    ],
+    "files_hash": "81f9216d6eefcf3c8598b4730854ad6fc6c62860",
+    "download_count": 65614,
+    "files": {
+        "tonemapped": {
+            "size": 4190278,
+            "md5": "004ed677597376a17b4642f4d6e61883",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/lythwood_room.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 87449976,
+                    "md5": "0bb66042949ce5133bcb064b3ef63426",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/lythwood_room_8k.hdr"
+                },
+                "exr": {
+                    "size": 67582786,
+                    "md5": "0d0da5cc7649dd85faa3c64f07670b99",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/lythwood_room_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 303258133,
+                    "md5": "4d3875644ec73672c0f8f3da7b9a52d5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/lythwood_room_16k.hdr"
+                },
+                "exr": {
+                    "size": 239212811,
+                    "md5": "28abf7044fc7a6b574b30ce9e1be0b4e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/lythwood_room_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 22690769,
+                    "md5": "1d35a89e98ecfd6d41817724d63d37d3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/lythwood_room_4k.hdr"
+                },
+                "exr": {
+                    "size": 17833589,
+                    "md5": "7e26a6400d9c842796292bf352a1b7c5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/lythwood_room_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5728850,
+                    "md5": "b2733f3edeaa91bc6245b10128bb0ae3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/lythwood_room_2k.hdr"
+                },
+                "exr": {
+                    "size": 4651960,
+                    "md5": "258a1101b4b1b9af3461067cd4e34a25",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/lythwood_room_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1462225,
+                    "md5": "2d61c40d0fdf4346bd9e6f44e3941bbe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/lythwood_room_1k.hdr"
+                },
+                "exr": {
+                    "size": 1226735,
+                    "md5": "7dba763f98dd7ec7e9304d77806bc365",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/lythwood_room_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "DSC08749": {
+                "jpg_pretty": {
+                    "size": 18669323,
+                    "md5": "cd370dd9f26ad33d8a5a9b2a707f2521",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_pretty/DSC08749.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12347059,
+                    "md5": "62a9f43b82ca2f8366c9ce78b4f4ee00",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_plain/DSC08749.jpg"
+                },
+                "raw": {
+                    "size": 37060608,
+                    "md5": "0c5ba164ec9879712bae6b4239a40923",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/raw/DSC08749.ARW"
+                }
+            },
+            "DSC08741": {
+                "jpg_pretty": {
+                    "size": 16120592,
+                    "md5": "e6ba8dfdf7183721eded98f63e8ebd5a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_pretty/DSC08741.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12782025,
+                    "md5": "d70756300ccb6d59dd7c9b7ae0f92bb8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_plain/DSC08741.jpg"
+                },
+                "raw": {
+                    "size": 37060608,
+                    "md5": "08c0bee3c7977e926a78a081db583f8e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/raw/DSC08741.ARW"
+                }
+            },
+            "DSC08752": {
+                "jpg_pretty": {
+                    "size": 21598163,
+                    "md5": "45964822a67702836a086783848da103",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_pretty/DSC08752.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18691638,
+                    "md5": "6a3a9e31b5fd3b6812e03f4f2cb54b54",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_plain/DSC08752.jpg"
+                },
+                "raw": {
+                    "size": 36962304,
+                    "md5": "d26a97eb926c7c461f48cb73c69707c4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/raw/DSC08752.ARW"
+                }
+            },
+            "DSC08763": {
+                "jpg_pretty": {
+                    "size": 14990444,
+                    "md5": "34de246701378086844a9d3142b78102",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_pretty/DSC08763.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12015467,
+                    "md5": "b8e84c141d7e427dc11f65a51580f7a9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_plain/DSC08763.jpg"
+                },
+                "raw": {
+                    "size": 36962304,
+                    "md5": "cd33e8e5961fd3ab14fb32d50402cd1a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/raw/DSC08763.ARW"
+                }
+            },
+            "DSC08742": {
+                "jpg_pretty": {
+                    "size": 18357632,
+                    "md5": "3a33e691a20c951df38f984b373e30b2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_pretty/DSC08742.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11112442,
+                    "md5": "bda7bde7a92d2c97cea0adf3f04432a8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_plain/DSC08742.jpg"
+                },
+                "raw": {
+                    "size": 36929536,
+                    "md5": "779e5ba6a1046002176c0128bbd23551",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/raw/DSC08742.ARW"
+                }
+            },
+            "DSC08753": {
+                "jpg_pretty": {
+                    "size": 13410345,
+                    "md5": "22ec4435d3354a95d3afc6ae729000a2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_pretty/DSC08753.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10586398,
+                    "md5": "6612a738f0e1da405fd092acc392ec98",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_plain/DSC08753.jpg"
+                },
+                "raw": {
+                    "size": 36765696,
+                    "md5": "b947ba2639eddb9da723942324e3762b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/raw/DSC08753.ARW"
+                }
+            },
+            "DSC08764": {
+                "jpg_pretty": {
+                    "size": 12826469,
+                    "md5": "2b6a2ebcf9b99e1600527bc0ad92d31e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_pretty/DSC08764.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11130511,
+                    "md5": "32fb82db5a5157709976e9ecf289df4a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_plain/DSC08764.jpg"
+                },
+                "raw": {
+                    "size": 36864000,
+                    "md5": "86aefe147e7a7132019a7350c06618b2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/raw/DSC08764.ARW"
+                }
+            },
+            "DSC08743": {
+                "jpg_pretty": {
+                    "size": 15967863,
+                    "md5": "ce6b20bfd65409a061643c197544d1c0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_pretty/DSC08743.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12395427,
+                    "md5": "d5eaecdb3d4dc0ccdd373217c05dc71d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_plain/DSC08743.jpg"
+                },
+                "raw": {
+                    "size": 36995072,
+                    "md5": "01c9d66352f4a7fd9802785a21900ffb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/raw/DSC08743.ARW"
+                }
+            },
+            "DSC08765": {
+                "jpg_pretty": {
+                    "size": 16711304,
+                    "md5": "da6ffc4d6adc1a14ec30d12e630c6a04",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_pretty/DSC08765.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10678146,
+                    "md5": "a356defc6aad68d0e580e2f94645cbdc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_plain/DSC08765.jpg"
+                },
+                "raw": {
+                    "size": 36765696,
+                    "md5": "f01e45ee57c8e1872451c49802ab8999",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/raw/DSC08765.ARW"
+                }
+            },
+            "DSC08744": {
+                "jpg_pretty": {
+                    "size": 17982520,
+                    "md5": "88ca23806298d406c5d2cad9b8df3750",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_pretty/DSC08744.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14405417,
+                    "md5": "1ca933598f6396885d5d6c33cd1a007e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_plain/DSC08744.jpg"
+                },
+                "raw": {
+                    "size": 37060608,
+                    "md5": "258c59ae298d2a9503d735188da9c413",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/raw/DSC08744.ARW"
+                }
+            },
+            "DSC08755": {
+                "jpg_pretty": {
+                    "size": 22040294,
+                    "md5": "f6d94a50a8d05532c7eff19b77dbe895",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_pretty/DSC08755.jpg"
+                },
+                "jpg_plain": {
+                    "size": 17335506,
+                    "md5": "65a2422b68ccd7fa8bcad22005349181",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_plain/DSC08755.jpg"
+                },
+                "raw": {
+                    "size": 36864000,
+                    "md5": "318f5910e27e5b244f95887c3070e566",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/raw/DSC08755.ARW"
+                }
+            },
+            "DSC08766": {
+                "jpg_pretty": {
+                    "size": 17778132,
+                    "md5": "df4c1c032d8d9f5fba150d2aa513e6ce",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_pretty/DSC08766.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11901676,
+                    "md5": "cbf1502d806eacab64f519042ad2a3e2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_plain/DSC08766.jpg"
+                },
+                "raw": {
+                    "size": 36831232,
+                    "md5": "1b025faae55ba4174d7544b29162d254",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/raw/DSC08766.ARW"
+                }
+            },
+            "DSC08767": {
+                "jpg_pretty": {
+                    "size": 15739975,
+                    "md5": "77622e25bda07f6e1122fdd4ea621476",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_pretty/DSC08767.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13435653,
+                    "md5": "ebbd230e9bf2f8935edc4ab7b5d2bfc3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_plain/DSC08767.jpg"
+                },
+                "raw": {
+                    "size": 36995072,
+                    "md5": "145267192d72a0c11a045efaaf9122ea",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/raw/DSC08767.ARW"
+                }
+            },
+            "DSC08746": {
+                "jpg_pretty": {
+                    "size": 15185098,
+                    "md5": "9021227d92695c6180784f05faf14c8f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_pretty/DSC08746.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12594778,
+                    "md5": "4c3d6709378b8f9e3777ecd6140537c8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_plain/DSC08746.jpg"
+                },
+                "raw": {
+                    "size": 36929536,
+                    "md5": "ef3b3b84d86ff0b96d4797795eda6305",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/raw/DSC08746.ARW"
+                }
+            },
+            "DSC08757": {
+                "jpg_pretty": {
+                    "size": 15626435,
+                    "md5": "1f5f07364b44016ad855f3ba9d6b2229",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_pretty/DSC08757.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12527187,
+                    "md5": "678f6a0241a2314d9419297c18fd76b6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_plain/DSC08757.jpg"
+                },
+                "raw": {
+                    "size": 36765696,
+                    "md5": "47e52f4e22e8d147e7d3c507a7bc8f33",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/raw/DSC08757.ARW"
+                }
+            },
+            "DSC08768": {
+                "jpg_pretty": {
+                    "size": 15512333,
+                    "md5": "64d484ac9f0f48ea5452685e18570e3d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_pretty/DSC08768.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13305893,
+                    "md5": "54f9151a772f6a88f0d3a8799922a05a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_plain/DSC08768.jpg"
+                },
+                "raw": {
+                    "size": 36995072,
+                    "md5": "9dc26c0d7aee38a85b11a696700a2587",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/raw/DSC08768.ARW"
+                }
+            },
+            "DSC08747": {
+                "jpg_pretty": {
+                    "size": 17363798,
+                    "md5": "55142a3ae2fb42bc305bb5241a3e3fd2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_pretty/DSC08747.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11350299,
+                    "md5": "cfedfed8a2dda57d77d27bbd831a539e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_plain/DSC08747.jpg"
+                },
+                "raw": {
+                    "size": 36831232,
+                    "md5": "74785424863449971cc452ef0103d783",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/raw/DSC08747.ARW"
+                }
+            },
+            "DSC08758": {
+                "jpg_pretty": {
+                    "size": 18176907,
+                    "md5": "5aded32b3434a68339a54024a2a358ec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_pretty/DSC08758.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14603788,
+                    "md5": "15abcc8adee29674253215a91a22f439",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_plain/DSC08758.jpg"
+                },
+                "raw": {
+                    "size": 36765696,
+                    "md5": "cda12ca60c4f9a4e51a75733624652d6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/raw/DSC08758.ARW"
+                }
+            },
+            "DSC08748": {
+                "jpg_pretty": {
+                    "size": 16043112,
+                    "md5": "92eff16a3854d2bc6949711a7a847b73",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_pretty/DSC08748.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10975679,
+                    "md5": "356dfbcb9ec2a5c43daa487f9316e5d3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_plain/DSC08748.jpg"
+                },
+                "raw": {
+                    "size": 36831232,
+                    "md5": "5210bfaeaa7aec6b7d8616295b000531",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/raw/DSC08748.ARW"
+                }
+            },
+            "DSC08760": {
+                "jpg_pretty": {
+                    "size": 15460607,
+                    "md5": "b4ee9931edd5d40f3c925d8c5a9bb573",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_pretty/DSC08760.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10637596,
+                    "md5": "beca0755d34baaff12ee0de34a6d9691",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_plain/DSC08760.jpg"
+                },
+                "raw": {
+                    "size": 36831232,
+                    "md5": "64d8e702a96f0736cf36298b9430a5e8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/raw/DSC08760.ARW"
+                }
+            },
+            "DSC08771": {
+                "jpg_pretty": {
+                    "size": 17337293,
+                    "md5": "f4b7aafe407d2dfac3ed9a15b04c6a7d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_pretty/DSC08771.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16580717,
+                    "md5": "410bbc83d2b4fa6dec4adb81f00a9f4e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_plain/DSC08771.jpg"
+                },
+                "raw": {
+                    "size": 36864000,
+                    "md5": "cbeca94b9c3b05b7b462fcdd49e1f654",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/raw/DSC08771.ARW"
+                }
+            },
+            "DSC08761": {
+                "jpg_pretty": {
+                    "size": 15376861,
+                    "md5": "fd21124637c15e9369161881f7a8c570",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_pretty/DSC08761.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11266698,
+                    "md5": "2e8d276120fbb6a02bec03d9edfbd9a9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_plain/DSC08761.jpg"
+                },
+                "raw": {
+                    "size": 36896768,
+                    "md5": "1afa6c4cd754b4f27066c37eab1e2f71",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/raw/DSC08761.ARW"
+                }
+            },
+            "DSC08740": {
+                "jpg_pretty": {
+                    "size": 14310816,
+                    "md5": "95d3232df3da35b1b0a295cb42902cea",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_pretty/DSC08740.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12294520,
+                    "md5": "2e1633a3c4f39431047772fe5b104823",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_plain/DSC08740.jpg"
+                },
+                "raw": {
+                    "size": 37060608,
+                    "md5": "343d28fb2cf419e4301f95d9d6e51e4e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/raw/DSC08740.ARW"
+                }
+            },
+            "DSC08751": {
+                "jpg_pretty": {
+                    "size": 14684059,
+                    "md5": "2d72c15fb41443ce4e40907f14ec13c4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_pretty/DSC08751.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12324940,
+                    "md5": "3fab1fb17e711eaaf473b8992178e2d5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/jpg_plain/DSC08751.jpg"
+                },
+                "raw": {
+                    "size": 36798464,
+                    "md5": "a6da4046be333f784ff0f604392a2161",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/lythwood_room/raw/DSC08751.ARW"
+                }
+            }
+        }
+    }
+}

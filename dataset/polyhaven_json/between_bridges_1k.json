@@ -1,0 +1,103 @@
+{
+    "evs_cap": 19,
+    "type": 0,
+    "tags": [
+        "field",
+        "bridge",
+        "underpass",
+        "pillar",
+        "sun"
+    ],
+    "date_published": 1522879200,
+    "name": "Between Bridges",
+    "categories": [
+        "outdoor",
+        "urban",
+        "sunrise-sunset",
+        "partly cloudy",
+        "medium contrast",
+        "natural light"
+    ],
+    "coords": [
+        51.224918,
+        6.758612
+    ],
+    "date_taken": 1479031260,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "3267566"
+    ],
+    "files_hash": "aaa080f826b08d27510b2f4b7c9d45b6cf69ba7b",
+    "download_count": 13218,
+    "files": {
+        "tonemapped": {
+            "size": 6864387,
+            "md5": "9f233055a0e1a21e5c16964f39818c16",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/between_bridges.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101712581,
+                    "md5": "2f94f78454bc2c6a843a6ede37a7a653",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/between_bridges_8k.hdr"
+                },
+                "exr": {
+                    "size": 93116554,
+                    "md5": "8f6b3b12e6dc8ca231c13a90a40578d9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/between_bridges_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 378728099,
+                    "md5": "54f5ba3cd45e7643ca4a01c1fa5b6467",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/between_bridges_16k.hdr"
+                },
+                "exr": {
+                    "size": 338796460,
+                    "md5": "b3fca9eaa7bc76cdd11ad7b77f468ab8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/between_bridges_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26362045,
+                    "md5": "f13f6383af7ae6e6125dbb0d1735f5cc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/between_bridges_4k.hdr"
+                },
+                "exr": {
+                    "size": 24719814,
+                    "md5": "ed512e7077412a1b50693af2ac7193f6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/between_bridges_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6714133,
+                    "md5": "23746bf55d48f1dc10bdef3e68f0a9ec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/between_bridges_2k.hdr"
+                },
+                "exr": {
+                    "size": 6430915,
+                    "md5": "594b21537206c52f0a1cd3e531edf9ef",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/between_bridges_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1696027,
+                    "md5": "f1736895b663927160ace0f6d57a9686",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/between_bridges_1k.hdr"
+                },
+                "exr": {
+                    "size": 1657565,
+                    "md5": "9becf63337e3df994eaba1ec01350bd8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/between_bridges_1k.exr"
+                }
+            }
+        }
+    }
+}

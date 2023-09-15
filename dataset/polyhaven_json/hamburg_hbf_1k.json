@@ -1,0 +1,102 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "hall",
+        "windows",
+        "sun",
+        "train",
+        "station"
+    ],
+    "date_published": 1506981600,
+    "name": "Hamburg Hbf",
+    "categories": [
+        "indoor",
+        "urban",
+        "morning-afternoon",
+        "medium contrast",
+        "natural light"
+    ],
+    "coords": [
+        53.552837,
+        10.006848
+    ],
+    "date_taken": 1478181360,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "11167855"
+    ],
+    "files_hash": "ec0970a421ea03f070e0f1fc32e99664ac446151",
+    "download_count": 43743,
+    "files": {
+        "tonemapped": {
+            "size": 5997200,
+            "md5": "8a90e39a44c38876f80156f27422c0fc",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/hamburg_hbf.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102710785,
+                    "md5": "8284fc6fc7abcca805da1ef46eb2af16",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/hamburg_hbf_8k.hdr"
+                },
+                "exr": {
+                    "size": 93330760,
+                    "md5": "c5830ebef499bb1567d8fcca5dc25d58",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/hamburg_hbf_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 390018145,
+                    "md5": "58dfe230ebf4d3d889f9944edd61da0b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/hamburg_hbf_16k.hdr"
+                },
+                "exr": {
+                    "size": 330976392,
+                    "md5": "d0fb2bf7045e6aabe5d05d27c0d134cd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/hamburg_hbf_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26578235,
+                    "md5": "305bbe4428e018e828784fa6f3505ab9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/hamburg_hbf_4k.hdr"
+                },
+                "exr": {
+                    "size": 25403955,
+                    "md5": "27dbfc43b07574781ab8cbea03770b24",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/hamburg_hbf_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6816327,
+                    "md5": "83d4c22e96b6ed60df45e3bc965d02ed",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/hamburg_hbf_2k.hdr"
+                },
+                "exr": {
+                    "size": 6749086,
+                    "md5": "6fbca47722f86c93f1f31d2cb2ffce8e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/hamburg_hbf_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1736568,
+                    "md5": "133db19ba092dd1d41c7ac6f641e60a4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/hamburg_hbf_1k.hdr"
+                },
+                "exr": {
+                    "size": 1768151,
+                    "md5": "75b70f0adde04abf7fa8ffd63cced32a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/hamburg_hbf_1k.exr"
+                }
+            }
+        }
+    }
+}

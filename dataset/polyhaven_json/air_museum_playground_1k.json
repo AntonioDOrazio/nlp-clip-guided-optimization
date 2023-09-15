@@ -1,0 +1,588 @@
+{
+    "evs_cap": 27,
+    "type": 0,
+    "whitebalance": 5200,
+    "tags": [
+        "tree",
+        "swing",
+        "playground",
+        "grass",
+        "plane",
+        "hangar",
+        "backplates",
+        "sun"
+    ],
+    "name": "Air Museum Playground",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "partly cloudy",
+        "natural light",
+        "high contrast"
+    ],
+    "backplates": true,
+    "date_taken": 1602509880,
+    "coords": [
+        50.406602,
+        30.460978
+    ],
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "date_published": 1635206400,
+    "files_hash": "3871c96794f493ee7ffd8be27b88b145e337014c",
+    "download_count": 96501,
+    "files": {
+        "hdri": {
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/air_museum_playground_16k.hdr",
+                    "size": 376500077,
+                    "md5": "1de9953d8f19d460596763a8961c9b06"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/air_museum_playground_16k.exr",
+                    "size": 316761604,
+                    "md5": "44f73aed0da7dffdcbb45592de121ea7"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/air_museum_playground_8k.hdr",
+                    "size": 101379581,
+                    "md5": "db1de510a43d07c3d8097afef5cfae9a"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/air_museum_playground_8k.exr",
+                    "size": 87084577,
+                    "md5": "cb1a42d18092c60b4186a2686725b768"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/air_museum_playground_4k.hdr",
+                    "size": 26086560,
+                    "md5": "2a96546020ebaf29d52fa998032610c7"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/air_museum_playground_4k.exr",
+                    "size": 22728293,
+                    "md5": "965f2bec3754b32b3c65695ede314804"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/air_museum_playground_2k.hdr",
+                    "size": 6582298,
+                    "md5": "dc3952394b9f9b000b9d9598c4e3d383"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/air_museum_playground_2k.exr",
+                    "size": 5862906,
+                    "md5": "44871bd00327d6059cf51d97ec4956a7"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/air_museum_playground_1k.hdr",
+                    "size": 1652620,
+                    "md5": "7006fed4ec125018c168d42691877b20"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/air_museum_playground_1k.exr",
+                    "size": 1509440,
+                    "md5": "ad7fb912d3ad7b662338f84b7d2a8176"
+                }
+            }
+        },
+        "colorchart": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/air_museum_playground.zip",
+            "size": 80119051,
+            "md5": "cd39fa69ecafa8696e6d5144995d9326"
+        },
+        "tonemapped": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/air_museum_playground.jpg",
+            "size": 48946829,
+            "md5": "ad8286f97a701489f57de7d04d58f4a4"
+        },
+        "backplates": {
+            "10": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_pretty/10.jpg",
+                    "size": 18752717,
+                    "md5": "fe99dc108d34317fef975c8aba56d5fe"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/raw/10.NEF",
+                    "size": 30520138,
+                    "md5": "cd8590c00715c14a3a216ee7929b2986"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_plain/10.jpg",
+                    "size": 15175631,
+                    "md5": "b00ba8f429019e7aa15ca563f157b4af"
+                }
+            },
+            "11": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_pretty/11.jpg",
+                    "size": 18798300,
+                    "md5": "402aa328686f6fe2465f6d6f35b9f101"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/raw/11.NEF",
+                    "size": 29414804,
+                    "md5": "f0f495785534c8e066e59748783bdb92"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_plain/11.jpg",
+                    "size": 15250717,
+                    "md5": "09f303975dd63866d2d1934dd1f000b1"
+                }
+            },
+            "12": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_pretty/12.jpg",
+                    "size": 19808193,
+                    "md5": "d64168c5a8c3637f5d590ea49935ede4"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/raw/12.NEF",
+                    "size": 30095193,
+                    "md5": "2e3e08d7e1944de4643aa06bc8ab5a4b"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_plain/12.jpg",
+                    "size": 16112061,
+                    "md5": "0b7b1f2d7b9aa0f8d8d0ccbfe4727bc5"
+                }
+            },
+            "13": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_pretty/13.jpg",
+                    "size": 21568974,
+                    "md5": "cf013af53bb1d0686b505048d45d246f"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/raw/13.NEF",
+                    "size": 31878599,
+                    "md5": "e56b68b13df75ddedfddea331601772b"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_plain/13.jpg",
+                    "size": 17553853,
+                    "md5": "511e9ec82e49bc90a6f07c4737e75a2a"
+                }
+            },
+            "14": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_pretty/14.jpg",
+                    "size": 19493828,
+                    "md5": "7ac24f1cd68356d50bff35e52936d483"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/raw/14.NEF",
+                    "size": 30238158,
+                    "md5": "75a3a927c2c97cb9027a211e9b66cc48"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_plain/14.jpg",
+                    "size": 16902631,
+                    "md5": "3df82c2465a724ad15263dba5748066e"
+                }
+            },
+            "15": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_pretty/15.jpg",
+                    "size": 19744032,
+                    "md5": "237bc2c7e172b7e57d5799be6ec53eda"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/raw/15.NEF",
+                    "size": 29911406,
+                    "md5": "0bccc81ef35b12815d80440f0258490d"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_plain/15.jpg",
+                    "size": 17168040,
+                    "md5": "f9a5ae489f2ed9b7cc6291f4ebd02a12"
+                }
+            },
+            "16": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_pretty/16.jpg",
+                    "size": 19018942,
+                    "md5": "5f7ac7e95a9ada91283b9c8cb72dad96"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/raw/16.NEF",
+                    "size": 29435306,
+                    "md5": "fe21c206ce65847f204163d288d178f8"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_plain/16.jpg",
+                    "size": 15746313,
+                    "md5": "98479ad6a622044326e7f7e14ec076da"
+                }
+            },
+            "17": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_pretty/17.jpg",
+                    "size": 18116974,
+                    "md5": "8807d6377e061874c631cdff061b315a"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/raw/17.NEF",
+                    "size": 29310895,
+                    "md5": "aa81ef6a79b8a61467de5a610b8ea6c4"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_plain/17.jpg",
+                    "size": 14130049,
+                    "md5": "65108d063a500e6be5a1680275c51cbd"
+                }
+            },
+            "18": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_pretty/18.jpg",
+                    "size": 19523218,
+                    "md5": "ea608bafb869c6a13b840f5fc212ed17"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/raw/18.NEF",
+                    "size": 30628465,
+                    "md5": "c8ec0871f74ac4e8fc5990a9f175223f"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_plain/18.jpg",
+                    "size": 16116504,
+                    "md5": "137763133c8fea53e3fdfad8bd18a0a7"
+                }
+            },
+            "19": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_pretty/19.jpg",
+                    "size": 18689898,
+                    "md5": "1c124ee58ca617d2b04db16f1a2254a6"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/raw/19.NEF",
+                    "size": 29469103,
+                    "md5": "45f81e0c4f58af80884560524ab3bfba"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_plain/19.jpg",
+                    "size": 16916468,
+                    "md5": "3ce5f1da9ff7fc72fc42bfcc4aef6bd6"
+                }
+            },
+            "20": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_pretty/20.jpg",
+                    "size": 18882634,
+                    "md5": "7e1de6150b741b728110c3c5621da715"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/raw/20.NEF",
+                    "size": 28898582,
+                    "md5": "c4cef7b19feda2108f10f4b5c817fdf4"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_plain/20.jpg",
+                    "size": 16095334,
+                    "md5": "4b96528b00bb07a189fb445caac40109"
+                }
+            },
+            "21": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_pretty/21.jpg",
+                    "size": 18101726,
+                    "md5": "a4786c9527b79a7a4a3d34fed0161fa4"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/raw/21.NEF",
+                    "size": 29472300,
+                    "md5": "7ebc595150f609a952491631d669b363"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_plain/21.jpg",
+                    "size": 16315582,
+                    "md5": "3567930877b75b1e83923c617c2ad97b"
+                }
+            },
+            "22": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_pretty/22.jpg",
+                    "size": 19826097,
+                    "md5": "f069daac33a791e0c792b45bb9a061cb"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/raw/22.NEF",
+                    "size": 30262272,
+                    "md5": "f99d4b180b835929388115540481dedf"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_plain/22.jpg",
+                    "size": 16591074,
+                    "md5": "549ef7efc708a14f1cd1bbe7341117d0"
+                }
+            },
+            "23": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_pretty/23.jpg",
+                    "size": 17521090,
+                    "md5": "f9ab7651055d2303db9a51e4319b3829"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/raw/23.NEF",
+                    "size": 29149350,
+                    "md5": "c4092ec93675f1373a37caf084f737e1"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_plain/23.jpg",
+                    "size": 14904189,
+                    "md5": "a85653d655fb2848b4bb09c59fe1663d"
+                }
+            },
+            "24": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_pretty/24.jpg",
+                    "size": 15401636,
+                    "md5": "eb5b5e622cefdd2ac063a65d52a49232"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/raw/24.NEF",
+                    "size": 28666969,
+                    "md5": "c8c8e0f8988fa4d6a749e62a8660070d"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_plain/24.jpg",
+                    "size": 13569487,
+                    "md5": "65189e7109a1c4cde84e9fc9f78d166b"
+                }
+            },
+            "25": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_pretty/25.jpg",
+                    "size": 14795368,
+                    "md5": "e8641da56ea653f2de2afc5c9da01eaa"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/raw/25.NEF",
+                    "size": 27628294,
+                    "md5": "c5db68d0e73edc2f97789950991503ae"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_plain/25.jpg",
+                    "size": 12579257,
+                    "md5": "11e52c72a1b8ab59686c493db0894926"
+                }
+            },
+            "26": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_pretty/26.jpg",
+                    "size": 15244929,
+                    "md5": "8e0395bf8e8908dd8e69125c8fbdafda"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/raw/26.NEF",
+                    "size": 28130129,
+                    "md5": "e7066308f96e26fdba1a60ccc0965b72"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_plain/26.jpg",
+                    "size": 12602914,
+                    "md5": "20514f61d6c3a4edcbceac11b28ea6dd"
+                }
+            },
+            "27": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_pretty/27.jpg",
+                    "size": 17840741,
+                    "md5": "0025267b76f2da8b26c8c0a243696bd5"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/raw/27.NEF",
+                    "size": 28463791,
+                    "md5": "106ce3a30bc39676143c1acb8f887e19"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_plain/27.jpg",
+                    "size": 13817083,
+                    "md5": "cd2e34463e80025ae6f4ad4efafdd80a"
+                }
+            },
+            "28": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_pretty/28.jpg",
+                    "size": 16727587,
+                    "md5": "3c3c18367cd47f4d2a5e780d837e8634"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/raw/28.NEF",
+                    "size": 27795500,
+                    "md5": "3e8ccb85852aa6e4df795398af39defe"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_plain/28.jpg",
+                    "size": 12861900,
+                    "md5": "68c9356eeabf0aa30dcb891d1a0737e4"
+                }
+            },
+            "01": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_pretty/01.jpg",
+                    "size": 18601453,
+                    "md5": "a0c2f53cbc10da4231ab907850693095"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/raw/01.NEF",
+                    "size": 28964288,
+                    "md5": "83d07927ac0e7dec7ba9ec95d1d712bc"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_plain/01.jpg",
+                    "size": 14836539,
+                    "md5": "ebe741d3dae6f2c041713108d6b15e67"
+                }
+            },
+            "02": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_pretty/02.jpg",
+                    "size": 18377722,
+                    "md5": "7045cc3a0eb7fdc90680791012ba0cee"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/raw/02.NEF",
+                    "size": 29063108,
+                    "md5": "fe150015818acf8a2aa2d712c86b6a10"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_plain/02.jpg",
+                    "size": 14025606,
+                    "md5": "7a0c0f531a70ebddb2c70d408101202b"
+                }
+            },
+            "03": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_pretty/03.jpg",
+                    "size": 19383100,
+                    "md5": "f58ac790b730a4d45a4efa5171fa2cdc"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/raw/03.NEF",
+                    "size": 29706366,
+                    "md5": "5f355ac56df51ee1354f08478c23247c"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_plain/03.jpg",
+                    "size": 13739920,
+                    "md5": "b39015fcf051cf6144d8751c53e96fa1"
+                }
+            },
+            "04": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_pretty/04.jpg",
+                    "size": 18725794,
+                    "md5": "d7694b4596b437d65ef66626acd731a9"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/raw/04.NEF",
+                    "size": 29449341,
+                    "md5": "db3a7f0e64cb8dcd98b6098080e3db9f"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_plain/04.jpg",
+                    "size": 16382805,
+                    "md5": "8494958a9d42c08e4c624f83fc260468"
+                }
+            },
+            "05": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_pretty/05.jpg",
+                    "size": 18933701,
+                    "md5": "999e51f588a41158380e55de70a58cc1"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/raw/05.NEF",
+                    "size": 30219458,
+                    "md5": "969e6413e422b2decb2c97cd5c4ad990"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_plain/05.jpg",
+                    "size": 16180111,
+                    "md5": "9a6bbf564ac5b30957ecb6aa3ddd809f"
+                }
+            },
+            "06": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_pretty/06.jpg",
+                    "size": 16967291,
+                    "md5": "83e84c1e204136c73e3dcfa524180ce6"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/raw/06.NEF",
+                    "size": 29611853,
+                    "md5": "39b8f9a93f45c2e75f3e12bbede9ebd2"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_plain/06.jpg",
+                    "size": 13280990,
+                    "md5": "edae5738169f5ef3a60027a28d8198d9"
+                }
+            },
+            "07": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_pretty/07.jpg",
+                    "size": 18111161,
+                    "md5": "9b8561174c624482a9f29adce9081bd3"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/raw/07.NEF",
+                    "size": 29078508,
+                    "md5": "ea1d08d90b6d601f6b40ef4fd55cfe98"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_plain/07.jpg",
+                    "size": 15052853,
+                    "md5": "cbe1b6d8745024acd7f19cc2a0cb1ff4"
+                }
+            },
+            "08": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_pretty/08.jpg",
+                    "size": 17291841,
+                    "md5": "f650c2cefd3ca007ecbcbc00db394c77"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/raw/08.NEF",
+                    "size": 30257890,
+                    "md5": "63cc5eeebc0b1eee2daf26eb7c49d28d"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_plain/08.jpg",
+                    "size": 14483756,
+                    "md5": "41c470348d8c3f6bb6434e8b304c5406"
+                }
+            },
+            "09": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_pretty/09.jpg",
+                    "size": 16649229,
+                    "md5": "0680de088600ab57367346b15ffdbcb5"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/raw/09.NEF",
+                    "size": 30034121,
+                    "md5": "3ac97e48f1aa0cea1c80c7479996cd4e"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/air_museum_playground/jpg_plain/09.jpg",
+                    "size": 13913921,
+                    "md5": "d2f9c75954b9ba766d8b1a909f616a8d"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "evs_cap": 21,
+    "type": 0,
+    "tags": [
+        "sun",
+        "tree",
+        "dam",
+        "dirt",
+        "park"
+    ],
+    "date_published": 1522879200,
+    "name": "Emmarentia",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1436947680,
+    "coords": [
+        -26.154597,
+        28.004606
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "11167855"
+    ],
+    "files_hash": "48c8127a8912c00a4bea53829907fa1b60ade4b7",
+    "download_count": 19571,
+    "files": {
+        "tonemapped": {
+            "size": 10837143,
+            "md5": "6c6e6d0c2946c6e3b719d4a15ff801d8",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/emmarentia.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 112591424,
+                    "md5": "9a62b97607f3afe24167721423ea621b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/emmarentia_8k.hdr"
+                },
+                "exr": {
+                    "size": 119237277,
+                    "md5": "d034843235e3f8d30f87b26b73a56e1d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/emmarentia_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 425755527,
+                    "md5": "c7a8a3ec167c3a6587442dd77f129f26",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/emmarentia_16k.hdr"
+                },
+                "exr": {
+                    "size": 431091991,
+                    "md5": "5f497b3902e58a103ecc73e8c77a580f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/emmarentia_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 28718180,
+                    "md5": "286a2d2262258078d8d237d86d698394",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/emmarentia_4k.hdr"
+                },
+                "exr": {
+                    "size": 30192367,
+                    "md5": "d9b9df99e6fd0290b5cac861249ff8b8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/emmarentia_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7286585,
+                    "md5": "2e8812d9f35f6cbfeb8065907dca4e3d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/emmarentia_2k.hdr"
+                },
+                "exr": {
+                    "size": 7625711,
+                    "md5": "2f568a26c6454cb4289cf898694e3637",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/emmarentia_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1830932,
+                    "md5": "fa4284f4ba1f9f981ff8b136eb8cf0f4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/emmarentia_1k.hdr"
+                },
+                "exr": {
+                    "size": 1910058,
+                    "md5": "cedd0f695b6ad1e27ad5c1c3d126aa61",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/emmarentia_1k.exr"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "whitebalance": 5313,
+    "tags": [
+        "tree",
+        "sun",
+        "grass",
+        "dam",
+        "pond",
+        "golf"
+    ],
+    "name": "Limpopo Golf Course",
+    "categories": [
+        "natural light",
+        "outdoor",
+        "nature",
+        "partly cloudy",
+        "high contrast",
+        "morning-afternoon",
+        "skies"
+    ],
+    "date_taken": 1666510140,
+    "coords": [
+        -24.040301,
+        29.276987
+    ],
+    "info": null,
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "files_hash": "8bc22afa3df928413e2310f8b9e9b2747e36d3d0",
+    "date_published": 1670198400,
+    "download_count": 153044,
+    "files": {
+        "tonemapped": {
+            "size": 46736663,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/limpopo_golf_course.jpg",
+            "md5": "8f0f9fa12e26a64a0629766dce741f3c"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102808928,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/limpopo_golf_course_8k.hdr",
+                    "md5": "589898fba4e2d49ef0bb7dd08ffd2a9c"
+                },
+                "exr": {
+                    "size": 384529593,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/limpopo_golf_course_8k.exr",
+                    "md5": "0a0217781c67e011de20d92bc32a1495"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 380123798,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/limpopo_golf_course_16k.hdr",
+                    "md5": "31bf2796b1b0b0f74aed364580a9815d"
+                },
+                "exr": {
+                    "size": 1518564603,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/limpopo_golf_course_16k.exr",
+                    "md5": "8837cef73eb7a65cb1d61451e684e86c"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26179131,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/limpopo_golf_course_4k.hdr",
+                    "md5": "115140a9d3cdcdfe58d2069d16d0b0f9"
+                },
+                "exr": {
+                    "size": 96528014,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/limpopo_golf_course_4k.exr",
+                    "md5": "bf1dd6bdd85156da17df96a72bfaf1ec"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6564602,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/limpopo_golf_course_2k.hdr",
+                    "md5": "8485d6499ef5f0444deb6028ac2d6425"
+                },
+                "exr": {
+                    "size": 24193750,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/limpopo_golf_course_2k.exr",
+                    "md5": "1d4fe5096e8a6963375ba45bd8fbfcc1"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 829952976,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/limpopo_golf_course_24k.hdr",
+                    "md5": "0c3db898faf3799ec7475e0b37eaeafe"
+                },
+                "exr": {
+                    "size": 3382099652,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/limpopo_golf_course_24k.exr",
+                    "md5": "e592a20677290e32b3f9e194ddae36eb"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1642433,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/limpopo_golf_course_1k.hdr",
+                    "md5": "c893970f8d88990853ed957b9c432120"
+                },
+                "exr": {
+                    "size": 6070512,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/limpopo_golf_course_1k.exr",
+                    "md5": "4ae6b2810465262a4285b62746a4b11d"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 211329028,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/limpopo_golf_course.zip",
+            "md5": "3f66912a42ecb6ec09130f4e3b8980ed"
+        }
+    }
+}

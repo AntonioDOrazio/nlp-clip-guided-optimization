@@ -1,0 +1,107 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "arch",
+        "brick",
+        "window",
+        "mountain",
+        "great wall"
+    ],
+    "date_published": 1527544800,
+    "name": "Mutianyu",
+    "categories": [
+        "indoor",
+        "urban",
+        "morning-afternoon",
+        "clear",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1523781420,
+    "coords": [
+        40.4329,
+        116.57
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "url": "https://dabarti.com/",
+            "name": "Tomasz Wyszolmirski"
+        }
+    ],
+    "files_hash": "e7365e0c99fe52efe356efdd8ef30ee24ee30f9c",
+    "download_count": 31718,
+    "files": {
+        "tonemapped": {
+            "size": 6991696,
+            "md5": "aa18abf54dc66595818ee0598b5bf99c",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/mutianyu.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103615725,
+                    "md5": "085e8b597e0f57b04691a2eb8a32c5b0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/mutianyu_8k.hdr"
+                },
+                "exr": {
+                    "size": 96097267,
+                    "md5": "b8cace9b2a05b8fa28fb3641b5ab61a5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/mutianyu_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 389408376,
+                    "md5": "5fccb7b120be2d2b890274ecd4f1aeaa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/mutianyu_16k.hdr"
+                },
+                "exr": {
+                    "size": 338102403,
+                    "md5": "c5e65402d49c9a6b069ba82a006e6627",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/mutianyu_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26834360,
+                    "md5": "c43693a005dd09e322a789351ebc2ed8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/mutianyu_4k.hdr"
+                },
+                "exr": {
+                    "size": 25874573,
+                    "md5": "6ed19d8c4fc8d505fe2099c51ffc6ca8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/mutianyu_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6860925,
+                    "md5": "d35feb7a3af0459cb014b0450e79d512",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/mutianyu_2k.hdr"
+                },
+                "exr": {
+                    "size": 6739844,
+                    "md5": "14668f7e7d1c274b110016edb3da2add",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/mutianyu_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1741760,
+                    "md5": "0fa57e771af6e2d1809d28e803bb7b0e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/mutianyu_1k.hdr"
+                },
+                "exr": {
+                    "size": 1734196,
+                    "md5": "8e3310a15371eb1992f5b4b822df2a1a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/mutianyu_1k.exr"
+                }
+            }
+        }
+    }
+}

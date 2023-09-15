@@ -1,0 +1,93 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "whitebalance": 5050,
+    "tags": [
+        "museum",
+        "antique",
+        "display"
+    ],
+    "date_published": 1544742000,
+    "name": "Museum of Ethnography",
+    "categories": [
+        "indoor",
+        "urban",
+        "medium contrast",
+        "artificial light"
+    ],
+    "date_taken": 1542715500,
+    "authors": {
+        "Oliksiy Yakovlyev": "All"
+    },
+    "files_hash": "5af6db149b07b21d2b474927f7d9e363983dd959",
+    "download_count": 27106,
+    "files": {
+        "tonemapped": {
+            "size": 7647250,
+            "md5": "7fbcc21b750223c8830a86271902b5f6",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/museum_of_ethnography.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 98631972,
+                    "md5": "f2f9c89b2ce5668dd76ff1610a5a470b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/museum_of_ethnography_8k.hdr"
+                },
+                "exr": {
+                    "size": 94322398,
+                    "md5": "eae249e72cdccbf296e9cfd4f8feec0b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/museum_of_ethnography_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 422028163,
+                    "md5": "24096ccf9f9e1ea4bedb44bbd16af08b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/museum_of_ethnography_16k.hdr"
+                },
+                "exr": {
+                    "size": 396845353,
+                    "md5": "8c823743bd9b75326cdda41ea312af88",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/museum_of_ethnography_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25364400,
+                    "md5": "a065de4f4d591bb99b3a97ad8a1257f3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/museum_of_ethnography_4k.hdr"
+                },
+                "exr": {
+                    "size": 24582463,
+                    "md5": "453fb687c2a8880f77bd44cdbb9c7c1f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/museum_of_ethnography_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6489316,
+                    "md5": "7e1f9cbdbf5615b0ce046ecf02713bea",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/museum_of_ethnography_2k.hdr"
+                },
+                "exr": {
+                    "size": 6343463,
+                    "md5": "d68b936cd53bcd322c66bf80a1a19a7d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/museum_of_ethnography_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1658398,
+                    "md5": "44b6716c0ef9d5724f0feeff7e5babaf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/museum_of_ethnography_1k.hdr"
+                },
+                "exr": {
+                    "size": 1633254,
+                    "md5": "e65b28ddfee14e6f9b21f14e099be110",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/museum_of_ethnography_1k.exr"
+                }
+            }
+        }
+    }
+}

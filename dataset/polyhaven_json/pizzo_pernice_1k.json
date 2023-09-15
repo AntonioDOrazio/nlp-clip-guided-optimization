@@ -1,0 +1,121 @@
+{
+    "evs_cap": 22,
+    "name": "Pizzo Pernice",
+    "categories": [
+        "natural light",
+        "outdoor",
+        "nature",
+        "high contrast",
+        "skies",
+        "clear",
+        "midday"
+    ],
+    "type": 0,
+    "coords": [
+        45.995926,
+        8.51848
+    ],
+    "date_taken": 1650113100,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "tags": [
+        "sun",
+        "view",
+        "mountain",
+        "hilltop",
+        "alps",
+        "dry grass",
+        "flag",
+        "path"
+    ],
+    "date_published": 1655251200,
+    "files_hash": "6c602ee09d80183079f9d95cfc1a7742717ddb47",
+    "download_count": 41084,
+    "files": {
+        "tonemapped": {
+            "size": 47142391,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/pizzo_pernice.jpg",
+            "md5": "fca6496ee993914566338b4e9926b932"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 99708591,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/pizzo_pernice_8k.hdr",
+                    "md5": "2758cef9c87b1a8e871bf83eaff6e402"
+                },
+                "exr": {
+                    "size": 325341377,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/pizzo_pernice_8k.exr",
+                    "md5": "16a7e3f785dc927f1ec22d210e609ecb"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 382485731,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/pizzo_pernice_16k.hdr",
+                    "md5": "c6e058b8fe8e22e97eb00f69e30bbd0a"
+                },
+                "exr": {
+                    "size": 1274219943,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/pizzo_pernice_16k.exr",
+                    "md5": "337e90074f9ca14338c39ce06a68189d"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25067488,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/pizzo_pernice_4k.hdr",
+                    "md5": "aefc30e7b795661997f9c58f6f450877"
+                },
+                "exr": {
+                    "size": 83078596,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/pizzo_pernice_4k.exr",
+                    "md5": "dff586bbe4b3f2063c44f9e5c6fa7045"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6080816,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/pizzo_pernice_2k.hdr",
+                    "md5": "da369c6fa2006059c08ff5336f944290"
+                },
+                "exr": {
+                    "size": 21502044,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/pizzo_pernice_2k.exr",
+                    "md5": "f8b68227e2153d70b458ebf697223459"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1498460,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/pizzo_pernice_1k.hdr",
+                    "md5": "c1b8292bc6f6d6c21fbaed8b2fdcc372"
+                },
+                "exr": {
+                    "size": 5737636,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/pizzo_pernice_1k.exr",
+                    "md5": "628b45f72b7f87a796d8d41421cbf127"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 594969439,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/pizzo_pernice_20k.hdr",
+                    "md5": "25edafeab341feccc3415bd0abcef973"
+                },
+                "exr": {
+                    "size": 2006149490,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/pizzo_pernice_20k.exr",
+                    "md5": "e8009129dcfde7e0f15f6bdd9bec9701"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 436498786,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/pizzo_pernice.zip",
+            "md5": "27fc8bb0ec06731a885bc15decffb7c5"
+        }
+    }
+}

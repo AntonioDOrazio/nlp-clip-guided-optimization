@@ -1,0 +1,111 @@
+{
+    "evs_cap": 20,
+    "type": 0,
+    "tags": [
+        "sand",
+        "dirt",
+        "rock",
+        "desert",
+        "desolate",
+        "sun"
+    ],
+    "date_published": 1506981840,
+    "name": "Goegap",
+    "categories": [
+        "outdoor",
+        "nature",
+        "midday",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        -29.670775,
+        17.997362
+    ],
+    "date_taken": 1504182780,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "url": "https://www.idin-jewellery.co.uk/",
+            "name": "Idin Jewellery"
+        },
+        {
+            "url": "http://www.patreon.com/homoeros",
+            "name": "Homoeros"
+        }
+    ],
+    "files_hash": "e980029c8ab27926ea24f1f222c64948a689fa5b",
+    "download_count": 155883,
+    "files": {
+        "tonemapped": {
+            "size": 6050862,
+            "md5": "6a1a3f9782e15fffef6d41b1bba4a851",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/goegap.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 89401111,
+                    "md5": "38d7d9923d6ed1dd410ba01d186bbbfb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/goegap_8k.hdr"
+                },
+                "exr": {
+                    "size": 78580718,
+                    "md5": "c5004dcb4c9e201845cec4e600864635",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/goegap_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 327998143,
+                    "md5": "6c22c90d9e44e34a2bc75643f342b4f8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/goegap_16k.hdr"
+                },
+                "exr": {
+                    "size": 292448526,
+                    "md5": "f3936578425d1262a68a046cd590a56a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/goegap_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 22384990,
+                    "md5": "5d241321fdf2bb938210f4fdb0da722b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/goegap_4k.hdr"
+                },
+                "exr": {
+                    "size": 20139665,
+                    "md5": "b451fbff4966d79c63a3ff9d24e691a9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/goegap_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5445362,
+                    "md5": "99549da700310e1ea12e7cdabe50841f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/goegap_2k.hdr"
+                },
+                "exr": {
+                    "size": 5052047,
+                    "md5": "449fa772903013d884898902ca1f0af7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/goegap_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1361485,
+                    "md5": "136ccde9732506fad64b090cdb535601",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/goegap_1k.hdr"
+                },
+                "exr": {
+                    "size": 1274303,
+                    "md5": "dfe778d503af0128bdc6f75aaa82191e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/goegap_1k.exr"
+                }
+            }
+        }
+    }
+}

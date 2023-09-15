@@ -1,0 +1,103 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "tree",
+        "park",
+        "leaves",
+        "autumn"
+    ],
+    "date_published": 1571349600,
+    "name": "Old Tree in City Park",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        38.117457,
+        13.369589
+    ],
+    "date_taken": 1569766440,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        {
+            "name": "Rick Kay"
+        }
+    ],
+    "files_hash": "537f4b66785fe8a7baaada580686345d00c689fd",
+    "download_count": 9865,
+    "files": {
+        "tonemapped": {
+            "size": 10970508,
+            "md5": "dd3ec1995f06d133fae7a684893cff0b",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/old_tree_in_city_park.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 113842979,
+                    "md5": "0cecf8e1cc9066da7554b21f22b28fea",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/old_tree_in_city_park_8k.hdr"
+                },
+                "exr": {
+                    "size": 116924834,
+                    "md5": "3708fffd35702f9a89f3c7e105650005",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/old_tree_in_city_park_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 432307822,
+                    "md5": "a372c2179cadac3ee6617de247cc1cd6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/old_tree_in_city_park_16k.hdr"
+                },
+                "exr": {
+                    "size": 427192758,
+                    "md5": "4e7bcb2e934490a82cb51bbb080ab508",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/old_tree_in_city_park_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 29557102,
+                    "md5": "d624c7aeb80e7ef2af964e9d9ccfd954",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/old_tree_in_city_park_4k.hdr"
+                },
+                "exr": {
+                    "size": 30917516,
+                    "md5": "a0f9eaf2b89beef37602dcfefbff8102",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/old_tree_in_city_park_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7599769,
+                    "md5": "98aa476348c4411b028823a2831d0834",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/old_tree_in_city_park_2k.hdr"
+                },
+                "exr": {
+                    "size": 8018943,
+                    "md5": "d0ddd2fea6d491411ee8ba4a34d448a6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/old_tree_in_city_park_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1937195,
+                    "md5": "13240b01a387b0fe30ca0b29c41dbf18",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/old_tree_in_city_park_1k.hdr"
+                },
+                "exr": {
+                    "size": 2055694,
+                    "md5": "dce7a955ad045ce3c5df94e6830b563f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/old_tree_in_city_park_1k.exr"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,379 @@
+{
+    "evs_cap": 27,
+    "type": 0,
+    "whitebalance": 5100,
+    "date_published": 1599516000,
+    "name": "Future Parking",
+    "categories": [
+        "outdoor",
+        "urban",
+        "morning-afternoon",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1594397220,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "backplates": true,
+    "tags": [
+        "lot",
+        "building",
+        "dirt",
+        "construction",
+        "rubble",
+        "brick",
+        "backplates"
+    ],
+    "files_hash": "ab3425b36e8d2b6b0549cd6c631606a293752533",
+    "download_count": 35973,
+    "files": {
+        "tonemapped": {
+            "size": 7775488,
+            "md5": "27a9f330f2409238d5fcb07ff52ba491",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/future_parking.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 98661158,
+                    "md5": "c29cb3512157056e1a436c88a11ec54a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/future_parking_8k.hdr"
+                },
+                "exr": {
+                    "size": 87315747,
+                    "md5": "8203d5c64c474b475544d408064c57c4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/future_parking_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 364601119,
+                    "md5": "0351182a1694a9944eabdd215557fff3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/future_parking_16k.hdr"
+                },
+                "exr": {
+                    "size": 315483834,
+                    "md5": "f4b6dd81414f191bb19c4189866430f5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/future_parking_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25186295,
+                    "md5": "bed6d57d5e621cb4ab4ce91984e55133",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/future_parking_4k.hdr"
+                },
+                "exr": {
+                    "size": 22760525,
+                    "md5": "4715beca70215eba31ee311ee8c66a52",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/future_parking_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6217527,
+                    "md5": "6f34dcdbdb96753e81f9f28836fed886",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/future_parking_2k.hdr"
+                },
+                "exr": {
+                    "size": 5804583,
+                    "md5": "85392c1f4bf7870412b6756ee5572c67",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/future_parking_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1538028,
+                    "md5": "6b14b57dce7fb82a5d55ff6e2ede4034",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/future_parking_1k.hdr"
+                },
+                "exr": {
+                    "size": 1490626,
+                    "md5": "4479066c3d22a76a8f3e1a6646ebd5a7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/future_parking_1k.exr"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 64034983,
+            "md5": "c0fdbe7bf079bfb8ed9ae7677a693e6c",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/future_parking.zip"
+        },
+        "backplates": {
+            "DSC_0129": {
+                "jpg_pretty": {
+                    "size": 14729668,
+                    "md5": "4ae66733bd8abae590e39f5187bc5cdb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/jpg_pretty/DSC_0129.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10570890,
+                    "md5": "1617510a1f67510698a7884869c74046",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/jpg_plain/DSC_0129.jpg"
+                },
+                "raw": {
+                    "size": 19586199,
+                    "md5": "805300074ee536fffc06b599b4f367e4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/raw/DSC_0129.NEF"
+                }
+            },
+            "DSC_0139": {
+                "jpg_pretty": {
+                    "size": 14017672,
+                    "md5": "1fe3d10affe5670aa9d56c8f3cecb908",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/jpg_pretty/DSC_0139.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9760964,
+                    "md5": "4e16c6ab5399ca04a28e426aee38106c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/jpg_plain/DSC_0139.jpg"
+                },
+                "raw": {
+                    "size": 17074331,
+                    "md5": "7ed9706c40151cc8a13355c27cf2648a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/raw/DSC_0139.NEF"
+                }
+            },
+            "DSC_0204": {
+                "jpg_pretty": {
+                    "size": 15156089,
+                    "md5": "271536064cfadae6e7c759544828916c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/jpg_pretty/DSC_0204.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10927371,
+                    "md5": "265d8b262a545a288557447badf7103c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/jpg_plain/DSC_0204.jpg"
+                },
+                "raw": {
+                    "size": 18783357,
+                    "md5": "cccd9054a01d7b42974e2a356a542326",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/raw/DSC_0204.NEF"
+                }
+            },
+            "DSC_0214": {
+                "jpg_pretty": {
+                    "size": 15933264,
+                    "md5": "e437605c253ca36ef6b43ed9514c225f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/jpg_pretty/DSC_0214.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12022913,
+                    "md5": "fdcccad9de1a3ba703170b108757e79d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/jpg_plain/DSC_0214.jpg"
+                },
+                "raw": {
+                    "size": 20535585,
+                    "md5": "064a7cf467c9f172ea6c82e9355504a2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/raw/DSC_0214.NEF"
+                }
+            },
+            "DSC_0209": {
+                "jpg_pretty": {
+                    "size": 14442705,
+                    "md5": "ecca63bebd9be80f42dc600be95e8edd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/jpg_pretty/DSC_0209.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11025768,
+                    "md5": "dab6c24a3a3158b4ea2d7aa640246c15",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/jpg_plain/DSC_0209.jpg"
+                },
+                "raw": {
+                    "size": 19610733,
+                    "md5": "3564d0113d5655dbe1d30018e7cb15b8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/raw/DSC_0209.NEF"
+                }
+            },
+            "DSC_0219": {
+                "jpg_pretty": {
+                    "size": 14696674,
+                    "md5": "ff9402365600443a13bc0053de8f717d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/jpg_pretty/DSC_0219.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11235490,
+                    "md5": "7e02eece6115258e248ad1aeaddee737",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/jpg_plain/DSC_0219.jpg"
+                },
+                "raw": {
+                    "size": 19706437,
+                    "md5": "136aac16e39ae233836ac037a631ffe2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/raw/DSC_0219.NEF"
+                }
+            },
+            "DSC_0229": {
+                "jpg_pretty": {
+                    "size": 15893942,
+                    "md5": "7900a35f9313b9083b658711674a219a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/jpg_pretty/DSC_0229.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10993854,
+                    "md5": "1dbf8c8d90be6e271f6ef15d85e47516",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/jpg_plain/DSC_0229.jpg"
+                },
+                "raw": {
+                    "size": 19515708,
+                    "md5": "c05cda623eb6ddb4e70166c365cd074d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/raw/DSC_0229.NEF"
+                }
+            },
+            "DSC_0174": {
+                "jpg_pretty": {
+                    "size": 14539070,
+                    "md5": "f8335fbf3d00014e52ef4a54b8556c2b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/jpg_pretty/DSC_0174.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10059024,
+                    "md5": "9d2d2db9103bda1f75a902c84ac63f5e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/jpg_plain/DSC_0174.jpg"
+                },
+                "raw": {
+                    "size": 19106231,
+                    "md5": "da400aeb3dd0846bcb3f77ea0518a25a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/raw/DSC_0174.NEF"
+                }
+            },
+            "DSC_0184": {
+                "jpg_pretty": {
+                    "size": 14392833,
+                    "md5": "63305f9df8e9c22495bbfbe2c2803c65",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/jpg_pretty/DSC_0184.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10501723,
+                    "md5": "6140deed1dc478256554e5d4739de94e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/jpg_plain/DSC_0184.jpg"
+                },
+                "raw": {
+                    "size": 17934519,
+                    "md5": "e9ff8dac5c6d28e65a2842efd36214c8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/raw/DSC_0184.NEF"
+                }
+            },
+            "DSC_0224": {
+                "jpg_pretty": {
+                    "size": 15835266,
+                    "md5": "328f45d2d6c92cae31a82bd6e955506b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/jpg_pretty/DSC_0224.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10813854,
+                    "md5": "5af573c9e2f58993813102ef1147d325",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/jpg_plain/DSC_0224.jpg"
+                },
+                "raw": {
+                    "size": 19556804,
+                    "md5": "b54b4518040b7a36009c5082f5647550",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/raw/DSC_0224.NEF"
+                }
+            },
+            "DSC_0179": {
+                "jpg_pretty": {
+                    "size": 13591180,
+                    "md5": "2d2a366affe36b8dae7a1332b5fb75a6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/jpg_pretty/DSC_0179.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10320343,
+                    "md5": "f4cff78e03ad8b8ea80818c8cbf230d0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/jpg_plain/DSC_0179.jpg"
+                },
+                "raw": {
+                    "size": 17595188,
+                    "md5": "1e478bcd2cd781ce0808ac566a2ccf46",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/raw/DSC_0179.NEF"
+                }
+            },
+            "DSC_0134": {
+                "jpg_pretty": {
+                    "size": 15114372,
+                    "md5": "91622bce169e22d6c6b1003cfa1e799e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/jpg_pretty/DSC_0134.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10540216,
+                    "md5": "11fae7392400a9027dbcf6e8d7412a42",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/jpg_plain/DSC_0134.jpg"
+                },
+                "raw": {
+                    "size": 19648807,
+                    "md5": "5ec5b2e8ae6a815da13d186cbf2c92b4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/raw/DSC_0134.NEF"
+                }
+            },
+            "DSC_0189": {
+                "jpg_pretty": {
+                    "size": 13192434,
+                    "md5": "6b9b90b125f8376654b2f74ed0cb75fb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/jpg_pretty/DSC_0189.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10231535,
+                    "md5": "67c28a0b1b3997b70520a8ba7f005fc5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/jpg_plain/DSC_0189.jpg"
+                },
+                "raw": {
+                    "size": 17509518,
+                    "md5": "8e91318e0f24b9ba4a024a3e2ebf1c8f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/raw/DSC_0189.NEF"
+                }
+            },
+            "DSC_0144": {
+                "jpg_pretty": {
+                    "size": 12942602,
+                    "md5": "97fe78a0c37093edfca8abb64179b617",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/jpg_pretty/DSC_0144.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10708792,
+                    "md5": "ba903c146f243c554cb9693795da04d3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/jpg_plain/DSC_0144.jpg"
+                },
+                "raw": {
+                    "size": 18449133,
+                    "md5": "fddaea48e8bbf8eb627373ee272010dc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/raw/DSC_0144.NEF"
+                }
+            },
+            "DSC_0199": {
+                "jpg_pretty": {
+                    "size": 14540735,
+                    "md5": "0a25c2f9151f78808eb2d6be336b27b0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/jpg_pretty/DSC_0199.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10939306,
+                    "md5": "af50782016712d28aeb7d762dd64a408",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/jpg_plain/DSC_0199.jpg"
+                },
+                "raw": {
+                    "size": 18252376,
+                    "md5": "e47b9e3d279410163a69e2791de7cfa6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/raw/DSC_0199.NEF"
+                }
+            },
+            "DSC_0194": {
+                "jpg_pretty": {
+                    "size": 15310144,
+                    "md5": "3f836dcea69ed216ef40a55662eb3458",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/jpg_pretty/DSC_0194.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11556063,
+                    "md5": "34375c932366a9b17a575f729ef2902d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/jpg_plain/DSC_0194.jpg"
+                },
+                "raw": {
+                    "size": 19292829,
+                    "md5": "0b846768b9213989a4defafb1f56d3f5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/future_parking/raw/DSC_0194.NEF"
+                }
+            }
+        }
+    }
+}

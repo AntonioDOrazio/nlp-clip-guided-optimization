@@ -1,0 +1,308 @@
+{
+    "evs_cap": 23,
+    "type": 0,
+    "whitebalance": 5250,
+    "date_published": 1578956400,
+    "name": "Freight Station",
+    "categories": [
+        "outdoor",
+        "skies",
+        "urban",
+        "sunrise-sunset",
+        "partly cloudy",
+        "medium contrast",
+        "natural light"
+    ],
+    "date_taken": 1567786440,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "backplates": true,
+    "tags": [
+        "sun",
+        "industrial",
+        "crane",
+        "backplates"
+    ],
+    "files_hash": "64dd88b0ed39b976066bf9c4d7c2d6c195dafc02",
+    "sponsors": [
+        "16608220",
+        "4714267"
+    ],
+    "download_count": 53418,
+    "files": {
+        "tonemapped": {
+            "size": 4188539,
+            "md5": "d2659659db25c76faec99e4f8bcb6477",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/freight_station.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101297955,
+                    "md5": "c190bbb4705eebe7bf44ec2752d83118",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/freight_station_8k.hdr"
+                },
+                "exr": {
+                    "size": 77105431,
+                    "md5": "9bf52a85f15e0064e9a993179f959d44",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/freight_station_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 389425990,
+                    "md5": "9d94c070a968ce3d021011b1be59f4cd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/freight_station_16k.hdr"
+                },
+                "exr": {
+                    "size": 290267162,
+                    "md5": "b008a4ef683db12f29f0e37a237f1f72",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/freight_station_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25730146,
+                    "md5": "f546fb61c99adb3d33ce46eda4b96385",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/freight_station_4k.hdr"
+                },
+                "exr": {
+                    "size": 19899126,
+                    "md5": "0c8b1ad59408e225d06ffcaa0026e883",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/freight_station_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6482505,
+                    "md5": "6ba3a42dc225ecd61ffa9249417e0bfa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/freight_station_2k.hdr"
+                },
+                "exr": {
+                    "size": 5156947,
+                    "md5": "41b0695334343616a172745075453144",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/freight_station_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1634490,
+                    "md5": "03917eb5cb4d28ecaf52e9d8d8876330",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/freight_station_1k.hdr"
+                },
+                "exr": {
+                    "size": 1349263,
+                    "md5": "4f1e6a0823914ecaae5a3e2fe002f098",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/freight_station_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "DSC_0154": {
+                "jpg_pretty": {
+                    "size": 14623125,
+                    "md5": "dbd565b9f575bbf5f2639456d4da0bb1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/jpg_pretty/DSC_0154.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8899493,
+                    "md5": "2146241ef65df86b95a0050a639a3cd8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/jpg_plain/DSC_0154.jpg"
+                },
+                "raw": {
+                    "size": 16748928,
+                    "md5": "d3c2bf47b2541e87154602813f19d58a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/raw/DSC_0154.NEF"
+                }
+            },
+            "DSC_0264": {
+                "jpg_pretty": {
+                    "size": 13788915,
+                    "md5": "9d550908945f8ad135f51663e47162cd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/jpg_pretty/DSC_0264.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8144454,
+                    "md5": "aef1f98d5337795fa94d508a54bc6c19",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/jpg_plain/DSC_0264.jpg"
+                },
+                "raw": {
+                    "size": 16108413,
+                    "md5": "60354f7ed5d12cb1c16ea733bca27f06",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/raw/DSC_0264.NEF"
+                }
+            },
+            "DSC_0174": {
+                "jpg_pretty": {
+                    "size": 13317559,
+                    "md5": "f0069ff5c4a0ae7f614e2e5d78749cc8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/jpg_pretty/DSC_0174.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7787058,
+                    "md5": "9ca69fb0b846dda5ca68bf10102cebe3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/jpg_plain/DSC_0174.jpg"
+                },
+                "raw": {
+                    "size": 16175792,
+                    "md5": "8a145da9b58e65e856e8f7effcf9a837",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/raw/DSC_0174.NEF"
+                }
+            },
+            "DSC_0169": {
+                "jpg_pretty": {
+                    "size": 15425344,
+                    "md5": "382ad077e35a8642509e87720f283e3e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/jpg_pretty/DSC_0169.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9913571,
+                    "md5": "1e217668d6b22a031bd07df18b65ec8f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/jpg_plain/DSC_0169.jpg"
+                },
+                "raw": {
+                    "size": 17201654,
+                    "md5": "3f3608683d2d9f6694a555a87da7b99e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/raw/DSC_0169.NEF"
+                }
+            },
+            "DSC_0299": {
+                "jpg_pretty": {
+                    "size": 11831219,
+                    "md5": "4016c67bcf9b3b65132e5c728329802b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/jpg_pretty/DSC_0299.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6019448,
+                    "md5": "b5375d145a4ae2e4f3bab74f1a0c8cd2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/jpg_plain/DSC_0299.jpg"
+                },
+                "raw": {
+                    "size": 15204112,
+                    "md5": "264220f80b3641dde4d6efc88da96a39",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/raw/DSC_0299.NEF"
+                }
+            },
+            "DSC_0228": {
+                "jpg_pretty": {
+                    "size": 15740212,
+                    "md5": "267d133e678c6d0d4dabdbf1eaa6da61",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/jpg_pretty/DSC_0228.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12619086,
+                    "md5": "78eaf3d61ec989fd0824ad49c66d64d5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/jpg_plain/DSC_0228.jpg"
+                },
+                "raw": {
+                    "size": 19514658,
+                    "md5": "1390e8576d2bd40a7a896f251ad88124",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/raw/DSC_0228.NEF"
+                }
+            },
+            "DSC_0139": {
+                "jpg_pretty": {
+                    "size": 13430908,
+                    "md5": "1a71a0c9adfdfb678a1796b9d1ce874d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/jpg_pretty/DSC_0139.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7291588,
+                    "md5": "213c2de461f495b8552b1d6dbe48e0c2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/jpg_plain/DSC_0139.jpg"
+                },
+                "raw": {
+                    "size": 15971768,
+                    "md5": "bf8527254c497abbc99b5d07d79e755a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/raw/DSC_0139.NEF"
+                }
+            },
+            "DSC_0238": {
+                "jpg_pretty": {
+                    "size": 15083940,
+                    "md5": "eb32e07b950334a3c573a99988d2b8d1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/jpg_pretty/DSC_0238.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10168330,
+                    "md5": "bfa6ec5515ce1fe3c05381bb2c7a38ce",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/jpg_plain/DSC_0238.jpg"
+                },
+                "raw": {
+                    "size": 18555013,
+                    "md5": "6f65c9e2e2165e87aaad1744f9862820",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/raw/DSC_0238.NEF"
+                }
+            },
+            "DSC_0149": {
+                "jpg_pretty": {
+                    "size": 13543138,
+                    "md5": "8e18e5efa5f4c264bd06efab5db1e5b4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/jpg_pretty/DSC_0149.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9699021,
+                    "md5": "e41d027fdb744e340dc6fc031fb69136",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/jpg_plain/DSC_0149.jpg"
+                },
+                "raw": {
+                    "size": 17285665,
+                    "md5": "cc2d646c05c7b611478b094d9768b33d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/raw/DSC_0149.NEF"
+                }
+            },
+            "DSC_0259": {
+                "jpg_pretty": {
+                    "size": 11582292,
+                    "md5": "547370e0928f94583fb1d6b42276eb8f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/jpg_pretty/DSC_0259.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6672553,
+                    "md5": "eaf4a0139f8b0271a6a371a5729f46c1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/jpg_plain/DSC_0259.jpg"
+                },
+                "raw": {
+                    "size": 15478809,
+                    "md5": "3e0b7523a07558c91511780488bb6439",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/raw/DSC_0259.NEF"
+                }
+            },
+            "DSC_0303": {
+                "jpg_pretty": {
+                    "size": 12244035,
+                    "md5": "3e49cd3a8dea8d0ea6d0e329435fe0d8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/jpg_pretty/DSC_0303.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7919163,
+                    "md5": "e32561411f67de1380d49c314e4bc32b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/jpg_plain/DSC_0303.jpg"
+                },
+                "raw": {
+                    "size": 17650823,
+                    "md5": "99421d753220c77c413a0684bb959f2a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/raw/DSC_0303.NEF"
+                }
+            },
+            "DSC_0159": {
+                "jpg_pretty": {
+                    "size": 13355828,
+                    "md5": "f85008c03ea0fa63aeba849c02293870",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/jpg_pretty/DSC_0159.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7743563,
+                    "md5": "2b0fe6d93bf97d67960a47dd39be8b5e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/jpg_plain/DSC_0159.jpg"
+                },
+                "raw": {
+                    "size": 16125692,
+                    "md5": "36fecc0c106ad8a124d1b7caf37e0217",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/freight_station/raw/DSC_0159.NEF"
+                }
+            }
+        }
+    }
+}

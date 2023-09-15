@@ -1,0 +1,122 @@
+{
+    "evs_cap": 14,
+    "type": 0,
+    "tags": [
+        "tree",
+        "sun",
+        "grass",
+        "path",
+        "park",
+        "london"
+    ],
+    "date_published": 1555365600,
+    "name": "Greenwich Park",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1549713540,
+    "coords": [
+        51.478275,
+        -0.000731
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "files_hash": "f8d1b451e4e841017ebaa6b16aadf85957c81626",
+    "sponsors": [
+        "3267566",
+        {
+            "url": "http://alienghostship.com/",
+            "name": "Rick Kay"
+        },
+        "44302755",
+        "11167855"
+    ],
+    "download_count": 49402,
+    "files": {
+        "tonemapped": {
+            "size": 8023799,
+            "md5": "a32dd3b4d09aacf22388c65c30bbd842",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/greenwich_park.jpg"
+        },
+        "hdri": {
+            "19k": {
+                "hdr": {
+                    "size": 594475274,
+                    "md5": "a098098d42ed5787eced60a38867c8f8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/greenwich_park_19k.hdr"
+                },
+                "exr": {
+                    "size": 538785674,
+                    "md5": "68997f6420630f7f6e77e75d5968eb55",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/greenwich_park_19k.exr"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "size": 109134744,
+                    "md5": "dbb651f6b0029fe1ad71336290712616",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/greenwich_park_8k.hdr"
+                },
+                "exr": {
+                    "size": 99743843,
+                    "md5": "f4ba7d1f9c2e4ba2acb67f619103de0b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/greenwich_park_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 417360190,
+                    "md5": "e3e8ffd95d960aea19a20ed892e1d4ca",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/greenwich_park_16k.hdr"
+                },
+                "exr": {
+                    "size": 374764182,
+                    "md5": "b13180fd2824276e9fd7252df2504ce3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/greenwich_park_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27844897,
+                    "md5": "b16d0607868a492c143d0a0d33593ee8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/greenwich_park_4k.hdr"
+                },
+                "exr": {
+                    "size": 25544860,
+                    "md5": "33c022ba622f26fa2c100d0f32404265",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/greenwich_park_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7006606,
+                    "md5": "34148a50072b26b4bdf34fbb959984f0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/greenwich_park_2k.hdr"
+                },
+                "exr": {
+                    "size": 6518271,
+                    "md5": "80718fc67036c8e9891f8ee8d1b3c06f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/greenwich_park_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1756341,
+                    "md5": "6b50e686b7b604c421accbf9138a36d5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/greenwich_park_1k.hdr"
+                },
+                "exr": {
+                    "size": 1674770,
+                    "md5": "2605bb152c1b50574012ce8c5a66fbe8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/greenwich_park_1k.exr"
+                }
+            }
+        }
+    }
+}

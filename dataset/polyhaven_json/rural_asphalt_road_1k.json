@@ -1,0 +1,118 @@
+{
+    "donated": true,
+    "evs_cap": 23,
+    "type": 0,
+    "whitebalance": 5600,
+    "tags": [
+        "sun",
+        "grass",
+        "field",
+        "tree",
+        "asphalt",
+        "road"
+    ],
+    "name": "Rural Asphalt Road",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "skies",
+        "partly cloudy",
+        "high contrast",
+        "midday"
+    ],
+    "date_taken": 1683801600,
+    "authors": {
+        "Alexander Scholten": "All"
+    },
+    "info": null,
+    "files_hash": "5520d5c8c7b8ef814ad29a20935bd093cfc7b6a8",
+    "date_published": 1687910400,
+    "download_count": 50788,
+    "files": {
+        "tonemapped": {
+            "size": 38615943,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/rural_asphalt_road.jpg",
+            "md5": "7462b93ac993446d4b02aede77c95016"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 92695761,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/rural_asphalt_road_8k.hdr",
+                    "md5": "533a1724a5f0353b9a13bc15444d29d8"
+                },
+                "exr": {
+                    "size": 302029225,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/rural_asphalt_road_8k.exr",
+                    "md5": "c024e438a8f2831bb5b12a605c7ceaf7"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 362201129,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rural_asphalt_road_16k.hdr",
+                    "md5": "a9ee5e822fd59d6f3d6bb43fc665011d"
+                },
+                "exr": {
+                    "size": 1178463197,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rural_asphalt_road_16k.exr",
+                    "md5": "6a498c17067bd51166a9e40fd26d4b45"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 22931434,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/rural_asphalt_road_4k.hdr",
+                    "md5": "df0bf4d6b1d983d861b7d52b526e8c26"
+                },
+                "exr": {
+                    "size": 77729218,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/rural_asphalt_road_4k.exr",
+                    "md5": "79bc0774e79c318133591e81245fb084"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 757673403,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rural_asphalt_road_24k.hdr",
+                    "md5": "17d6847cd8681af25803044626c18c6a"
+                },
+                "exr": {
+                    "size": 2514222593,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rural_asphalt_road_24k.exr",
+                    "md5": "bb509e1c6a4a843c7e4fe410e7ce4e03"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5750581,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/rural_asphalt_road_2k.hdr",
+                    "md5": "4028beb9f413aaf61d5cc5d5664ca7a6"
+                },
+                "exr": {
+                    "size": 20341917,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/rural_asphalt_road_2k.exr",
+                    "md5": "60059aed87bb929a7e2a6b1844b650ea"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1482793,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/rural_asphalt_road_1k.hdr",
+                    "md5": "942353f4133f40f64b89ac963d92d223"
+                },
+                "exr": {
+                    "size": 5472160,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/rural_asphalt_road_1k.exr",
+                    "md5": "1c438bf3dbedafed080e071e4e3896d7"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 208709954,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/rural_asphalt_road.zip",
+            "md5": "986bad2c1f66d773e2b20b7b9ac47897"
+        }
+    }
+}

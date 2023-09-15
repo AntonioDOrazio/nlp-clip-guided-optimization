@@ -1,0 +1,125 @@
+{
+    "evs_cap": 12,
+    "name": "Belfast Sunset",
+    "categories": [
+        "natural light",
+        "outdoor",
+        "nature",
+        "low contrast",
+        "partly cloudy",
+        "sunrise-sunset",
+        "skies"
+    ],
+    "type": 0,
+    "coords": [
+        -25.687944,
+        30.113194
+    ],
+    "date_taken": 1622654820,
+    "authors": {
+        "Greg Zaal": "Processing",
+        "Dimitrios Savva": "Photography"
+    },
+    "tags": [
+        "grass",
+        "hill",
+        "hilltop",
+        "field",
+        "view",
+        "dry",
+        "dry grass"
+    ],
+    "date_published": 1653350400,
+    "sponsors": [
+        "37678923"
+    ],
+    "prepaid": true,
+    "files_hash": "c5784df748737815dc973559d814f33087d9bf26",
+    "download_count": 116603,
+    "files": {
+        "tonemapped": {
+            "size": 25774689,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/belfast_sunset.jpg",
+            "md5": "9b40d52e592a381f136224923e7f9bca"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 99766595,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/belfast_sunset_8k.hdr",
+                    "md5": "54ffe1d40701e37873aac0e4729c2256"
+                },
+                "exr": {
+                    "size": 323431968,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/belfast_sunset_8k.exr",
+                    "md5": "bd34dba71e660927aa02ed7f7e8cabdf"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 374812082,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/belfast_sunset_16k.hdr",
+                    "md5": "c543bea54acc51ddcbe5778213c8940e"
+                },
+                "exr": {
+                    "size": 1234018050,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/belfast_sunset_16k.exr",
+                    "md5": "2f77391d0b36b52278e8c41ae4ab3b10"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25068503,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/belfast_sunset_4k.hdr",
+                    "md5": "84dcd1c1ee14d42cb3e1534166d22dfc"
+                },
+                "exr": {
+                    "size": 83079911,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/belfast_sunset_4k.exr",
+                    "md5": "7973a941e49533dc1a1a08d35e32a3f1"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6283260,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/belfast_sunset_2k.hdr",
+                    "md5": "b8783d611851fd25e9fd2d80b4976296"
+                },
+                "exr": {
+                    "size": 21740865,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/belfast_sunset_2k.exr",
+                    "md5": "9923c69d1691559a275d93c797c263eb"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 828206310,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/belfast_sunset_24k.hdr",
+                    "md5": "a35acb3960f66250e2dde54e107b1e16"
+                },
+                "exr": {
+                    "size": 2734519812,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/belfast_sunset_24k.exr",
+                    "md5": "d8d720ff436348959ab294e29df5ce00"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1590712,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/belfast_sunset_1k.hdr",
+                    "md5": "68735c4c69d908a85cdd218b10a1ee6a"
+                },
+                "exr": {
+                    "size": 5849820,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/belfast_sunset_1k.exr",
+                    "md5": "581495582868a414baa95525f2bcb153"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 65724434,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/belfast_sunset.zip",
+            "md5": "ec7c58df12346e6b0206ec705fc46c0a"
+        }
+    }
+}

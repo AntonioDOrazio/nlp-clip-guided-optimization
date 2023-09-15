@@ -1,0 +1,757 @@
+{
+    "evs_cap": 21,
+    "type": 0,
+    "whitebalance": 5400,
+    "date_published": 1565042400,
+    "name": "Derelict Overpass",
+    "categories": [
+        "outdoor",
+        "skies",
+        "urban",
+        "morning-afternoon",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        -25.78159111,
+        27.9432042
+    ],
+    "date_taken": 1547915760,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "3237733"
+    ],
+    "backplates": true,
+    "tags": [
+        "asphalt",
+        "sun",
+        "highway",
+        "bridge",
+        "overpass",
+        "road",
+        "backplates",
+        "backplates"
+    ],
+    "files_hash": "ae3505577c037bc16143bf6d83a0da3991b87a47",
+    "download_count": 103683,
+    "files": {
+        "tonemapped": {
+            "size": 4922643,
+            "md5": "850524fd7dd1b1dce026db7daa962c2f",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/derelict_overpass.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101206298,
+                    "md5": "a79a3ea9d31e67bd0935b1092a88adb9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/derelict_overpass_8k.hdr"
+                },
+                "exr": {
+                    "size": 80857112,
+                    "md5": "4d14037139a0cbb1fa18304df5a823f8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/derelict_overpass_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 387707057,
+                    "md5": "f60a37caffddac25796b01c4061d29ec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/derelict_overpass_16k.hdr"
+                },
+                "exr": {
+                    "size": 307945606,
+                    "md5": "52a7c8f2ce10256a4ccedb0be7bc30d0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/derelict_overpass_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25455516,
+                    "md5": "4bec771aa55eaff2482d36a3f71dd989",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/derelict_overpass_4k.hdr"
+                },
+                "exr": {
+                    "size": 20236874,
+                    "md5": "f84f56bafef384a21e73f5fcd2a8740d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/derelict_overpass_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6203558,
+                    "md5": "324de3524e1ab7aac4d2f66e8933d6cb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/derelict_overpass_2k.hdr"
+                },
+                "exr": {
+                    "size": 5002584,
+                    "md5": "91cd48ff6b571e6c6fc7c658b23a462d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/derelict_overpass_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1486935,
+                    "md5": "a4d9b07db0dbdaadaf63874bd1de751a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/derelict_overpass_1k.hdr"
+                },
+                "exr": {
+                    "size": 1259255,
+                    "md5": "aacc60a92d5b169afb54afb3140f357a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/derelict_overpass_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "DSC00317": {
+                "jpg_pretty": {
+                    "size": 17853241,
+                    "md5": "777b6642d4fdd5000f9a93b46b310ee4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00317.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10419500,
+                    "md5": "925d4bcdff670e45a46462e6e84d8567",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00317.jpg"
+                },
+                "raw": {
+                    "size": 16842752,
+                    "md5": "e7c0e8720260fbb0b6d908ffe607e8c7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00317.ARW"
+                }
+            },
+            "DSC00318": {
+                "jpg_pretty": {
+                    "size": 16966205,
+                    "md5": "e53921f8a4d18a84796ad0e731874176",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00318.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9982551,
+                    "md5": "db0836074808906dcdac67c70287a583",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00318.jpg"
+                },
+                "raw": {
+                    "size": 16678912,
+                    "md5": "578aa8ca2cf43944628d6e61b4c92d94",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00318.ARW"
+                }
+            },
+            "DSC00235": {
+                "jpg_pretty": {
+                    "size": 8288377,
+                    "md5": "4a93e1afe8d9c7e81c112130a8cb982e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00235.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10784873,
+                    "md5": "eab75ba1f80abfb0abbc920d57c85899",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00235.jpg"
+                },
+                "raw": {
+                    "size": 16744448,
+                    "md5": "9c2f825de960439deb96be5638ac5440",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00235.ARW"
+                }
+            },
+            "DSC00279": {
+                "jpg_pretty": {
+                    "size": 15891889,
+                    "md5": "a51a56a9deb6472c433cb8107c804a78",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00279.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9615857,
+                    "md5": "b7391ac38fb4caba8d55a6695a5304f4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00279.jpg"
+                },
+                "raw": {
+                    "size": 16678912,
+                    "md5": "e4d6968e9a8b1b32ed9e24f040402333",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00279.ARW"
+                }
+            },
+            "DSC00312": {
+                "jpg_pretty": {
+                    "size": 14267085,
+                    "md5": "055b43290d4ad0b5d1e1d68f9c6da678",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00312.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8255762,
+                    "md5": "9f4ac9df20abde57d966d5340111b591",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00312.jpg"
+                },
+                "raw": {
+                    "size": 16449536,
+                    "md5": "1734031e2677093ef27712fc9a263365",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00312.ARW"
+                }
+            },
+            "DSC00314": {
+                "jpg_pretty": {
+                    "size": 13074797,
+                    "md5": "b8e8f3cbbd6c9ec8600a81e93ee9d970",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00314.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7592388,
+                    "md5": "a674b3459e18011f36ecd06a047e0662",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00314.jpg"
+                },
+                "raw": {
+                    "size": 16384000,
+                    "md5": "cb1c3b7e7a0c17c6691d28707e2c0241",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00314.ARW"
+                }
+            },
+            "DSC00315": {
+                "jpg_pretty": {
+                    "size": 19104301,
+                    "md5": "4f2d05128af93c9ebe45dd553d1f05bd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00315.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11113167,
+                    "md5": "9b2a51f7bec8187508d1604abee4f666",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00315.jpg"
+                },
+                "raw": {
+                    "size": 16842752,
+                    "md5": "a43a21bf0e8d3dc50d17787c6d278540",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00315.ARW"
+                }
+            },
+            "DSC00280": {
+                "jpg_pretty": {
+                    "size": 15894007,
+                    "md5": "c0b7095b12259949fb32b4d982182e8b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00280.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9504715,
+                    "md5": "28fc9d5e4ab2bb9c3ef5191990456a05",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00280.jpg"
+                },
+                "raw": {
+                    "size": 16678912,
+                    "md5": "9e0f85d1b0c4c367d8ddd6aae9e6f1b9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00280.ARW"
+                }
+            },
+            "DSC00286": {
+                "jpg_pretty": {
+                    "size": 17393038,
+                    "md5": "16ff5bb1f82c300ba88c0451ec64863a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00286.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10130926,
+                    "md5": "b33ce415ee1fbcd3e33e66c68afd30cd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00286.jpg"
+                },
+                "raw": {
+                    "size": 16678912,
+                    "md5": "a53bfb93d719a8f38a4739dc0d5bf206",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00286.ARW"
+                }
+            },
+            "DSC00243": {
+                "jpg_pretty": {
+                    "size": 18589039,
+                    "md5": "79afab096a4310f3764b9cd1db27b94c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00243.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10772565,
+                    "md5": "e2a569e52a4a1ddeab28774d031a79ae",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00243.jpg"
+                },
+                "raw": {
+                    "size": 16744448,
+                    "md5": "c8ee429d6d786f18fbaa302500f34070",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00243.ARW"
+                }
+            },
+            "DSC00266": {
+                "jpg_pretty": {
+                    "size": 8752897,
+                    "md5": "186984fa4b5940f2ad65bc6f6556acff",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00266.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10971143,
+                    "md5": "8ec0f23e9c1374c81192587389ffbbae",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00266.jpg"
+                },
+                "raw": {
+                    "size": 16809984,
+                    "md5": "4e73e9f6ef1eb9602f664d6aa6026706",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00266.ARW"
+                }
+            },
+            "DSC00245": {
+                "jpg_pretty": {
+                    "size": 17684720,
+                    "md5": "e89f209cb10a7280d8e827e8de09d63c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00245.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9983081,
+                    "md5": "2fb634683f3825b4496de6fd4f23faed",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00245.jpg"
+                },
+                "raw": {
+                    "size": 16613376,
+                    "md5": "a1585fcc3e248aaaf6ad9ad232401b9b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00245.ARW"
+                }
+            },
+            "DSC00289": {
+                "jpg_pretty": {
+                    "size": 19483379,
+                    "md5": "e8b97abbf21102efc81744a99ae15d03",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00289.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10871117,
+                    "md5": "3b1fc06521df40db0ef954beea49070c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00289.jpg"
+                },
+                "raw": {
+                    "size": 16809984,
+                    "md5": "5f326fb6a88d62ea5112568c7c821cfc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00289.ARW"
+                }
+            },
+            "DSC00300": {
+                "jpg_pretty": {
+                    "size": 16975006,
+                    "md5": "308d98606255f9c9c81669fa1a8e388c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00300.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9246745,
+                    "md5": "89205f1628bbc2333e201f46a8bd3056",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00300.jpg"
+                },
+                "raw": {
+                    "size": 16580608,
+                    "md5": "7252ce6702fc561ef09bb181d04b239c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00300.ARW"
+                }
+            },
+            "DSC00260": {
+                "jpg_pretty": {
+                    "size": 18098329,
+                    "md5": "3e72191122a1626339611e54055dec70",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00260.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10781645,
+                    "md5": "6e218d8ec0501b1f109fa0da21e2e530",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00260.jpg"
+                },
+                "raw": {
+                    "size": 16711680,
+                    "md5": "5f954aca7e71df30093e477b5b1f1b1c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00260.ARW"
+                }
+            },
+            "DSC00283": {
+                "jpg_pretty": {
+                    "size": 18631566,
+                    "md5": "36da592c3dcad07fa64d7e9a3a84ac0d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00283.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11286509,
+                    "md5": "ecfb9b10b36b725645dc2cdfd12ec81e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00283.jpg"
+                },
+                "raw": {
+                    "size": 16842752,
+                    "md5": "5c1edd2feec593251bdb126f15da3b2b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00283.ARW"
+                }
+            },
+            "DSC00262": {
+                "jpg_pretty": {
+                    "size": 16708522,
+                    "md5": "4716d4fa2ead3a5e2f36dd05c2a69c43",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00262.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9949348,
+                    "md5": "51ed8fdbfc31e57c5cda748c20b79c6a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00262.jpg"
+                },
+                "raw": {
+                    "size": 16646144,
+                    "md5": "616bb289f5bfdb2628ecc6c078fa9bc6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00262.ARW"
+                }
+            },
+            "DSC00284": {
+                "jpg_pretty": {
+                    "size": 19129321,
+                    "md5": "3e6b286d62f5f89a4051fd17b28a6d02",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00284.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11078567,
+                    "md5": "db6a4642659e831b1572c5bd0818e16f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00284.jpg"
+                },
+                "raw": {
+                    "size": 16809984,
+                    "md5": "4931bfad42679261c867ea49158860e3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00284.ARW"
+                }
+            },
+            "DSC00241": {
+                "jpg_pretty": {
+                    "size": 8414321,
+                    "md5": "c0cc929af764e0b7b6312ad7c307335b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00241.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10213514,
+                    "md5": "c7ae47f1ae1e82ed4bf1a4b7c55a6847",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00241.jpg"
+                },
+                "raw": {
+                    "size": 16678912,
+                    "md5": "aa5d64692e72e6cfacd37dcbc751d458",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00241.ARW"
+                }
+            },
+            "DSC00306": {
+                "jpg_pretty": {
+                    "size": 15952888,
+                    "md5": "9ed5659ce2316f43baffb58513a8aa2f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00306.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8960593,
+                    "md5": "5cee1f6110793e168e56eaef16633618",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00306.jpg"
+                },
+                "raw": {
+                    "size": 16547840,
+                    "md5": "ae2c7aee973c419858a5ae22b8159880",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00306.ARW"
+                }
+            },
+            "DSC00308": {
+                "jpg_pretty": {
+                    "size": 19276217,
+                    "md5": "1fe8eaf20f87b76899fb49471d910926",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00308.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11731228,
+                    "md5": "b48b25ab58d060102de2981e53d2a480",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00308.jpg"
+                },
+                "raw": {
+                    "size": 16875520,
+                    "md5": "f86f6917baf4c5e56262fefa355db16c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00308.ARW"
+                }
+            },
+            "DSC00246": {
+                "jpg_pretty": {
+                    "size": 19089807,
+                    "md5": "9bd432723448006d8ca465f892c73a0c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00246.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10492588,
+                    "md5": "9da8f6a98f1fd66a1a1b46d724afce1d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00246.jpg"
+                },
+                "raw": {
+                    "size": 16744448,
+                    "md5": "07aafb86862416b1c22a20b70e02b0b3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00246.ARW"
+                }
+            },
+            "DSC00301": {
+                "jpg_pretty": {
+                    "size": 16790209,
+                    "md5": "d7204fe77c69da689d4b158911849e4e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00301.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9750163,
+                    "md5": "eab1ba1add2dd6140730d6d92b092710",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00301.jpg"
+                },
+                "raw": {
+                    "size": 16613376,
+                    "md5": "6b48a8b0abe3051bceeb445a70740d96",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00301.ARW"
+                }
+            },
+            "DSC00302": {
+                "jpg_pretty": {
+                    "size": 16168306,
+                    "md5": "5bcc04a38ae93e07697b711daa872329",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00302.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9510273,
+                    "md5": "fc7ea48db4ea811229fa92b6910d76d1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00302.jpg"
+                },
+                "raw": {
+                    "size": 16613376,
+                    "md5": "ceaaccb7ba0fd6a96ff2119c1a0f3ac2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00302.ARW"
+                }
+            },
+            "DSC00248": {
+                "jpg_pretty": {
+                    "size": 15732424,
+                    "md5": "83bf534ad30d9675891528ddd80f754e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00248.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9212238,
+                    "md5": "21b0bfa4c6811220b1c450b316634848",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00248.jpg"
+                },
+                "raw": {
+                    "size": 16613376,
+                    "md5": "15b8743df97985ea4f52191104a00e52",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00248.ARW"
+                }
+            },
+            "DSC00304": {
+                "jpg_pretty": {
+                    "size": 15336698,
+                    "md5": "b0956fb453da1b54248114d9afb21ded",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00304.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8931639,
+                    "md5": "6b9a78dd407038da4604ed9abab6df3e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00304.jpg"
+                },
+                "raw": {
+                    "size": 16547840,
+                    "md5": "0713e242b97549e914328bbac825f630",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00304.ARW"
+                }
+            },
+            "DSC00290": {
+                "jpg_pretty": {
+                    "size": 18864389,
+                    "md5": "9e825120c52b0f080885cf5cf3419d70",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00290.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10676615,
+                    "md5": "a12309a5f23ea127fc7f99e27d9121a7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00290.jpg"
+                },
+                "raw": {
+                    "size": 16744448,
+                    "md5": "57cf484c7bd38776cea2cbfced580a45",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00290.ARW"
+                }
+            },
+            "DSC00292": {
+                "jpg_pretty": {
+                    "size": 17399636,
+                    "md5": "d543bdeda31ac68fa1c59f24af39a353",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00292.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9692272,
+                    "md5": "c16d270d63aad5b99f5d4cff878a039f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00292.jpg"
+                },
+                "raw": {
+                    "size": 16678912,
+                    "md5": "1fc23ed9b1d9a5e58a87b9f960e5a2f1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00292.ARW"
+                }
+            },
+            "DSC00253": {
+                "jpg_pretty": {
+                    "size": 17678842,
+                    "md5": "5e966265e64df060b4f0743730e6ab2d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00253.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10249987,
+                    "md5": "01bee895595e75eec0e19ef280f2698a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00253.jpg"
+                },
+                "raw": {
+                    "size": 16777216,
+                    "md5": "9ff80ddeddfc73331e92bc2a030ef52d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00253.ARW"
+                }
+            },
+            "DSC00297": {
+                "jpg_pretty": {
+                    "size": 14467869,
+                    "md5": "7e83f488b644e86d1d10ff1820246c48",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00297.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8382584,
+                    "md5": "7f2e9e78b98bfdfabaa3ffdf5e766fb4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00297.jpg"
+                },
+                "raw": {
+                    "size": 16416768,
+                    "md5": "bc8839c63f993743a947019125b02201",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00297.ARW"
+                }
+            },
+            "DSC00298": {
+                "jpg_pretty": {
+                    "size": 16309417,
+                    "md5": "f87224351acb1fd2fd8cf751e9d0e2fa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00298.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9545201,
+                    "md5": "a61e4ab49027e5912723956f4952cb6d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00298.jpg"
+                },
+                "raw": {
+                    "size": 16678912,
+                    "md5": "c8f474062dc0cc21e885a9304430caee",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00298.ARW"
+                }
+            },
+            "DSC00255": {
+                "jpg_pretty": {
+                    "size": 16063839,
+                    "md5": "3f978c3b80049d979f8580d565db9085",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00255.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9178766,
+                    "md5": "44966388fa3010c060ba9a4145bd2a8c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00255.jpg"
+                },
+                "raw": {
+                    "size": 16646144,
+                    "md5": "f9d20d58bd51785c21b495dac6f108e5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00255.ARW"
+                }
+            },
+            "DSC00277": {
+                "jpg_pretty": {
+                    "size": 17823645,
+                    "md5": "63c7fbff3ceddb229f86b9d635e7edbe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00277.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9990153,
+                    "md5": "d8a3d52df74719baa3dc1e7e3c224436",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00277.jpg"
+                },
+                "raw": {
+                    "size": 16678912,
+                    "md5": "4127bdc501f05f95b458d80a498e3f68",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00277.ARW"
+                }
+            },
+            "DSC00299": {
+                "jpg_pretty": {
+                    "size": 15147591,
+                    "md5": "9787aa1404c7cb7966117f60440c77cb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00299.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8894188,
+                    "md5": "45a3d7735b7aeec2cdadd19dc4068559",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00299.jpg"
+                },
+                "raw": {
+                    "size": 16482304,
+                    "md5": "d937db2e7dc190c3a579c7fc6a5ba36a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00299.ARW"
+                }
+            },
+            "DSC00310": {
+                "jpg_pretty": {
+                    "size": 17989486,
+                    "md5": "f43f3473cd045d858349b9ee5605e0aa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00310.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10550096,
+                    "md5": "938411b26b9927dba96de50f7adc03b3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00310.jpg"
+                },
+                "raw": {
+                    "size": 16711680,
+                    "md5": "98e115a98b03a7988b01f9aec2763e3e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00310.ARW"
+                }
+            },
+            "DSC00294": {
+                "jpg_pretty": {
+                    "size": 18614776,
+                    "md5": "16f7ab0ccd4d120c7ebaeb5695727c19",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00294.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10614642,
+                    "md5": "dd2089e5a249e6c6aada5c89e7ecc270",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00294.jpg"
+                },
+                "raw": {
+                    "size": 16744448,
+                    "md5": "5d9c2e945f8d3fb00ad6d95b5267b077",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00294.ARW"
+                }
+            },
+            "DSC00251": {
+                "jpg_pretty": {
+                    "size": 7139387,
+                    "md5": "c22213b72576551b81743b8a39d00824",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00251.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9076278,
+                    "md5": "2ba7c94d49d988b9a7e5aa53bf8c39e2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00251.jpg"
+                },
+                "raw": {
+                    "size": 16580608,
+                    "md5": "0c37aac234f3029692fdf6a35322c622",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00251.ARW"
+                }
+            },
+            "DSC00274": {
+                "jpg_pretty": {
+                    "size": 17638335,
+                    "md5": "7e1e59ed1ea624fa4556f48defbde901",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_pretty/DSC00274.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9637821,
+                    "md5": "09a8d6e24008961cd5356c5aae7ff4fa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/jpg_plain/DSC00274.jpg"
+                },
+                "raw": {
+                    "size": 16646144,
+                    "md5": "e405745329a6ab3a194af2f16f922d41",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_overpass/raw/DSC00274.ARW"
+                }
+            }
+        }
+    }
+}

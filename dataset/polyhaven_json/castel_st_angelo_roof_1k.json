@@ -1,0 +1,131 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "tags": [
+        "europe",
+        "statue",
+        "roof",
+        "city",
+        "rome",
+        "rain",
+        "wet"
+    ],
+    "name": "Castel St. Angelo Roof",
+    "categories": [
+        "outdoor",
+        "low contrast",
+        "natural light",
+        "urban",
+        "overcast",
+        "morning-afternoon"
+    ],
+    "date_taken": 1635935820,
+    "coords": [
+        41.902965545570176,
+        12.46636020524761
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "date_published": 1642464000,
+    "files_hash": "0031fa9948486cf1cd82695c8ec897d016d3b250",
+    "download_count": 33612,
+    "files": {
+        "hdri": {
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/castel_st_angelo_roof_16k.hdr",
+                    "size": 389977882,
+                    "md5": "53198a7494d8f110314d8ddecbdb4758"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/castel_st_angelo_roof_16k.exr",
+                    "size": 1242541796,
+                    "md5": "77f9b3a6bba288d6fb4f295be00f1d4e"
+                }
+            },
+            "26k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/castel_st_angelo_roof_26k.hdr",
+                    "size": 969889212,
+                    "md5": "a6faea3feb555e5b1ba2143cd0852082"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/castel_st_angelo_roof_26k.exr",
+                    "size": 3180711070,
+                    "md5": "7b3dc5f0e8ccc2d04b92d9ec9ac3e440"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/castel_st_angelo_roof_24k.hdr",
+                    "size": 859834768,
+                    "md5": "4163fe4224c3ecad7ad352895bda56f2"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/castel_st_angelo_roof_24k.exr",
+                    "size": 2810232528,
+                    "md5": "3b163dbc80b7e54ea711b6e4554fa76d"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/castel_st_angelo_roof_8k.hdr",
+                    "size": 102847872,
+                    "md5": "3ae4805db05c7ab4c5117fba83c85e03"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/castel_st_angelo_roof_8k.exr",
+                    "size": 324937062,
+                    "md5": "85ee135d97a6a97a39585706fd55d874"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/castel_st_angelo_roof_4k.hdr",
+                    "size": 25779977,
+                    "md5": "8476f5752c351fd8fad1cf5dee2eba9d"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/castel_st_angelo_roof_4k.exr",
+                    "size": 82919782,
+                    "md5": "86b4bf715d0e6bfc4675d20e06799a7d"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/castel_st_angelo_roof_2k.hdr",
+                    "size": 6438419,
+                    "md5": "564bd27feb8f81fa616f0bf1c19ae5f6"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/castel_st_angelo_roof_2k.exr",
+                    "size": 21623707,
+                    "md5": "629fb5590e9db9236e81fa04c87f1e5c"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/castel_st_angelo_roof_1k.hdr",
+                    "size": 1615142,
+                    "md5": "1e3202379ebf5a1bcf790de44e26cc73"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/castel_st_angelo_roof_1k.exr",
+                    "size": 5806785,
+                    "md5": "e8ff9447d467e68971e91898136c0a71"
+                }
+            }
+        },
+        "colorchart": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/castel_st_angelo_roof.zip",
+            "size": 182958115,
+            "md5": "7eced55c71a9993d0aad48598c70a285"
+        },
+        "tonemapped": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/castel_st_angelo_roof.jpg",
+            "size": 42267142,
+            "md5": "d1dcfd9bf3ea00093a8e5d59869dc6b0"
+        }
+    }
+}

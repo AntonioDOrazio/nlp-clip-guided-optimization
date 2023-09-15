@@ -1,0 +1,119 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "europe",
+        "architecture",
+        "square",
+        "road",
+        "street",
+        "statue"
+    ],
+    "date_published": 1586815200,
+    "name": "Quattro Canti",
+    "categories": [
+        "outdoor",
+        "urban",
+        "sunrise-sunset",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1569821640,
+    "coords": [
+        38.115725,
+        13.361368
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        {
+            "url": "https://www.youtube.com/cggeek",
+            "name": "CG Geek"
+        }
+    ],
+    "files_hash": "87b107df64c54193829dd07302f5f019b7dbf1f2",
+    "download_count": 117165,
+    "files": {
+        "tonemapped": {
+            "size": 5975266,
+            "md5": "58a712a8ae1be07140ffa77f4c397eec",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/quattro_canti.jpg"
+        },
+        "hdri": {
+            "19k": {
+                "hdr": {
+                    "size": 552517706,
+                    "md5": "ab79c3b78a234e9358f9b316a3489f4e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/quattro_canti_19k.hdr"
+                },
+                "exr": {
+                    "size": 478885924,
+                    "md5": "9fbb309fa1b67e6690d4cead1abd3047",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/quattro_canti_19k.exr"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "size": 101930240,
+                    "md5": "5c63c208e33cddbf06992cfb8da61526",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/quattro_canti_8k.hdr"
+                },
+                "exr": {
+                    "size": 92365400,
+                    "md5": "147d9143d9726c86f843b0972a9a1e91",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/quattro_canti_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 391041388,
+                    "md5": "577d5aae15a6e5b296c0a2d712baaf5a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/quattro_canti_16k.hdr"
+                },
+                "exr": {
+                    "size": 342188401,
+                    "md5": "1cc8bb65130dd7f3c25b3530ffd0100f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/quattro_canti_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26072081,
+                    "md5": "5035f770d461e49dcd6dda04a2a3333a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/quattro_canti_4k.hdr"
+                },
+                "exr": {
+                    "size": 23919978,
+                    "md5": "a40f104576a0a19111672003c10c6166",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/quattro_canti_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6589854,
+                    "md5": "9774514b9d864458310dca8cfcced8df",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/quattro_canti_2k.hdr"
+                },
+                "exr": {
+                    "size": 6034794,
+                    "md5": "177cab0ed2a28dac3aa0dbc7455e1daa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/quattro_canti_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1650450,
+                    "md5": "4257f43d2d6743e02decb853abc489ae",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/quattro_canti_1k.hdr"
+                },
+                "exr": {
+                    "size": 1514462,
+                    "md5": "d71db8463c4c848827a05587ee9e387a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/quattro_canti_1k.exr"
+                }
+            }
+        }
+    }
+}

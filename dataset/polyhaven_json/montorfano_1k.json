@@ -1,0 +1,120 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "tags": [
+        "mountain",
+        "hill",
+        "valley",
+        "rock",
+        "lake",
+        "view",
+        "hilltop"
+    ],
+    "name": "Montorfano",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "partly cloudy",
+        "morning-afternoon",
+        "low contrast"
+    ],
+    "date_taken": 1613128920,
+    "coords": [
+        48.7868840583151,
+        9.084336133826852
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "info": null,
+    "date_published": 1660521600,
+    "files_hash": "3538140c1b6aac1b5c2912d5c36258efd3eeeb4a",
+    "download_count": 18286,
+    "files": {
+        "tonemapped": {
+            "size": 46497932,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/montorfano.jpg",
+            "md5": "254ca91051a94bec03d8dc879e721026"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 105923853,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/montorfano_8k.hdr",
+                    "md5": "b4030056486793626f7ff00ec0d4b7f9"
+                },
+                "exr": {
+                    "size": 332427019,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/montorfano_8k.exr",
+                    "md5": "0cc0502a6d9d6b9120da5912c301addc"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 411642278,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/montorfano_16k.hdr",
+                    "md5": "388ab8c01d4f9ffa5894c9ab3fe79136"
+                },
+                "exr": {
+                    "size": 1305426168,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/montorfano_16k.exr",
+                    "md5": "895abc8281cab6d987b1c48694ef9c4f"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26746852,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/montorfano_4k.hdr",
+                    "md5": "8e913c477c1b89c34d4b84fcf3917943"
+                },
+                "exr": {
+                    "size": 84840697,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/montorfano_4k.exr",
+                    "md5": "d6b0acd4d86a4e72a243076eab24b5b3"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6671361,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/montorfano_2k.hdr",
+                    "md5": "111909d321439a5e03b197a2b26cd0ab"
+                },
+                "exr": {
+                    "size": 22044854,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/montorfano_2k.exr",
+                    "md5": "289084295ab30d75c199a316a3358832"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1659212,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/montorfano_1k.hdr",
+                    "md5": "c3fa731654a46ab5d2c443c1137cd2ab"
+                },
+                "exr": {
+                    "size": 5900820,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/montorfano_1k.exr",
+                    "md5": "b7e16b3d6119061ca11dd86edb16d272"
+                }
+            },
+            "22k": {
+                "hdr": {
+                    "size": 793538544,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/montorfano_22k.hdr",
+                    "md5": "d978a8da0f992c868ba5d07c0ea98ff4"
+                },
+                "exr": {
+                    "size": 2542867202,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/montorfano_22k.exr",
+                    "md5": "494f2b81066c00467aac1f1dd1deb9fd"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 424584663,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/montorfano.zip",
+            "md5": "8edf682aeef22fbf37e94b27eec7bb10"
+        }
+    }
+}

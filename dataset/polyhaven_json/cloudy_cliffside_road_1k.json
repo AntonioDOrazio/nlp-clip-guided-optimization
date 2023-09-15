@@ -1,0 +1,620 @@
+{
+    "evs_cap": 6,
+    "type": 0,
+    "whitebalance": 5400,
+    "date_published": 1516316400,
+    "name": "Cloudy Cliffside Road",
+    "categories": [
+        "outdoor",
+        "nature",
+        "urban",
+        "midday",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        44.1014,
+        9.73707
+    ],
+    "date_taken": 1509961980,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "backplates": true,
+    "tags": [
+        "hill",
+        "road",
+        "autumn",
+        "europe",
+        "view",
+        "ocean",
+        "parking",
+        "fence",
+        "railing",
+        "backplates"
+    ],
+    "files_hash": "b52b8cb7273da5b0d0aaacd73a60c6a4b0f4e350",
+    "download_count": 33071,
+    "files": {
+        "tonemapped": {
+            "size": 7475027,
+            "md5": "d9b3de5d585d51b79243c46125f841f6",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/cloudy_cliffside_road.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103810588,
+                    "md5": "2d78321d51a8e96f88bc0afe328e4621",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/cloudy_cliffside_road_8k.hdr"
+                },
+                "exr": {
+                    "size": 91536702,
+                    "md5": "d77e7099fa7c38d3d52a766f8fd65178",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/cloudy_cliffside_road_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 373596129,
+                    "md5": "913fad1680f81d7aaa69394b52793478",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/cloudy_cliffside_road_16k.hdr"
+                },
+                "exr": {
+                    "size": 332184901,
+                    "md5": "5307d6d1575bad4326d69bea36a288a2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/cloudy_cliffside_road_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26729452,
+                    "md5": "d79a078024ce4f89cc5414756747c98e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/cloudy_cliffside_road_4k.hdr"
+                },
+                "exr": {
+                    "size": 23601426,
+                    "md5": "f5b9384af5f0ff31763daf23d25cab55",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/cloudy_cliffside_road_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6719998,
+                    "md5": "347ac49c3b5e2b793a98ad8802559b19",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/cloudy_cliffside_road_2k.hdr"
+                },
+                "exr": {
+                    "size": 5980396,
+                    "md5": "a1f40d4cfde6235ca9767e77a1fdc2f2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/cloudy_cliffside_road_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1681840,
+                    "md5": "37b0e4dba0821fefe6ac78115abb0c99",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/cloudy_cliffside_road_1k.hdr"
+                },
+                "exr": {
+                    "size": 1515990,
+                    "md5": "a5529c276811f6ebb5e5a359f0795295",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/cloudy_cliffside_road_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "DSC07605": {
+                "jpg_pretty": {
+                    "size": 40979977,
+                    "md5": "d5c64c9b87225e65897fa5550f63782e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_pretty/DSC07605.jpg"
+                },
+                "jpg_plain": {
+                    "size": 29077179,
+                    "md5": "c6ab2a2540ed0cdf44c0159bbb59d96e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_plain/DSC07605.jpg"
+                },
+                "raw": {
+                    "size": 37519360,
+                    "md5": "3bf3c6659f6b743fda126e45acadee3b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/raw/DSC07605.ARW"
+                }
+            },
+            "DSC07606": {
+                "jpg_pretty": {
+                    "size": 38079441,
+                    "md5": "8d76baddb7366bd563b7a80f0c9ecf14",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_pretty/DSC07606.jpg"
+                },
+                "jpg_plain": {
+                    "size": 26645976,
+                    "md5": "cd33bbf2c732853d90db6a141caa1bc2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_plain/DSC07606.jpg"
+                },
+                "raw": {
+                    "size": 37715968,
+                    "md5": "8caae8c0e8df63c631f127ae610233fb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/raw/DSC07606.ARW"
+                }
+            },
+            "DSC07575": {
+                "jpg_pretty": {
+                    "size": 26070615,
+                    "md5": "ec2da221e938fe17229dd0e8da679c47",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_pretty/DSC07575.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18935771,
+                    "md5": "c12fa64b7adb6acf333342c40378ee32",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_plain/DSC07575.jpg"
+                },
+                "raw": {
+                    "size": 37453824,
+                    "md5": "f373393a9934d0b5931edbdb99bbab79",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/raw/DSC07575.ARW"
+                }
+            },
+            "DSC07576": {
+                "jpg_pretty": {
+                    "size": 35366016,
+                    "md5": "e26b93aaf2bec858ef3d53e37e6d2270",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_pretty/DSC07576.jpg"
+                },
+                "jpg_plain": {
+                    "size": 23668326,
+                    "md5": "652947b868757b46d871d27ce14f8e46",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_plain/DSC07576.jpg"
+                },
+                "raw": {
+                    "size": 37617664,
+                    "md5": "062a4b082982de626ddf279bf330c4e4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/raw/DSC07576.ARW"
+                }
+            },
+            "DSC07598": {
+                "jpg_pretty": {
+                    "size": 32720999,
+                    "md5": "df9b889ef0a7cfd091bcbae4fc6e5a59",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_pretty/DSC07598.jpg"
+                },
+                "jpg_plain": {
+                    "size": 22176286,
+                    "md5": "28fa3610f0f90a2f5b246cfb74c8a64a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_plain/DSC07598.jpg"
+                },
+                "raw": {
+                    "size": 37552128,
+                    "md5": "54d02ff4ceedd7b748f421e12c4904f9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/raw/DSC07598.ARW"
+                }
+            },
+            "DSC07577": {
+                "jpg_pretty": {
+                    "size": 39561055,
+                    "md5": "9fe07c546340a118964bfd8e4c2dc9c1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_pretty/DSC07577.jpg"
+                },
+                "jpg_plain": {
+                    "size": 26578713,
+                    "md5": "4d569c9c030f635e275ec4823d35f2ed",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_plain/DSC07577.jpg"
+                },
+                "raw": {
+                    "size": 37519360,
+                    "md5": "5cf02e4d06511fc347df835873baeec5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/raw/DSC07577.ARW"
+                }
+            },
+            "DSC07599": {
+                "jpg_pretty": {
+                    "size": 33822420,
+                    "md5": "42c9ce5b135f249324fbfecd1c95b74a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_pretty/DSC07599.jpg"
+                },
+                "jpg_plain": {
+                    "size": 22436536,
+                    "md5": "7a90734acc365bb68891cea29d4c2e61",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_plain/DSC07599.jpg"
+                },
+                "raw": {
+                    "size": 37584896,
+                    "md5": "93826d11ae5b993120b41263ba144b88",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/raw/DSC07599.ARW"
+                }
+            },
+            "DSC07578": {
+                "jpg_pretty": {
+                    "size": 29743734,
+                    "md5": "4e7715f07617d6b6819f8fc815dfd014",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_pretty/DSC07578.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18454211,
+                    "md5": "4b44577e77fd653c142e3f8b2af4dde9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_plain/DSC07578.jpg"
+                },
+                "raw": {
+                    "size": 37388288,
+                    "md5": "cd622867b0acc35ddfc4df305f055db0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/raw/DSC07578.ARW"
+                }
+            },
+            "DSC07579": {
+                "jpg_pretty": {
+                    "size": 30922743,
+                    "md5": "9f9e9d2c7c77f991fdf1d49877a6e014",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_pretty/DSC07579.jpg"
+                },
+                "jpg_plain": {
+                    "size": 17274851,
+                    "md5": "0990ddeea49fa4cacb6930fbc1f6902e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_plain/DSC07579.jpg"
+                },
+                "raw": {
+                    "size": 37322752,
+                    "md5": "776aa70a088ab06274f4e38ef3cbbf4d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/raw/DSC07579.ARW"
+                }
+            },
+            "DSC07590": {
+                "jpg_pretty": {
+                    "size": 21232327,
+                    "md5": "1b6d5ed5d16e7161c360382d6f8c8fbc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_pretty/DSC07590.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16576227,
+                    "md5": "286bfc3d8ef164fdcb9f29f93957e41f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_plain/DSC07590.jpg"
+                },
+                "raw": {
+                    "size": 37224448,
+                    "md5": "780b75e8a7e0fb23f4efc65b0ba4e33a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/raw/DSC07590.ARW"
+                }
+            },
+            "DSC07570": {
+                "jpg_pretty": {
+                    "size": 30015800,
+                    "md5": "6bd284983662fd212368e3f4693e33fd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_pretty/DSC07570.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20631030,
+                    "md5": "e9113ac3459cb08d7343cb5f9a76c21d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_plain/DSC07570.jpg"
+                },
+                "raw": {
+                    "size": 37453824,
+                    "md5": "752e2a57302370fdfb13cf2e28d30a91",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/raw/DSC07570.ARW"
+                }
+            },
+            "DSC07592": {
+                "jpg_pretty": {
+                    "size": 22380551,
+                    "md5": "70f537645a464607796063d341e28301",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_pretty/DSC07592.jpg"
+                },
+                "jpg_plain": {
+                    "size": 17456460,
+                    "md5": "a495b7086a88d333f6ad2454129441d3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_plain/DSC07592.jpg"
+                },
+                "raw": {
+                    "size": 37355520,
+                    "md5": "5ac3338da885ae6f561164ceb4d534c6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/raw/DSC07592.ARW"
+                }
+            },
+            "DSC07571": {
+                "jpg_pretty": {
+                    "size": 30897188,
+                    "md5": "c8f81a7aa820b6e54b347e0065a27a9d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_pretty/DSC07571.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20745956,
+                    "md5": "19dbfaefcd1b0c3a7b006b8c908df499",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_plain/DSC07571.jpg"
+                },
+                "raw": {
+                    "size": 37453824,
+                    "md5": "fd7d4a435f317898c39f6d8bc5f5ac50",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/raw/DSC07571.ARW"
+                }
+            },
+            "DSC07593": {
+                "jpg_pretty": {
+                    "size": 26612581,
+                    "md5": "cdb2377c818d1699ef47a02d7148ae07",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_pretty/DSC07593.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19789563,
+                    "md5": "2e03d7159c2f98a7b17f6a319cd0e823",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_plain/DSC07593.jpg"
+                },
+                "raw": {
+                    "size": 37421056,
+                    "md5": "136b78751ec827d38d5a0a6be1d603ac",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/raw/DSC07593.ARW"
+                }
+            },
+            "DSC07572": {
+                "jpg_pretty": {
+                    "size": 27091961,
+                    "md5": "69baf4031d39d02e124bdbf8cf0b42e1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_pretty/DSC07572.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15641228,
+                    "md5": "56955a46becf6ee6b332caa6588955fb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_plain/DSC07572.jpg"
+                },
+                "raw": {
+                    "size": 37257216,
+                    "md5": "a2ba911ca2026c7609e06003c020b5b7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/raw/DSC07572.ARW"
+                }
+            },
+            "DSC07594": {
+                "jpg_pretty": {
+                    "size": 27389001,
+                    "md5": "1bf559fd1b40a9d533f20095635ccb55",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_pretty/DSC07594.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19347374,
+                    "md5": "a3c87241af7722348c0b6145bc797956",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_plain/DSC07594.jpg"
+                },
+                "raw": {
+                    "size": 37421056,
+                    "md5": "1bb75043d8d758f6790ab59f0b270b74",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/raw/DSC07594.ARW"
+                }
+            },
+            "DSC07573": {
+                "jpg_pretty": {
+                    "size": 32909384,
+                    "md5": "cae986d98e3b52f3e464bbb5b67f8a0f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_pretty/DSC07573.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20840498,
+                    "md5": "5a72018d5b6f114b858e2849484238d8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_plain/DSC07573.jpg"
+                },
+                "raw": {
+                    "size": 37552128,
+                    "md5": "76b0a53c3a3732941cb5c4aebaab3d2b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/raw/DSC07573.ARW"
+                }
+            },
+            "DSC07595": {
+                "jpg_pretty": {
+                    "size": 35431554,
+                    "md5": "363981605846164b331a303d9d7a045f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_pretty/DSC07595.jpg"
+                },
+                "jpg_plain": {
+                    "size": 23862701,
+                    "md5": "9660cab332b786f1e2b4ac97f13ae63a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_plain/DSC07595.jpg"
+                },
+                "raw": {
+                    "size": 37650432,
+                    "md5": "1d82d71087c0af23d28fd9953bd7c243",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/raw/DSC07595.ARW"
+                }
+            },
+            "DSC07574": {
+                "jpg_pretty": {
+                    "size": 17595337,
+                    "md5": "a330b82f0358d9c985768d1d6bc98ad3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_pretty/DSC07574.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13103108,
+                    "md5": "964b0b4ab521b2ede4d7c09f37d70f51",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_plain/DSC07574.jpg"
+                },
+                "raw": {
+                    "size": 37060608,
+                    "md5": "27e185c42f97473f7058a86e3ea63f6f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/raw/DSC07574.ARW"
+                }
+            },
+            "DSC07588": {
+                "jpg_pretty": {
+                    "size": 41676102,
+                    "md5": "d8924e8093d94c81a332835b506bbb88",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_pretty/DSC07588.jpg"
+                },
+                "jpg_plain": {
+                    "size": 28213400,
+                    "md5": "dc7acfdf9ed7865117eb6652ff5f267c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_plain/DSC07588.jpg"
+                },
+                "raw": {
+                    "size": 37584896,
+                    "md5": "75139cbb9cbf9b43f473a2d439b4ca20",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/raw/DSC07588.ARW"
+                }
+            },
+            "DSC07600": {
+                "jpg_pretty": {
+                    "size": 32745276,
+                    "md5": "42150a12797f486464d6b323e0d0906c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_pretty/DSC07600.jpg"
+                },
+                "jpg_plain": {
+                    "size": 21733670,
+                    "md5": "3664548a76f184fafa937b4f6f1bacc0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_plain/DSC07600.jpg"
+                },
+                "raw": {
+                    "size": 37519360,
+                    "md5": "b641aef1909a6dc48425f9618c771000",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/raw/DSC07600.ARW"
+                }
+            },
+            "DSC07601": {
+                "jpg_pretty": {
+                    "size": 35267531,
+                    "md5": "6ea530ea74f2282b471bd35ab788c710",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_pretty/DSC07601.jpg"
+                },
+                "jpg_plain": {
+                    "size": 23900028,
+                    "md5": "208a7611779de88062deb6d8ece73681",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_plain/DSC07601.jpg"
+                },
+                "raw": {
+                    "size": 37584896,
+                    "md5": "295d546ab40388bc2eb8c767581e6788",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/raw/DSC07601.ARW"
+                }
+            },
+            "DSC07569": {
+                "jpg_pretty": {
+                    "size": 31999486,
+                    "md5": "1371ef0091263e3ba1af18c50d545ac2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_pretty/DSC07569.jpg"
+                },
+                "jpg_plain": {
+                    "size": 21213099,
+                    "md5": "265ced29af3e5090b9f8fceb0cb4a5a5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_plain/DSC07569.jpg"
+                },
+                "raw": {
+                    "size": 37519360,
+                    "md5": "5ce384a4fc438e0c09ab304f2ecd5165",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/raw/DSC07569.ARW"
+                }
+            },
+            "DSC07603": {
+                "jpg_pretty": {
+                    "size": 39851044,
+                    "md5": "319f77cd461681b85ef0f7463db92b18",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_pretty/DSC07603.jpg"
+                },
+                "jpg_plain": {
+                    "size": 27740970,
+                    "md5": "ecb989f37fd845ce1dbbd1bb56ce79b7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_plain/DSC07603.jpg"
+                },
+                "raw": {
+                    "size": 37486592,
+                    "md5": "c14db4f4d5b75151c8b7dfc0cefef42d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/raw/DSC07603.ARW"
+                }
+            },
+            "DSC07604": {
+                "jpg_pretty": {
+                    "size": 41083859,
+                    "md5": "9366dfea2e5d8127191052072c80171e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_pretty/DSC07604.jpg"
+                },
+                "jpg_plain": {
+                    "size": 29070947,
+                    "md5": "6bce88c914123f5f48a1cd383e9d59d5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_plain/DSC07604.jpg"
+                },
+                "raw": {
+                    "size": 37552128,
+                    "md5": "7e2dadaa6490e0a35574fe4d2bf5a057",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/raw/DSC07604.ARW"
+                }
+            },
+            "DSC07580": {
+                "jpg_pretty": {
+                    "size": 31130296,
+                    "md5": "aea72ee37e333f33b129340c772386fd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_pretty/DSC07580.jpg"
+                },
+                "jpg_plain": {
+                    "size": 21406168,
+                    "md5": "0eeaad178236fed9b004271c7646b4da",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_plain/DSC07580.jpg"
+                },
+                "raw": {
+                    "size": 37552128,
+                    "md5": "207749584bc1dbdc3046ff4f8950ce22",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/raw/DSC07580.ARW"
+                }
+            },
+            "DSC07581": {
+                "jpg_pretty": {
+                    "size": 37209169,
+                    "md5": "5c90fe0481e9a8baace77d5522c67348",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_pretty/DSC07581.jpg"
+                },
+                "jpg_plain": {
+                    "size": 26014536,
+                    "md5": "77a575a07a305a2a4a2e1d69d8a99083",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_plain/DSC07581.jpg"
+                },
+                "raw": {
+                    "size": 37715968,
+                    "md5": "3137c11440dfc5e6d7babe26876ca53a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/raw/DSC07581.ARW"
+                }
+            },
+            "DSC07582": {
+                "jpg_pretty": {
+                    "size": 26759422,
+                    "md5": "5f33063c7fd64ba19ee9cace7c50e416",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_pretty/DSC07582.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18696373,
+                    "md5": "9e6a21faa088bea609c8be71fd9c1628",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_plain/DSC07582.jpg"
+                },
+                "raw": {
+                    "size": 37421056,
+                    "md5": "d6f1ae1a881f64a8331196118f6ce9ab",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/raw/DSC07582.ARW"
+                }
+            },
+            "DSC07584": {
+                "jpg_pretty": {
+                    "size": 33713450,
+                    "md5": "a041f520dcdee7be3378fa30c76a5cf4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_pretty/DSC07584.jpg"
+                },
+                "jpg_plain": {
+                    "size": 23551177,
+                    "md5": "0bb4e2050d04e619f657a6d58145e2d5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_plain/DSC07584.jpg"
+                },
+                "raw": {
+                    "size": 37584896,
+                    "md5": "c54897c21b8a11778488b16fc3c7bb80",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/raw/DSC07584.ARW"
+                }
+            },
+            "DSC07585": {
+                "jpg_pretty": {
+                    "size": 33763403,
+                    "md5": "53e2347fdfdd91f73a6808169ec5269d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_pretty/DSC07585.jpg"
+                },
+                "jpg_plain": {
+                    "size": 23837843,
+                    "md5": "526ef9234e1d3d523d3f81d42527d879",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/jpg_plain/DSC07585.jpg"
+                },
+                "raw": {
+                    "size": 37650432,
+                    "md5": "5cc00b010f30831f8c7dac44de2e1238",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cloudy_cliffside_road/raw/DSC07585.ARW"
+                }
+            }
+        }
+    }
+}

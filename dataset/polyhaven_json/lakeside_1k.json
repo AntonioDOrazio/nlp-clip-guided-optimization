@@ -1,0 +1,106 @@
+{
+    "evs_cap": 20,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "sun",
+        "tree",
+        "lake",
+        "shore",
+        "water",
+        "rock"
+    ],
+    "date_published": 1575586800,
+    "name": "Lakeside",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1556715420,
+    "coords": [
+        -28.482576,
+        29.014304
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "3237733",
+        "10485422"
+    ],
+    "files_hash": "dabe5f5e0075e28912793f84c39be0fd8a2f83f9",
+    "download_count": 125672,
+    "files": {
+        "tonemapped": {
+            "size": 4538493,
+            "md5": "f7ecec8ce8079abe28505079f715013c",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/lakeside.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 97267376,
+                    "md5": "18de1e6e5dc17f26d2123c54ab9aea3b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/lakeside_8k.hdr"
+                },
+                "exr": {
+                    "size": 77903071,
+                    "md5": "a4dcd9eb21084dad1914b181127fe602",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/lakeside_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 357394370,
+                    "md5": "e97841eba23db3d1e2a67b1a3d437673",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/lakeside_16k.hdr"
+                },
+                "exr": {
+                    "size": 283745610,
+                    "md5": "3f20324ca883d286dcea13a131c85c89",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/lakeside_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24647749,
+                    "md5": "7aee609bff234c40eda1fd2975211945",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/lakeside_4k.hdr"
+                },
+                "exr": {
+                    "size": 20150227,
+                    "md5": "1835ea81912b6b5b5c9ee0f7302a251f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/lakeside_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6026852,
+                    "md5": "1cbbdf506a1b795d43bcc91319560cd1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/lakeside_2k.hdr"
+                },
+                "exr": {
+                    "size": 5166687,
+                    "md5": "37cbf120a51ff61e1bcdf8c9dae9b1f9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/lakeside_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1474514,
+                    "md5": "748616f734e58d0288000b5b85529bfd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/lakeside_1k.hdr"
+                },
+                "exr": {
+                    "size": 1340534,
+                    "md5": "34b0a314fa5c5503bbd008c634ac9e8f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/lakeside_1k.exr"
+                }
+            }
+        }
+    }
+}

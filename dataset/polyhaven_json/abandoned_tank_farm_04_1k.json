@@ -1,0 +1,449 @@
+{
+    "evs_cap": 24,
+    "type": 0,
+    "whitebalance": 5400,
+    "date_published": 1594936800,
+    "name": "Abandoned Tank Farm 04",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "morning-afternoon",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1585234920,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "backplates": true,
+    "tags": [
+        "sun",
+        "grass",
+        "field",
+        "hill",
+        "backplates"
+    ],
+    "sponsors": [
+        "11167855"
+    ],
+    "files_hash": "ab915957b897705438b711b79c9d0542bf560a56",
+    "download_count": 171646,
+    "files": {
+        "tonemapped": {
+            "size": 6327800,
+            "md5": "94123464eb777df2095caea1429f475e",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/abandoned_tank_farm_04.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 98810038,
+                    "md5": "828ae2f11c2f671784362e2a27cb4ca5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/abandoned_tank_farm_04_8k.hdr"
+                },
+                "exr": {
+                    "size": 81164921,
+                    "md5": "d95627533abc8b855ff48c467a9a0b32",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/abandoned_tank_farm_04_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 364183048,
+                    "md5": "4b471a161ef23788f0bf4e3bab5cdbf5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/abandoned_tank_farm_04_16k.hdr"
+                },
+                "exr": {
+                    "size": 299343440,
+                    "md5": "9ee76997367fc023d20b9e145fcb74fc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/abandoned_tank_farm_04_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25092897,
+                    "md5": "c7bf2d19d592684a03905774fc88d0ad",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/abandoned_tank_farm_04_4k.hdr"
+                },
+                "exr": {
+                    "size": 20755667,
+                    "md5": "588da8726ef558cbdad3804bd7fba6d0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/abandoned_tank_farm_04_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6133788,
+                    "md5": "08325b540552c3c72598117c2549b510",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/abandoned_tank_farm_04_2k.hdr"
+                },
+                "exr": {
+                    "size": 5226968,
+                    "md5": "c2397df46aa3497a9f94a57ae4013d06",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/abandoned_tank_farm_04_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1519138,
+                    "md5": "10a8664f281943307eaa3ecfa0a9b885",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/abandoned_tank_farm_04_1k.hdr"
+                },
+                "exr": {
+                    "size": 1329369,
+                    "md5": "dd1e560a3fa33c2cf630617a0f780189",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/abandoned_tank_farm_04_1k.exr"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 74994167,
+            "md5": "3b3df681c52ddb26375e706b14f3a3d2",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/abandoned_tank_farm_04.zip"
+        },
+        "backplates": {
+            "DSC_0728": {
+                "jpg_pretty": {
+                    "size": 22886584,
+                    "md5": "0952a765fe3a1083b4224b9c662faf7b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_pretty/DSC_0728.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16075437,
+                    "md5": "da44c198181f36850f321b22012132ef",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_plain/DSC_0728.jpg"
+                },
+                "raw": {
+                    "size": 21129155,
+                    "md5": "4fb01931f3e509ed4575c6058651ba49",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/raw/DSC_0728.NEF"
+                }
+            },
+            "DSC_0723": {
+                "jpg_pretty": {
+                    "size": 21727503,
+                    "md5": "eee4d009b254f4cecf99fe3461a229ba",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_pretty/DSC_0723.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14829368,
+                    "md5": "68014e74f71576f7a2acd40c6084da56",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_plain/DSC_0723.jpg"
+                },
+                "raw": {
+                    "size": 20923607,
+                    "md5": "933aa1e63d644afaa4e6c9fe0ec6c559",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/raw/DSC_0723.NEF"
+                }
+            },
+            "DSC_0678": {
+                "jpg_pretty": {
+                    "size": 18279934,
+                    "md5": "7dce6e0e4c61293972b4d9a86e989ff8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_pretty/DSC_0678.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13277591,
+                    "md5": "b7e3239c5080405fe99793d391dc856b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_plain/DSC_0678.jpg"
+                },
+                "raw": {
+                    "size": 19666593,
+                    "md5": "1032598a43bfb8263c70feed2a40971c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/raw/DSC_0678.NEF"
+                }
+            },
+            "DSC_0733": {
+                "jpg_pretty": {
+                    "size": 19265293,
+                    "md5": "261a1825ef52bf4adb9c7e95c0e6d751",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_pretty/DSC_0733.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13843166,
+                    "md5": "2bc0624fe292a12501159412c540f7f3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_plain/DSC_0733.jpg"
+                },
+                "raw": {
+                    "size": 19960419,
+                    "md5": "d773cc887003ae1787ac55778b93da3b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/raw/DSC_0733.NEF"
+                }
+            },
+            "DSC_0633": {
+                "jpg_pretty": {
+                    "size": 14671070,
+                    "md5": "9f2ef983e727252cb1d30b3ee07d6d16",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_pretty/DSC_0633.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10188360,
+                    "md5": "382d88c3acc739d2b87770d5752bd5d9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_plain/DSC_0633.jpg"
+                },
+                "raw": {
+                    "size": 18462923,
+                    "md5": "474de2b4fddccd1b8c5ea622996df1e7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/raw/DSC_0633.NEF"
+                }
+            },
+            "DSC_0688": {
+                "jpg_pretty": {
+                    "size": 16084432,
+                    "md5": "36d91873aa3170540b0a98498564bef0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_pretty/DSC_0688.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11314422,
+                    "md5": "5ac4b9bd2ca08c2ff6d60c8bdb396977",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_plain/DSC_0688.jpg"
+                },
+                "raw": {
+                    "size": 19466583,
+                    "md5": "544fc2576d84db8e3c90f06d54dbe465",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/raw/DSC_0688.NEF"
+                }
+            },
+            "DSC_0643": {
+                "jpg_pretty": {
+                    "size": 17180282,
+                    "md5": "e685d00af9f76cb140a5235398f16390",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_pretty/DSC_0643.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13006070,
+                    "md5": "e209f458ff553bca5da06bc150d3ff6b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_plain/DSC_0643.jpg"
+                },
+                "raw": {
+                    "size": 20131951,
+                    "md5": "4189f4c15f5b03e0ef63e4dd9281def0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/raw/DSC_0643.NEF"
+                }
+            },
+            "DSC_0753": {
+                "jpg_pretty": {
+                    "size": 14419717,
+                    "md5": "1e117a3ada7070a3fb6e85ecf359fda8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_pretty/DSC_0753.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9375886,
+                    "md5": "6ddef120a0c9a65f369790141c043320",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_plain/DSC_0753.jpg"
+                },
+                "raw": {
+                    "size": 18001079,
+                    "md5": "e445d926675b4d8735b77a21db33f847",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/raw/DSC_0753.NEF"
+                }
+            },
+            "DSC_0628": {
+                "jpg_pretty": {
+                    "size": 16100428,
+                    "md5": "783e48aa7c370e4cbdd7a43a0018f5b9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_pretty/DSC_0628.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11059230,
+                    "md5": "b30502c64b56063dc2c1d53b1c909d09",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_plain/DSC_0628.jpg"
+                },
+                "raw": {
+                    "size": 19346007,
+                    "md5": "f42345ace94c9a0dc5afcc9c0b01e5a8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/raw/DSC_0628.NEF"
+                }
+            },
+            "DSC_0738": {
+                "jpg_pretty": {
+                    "size": 14258182,
+                    "md5": "8660a61cc05a065376a9adeca04650d7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_pretty/DSC_0738.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9813363,
+                    "md5": "ad897b8fd887d69766cc752c9a3a298d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_plain/DSC_0738.jpg"
+                },
+                "raw": {
+                    "size": 18107581,
+                    "md5": "ccdd81d61465d77131972593b57acae0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/raw/DSC_0738.NEF"
+                }
+            },
+            "DSC_0638": {
+                "jpg_pretty": {
+                    "size": 17514778,
+                    "md5": "d5a7757249d346c0057559e9e93f5641",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_pretty/DSC_0638.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12709515,
+                    "md5": "b71596cf747b49774d380f1c69f33fa7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_plain/DSC_0638.jpg"
+                },
+                "raw": {
+                    "size": 19589465,
+                    "md5": "494ba7d6b61d587f2e5a8c334d341d12",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/raw/DSC_0638.NEF"
+                }
+            },
+            "DSC_0748": {
+                "jpg_pretty": {
+                    "size": 16686846,
+                    "md5": "e51200157a79100a2593bfa6a89b0b7d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_pretty/DSC_0748.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11756770,
+                    "md5": "9d2d843fa27676ab3f1d9495ad7a564f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_plain/DSC_0748.jpg"
+                },
+                "raw": {
+                    "size": 19844751,
+                    "md5": "1e15fff3636f2b13f4b0db7af0d2c2f9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/raw/DSC_0748.NEF"
+                }
+            },
+            "DSC_0648": {
+                "jpg_pretty": {
+                    "size": 19755003,
+                    "md5": "1a51da379bf03b5d17e76f4b060f7fe0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_pretty/DSC_0648.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14614782,
+                    "md5": "7c1e54e1c06e345da6960aa160c33607",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_plain/DSC_0648.jpg"
+                },
+                "raw": {
+                    "size": 20894567,
+                    "md5": "3cd05a9f224417ed8840d84804fbb98f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/raw/DSC_0648.NEF"
+                }
+            },
+            "DSC_0758": {
+                "jpg_pretty": {
+                    "size": 18516151,
+                    "md5": "0f08bfbec335ab32f5c6eb4227e374ba",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_pretty/DSC_0758.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13431666,
+                    "md5": "c63ea7272e363ce0ad8dacb4ca096c70",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_plain/DSC_0758.jpg"
+                },
+                "raw": {
+                    "size": 20202406,
+                    "md5": "81d28a27135673d1943ddc07bd54a24f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/raw/DSC_0758.NEF"
+                }
+            },
+            "DSC_0658": {
+                "jpg_pretty": {
+                    "size": 15686747,
+                    "md5": "d96e19b68541dd7de843d996a0dfe97a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_pretty/DSC_0658.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10800441,
+                    "md5": "642b4d1278fa891fd1307bb50713416d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_plain/DSC_0658.jpg"
+                },
+                "raw": {
+                    "size": 18971409,
+                    "md5": "12a887e0d023ec470c5013a790c9b049",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/raw/DSC_0658.NEF"
+                }
+            },
+            "DSC_0693": {
+                "jpg_pretty": {
+                    "size": 17514179,
+                    "md5": "7b508979492b3ed6e39e76c3101bc2ba",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_pretty/DSC_0693.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12704144,
+                    "md5": "475e45015a09c2c65f8e50e59c40bf04",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_plain/DSC_0693.jpg"
+                },
+                "raw": {
+                    "size": 20399795,
+                    "md5": "b6aac7e7eac287c3162f6748e0e3f19e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/raw/DSC_0693.NEF"
+                }
+            },
+            "DSC_0653": {
+                "jpg_pretty": {
+                    "size": 16558870,
+                    "md5": "d8c46d2c4b8ee03e6f3fd50e353aef18",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_pretty/DSC_0653.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11900444,
+                    "md5": "b8457ea336957b80b403d9363353ce47",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_plain/DSC_0653.jpg"
+                },
+                "raw": {
+                    "size": 19613327,
+                    "md5": "d55184d1a8056bf891eacdd6414f0eb0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/raw/DSC_0653.NEF"
+                }
+            },
+            "DSC_0663": {
+                "jpg_pretty": {
+                    "size": 18667529,
+                    "md5": "8ece8aae630fee1ecf0079b7e3576911",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_pretty/DSC_0663.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14452115,
+                    "md5": "4272af111862b66efb793e03617b8dde",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_plain/DSC_0663.jpg"
+                },
+                "raw": {
+                    "size": 20986678,
+                    "md5": "c9367c1dd4b970e57431139874368037",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/raw/DSC_0663.NEF"
+                }
+            },
+            "DSC_0673": {
+                "jpg_pretty": {
+                    "size": 19507160,
+                    "md5": "08940140bc99c3787ad08c75b9382c23",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_pretty/DSC_0673.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14181324,
+                    "md5": "0ae59c08166cb57b940cd2d97b0a52b5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_plain/DSC_0673.jpg"
+                },
+                "raw": {
+                    "size": 20120109,
+                    "md5": "3490facc603460b697095761aef47f6f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/raw/DSC_0673.NEF"
+                }
+            },
+            "DSC_0683": {
+                "jpg_pretty": {
+                    "size": 17483176,
+                    "md5": "ad8c1e3a4c0384fae4b5390732157485",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_pretty/DSC_0683.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12742206,
+                    "md5": "634590d810afd94d1faba760259d4cd1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/jpg_plain/DSC_0683.jpg"
+                },
+                "raw": {
+                    "size": 20175537,
+                    "md5": "2bcd845fc1a0ecc1631919de82c3d5d5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_tank_farm_04/raw/DSC_0683.NEF"
+                }
+            }
+        }
+    }
+}

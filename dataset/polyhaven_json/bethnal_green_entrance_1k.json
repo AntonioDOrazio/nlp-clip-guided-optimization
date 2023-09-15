@@ -1,0 +1,104 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "tree",
+        "europe",
+        "street",
+        "brick",
+        "fence",
+        "london"
+    ],
+    "date_published": 1568682053,
+    "name": "Bethnal Green Entrance",
+    "categories": [
+        "outdoor",
+        "urban",
+        "morning-afternoon",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        51.526915,
+        -0.054044
+    ],
+    "date_taken": 1566111660,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        "26820710"
+    ],
+    "files_hash": "d24f55a6e5f2be2486182fc5c03f14930eb8021f",
+    "download_count": 35043,
+    "files": {
+        "tonemapped": {
+            "size": 10302562,
+            "md5": "83de56276ba7790bbc1b7647915d11c0",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/bethnal_green_entrance.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 111072643,
+                    "md5": "0164eb3a547cfce782553db830a18a58",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/bethnal_green_entrance_8k.hdr"
+                },
+                "exr": {
+                    "size": 112042142,
+                    "md5": "f47cd2ddf99c50d30015b0a8b9b76f1c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/bethnal_green_entrance_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 423518396,
+                    "md5": "152aa7cabb18852b1f4773ffe4e8a254",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/bethnal_green_entrance_16k.hdr"
+                },
+                "exr": {
+                    "size": 405324190,
+                    "md5": "68f5c62972125205b306f6faeef2df63",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/bethnal_green_entrance_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 28570372,
+                    "md5": "a934ccdc0f49b40071bc6ce34d3b6ef9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/bethnal_green_entrance_4k.hdr"
+                },
+                "exr": {
+                    "size": 29392687,
+                    "md5": "b04ef7bfbce2a9e376dbdabee6f71792",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/bethnal_green_entrance_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7283431,
+                    "md5": "e52e43102d58ac551373789979cae2e3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/bethnal_green_entrance_2k.hdr"
+                },
+                "exr": {
+                    "size": 7575619,
+                    "md5": "dd37cb10cd6a8c2db11300b0c9393d1a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/bethnal_green_entrance_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1846347,
+                    "md5": "b352273a3c9c0fcd0d2af00be00cd1c2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/bethnal_green_entrance_1k.hdr"
+                },
+                "exr": {
+                    "size": 1933939,
+                    "md5": "0825a90699c05426916a0d01a995b442",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/bethnal_green_entrance_1k.exr"
+                }
+            }
+        }
+    }
+}

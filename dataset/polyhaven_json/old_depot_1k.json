@@ -1,0 +1,105 @@
+{
+    "evs_cap": 13,
+    "prepaid": true,
+    "type": 0,
+    "tags": [
+        "warehouse",
+        "abandoned",
+        "industrial"
+    ],
+    "date_published": 1538431200,
+    "name": "Old Depot",
+    "categories": [
+        "indoor",
+        "urban",
+        "morning-afternoon",
+        "clear",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        50.929001,
+        34.811448
+    ],
+    "date_taken": 1535666400,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        {
+            "url": "https://www.frame4.co.uk/",
+            "name": "Frame 4 Animation Studios"
+        }
+    ],
+    "files_hash": "875f3489206d0074e731936de6c52876cec4458d",
+    "download_count": 24911,
+    "files": {
+        "tonemapped": {
+            "size": 7396286,
+            "md5": "5c7af3cd0e2904117f90d93a3d225078",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/old_depot.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 104923353,
+                    "md5": "645fa2c6ea937a25a304f7ac89b91efb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/old_depot_8k.hdr"
+                },
+                "exr": {
+                    "size": 98623746,
+                    "md5": "215c54e9cd9ff681cd3cf349cc0d7ab0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/old_depot_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 409825833,
+                    "md5": "474f706811ee5912a35ceefdf63d1618",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/old_depot_16k.hdr"
+                },
+                "exr": {
+                    "size": 367916089,
+                    "md5": "1fc390be3570e0026b4025e0b720ea88",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/old_depot_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26754767,
+                    "md5": "4cda8863dd9dbe99906896b0852bbfc4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/old_depot_4k.hdr"
+                },
+                "exr": {
+                    "size": 25576896,
+                    "md5": "9689e73eddd1ee61f73bc88e002d9fbb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/old_depot_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6753563,
+                    "md5": "37bf01bdbab0ba866b2112b5967f0b46",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/old_depot_2k.hdr"
+                },
+                "exr": {
+                    "size": 6482920,
+                    "md5": "5e7cf4984358a796156121550d297518",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/old_depot_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1704508,
+                    "md5": "b5eda807199abe61cf8b47125487a669",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/old_depot_1k.hdr"
+                },
+                "exr": {
+                    "size": 1655520,
+                    "md5": "788a8af3ee6180d3b804f53c2332f552",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/old_depot_1k.exr"
+                }
+            }
+        }
+    }
+}

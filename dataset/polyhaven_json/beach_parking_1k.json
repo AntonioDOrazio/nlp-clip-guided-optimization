@@ -1,0 +1,736 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "date_published": 1522879200,
+    "name": "Beach Parking",
+    "categories": [
+        "outdoor",
+        "skies",
+        "urban",
+        "sunrise-sunset",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        -34.138847,
+        18.432208
+    ],
+    "date_taken": 1464502140,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "backplates": true,
+    "tags": [
+        "road",
+        "parking",
+        "fog",
+        "backplates"
+    ],
+    "files_hash": "a422da087d58af43c945196b84f071584108d5f6",
+    "sponsors": [
+        "3567764",
+        "77433244"
+    ],
+    "download_count": 42677,
+    "files": {
+        "tonemapped": {
+            "size": 4336124,
+            "md5": "e17608de4cefb74d9b1fa3c1462a211c",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/beach_parking.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 94349623,
+                    "md5": "f1edd74b6b7538b81bc90333c0f4412e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/beach_parking_8k.hdr"
+                },
+                "exr": {
+                    "size": 73990322,
+                    "md5": "a15eff0c1e23b55f2252852ca94daf5e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/beach_parking_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 354954326,
+                    "md5": "aff8f298b203a6e3656c8a5472547095",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/beach_parking_16k.hdr"
+                },
+                "exr": {
+                    "size": 276090967,
+                    "md5": "1cbc303ba132160792c36cbec92b9a4d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/beach_parking_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 23300518,
+                    "md5": "21b3d7f760fd1904995697d5f091cf43",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/beach_parking_4k.hdr"
+                },
+                "exr": {
+                    "size": 18758031,
+                    "md5": "25b080eb5410a87c5b92e922a7f8723d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/beach_parking_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5567140,
+                    "md5": "3518757e2908cfe9a42f15663d220498",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/beach_parking_2k.hdr"
+                },
+                "exr": {
+                    "size": 4634611,
+                    "md5": "034f23a01dd47da800a6040629b6984e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/beach_parking_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1342207,
+                    "md5": "2a90f147eceb72be92bf33bea53020e3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/beach_parking_1k.hdr"
+                },
+                "exr": {
+                    "size": 1141088,
+                    "md5": "7b08a37e39651ed9852abd414d17bcf8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/beach_parking_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "IMG_0049": {
+                "jpg_pretty": {
+                    "size": 6864736,
+                    "md5": "25b8fb9c6d8dd8603460b9c1f5251bf9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0049.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7196141,
+                    "md5": "f5a71d7f4847d48d550b85e93fe9e118",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0049.jpg"
+                },
+                "raw": {
+                    "size": 22525122,
+                    "md5": "1452c4dea99ea4a36d0b0b04cad8258d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0049.dng"
+                }
+            },
+            "IMG_0057": {
+                "jpg_pretty": {
+                    "size": 4721885,
+                    "md5": "898717f06d73a8bae7d76053c4bc48ba",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0057.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6045068,
+                    "md5": "b1befdc25ab63be84a081c59453db92a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0057.jpg"
+                },
+                "raw": {
+                    "size": 20973738,
+                    "md5": "e5cef966df6ca4816e4fbfa358509b40",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0057.dng"
+                }
+            },
+            "IMG_0079": {
+                "jpg_pretty": {
+                    "size": 4469125,
+                    "md5": "82d22281f76222151e83e3019eef37fd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0079.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4931211,
+                    "md5": "4ddcad08244f98ee7b72f0a86fcee23c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0079.jpg"
+                },
+                "raw": {
+                    "size": 20302078,
+                    "md5": "1ca95c653f0fbd0afbe380f6ea58bb0b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0079.dng"
+                }
+            },
+            "IMG_0058": {
+                "jpg_pretty": {
+                    "size": 6060611,
+                    "md5": "3e346b0449dca1bbfac6c6a9bdc86148",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0058.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6746785,
+                    "md5": "f60ee7bd5735ee188e66a45345c63e62",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0058.jpg"
+                },
+                "raw": {
+                    "size": 22301678,
+                    "md5": "bf97f39a1f70ca0060ff63a09fe0492a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0058.dng"
+                }
+            },
+            "IMG_0077": {
+                "jpg_pretty": {
+                    "size": 4734617,
+                    "md5": "c409b9f82de6fa76e50050549a586d5b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0077.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5014761,
+                    "md5": "6ba8384826d8d11109d4fc397af1b170",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0077.jpg"
+                },
+                "raw": {
+                    "size": 19778912,
+                    "md5": "647cd9c4b40ee027ec3005384e87a68b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0077.dng"
+                }
+            },
+            "IMG_0056": {
+                "jpg_pretty": {
+                    "size": 7404633,
+                    "md5": "81dc40386a469309c81d885ee22973f5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0056.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7644563,
+                    "md5": "4db8209afcde3ed2ea9af57a0cc77a3c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0056.jpg"
+                },
+                "raw": {
+                    "size": 23174706,
+                    "md5": "d0eae721ae7480503756b973a9cf2ed3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0056.dng"
+                }
+            },
+            "IMG_0078": {
+                "jpg_pretty": {
+                    "size": 5062423,
+                    "md5": "dfd5fa698a70ee614293e60fed93c46a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0078.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5406374,
+                    "md5": "084abbb4977f2c32095a17cb9d956d08",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0078.jpg"
+                },
+                "raw": {
+                    "size": 20071932,
+                    "md5": "dfd7f5cd25ef5a9585f04eae8260bcbb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0078.dng"
+                }
+            },
+            "IMG_0053": {
+                "jpg_pretty": {
+                    "size": 3834004,
+                    "md5": "bcfe3ee3eb85bc8fc305d1dbd795cfce",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0053.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4368004,
+                    "md5": "f344b23546eb29f48a5eb47783ef3e43",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0053.jpg"
+                },
+                "raw": {
+                    "size": 17632492,
+                    "md5": "9fba5c627e15509d3bbcb0d5b5d9b2ec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0053.dng"
+                }
+            },
+            "IMG_0075": {
+                "jpg_pretty": {
+                    "size": 4531588,
+                    "md5": "d21915aa7b7b684117305901500dbd55",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0075.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5268381,
+                    "md5": "2fb9cfa269994a07df439cb1f4eee7cc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0075.jpg"
+                },
+                "raw": {
+                    "size": 19963306,
+                    "md5": "f7b4134915b0555335397c5941f11e5f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0075.dng"
+                }
+            },
+            "IMG_0054": {
+                "jpg_pretty": {
+                    "size": 3700806,
+                    "md5": "b3ef94859962e0efd099f080137911ed",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0054.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4338164,
+                    "md5": "30862ddf02bd45d76b9138401ea68dd6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0054.jpg"
+                },
+                "raw": {
+                    "size": 17434122,
+                    "md5": "49e032d7683b3eeb286f4dca679d6e6c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0054.dng"
+                }
+            },
+            "IMG_0076": {
+                "jpg_pretty": {
+                    "size": 4097239,
+                    "md5": "c456ce325182a102724ea87c1f5c3da1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0076.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4789203,
+                    "md5": "66eeff66aba59db8030fdb7a5d5a499e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0076.jpg"
+                },
+                "raw": {
+                    "size": 19171846,
+                    "md5": "48af487074af79d406d2f5d53b28c163",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0076.dng"
+                }
+            },
+            "IMG_0051": {
+                "jpg_pretty": {
+                    "size": 4900781,
+                    "md5": "2e9028d2ef62dd63ba76b154cce6d649",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0051.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5440753,
+                    "md5": "410d5ea0dfab9a4630f0cdf8ce5ee0bc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0051.jpg"
+                },
+                "raw": {
+                    "size": 21708850,
+                    "md5": "213ac1c36e966b92a2883b70723ddd2d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0051.dng"
+                }
+            },
+            "IMG_0052": {
+                "jpg_pretty": {
+                    "size": 4439085,
+                    "md5": "1c5f289f0d025e534bb7dec07cb53550",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0052.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5037745,
+                    "md5": "173ce260debf7657d2dfbe3ba7990351",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0052.jpg"
+                },
+                "raw": {
+                    "size": 20918902,
+                    "md5": "d73d2aa0a6f6c9422e9b8099a004e279",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0052.dng"
+                }
+            },
+            "IMG_0074": {
+                "jpg_pretty": {
+                    "size": 4446785,
+                    "md5": "068b7de6bd6b6715e221703e96215908",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0074.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5590544,
+                    "md5": "d8127c6f32f8a010f12d5e4b1288fcf5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0074.jpg"
+                },
+                "raw": {
+                    "size": 20213522,
+                    "md5": "524215ad857c9d0f64a848656c5054c9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0074.dng"
+                }
+            },
+            "IMG_0071": {
+                "jpg_pretty": {
+                    "size": 8948883,
+                    "md5": "db7e6f07a6d058e7d4f0339f197330ab",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0071.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8941069,
+                    "md5": "f0b731cb96a5fd3a5720f6d4f1548b7b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0071.jpg"
+                },
+                "raw": {
+                    "size": 23513142,
+                    "md5": "0df40b4726cb7975641bb58a07ec431d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0071.dng"
+                }
+            },
+            "IMG_0050": {
+                "jpg_pretty": {
+                    "size": 5164859,
+                    "md5": "8aec5c340d835e97d78935c2b7b37e02",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0050.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5574689,
+                    "md5": "ccd42d85b65af6fc119b9776efe79612",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0050.jpg"
+                },
+                "raw": {
+                    "size": 21904522,
+                    "md5": "209311729021dc8b0673c60e71eceb3e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0050.dng"
+                }
+            },
+            "IMG_0072": {
+                "jpg_pretty": {
+                    "size": 5010169,
+                    "md5": "5110edd1d915d4f6b536f41c705f7fe9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0072.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5467978,
+                    "md5": "0d9f03a7bfc1d3a80f827e518e725ee7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0072.jpg"
+                },
+                "raw": {
+                    "size": 18522732,
+                    "md5": "7c2eb8e537a07ef85c4c052993c78fbc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0072.dng"
+                }
+            },
+            "IMG_0070": {
+                "jpg_pretty": {
+                    "size": 7352079,
+                    "md5": "943b4422e1efa9934319910abc3e4dab",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0070.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7659585,
+                    "md5": "7fc32024e2ef4667ac830bfafded9c6c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0070.jpg"
+                },
+                "raw": {
+                    "size": 23121464,
+                    "md5": "53ff57e347ae338db89f9a4a05efd542",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0070.dng"
+                }
+            },
+            "IMG_0059": {
+                "jpg_pretty": {
+                    "size": 6393595,
+                    "md5": "5f2b72a9ab9c2e70b146f2369a7a14cc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0059.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6897977,
+                    "md5": "43f7807a44f42b463c22f8c0be38b132",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0059.jpg"
+                },
+                "raw": {
+                    "size": 22606850,
+                    "md5": "c19a5fc814089438eacbb012102a1684",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0059.dng"
+                }
+            },
+            "IMG_0068": {
+                "jpg_pretty": {
+                    "size": 6964741,
+                    "md5": "02881612850847429a36b530addd2ac6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0068.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7407110,
+                    "md5": "9694f80db122ba1ddd1c7a3e54a0ebfa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0068.jpg"
+                },
+                "raw": {
+                    "size": 22777928,
+                    "md5": "1aaf7551a9c314569da570068873de19",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0068.dng"
+                }
+            },
+            "IMG_0069": {
+                "jpg_pretty": {
+                    "size": 7978491,
+                    "md5": "9612a22dd39cc1dc18f5b1cf6615edab",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0069.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8235481,
+                    "md5": "28bb129676ee58a84e1b6b5abdf8a2e2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0069.jpg"
+                },
+                "raw": {
+                    "size": 23080676,
+                    "md5": "91afd1fad5e2948c39c19d7aff6de604",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0069.dng"
+                }
+            },
+            "IMG_0066": {
+                "jpg_pretty": {
+                    "size": 7272167,
+                    "md5": "09f69d72cb8a7ac0201e6448d88d3e2d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0066.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7753572,
+                    "md5": "52b6b0dd6c782738fef6a9947734ebd6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0066.jpg"
+                },
+                "raw": {
+                    "size": 22805616,
+                    "md5": "55f046225b17245f4e0b52b1fb98914c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0066.dng"
+                }
+            },
+            "IMG_0088": {
+                "jpg_pretty": {
+                    "size": 5154455,
+                    "md5": "b562dfff9ffcc59a6f2ffd9a66ad7608",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0088.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5264958,
+                    "md5": "1eb5d1d6ed6c21baa4ac7b2e171f7a3f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0088.jpg"
+                },
+                "raw": {
+                    "size": 20134584,
+                    "md5": "651215c31cfd3107920333e2232fb8d3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0088.dng"
+                }
+            },
+            "IMG_0067": {
+                "jpg_pretty": {
+                    "size": 9534167,
+                    "md5": "7b587846529fd4fde132b787a7ed1387",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0067.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9497174,
+                    "md5": "90e2618b954595b19bf75e0e5e4ac032",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0067.jpg"
+                },
+                "raw": {
+                    "size": 24099662,
+                    "md5": "0ab0277ad23e62a0bee3dbbb07129ef2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0067.dng"
+                }
+            },
+            "IMG_0086": {
+                "jpg_pretty": {
+                    "size": 4521117,
+                    "md5": "5b9bc4ba60961bdb89cd35978558c13a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0086.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4940247,
+                    "md5": "3ef764b228b2a0f64d937008a14b2e3b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0086.jpg"
+                },
+                "raw": {
+                    "size": 20509582,
+                    "md5": "222006080846ca8b3d1d5b8cedb40420",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0086.dng"
+                }
+            },
+            "IMG_0065": {
+                "jpg_pretty": {
+                    "size": 7309371,
+                    "md5": "917afed451d212f323147b264cf33ca8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0065.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7754910,
+                    "md5": "e7cf16362397445140c930819c368b9c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0065.jpg"
+                },
+                "raw": {
+                    "size": 23302122,
+                    "md5": "99937cd757bda78ae4fc1e06ef2635c3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0065.dng"
+                }
+            },
+            "IMG_0087": {
+                "jpg_pretty": {
+                    "size": 3707987,
+                    "md5": "c8eabfa0ee7a4c1c4218d576e898b499",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0087.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4546020,
+                    "md5": "d5fec4d584e62ced6dbf8c4c1ebc53ba",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0087.jpg"
+                },
+                "raw": {
+                    "size": 19280086,
+                    "md5": "7640aea6419203cca3bb83986cceefd3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0087.dng"
+                }
+            },
+            "IMG_0062": {
+                "jpg_pretty": {
+                    "size": 6760705,
+                    "md5": "f478a2ccdfc8043069b23f0c8806df85",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0062.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7690904,
+                    "md5": "db9fa023b4ebe9cba2263d3a899ab976",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0062.jpg"
+                },
+                "raw": {
+                    "size": 22054520,
+                    "md5": "fa6be817b0431993282009b6c85caaa8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0062.dng"
+                }
+            },
+            "IMG_0084": {
+                "jpg_pretty": {
+                    "size": 5181281,
+                    "md5": "1db28d11d693e3e239b76bb708565951",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0084.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5611222,
+                    "md5": "c284b868a100603e129bf086c31f5ba4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0084.jpg"
+                },
+                "raw": {
+                    "size": 20685740,
+                    "md5": "c34a9a684ba175911fc0e75ce5cb5a10",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0084.dng"
+                }
+            },
+            "IMG_0063": {
+                "jpg_pretty": {
+                    "size": 6213504,
+                    "md5": "f54939107ea480c2cbede7d05e9505fd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0063.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6968675,
+                    "md5": "6a5dcf22d186ef9612310a03507b74dd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0063.jpg"
+                },
+                "raw": {
+                    "size": 22117048,
+                    "md5": "5ab512f5fce062fb116919fdb3a26463",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0063.dng"
+                }
+            },
+            "IMG_0085": {
+                "jpg_pretty": {
+                    "size": 4414772,
+                    "md5": "518177a28a84a9094b3a23f486fa1638",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0085.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5117786,
+                    "md5": "740209c538fdeb7cd6c26e4a4e6543b2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0085.jpg"
+                },
+                "raw": {
+                    "size": 19260720,
+                    "md5": "786935e7f7e81549c9a50e99af2d5ec8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0085.dng"
+                }
+            },
+            "IMG_0060": {
+                "jpg_pretty": {
+                    "size": 6780196,
+                    "md5": "a38b1d264fc40d591762da68c5e44c03",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0060.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7096270,
+                    "md5": "9cdfb1d65897c892e6625da36a607679",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0060.jpg"
+                },
+                "raw": {
+                    "size": 22785574,
+                    "md5": "e0cc0a7f7c6346459ab2c8a381c3bc96",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0060.dng"
+                }
+            },
+            "IMG_0082": {
+                "jpg_pretty": {
+                    "size": 5152499,
+                    "md5": "f3bbc418848d00dd0cd43ec9453ca65c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0082.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5577794,
+                    "md5": "30fb6e2889a0d0fa1126b9d1b054f610",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0082.jpg"
+                },
+                "raw": {
+                    "size": 21351698,
+                    "md5": "8b3cd86b43d9c60d93496410f5de45c6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0082.dng"
+                }
+            },
+            "IMG_0061": {
+                "jpg_pretty": {
+                    "size": 6667999,
+                    "md5": "75a901f5020948b9b38607bfcaad0342",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0061.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6303687,
+                    "md5": "6c7c6fd04f52867905adc3a4085b3858",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0061.jpg"
+                },
+                "raw": {
+                    "size": 19783122,
+                    "md5": "c8fd77b3c25d76214221df0e438d0d0b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0061.dng"
+                }
+            },
+            "IMG_0083": {
+                "jpg_pretty": {
+                    "size": 4131946,
+                    "md5": "cd403404ee6975681382e8d29f8d9a0e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0083.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5608592,
+                    "md5": "6c6b084338e869f94ba1add3c81b11c6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0083.jpg"
+                },
+                "raw": {
+                    "size": 20016928,
+                    "md5": "c36a9526f8b638d7f9b8769c11d68f0f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0083.dng"
+                }
+            },
+            "IMG_0080": {
+                "jpg_pretty": {
+                    "size": 4726550,
+                    "md5": "fee8f23a2225a5ce774654d852102d98",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0080.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5502816,
+                    "md5": "cca44abb6afc7831a9da1e6d01b01804",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0080.jpg"
+                },
+                "raw": {
+                    "size": 20308366,
+                    "md5": "63b5c38015cb0f4ec402769255e31039",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0080.dng"
+                }
+            },
+            "IMG_0081": {
+                "jpg_pretty": {
+                    "size": 4946671,
+                    "md5": "641c18032626feb2161c836ef7a7ff86",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_pretty/IMG_0081.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5119182,
+                    "md5": "028e922acccd81c12b0eac425745b264",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/jpg_plain/IMG_0081.jpg"
+                },
+                "raw": {
+                    "size": 21586260,
+                    "md5": "689c7a93e782af5e606ddb87337085d9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/beach_parking/raw/IMG_0081.dng"
+                }
+            }
+        }
+    }
+}

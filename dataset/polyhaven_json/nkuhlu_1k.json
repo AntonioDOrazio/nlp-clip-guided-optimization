@@ -1,0 +1,106 @@
+{
+    "evs_cap": 24,
+    "type": 0,
+    "tags": [
+        "tree",
+        "bench",
+        "wall",
+        "river",
+        "table",
+        "sun"
+    ],
+    "date_published": 1511996400,
+    "name": "Nkuhlu",
+    "categories": [
+        "outdoor",
+        "nature",
+        "midday",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1443615540,
+    "coords": [
+        -24.996495,
+        31.769279
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "name": "3DLux"
+        }
+    ],
+    "files_hash": "e7b9f80239779c78f1b00f18179c2de0e973d6b0",
+    "download_count": 16257,
+    "files": {
+        "tonemapped": {
+            "size": 6864089,
+            "md5": "9a8c2dc996498bf21023323a1e076ace",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/nkuhlu.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 104488675,
+                    "md5": "7cca4fd082a738ccb6545c5a2fd6cf27",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/nkuhlu_8k.hdr"
+                },
+                "exr": {
+                    "size": 98653229,
+                    "md5": "d492e2d54caed89b5cd4de42fa80bca9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/nkuhlu_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 385681085,
+                    "md5": "f66288460a32154a3b2fb7bf99c4ec62",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/nkuhlu_16k.hdr"
+                },
+                "exr": {
+                    "size": 350193600,
+                    "md5": "4d740a5d3941acca06caa5f7945f3396",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/nkuhlu_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26733287,
+                    "md5": "840799ca659962c9b00fc8aebcfe9f5a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/nkuhlu_4k.hdr"
+                },
+                "exr": {
+                    "size": 24830899,
+                    "md5": "729e75cc47ada685c5f3bf51bf2b7db8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/nkuhlu_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6764895,
+                    "md5": "148a42ab02ab7a6bc71c59de9f37c4f1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/nkuhlu_2k.hdr"
+                },
+                "exr": {
+                    "size": 6298708,
+                    "md5": "8182cbf69e043e30c813fbfe312ddbf1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/nkuhlu_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1703128,
+                    "md5": "0353e72355b70339a0e5d239c66a20f0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/nkuhlu_1k.hdr"
+                },
+                "exr": {
+                    "size": 1597306,
+                    "md5": "ccce56ffa2a8e7a6db25f26c5a7c47d1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/nkuhlu_1k.exr"
+                }
+            }
+        }
+    }
+}

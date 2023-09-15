@@ -1,0 +1,102 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "rock",
+        "tree",
+        "wall",
+        "river",
+        "vine",
+        "ledge",
+        "cave"
+    ],
+    "date_published": 1506981600,
+    "name": "Cave Wall",
+    "categories": [
+        "outdoor",
+        "indoor",
+        "nature",
+        "morning-afternoon",
+        "medium contrast",
+        "natural light"
+    ],
+    "date_taken": 1460637300,
+    "coords": [
+        -29.001776,
+        29.40216
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "files_hash": "82f8b75d0dc2d2103462b767581305c39a63156f",
+    "download_count": 47507,
+    "files": {
+        "tonemapped": {
+            "size": 7777926,
+            "md5": "f0effcc847d396c55fc7458a4eebebf9",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/cave_wall.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 111597894,
+                    "md5": "33de433534c3690f0fa7b6eae87f23a2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/cave_wall_8k.hdr"
+                },
+                "exr": {
+                    "size": 112295129,
+                    "md5": "7a444c295a786628a9113f7feb5d3f26",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/cave_wall_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 424452356,
+                    "md5": "be4e95bd254f05371740a090f3064741",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/cave_wall_16k.hdr"
+                },
+                "exr": {
+                    "size": 411125943,
+                    "md5": "f5544d77f5d1cf30bcdc9b8a051d797a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/cave_wall_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 28829639,
+                    "md5": "114848d6564b7cef6011e2879d69e4df",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/cave_wall_4k.hdr"
+                },
+                "exr": {
+                    "size": 29486696,
+                    "md5": "880dade5eb0d4da58b965359b3429eca",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/cave_wall_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7338660,
+                    "md5": "1e36c9516e41ca029e8076e7e51f7fb5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/cave_wall_2k.hdr"
+                },
+                "exr": {
+                    "size": 7552050,
+                    "md5": "355b496f4cdb1da44c4c2a33287d115d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/cave_wall_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1849591,
+                    "md5": "068c025942bf5f4ecd1fcba306fc098e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/cave_wall_1k.hdr"
+                },
+                "exr": {
+                    "size": 1913515,
+                    "md5": "1f1d3c7f10f2b556c8c213a43089bd5c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/cave_wall_1k.exr"
+                }
+            }
+        }
+    }
+}

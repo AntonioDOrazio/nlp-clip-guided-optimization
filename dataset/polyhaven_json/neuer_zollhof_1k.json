@@ -1,0 +1,109 @@
+{
+    "evs_cap": 16,
+    "type": 0,
+    "tags": [
+        "lamp",
+        "architecture",
+        "europe",
+        "building",
+        "street",
+        "city",
+        "square"
+    ],
+    "date_published": 1522879200,
+    "name": "Neuer Zollhof",
+    "categories": [
+        "outdoor",
+        "urban",
+        "night",
+        "partly cloudy",
+        "high contrast",
+        "artificial light"
+    ],
+    "date_taken": 1478971140,
+    "coords": [
+        51.216465,
+        6.757572
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "url": "https://www.ronenbekerman.com/",
+            "name": "Ronen Bekerman"
+        },
+        "4714267"
+    ],
+    "files_hash": "cb1bc5112d41524a26d0f585245707d5a3ca345d",
+    "download_count": 121434,
+    "files": {
+        "tonemapped": {
+            "size": 5105020,
+            "md5": "ebdd9090d10b32f1ac0a4ece8da9df0d",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/neuer_zollhof.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 91925958,
+                    "md5": "cd52f760fd39638bd00584226f48ddf9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/neuer_zollhof_8k.hdr"
+                },
+                "exr": {
+                    "size": 75238296,
+                    "md5": "8feab3ff7e3511eae8d1267d0278fe4e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/neuer_zollhof_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 332377458,
+                    "md5": "2d36dbce453c68522bb6478ad4f9d995",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/neuer_zollhof_16k.hdr"
+                },
+                "exr": {
+                    "size": 275101408,
+                    "md5": "65428eb65073d405fb2e370f81c76df5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/neuer_zollhof_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 23396083,
+                    "md5": "eb9f9880686b4c4b644190fb3b09bc1c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/neuer_zollhof_4k.hdr"
+                },
+                "exr": {
+                    "size": 19391916,
+                    "md5": "722bd4ae72da917f647fe336fe9eb6be",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/neuer_zollhof_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5799415,
+                    "md5": "711c2d504887bc9eab651b7455b05c00",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/neuer_zollhof_2k.hdr"
+                },
+                "exr": {
+                    "size": 4920003,
+                    "md5": "b6ad668df87b03e00cdf19ab3b66ef10",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/neuer_zollhof_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1459088,
+                    "md5": "6ccc7e1a34d8239477bf58ad3aba0ff8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/neuer_zollhof_1k.hdr"
+                },
+                "exr": {
+                    "size": 1262996,
+                    "md5": "63620ae32c56506eea9fc9a96b72e30d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/neuer_zollhof_1k.exr"
+                }
+            }
+        }
+    }
+}

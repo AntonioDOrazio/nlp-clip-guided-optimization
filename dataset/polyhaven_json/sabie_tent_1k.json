@@ -1,0 +1,102 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "porch",
+        "veranda",
+        "balcony",
+        "river",
+        "view",
+        "tree",
+        "tent"
+    ],
+    "date_published": 1522879200,
+    "name": "Sabie Tent",
+    "categories": [
+        "outdoor",
+        "nature",
+        "sunrise-sunset",
+        "clear",
+        "medium contrast",
+        "natural light"
+    ],
+    "date_taken": 1443626820,
+    "coords": [
+        -25.117582,
+        31.914647
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "files_hash": "6e60fc82baa3c2570c2786cf4f2da59e65fe864e",
+    "download_count": 10223,
+    "files": {
+        "tonemapped": {
+            "size": 5112036,
+            "md5": "171d45d0c947d969e42f2b5f506590de",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/sabie_tent.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101553622,
+                    "md5": "ef6f262d91fbf266b719c7bd94b3f429",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/sabie_tent_8k.hdr"
+                },
+                "exr": {
+                    "size": 88485007,
+                    "md5": "e74f9bfb5b05760b097806d0d2e259d0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/sabie_tent_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 373891150,
+                    "md5": "a0e74871cd9cd07dc249e74fc5c2fd27",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/sabie_tent_16k.hdr"
+                },
+                "exr": {
+                    "size": 309446615,
+                    "md5": "f7b788781b0d6696ce400895d4ae276f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/sabie_tent_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26176364,
+                    "md5": "d55513cb87f28597964d64dc12b4a568",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/sabie_tent_4k.hdr"
+                },
+                "exr": {
+                    "size": 23196258,
+                    "md5": "6ac77302f02482357fff0c5dc796de83",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/sabie_tent_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6625599,
+                    "md5": "766982741aa0eabcd66f5dc3b3c63a61",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/sabie_tent_2k.hdr"
+                },
+                "exr": {
+                    "size": 5990388,
+                    "md5": "27cac10851a7f90c83bc2d200af167e9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/sabie_tent_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1659667,
+                    "md5": "35e4e56b24794f2651416e67e8847d03",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/sabie_tent_1k.hdr"
+                },
+                "exr": {
+                    "size": 1553981,
+                    "md5": "812fac239a3516bd48d268f0dd8d2d82",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/sabie_tent_1k.exr"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "evs_cap": 26,
+    "type": 0,
+    "whitebalance": 5303,
+    "tags": [
+        "tree",
+        "sun",
+        "plant",
+        "garden",
+        "tire",
+        "house",
+        "dappled"
+    ],
+    "name": "Garden Nook",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "partly cloudy",
+        "high contrast",
+        "morning-afternoon"
+    ],
+    "date_taken": 1622645520,
+    "info": null,
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "date_published": 1662940800,
+    "files_hash": "a4c5c8f4094f5a218021f7555a0e9866f34324ab",
+    "download_count": 37611,
+    "files": {
+        "tonemapped": {
+            "size": 62836504,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/garden_nook.jpg",
+            "md5": "e9db80ff4705ea7c03942c3a5bbf3619"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 112036302,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/garden_nook_8k.hdr",
+                    "md5": "3929bf795efad7f1c7291fe3a9e0f33c"
+                },
+                "exr": {
+                    "size": 389491652,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/garden_nook_8k.exr",
+                    "md5": "f62c6eb931150fb82f8a8af54a20cb00"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 421039262,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/garden_nook_16k.hdr",
+                    "md5": "0dbacf787636cdc7135fed4bd5d54c1c"
+                },
+                "exr": {
+                    "size": 1537083229,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/garden_nook_16k.exr",
+                    "md5": "73c0f47ac27e34ef02661b73c3049398"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 28767466,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/garden_nook_4k.hdr",
+                    "md5": "d1bc0f82c3a812205968b29fe7efa981"
+                },
+                "exr": {
+                    "size": 97998514,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/garden_nook_4k.exr",
+                    "md5": "4bba4c90b321e8ff598a0cd4aff27c4a"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 921383625,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/garden_nook_24k.hdr",
+                    "md5": "ba8b4ec1ea413e8e39656a2b0d30434d"
+                },
+                "exr": {
+                    "size": 3416187088,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/garden_nook_24k.exr",
+                    "md5": "d76b01509f33844d25c741395577f9af"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7279911,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/garden_nook_2k.hdr",
+                    "md5": "c2288114f519e9bbd7cf97e3d6fb0c48"
+                },
+                "exr": {
+                    "size": 24593881,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/garden_nook_2k.exr",
+                    "md5": "16bbacd3015690cd3a7ae1e53ee75dd2"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1836220,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/garden_nook_1k.hdr",
+                    "md5": "e3e0d98789ce4f177a37e72423892a7b"
+                },
+                "exr": {
+                    "size": 6167740,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/garden_nook_1k.exr",
+                    "md5": "86fdbe7276b913dbc70912dd358a311b"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 67136396,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/garden_nook.zip",
+            "md5": "0b0ab837232d8cbdbef8ddcd51eb7024"
+        }
+    }
+}

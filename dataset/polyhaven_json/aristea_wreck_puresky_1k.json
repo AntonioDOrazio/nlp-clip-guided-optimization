@@ -1,0 +1,101 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "pure skies"
+    ],
+    "name": "Aristea Wreck (Pure Sky)",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "midday",
+        "partly cloudy",
+        "medium contrast",
+        "natural light",
+        "pure skies"
+    ],
+    "coords": [
+        -30.345199,
+        17.278928
+    ],
+    "date_taken": 1504006800,
+    "authors": {
+        "Greg Zaal": "Original",
+        "Jarod Guest": "Sky edits"
+    },
+    "info": "Edited sky-only version of [Aristea Wreck](https://polyhaven.com/a/aristea_wreck).",
+    "date_published": 1668211200,
+    "files_hash": "f786ccfc0c55e83454c2528f6dc472fbf4838f72",
+    "download_count": 25323,
+    "files": {
+        "tonemapped": {
+            "size": 16211240,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/aristea_wreck_puresky.jpg",
+            "md5": "984d460c82ac3168dd4e7f0463d4e7c6"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 65106379,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/aristea_wreck_puresky_8k.hdr",
+                    "md5": "3e1cbed88d46fb618e6d0df78b749ff9"
+                },
+                "exr": {
+                    "size": 283755824,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/aristea_wreck_puresky_8k.exr",
+                    "md5": "123148357380a62a11b3fc7effd9ab4d"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 212190527,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/aristea_wreck_puresky_16k.hdr",
+                    "md5": "c35d858e64a694f8483f1180d04ffe8c"
+                },
+                "exr": {
+                    "size": 1096067049,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/aristea_wreck_puresky_16k.exr",
+                    "md5": "f0ebbd08494afde3e8a9a7c4a0f1cba1"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 19039424,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/aristea_wreck_puresky_4k.hdr",
+                    "md5": "793c76233b0b5f54bbaf8c0e847685b8"
+                },
+                "exr": {
+                    "size": 74270446,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/aristea_wreck_puresky_4k.exr",
+                    "md5": "91bd1d766f9a29ba561a882b1c1c10bc"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5345625,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/aristea_wreck_puresky_2k.hdr",
+                    "md5": "e764c66f871ab0987f3fac422edc841d"
+                },
+                "exr": {
+                    "size": 19858754,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/aristea_wreck_puresky_2k.exr",
+                    "md5": "a6894e1c8d39357446066e0606afe96d"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1453254,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/aristea_wreck_puresky_1k.hdr",
+                    "md5": "af70994dfdd8a5d6850665540a637c31"
+                },
+                "exr": {
+                    "size": 5454582,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/aristea_wreck_puresky_1k.exr",
+                    "md5": "951c6b3b89857b09dec5a6af33d56f29"
+                }
+            }
+        }
+    }
+}

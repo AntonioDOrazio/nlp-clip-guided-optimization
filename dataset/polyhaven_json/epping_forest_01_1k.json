@@ -1,0 +1,105 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "tree",
+        "canopy",
+        "park",
+        "lake",
+        "dam",
+        "dirt"
+    ],
+    "date_published": 1568940207,
+    "name": "Epping Forest 01",
+    "categories": [
+        "outdoor",
+        "nature",
+        "midday",
+        "partly cloudy",
+        "medium contrast",
+        "natural light"
+    ],
+    "date_taken": 1567241760,
+    "coords": [
+        51.650043,
+        0.041952
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        "10485422",
+        "7941984"
+    ],
+    "files_hash": "0354876b8f7b799f0e33d2810a6d97ebfd076c90",
+    "download_count": 36149,
+    "files": {
+        "tonemapped": {
+            "size": 12335521,
+            "md5": "747962484aaf957fc114b0eee8bc07f7",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/epping_forest_01.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 114627065,
+                    "md5": "0f111b55c23cd64b1e3c8494e8258cdd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/epping_forest_01_8k.hdr"
+                },
+                "exr": {
+                    "size": 120580271,
+                    "md5": "3bbab49dd556f55e909dc58d5aa99076",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/epping_forest_01_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 433808968,
+                    "md5": "f2b824b933ef97909ca71ee9957cc1f3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/epping_forest_01_16k.hdr"
+                },
+                "exr": {
+                    "size": 444076513,
+                    "md5": "06861dafc80c507b86b4a1112e7ab3f7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/epping_forest_01_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 29781396,
+                    "md5": "d8ca91a166d81c1ec5c628a50b760ad4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/epping_forest_01_4k.hdr"
+                },
+                "exr": {
+                    "size": 31549914,
+                    "md5": "e0378df0ae64bbc2f66dfee7b56896fe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/epping_forest_01_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7611980,
+                    "md5": "dedbad5d10a94859c71002b99d9d810a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/epping_forest_01_2k.hdr"
+                },
+                "exr": {
+                    "size": 8087294,
+                    "md5": "affa68d76e5ef5634d4d49e07be56c91",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/epping_forest_01_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1923408,
+                    "md5": "d991bbf26bfc11f01b0862698188cda4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/epping_forest_01_1k.hdr"
+                },
+                "exr": {
+                    "size": 2049153,
+                    "md5": "b5685cfb2f3acedec482398c708afd24",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/epping_forest_01_1k.exr"
+                }
+            }
+        }
+    }
+}

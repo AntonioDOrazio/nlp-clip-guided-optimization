@@ -1,0 +1,104 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "whitebalance": 4950,
+    "tags": [
+        "studio",
+        "stair",
+        "ramp",
+        "stand",
+        "modern",
+        "concrete"
+    ],
+    "name": "Blocky Photo Studio",
+    "categories": [
+        "urban",
+        "indoor",
+        "studio",
+        "artificial light",
+        "natural light",
+        "low contrast"
+    ],
+    "date_taken": 1671463020,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "info": null,
+    "files_hash": "dd6c0bf97c06357cc887094a428c2bc9df14a05b",
+    "date_published": 1673740800,
+    "download_count": 41192,
+    "files": {
+        "tonemapped": {
+            "size": 28500264,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/blocky_photo_studio.jpg",
+            "md5": "97c2c8da3cbe7d99ba9860d9e1f64a90"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 94923260,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/blocky_photo_studio_8k.hdr",
+                    "md5": "8bdb0c5b908d1a615407ac14beebfd03"
+                },
+                "exr": {
+                    "size": 66267208,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/blocky_photo_studio_8k.exr",
+                    "md5": "8ab4f264d22ed83c45d3eb5c53255e21"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 352738544,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/blocky_photo_studio_16k.hdr",
+                    "md5": "174310ef863e443e2da7f07dbefb1ff8"
+                },
+                "exr": {
+                    "size": 235084652,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/blocky_photo_studio_16k.exr",
+                    "md5": "0f60431e413e208955681fef44b3bc1f"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24509524,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/blocky_photo_studio_4k.hdr",
+                    "md5": "d82143aa40df2a32c8a2f41f54b4ece9"
+                },
+                "exr": {
+                    "size": 17346735,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/blocky_photo_studio_4k.exr",
+                    "md5": "8aabaefbcaabfcb1c3ce75de77612d25"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6245080,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/blocky_photo_studio_2k.hdr",
+                    "md5": "d468bd6d24a61c3af9553f0cb13a30d8"
+                },
+                "exr": {
+                    "size": 4576705,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/blocky_photo_studio_2k.exr",
+                    "md5": "759cb6db9ea1f03d02325527194f1aba"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1589468,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/blocky_photo_studio_1k.hdr",
+                    "md5": "d3f4a05f4a1d595c67a209ee18a6b3e3"
+                },
+                "exr": {
+                    "size": 1231706,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/blocky_photo_studio_1k.exr",
+                    "md5": "15287c455dda5ee16f92f44ea40d5757"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 74102346,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/blocky_photo_studio.zip",
+            "md5": "5bcee03499b135f2abed4ad7bae2d0f6"
+        }
+    }
+}

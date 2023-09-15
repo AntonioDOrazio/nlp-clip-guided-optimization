@@ -1,0 +1,103 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "house",
+        "dog",
+        "kennel",
+        "garage",
+        "brick"
+    ],
+    "date_published": 1522879200,
+    "name": "Courtyard",
+    "categories": [
+        "outdoor",
+        "urban",
+        "morning-afternoon",
+        "clear",
+        "medium contrast",
+        "natural light"
+    ],
+    "date_taken": 1449643560,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "11167855",
+        {
+            "url": "https://www.youtube.com/cggeek",
+            "name": "CG Geek"
+        }
+    ],
+    "files_hash": "a75467fd21d677525347a93b91ccc15d75867b08",
+    "download_count": 17239,
+    "files": {
+        "tonemapped": {
+            "size": 6296902,
+            "md5": "76d49d1b33234c63413a82455b1dda84",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/courtyard.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102386302,
+                    "md5": "206b5cf271dba026ecf67815209a7cd6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/courtyard_8k.hdr"
+                },
+                "exr": {
+                    "size": 94709376,
+                    "md5": "898af36bc0193a8a2b854c4282645104",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/courtyard_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 389779594,
+                    "md5": "647fb02637bebb0b06289fbf8c92e877",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/courtyard_16k.hdr"
+                },
+                "exr": {
+                    "size": 342982988,
+                    "md5": "92512bac1ff725b744acd6af74723549",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/courtyard_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26367549,
+                    "md5": "5b5459426b301d98cfc3d244f2e988de",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/courtyard_4k.hdr"
+                },
+                "exr": {
+                    "size": 25071855,
+                    "md5": "d689ae15b826a4eef0b9a3a4beb61a09",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/courtyard_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6733957,
+                    "md5": "c4ab2b82e211640a9a00d367ccea8529",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/courtyard_2k.hdr"
+                },
+                "exr": {
+                    "size": 6497939,
+                    "md5": "4398bfe03a14a7aab2c6d031160e34f8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/courtyard_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1716791,
+                    "md5": "c9f92690f97deab491c5f97dd652cee2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/courtyard_1k.hdr"
+                },
+                "exr": {
+                    "size": 1679859,
+                    "md5": "142717fbec7b0c7f0c72b3fe37c5aef9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/courtyard_1k.exr"
+                }
+            }
+        }
+    }
+}

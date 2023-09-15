@@ -1,0 +1,118 @@
+{
+    "evs_cap": 18,
+    "type": 0,
+    "tags": [
+        "tree",
+        "grass",
+        "path",
+        "park",
+        "bench"
+    ],
+    "date_published": 1597096800,
+    "name": "Blaubeuren Night",
+    "categories": [
+        "outdoor",
+        "urban",
+        "night",
+        "partly cloudy",
+        "high contrast",
+        "artificial light"
+    ],
+    "coords": [
+        48.41401,
+        9.788845
+    ],
+    "date_taken": 1594414140,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        {
+            "url": "https://www.youtube.com/cggeek",
+            "name": "CG Geek"
+        }
+    ],
+    "files_hash": "6f28f0fe1b9e48166c86ef3d11d4d2c8124b7f94",
+    "download_count": 69261,
+    "files": {
+        "tonemapped": {
+            "size": 14379770,
+            "md5": "ef4479cd7b844e4623788c48e06c73aa",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/blaubeuren_night.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 116544326,
+                    "md5": "7b2f16cd511fbdefa534f2855fc8e817",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/blaubeuren_night_8k.hdr"
+                },
+                "exr": {
+                    "size": 123775684,
+                    "md5": "8acda5b53b3a28bb0de03e166786bc16",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/blaubeuren_night_8k.exr"
+                }
+            },
+            "18k": {
+                "hdr": {
+                    "size": 584706562,
+                    "md5": "a088408c80dd085ecf6cefa102480c38",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/blaubeuren_night_18k.hdr"
+                },
+                "exr": {
+                    "size": 631330584,
+                    "md5": "1783496a51873a9ab64f02785004e9b3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/blaubeuren_night_18k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 460238328,
+                    "md5": "a33515d527da8ac8f57e4d4c56c5b871",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/blaubeuren_night_16k.hdr"
+                },
+                "exr": {
+                    "size": 495931186,
+                    "md5": "f9cbcd4af366111d083bf6bbe60e6e43",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/blaubeuren_night_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 29202132,
+                    "md5": "53a3bbc676c969b3bbdc962a48fe74c3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/blaubeuren_night_4k.hdr"
+                },
+                "exr": {
+                    "size": 30678124,
+                    "md5": "a79c0d90df4201723313ad8a6284114d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/blaubeuren_night_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7296212,
+                    "md5": "d9bedd42fe9339fa821a007da5d5de6c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/blaubeuren_night_2k.hdr"
+                },
+                "exr": {
+                    "size": 7523807,
+                    "md5": "d709b24942b5de17b10ec4d18c04f167",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/blaubeuren_night_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1820806,
+                    "md5": "893cae7964396a4ce2b81c9b06ba5479",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/blaubeuren_night_1k.hdr"
+                },
+                "exr": {
+                    "size": 1830010,
+                    "md5": "c00ff35f8dff2c8ca2cb51b97abe05a0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/blaubeuren_night_1k.exr"
+                }
+            }
+        }
+    }
+}

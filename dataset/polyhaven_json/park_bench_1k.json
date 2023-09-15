@@ -1,0 +1,106 @@
+{
+    "evs_cap": 21,
+    "type": 0,
+    "tags": [
+        "tree",
+        "sun",
+        "path",
+        "grass",
+        "dam",
+        "pond",
+        "bench",
+        "park"
+    ],
+    "date_published": 1511996400,
+    "name": "Park Bench",
+    "categories": [
+        "outdoor",
+        "nature",
+        "sunrise-sunset",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        -26.162496,
+        28.001182
+    ],
+    "date_taken": 1438238580,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "3267566"
+    ],
+    "files_hash": "5e2c58c93c8d2834340834309ce76bfcf9c6f7e3",
+    "download_count": 35426,
+    "files": {
+        "tonemapped": {
+            "size": 7788172,
+            "md5": "4cfe2ad04ed3e062980bc69077319cc3",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/park_bench.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103795200,
+                    "md5": "36ff8235ca4896e7e4b955384a7afffa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/park_bench_8k.hdr"
+                },
+                "exr": {
+                    "size": 94258347,
+                    "md5": "1626bd8b93a8e4b95982ccf747fa3171",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/park_bench_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 387613009,
+                    "md5": "9ef9dd14965c3e595150ca8dd1c1b505",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/park_bench_16k.hdr"
+                },
+                "exr": {
+                    "size": 351983258,
+                    "md5": "b09f4db0fc7473004f2f33a2abd66d8d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/park_bench_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26649986,
+                    "md5": "4ab718ac1a7ef3e85455b896ba65a167",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/park_bench_4k.hdr"
+                },
+                "exr": {
+                    "size": 23940700,
+                    "md5": "3ae6c2cbbb87bbde3a0c8ba2443ccb74",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/park_bench_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6660151,
+                    "md5": "c42ff870995f8c5bd8b4a9d4336c9991",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/park_bench_2k.hdr"
+                },
+                "exr": {
+                    "size": 5958268,
+                    "md5": "9db942b8b12b26b390907ec5f5d3c9e0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/park_bench_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1633144,
+                    "md5": "26b996b85b03cc7fbf9ab8fe1f511942",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/park_bench_1k.hdr"
+                },
+                "exr": {
+                    "size": 1483931,
+                    "md5": "cd385a440cf5287c645058baeb614fd7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/park_bench_1k.exr"
+                }
+            }
+        }
+    }
+}

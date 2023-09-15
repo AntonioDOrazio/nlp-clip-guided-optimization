@@ -1,0 +1,407 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "date_published": 1522879200,
+    "name": "Residential Garden",
+    "categories": [
+        "outdoor",
+        "urban",
+        "midday",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1464777180,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "7947474"
+    ],
+    "backplates": true,
+    "tags": [
+        "building",
+        "grass",
+        "apartment",
+        "backplates"
+    ],
+    "files_hash": "23d7144e8d9b5a453f664e929df42e11713362ab",
+    "download_count": 19069,
+    "files": {
+        "tonemapped": {
+            "size": 5530956,
+            "md5": "4037ed06dd7a648980e43ed25a702de9",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/residential_garden.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 100872159,
+                    "md5": "7da2599671cebdf7e4a93dbd979e99d4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/residential_garden_8k.hdr"
+                },
+                "exr": {
+                    "size": 86093732,
+                    "md5": "6b3b870a4473ea1192d7ab174faf97ca",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/residential_garden_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 368814176,
+                    "md5": "23af4ecbde4bc19ea69a77d8b28963b6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/residential_garden_16k.hdr"
+                },
+                "exr": {
+                    "size": 308880627,
+                    "md5": "1e78e9b2120e2ed16f709cf28e6592d7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/residential_garden_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25980512,
+                    "md5": "0f5feac578ea480b6959bb442dba5710",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/residential_garden_4k.hdr"
+                },
+                "exr": {
+                    "size": 22552556,
+                    "md5": "f38464256761f95629865fc98f36cf36",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/residential_garden_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6535886,
+                    "md5": "4cdc3dae87b78203628914b49045c701",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/residential_garden_2k.hdr"
+                },
+                "exr": {
+                    "size": 5814432,
+                    "md5": "9af4428701846733f2c7dbb5eebdd11b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/residential_garden_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1641210,
+                    "md5": "63b234079a91b64b3ad94b1bfb13a371",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/residential_garden_1k.hdr"
+                },
+                "exr": {
+                    "size": 1506278,
+                    "md5": "04339046a04c322358bc0de2aa3c003f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/residential_garden_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "IMG_0609": {
+                "jpg_pretty": {
+                    "size": 5667025,
+                    "md5": "28a38b6ddd7e46bbb05d799872a4aaae",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_pretty/IMG_0609.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3518619,
+                    "md5": "c92ca17d7d16d350087726a4f1b68851",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_plain/IMG_0609.jpg"
+                },
+                "raw": {
+                    "size": 18802112,
+                    "md5": "8a4d6c8a4aae1068235ef8f899418d2e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/raw/IMG_0609.dng"
+                }
+            },
+            "IMG_0608": {
+                "jpg_pretty": {
+                    "size": 9426828,
+                    "md5": "0da6fbadd65b6712b197e84a91cfa416",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_pretty/IMG_0608.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7209179,
+                    "md5": "153133e2d969b5af06a16648bf30b989",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_plain/IMG_0608.jpg"
+                },
+                "raw": {
+                    "size": 21559730,
+                    "md5": "e053d8cd54faf4846928a18618c48bba",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/raw/IMG_0608.dng"
+                }
+            },
+            "IMG_0607": {
+                "jpg_pretty": {
+                    "size": 8960069,
+                    "md5": "8afd1feb93db0de577202741881b9583",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_pretty/IMG_0607.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7012721,
+                    "md5": "21f54fb1443600d3de6f71d3d271164b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_plain/IMG_0607.jpg"
+                },
+                "raw": {
+                    "size": 21280234,
+                    "md5": "f636fd43404bad5d4969f8722f357430",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/raw/IMG_0607.dng"
+                }
+            },
+            "IMG_0606": {
+                "jpg_pretty": {
+                    "size": 9025306,
+                    "md5": "bcbcd2f6e5a119a029c3960be7c5b544",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_pretty/IMG_0606.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6870154,
+                    "md5": "af7be5cf5de49de8334b559c47e9891b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_plain/IMG_0606.jpg"
+                },
+                "raw": {
+                    "size": 21712158,
+                    "md5": "409e50fa57406542e3f493106236f971",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/raw/IMG_0606.dng"
+                }
+            },
+            "IMG_0605": {
+                "jpg_pretty": {
+                    "size": 9038788,
+                    "md5": "c50ee104fe65a26ab213a9ba3e5fbea9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_pretty/IMG_0605.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8017619,
+                    "md5": "c62bd6957ad987b43af4556e60fc7335",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_plain/IMG_0605.jpg"
+                },
+                "raw": {
+                    "size": 22592972,
+                    "md5": "3c97d5fb2f4082562901a09e7d3934ab",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/raw/IMG_0605.dng"
+                }
+            },
+            "IMG_0616": {
+                "jpg_pretty": {
+                    "size": 8888785,
+                    "md5": "2805c98cbe43faab0fb449b1cf0218e1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_pretty/IMG_0616.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6940998,
+                    "md5": "5397858895e4756e8aa1aca82427c7ab",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_plain/IMG_0616.jpg"
+                },
+                "raw": {
+                    "size": 21418826,
+                    "md5": "38626bf71c9e3ecb907f91d82913bf1d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/raw/IMG_0616.dng"
+                }
+            },
+            "IMG_0604": {
+                "jpg_pretty": {
+                    "size": 9114029,
+                    "md5": "16cb95f9516598225c3efdc606c5a693",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_pretty/IMG_0604.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7364837,
+                    "md5": "f4d4512d36ec7488a53b18e00dbb52ee",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_plain/IMG_0604.jpg"
+                },
+                "raw": {
+                    "size": 22282492,
+                    "md5": "20e1517894aa601f5fae82817c186389",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/raw/IMG_0604.dng"
+                }
+            },
+            "IMG_0615": {
+                "jpg_pretty": {
+                    "size": 9660226,
+                    "md5": "acc171b06eda0418a57ba80cb32e301d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_pretty/IMG_0615.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7924179,
+                    "md5": "07fe7bfb2e858f84e125f717d72f7e10",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_plain/IMG_0615.jpg"
+                },
+                "raw": {
+                    "size": 22445394,
+                    "md5": "9cc831ed8aee2786b422a6a1a7ae2ac5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/raw/IMG_0615.dng"
+                }
+            },
+            "IMG_0603": {
+                "jpg_pretty": {
+                    "size": 8776566,
+                    "md5": "88a8b968fb2c28a321e6c890b3e33511",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_pretty/IMG_0603.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7544952,
+                    "md5": "813a95ce1515fad726d1b2ee5f8b700b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_plain/IMG_0603.jpg"
+                },
+                "raw": {
+                    "size": 22274278,
+                    "md5": "c3aac9edb7326255a9278f69af85534b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/raw/IMG_0603.dng"
+                }
+            },
+            "IMG_0614": {
+                "jpg_pretty": {
+                    "size": 8787375,
+                    "md5": "27c63f14f44a278068e7ff10273b7e44",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_pretty/IMG_0614.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7817229,
+                    "md5": "66cc6483abf34319cdfc9920ca4b983f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_plain/IMG_0614.jpg"
+                },
+                "raw": {
+                    "size": 23005252,
+                    "md5": "8b78119eef9b94ec224fe10dcedf9633",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/raw/IMG_0614.dng"
+                }
+            },
+            "IMG_0602": {
+                "jpg_pretty": {
+                    "size": 9427224,
+                    "md5": "60d7b9aefe4f7f0d498f14b86fd94af6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_pretty/IMG_0602.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7750235,
+                    "md5": "45fe4197fc11c7b25bf8ebb5c6033c2f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_plain/IMG_0602.jpg"
+                },
+                "raw": {
+                    "size": 22698460,
+                    "md5": "053ca081b583d671b19d9bf6086c65c8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/raw/IMG_0602.dng"
+                }
+            },
+            "IMG_0613": {
+                "jpg_pretty": {
+                    "size": 6398428,
+                    "md5": "fa7a02187101a6ac140f857f82db1cc8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_pretty/IMG_0613.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4887387,
+                    "md5": "ab7080d2c757ee88ae9f4365cf1c7123",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_plain/IMG_0613.jpg"
+                },
+                "raw": {
+                    "size": 20134794,
+                    "md5": "1209f78f3337e845526562dcb91c4453",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/raw/IMG_0613.dng"
+                }
+            },
+            "IMG_0601": {
+                "jpg_pretty": {
+                    "size": 8999868,
+                    "md5": "8e3c14cb35a60ae56e9c997cd6d49bda",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_pretty/IMG_0601.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8064390,
+                    "md5": "faa889b5ad8a8e9f8b29f51010ad9e4a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_plain/IMG_0601.jpg"
+                },
+                "raw": {
+                    "size": 22744856,
+                    "md5": "81033a30b4d29b336d65491a2fdda5bc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/raw/IMG_0601.dng"
+                }
+            },
+            "IMG_0612": {
+                "jpg_pretty": {
+                    "size": 8350968,
+                    "md5": "0c02e013f612cf007b8e5e67d7b94326",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_pretty/IMG_0612.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5577083,
+                    "md5": "ad9cd69037be1357cfa0d0609c215cc7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_plain/IMG_0612.jpg"
+                },
+                "raw": {
+                    "size": 19564048,
+                    "md5": "3b03179f351c3310eebaa3ae6efb8ce5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/raw/IMG_0612.dng"
+                }
+            },
+            "IMG_0600": {
+                "jpg_pretty": {
+                    "size": 9100745,
+                    "md5": "87d85b77c168014c4b1708b58823f46e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_pretty/IMG_0600.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7395552,
+                    "md5": "55d2a15ef468213dd5d43864046f039c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_plain/IMG_0600.jpg"
+                },
+                "raw": {
+                    "size": 22363322,
+                    "md5": "eba818a88bb8393be815ee94436b83b4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/raw/IMG_0600.dng"
+                }
+            },
+            "IMG_0611": {
+                "jpg_pretty": {
+                    "size": 8076946,
+                    "md5": "c01163eccc10f0305c2e653eb2c408c4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_pretty/IMG_0611.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5372280,
+                    "md5": "b1bface028f8f2d160ca82886d630d68",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_plain/IMG_0611.jpg"
+                },
+                "raw": {
+                    "size": 19468614,
+                    "md5": "23c80181fc0fe09e835488033962c786",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/raw/IMG_0611.dng"
+                }
+            },
+            "IMG_0599": {
+                "jpg_pretty": {
+                    "size": 9051401,
+                    "md5": "167a6ec80c8ccc20b5c1a22298e2482c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_pretty/IMG_0599.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7936591,
+                    "md5": "4fa05751ec4403c1ad020b47d717e7c7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_plain/IMG_0599.jpg"
+                },
+                "raw": {
+                    "size": 23336602,
+                    "md5": "3d3b5737fa7ab114a40288ab6b199084",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/raw/IMG_0599.dng"
+                }
+            },
+            "IMG_0610": {
+                "jpg_pretty": {
+                    "size": 10776653,
+                    "md5": "9eca6cf894cb781d38daaa53bdf16d55",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_pretty/IMG_0610.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8858182,
+                    "md5": "ad58c5c1c95a12d8b0713ab281fd1c55",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/jpg_plain/IMG_0610.jpg"
+                },
+                "raw": {
+                    "size": 23086008,
+                    "md5": "f0892fc79f45a1e67b67d2ec44584641",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/residential_garden/raw/IMG_0610.dng"
+                }
+            }
+        }
+    }
+}

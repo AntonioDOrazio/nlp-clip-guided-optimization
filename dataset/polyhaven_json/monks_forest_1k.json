@@ -1,0 +1,97 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "tree",
+        "forest",
+        "path"
+    ],
+    "date_published": 1511996400,
+    "name": "Monk's forest",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "medium contrast",
+        "natural light"
+    ],
+    "coords": [
+        -29.04654,
+        29.40439
+    ],
+    "date_taken": 1460557080,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "files_hash": "dd36d72319953132dc557884245ae2cd59b7529b",
+    "download_count": 38767,
+    "files": {
+        "tonemapped": {
+            "size": 11539706,
+            "md5": "7e680bb12e987416d47fde7f03bad5bd",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/monks_forest.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 115013711,
+                    "md5": "b9bd25dd52e62339449d96f9401914f9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/monks_forest_8k.hdr"
+                },
+                "exr": {
+                    "size": 119909907,
+                    "md5": "f990341537df0e621d05e0bb41c66518",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/monks_forest_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 433855970,
+                    "md5": "10f1500189f2a43474dd28c01d06a66e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/monks_forest_16k.hdr"
+                },
+                "exr": {
+                    "size": 440832249,
+                    "md5": "9394a671f43a812bcbe88f8e41cbeb2c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/monks_forest_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 29851702,
+                    "md5": "83fb8d8727ec4c1e04a2362b41cbd265",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/monks_forest_4k.hdr"
+                },
+                "exr": {
+                    "size": 31548281,
+                    "md5": "95bf7ae5e7ec3d2ef7a12d8b5a2336bf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/monks_forest_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7625449,
+                    "md5": "0039ce4d18516398fcb52e3c334a9994",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/monks_forest_2k.hdr"
+                },
+                "exr": {
+                    "size": 8103646,
+                    "md5": "e17b00bd2fce1fd61e5bd2ac14578be2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/monks_forest_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1928394,
+                    "md5": "ee0aa7afd992a39d9cf71993f5713167",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/monks_forest_1k.hdr"
+                },
+                "exr": {
+                    "size": 2052673,
+                    "md5": "9d8cbd1b974537f605e76ca185c45934",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/monks_forest_1k.exr"
+                }
+            }
+        }
+    }
+}

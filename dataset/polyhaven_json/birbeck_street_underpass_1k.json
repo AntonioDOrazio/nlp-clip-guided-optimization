@@ -1,0 +1,105 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "road",
+        "asphalt",
+        "tunnel",
+        "underpass",
+        "brick",
+        "graffiti"
+    ],
+    "date_published": 1566253836,
+    "name": "Birbeck Street Underpass",
+    "categories": [
+        "indoor",
+        "urban",
+        "morning-afternoon",
+        "medium contrast",
+        "natural light",
+        "artificial light"
+    ],
+    "coords": [
+        51.525806,
+        -0.056278
+    ],
+    "date_taken": 1566111180,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "files_hash": "ba0b0f0d46a8197e705e822a6f7d365004970613",
+    "sponsors": [
+        "31913343",
+        "44302755"
+    ],
+    "download_count": 17349,
+    "files": {
+        "tonemapped": {
+            "size": 9074570,
+            "md5": "dfbe38df6fe3df70a81071ccd57a4920",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/birbeck_street_underpass.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 106815307,
+                    "md5": "97e8078eb223dd57445d1f0031dba69e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/birbeck_street_underpass_8k.hdr"
+                },
+                "exr": {
+                    "size": 105190242,
+                    "md5": "3ea17cff787d37513b03cb4d83777096",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/birbeck_street_underpass_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 404137891,
+                    "md5": "95938680a1433f3b45ac882bb123aa04",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/birbeck_street_underpass_16k.hdr"
+                },
+                "exr": {
+                    "size": 385869884,
+                    "md5": "47cf469892b45228e8fc840f9b694901",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/birbeck_street_underpass_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27287193,
+                    "md5": "c6e16945188e4d6968a19223189d0364",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/birbeck_street_underpass_4k.hdr"
+                },
+                "exr": {
+                    "size": 27191817,
+                    "md5": "90d8fdf0e8ff9802b1a7d8890231d310",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/birbeck_street_underpass_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6878639,
+                    "md5": "710a34f2743ccb82f892463f69c738cb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/birbeck_street_underpass_2k.hdr"
+                },
+                "exr": {
+                    "size": 6900324,
+                    "md5": "5e50a374045107998108ce013ab6f963",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/birbeck_street_underpass_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1722457,
+                    "md5": "9b0f2fe8d50817730a2e0d02511fbe8d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/birbeck_street_underpass_1k.hdr"
+                },
+                "exr": {
+                    "size": 1722468,
+                    "md5": "2f88a248dcf2e715a0ef865f2421b4b1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/birbeck_street_underpass_1k.exr"
+                }
+            }
+        }
+    }
+}

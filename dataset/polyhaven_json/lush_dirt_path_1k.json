@@ -1,0 +1,130 @@
+{
+    "donated": true,
+    "evs_cap": 27,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "dense",
+        "forest",
+        "bush",
+        "dirt road",
+        "path"
+    ],
+    "name": "Lush Dirt Path",
+    "categories": [
+        "outdoor",
+        "nature",
+        "medium contrast",
+        "natural light",
+        "midday",
+        "partly cloudy"
+    ],
+    "date_taken": 1629044460,
+    "authors": {
+        "Alexander Scholten": "All"
+    },
+    "date_published": 1636934400,
+    "sponsors": [
+        "4047949"
+    ],
+    "files_hash": "8b02f0467d0db91b1b735c87678ca851931690a9",
+    "download_count": 20808,
+    "files": {
+        "hdri": {
+            "29k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/lush_dirt_path_29k.hdr",
+                    "size": 1299799950,
+                    "md5": "521c69d1804da47a1939f3732979d1dd"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/lush_dirt_path_29k.exr",
+                    "size": 4312836860,
+                    "md5": "98d23b266f01fef01874e8ce81ffd640"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/lush_dirt_path_16k.hdr",
+                    "size": 417103019,
+                    "md5": "4eac0b1fce72711e5d55f2d73d3f8685"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/lush_dirt_path_16k.exr",
+                    "size": 1344008865,
+                    "md5": "e746560a7fa6fcce05ba93cff1e7c0e0"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/lush_dirt_path_24k.hdr",
+                    "size": 913898861,
+                    "md5": "745d6bd452c56af4452ce6c2de6408b7"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/lush_dirt_path_24k.exr",
+                    "size": 3011449611,
+                    "md5": "ac3d6b6d70271bed527636067167e4ad"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/lush_dirt_path_8k.hdr",
+                    "size": 110879705,
+                    "md5": "0b947becc4767b36d9d2fd5b09354571"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/lush_dirt_path_8k.exr",
+                    "size": 353354396,
+                    "md5": "72339da1e46ccc04e9e187296b0cf373"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/lush_dirt_path_4k.hdr",
+                    "size": 28590059,
+                    "md5": "fe0d2b3fd1aeb6e26e46ac5e6a9ab3a1"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/lush_dirt_path_4k.exr",
+                    "size": 91185377,
+                    "md5": "6b6b50f76c911edfe0287949a2311976"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/lush_dirt_path_2k.hdr",
+                    "size": 7271402,
+                    "md5": "5cee2563756a81a89d29a67b0cbfda99"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/lush_dirt_path_2k.exr",
+                    "size": 23758964,
+                    "md5": "4216861bcd5380fe9010dee5f7c0b1e6"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/lush_dirt_path_1k.hdr",
+                    "size": 1833408,
+                    "md5": "0d6833030f4c3d24459c8a477a69e2e4"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/lush_dirt_path_1k.exr",
+                    "size": 6313042,
+                    "md5": "43712a2c94750927e5a14a986eecb8bb"
+                }
+            }
+        },
+        "colorchart": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/lush_dirt_path.zip",
+            "size": 35156405,
+            "md5": "31449d15d40ce02a5db41f85aa046835"
+        },
+        "tonemapped": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/lush_dirt_path.jpg",
+            "size": 59193573,
+            "md5": "96d85d051fcfac28b1f97bc1a3452de6"
+        }
+    }
+}

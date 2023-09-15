@@ -1,0 +1,261 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5400,
+    "date_published": 1511996400,
+    "name": "Pink Sunrise",
+    "categories": [
+        "outdoor",
+        "nature",
+        "sunrise-sunset",
+        "partly cloudy",
+        "medium contrast",
+        "natural light"
+    ],
+    "coords": [
+        -34.262071,
+        18.466671
+    ],
+    "date_taken": 1464586260,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "3267566"
+    ],
+    "backplates": true,
+    "tags": [
+        "road",
+        "hill",
+        "bush",
+        "view",
+        "ocean",
+        "backplates"
+    ],
+    "files_hash": "42cc77d7a33793556b8e19a9137b3cbdcf783927",
+    "download_count": 118813,
+    "files": {
+        "tonemapped": {
+            "size": 5036349,
+            "md5": "77fbca6dae0ef84f7ed18961199edc89",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/pink_sunrise.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103353931,
+                    "md5": "46935df3cdd52ad40fafaae04cc34e93",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/pink_sunrise_8k.hdr"
+                },
+                "exr": {
+                    "size": 87417716,
+                    "md5": "506c516df72a46ca57d1ab170336ade6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/pink_sunrise_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 392355946,
+                    "md5": "7ebbed1d219f43bde85095fb0b11e0ef",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/pink_sunrise_16k.hdr"
+                },
+                "exr": {
+                    "size": 323751817,
+                    "md5": "fc3fb63fc01df17f9c2be462f5c9c97f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/pink_sunrise_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26392372,
+                    "md5": "2f780bdea32bf27993b93587fd2244d8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/pink_sunrise_4k.hdr"
+                },
+                "exr": {
+                    "size": 22258382,
+                    "md5": "b06ad80e9a26ff9dbed24ba34043b522",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/pink_sunrise_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6622707,
+                    "md5": "4d35484099203ee8b107a9222cdbe823",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/pink_sunrise_2k.hdr"
+                },
+                "exr": {
+                    "size": 5562747,
+                    "md5": "99246859aa21c52b7115b812d41e6947",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/pink_sunrise_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1640678,
+                    "md5": "1dcefd3e9116d6679a4093c10efa8cfd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/pink_sunrise_1k.hdr"
+                },
+                "exr": {
+                    "size": 1401276,
+                    "md5": "02b9e5e37c31ece2c636b076c8fa1579",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/pink_sunrise_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "IMG_0233": {
+                "jpg_pretty": {
+                    "size": 6182071,
+                    "md5": "8aeeee34cb6dc4ed7adcff202931d714",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pink_sunrise/jpg_pretty/IMG_0233.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6175490,
+                    "md5": "17e60c84dc9e11539bb9546f1f56c5cd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pink_sunrise/jpg_plain/IMG_0233.jpg"
+                },
+                "raw": {
+                    "size": 20210090,
+                    "md5": "b615ae5b24f23a2e78c55ef152079572",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pink_sunrise/raw/IMG_0233.dng"
+                }
+            },
+            "IMG_0251": {
+                "jpg_pretty": {
+                    "size": 3306495,
+                    "md5": "edfa882d515e74b8565824c7c73d5799",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pink_sunrise/jpg_pretty/IMG_0251.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4485376,
+                    "md5": "11830305b11cc59cc0683a649318ad96",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pink_sunrise/jpg_plain/IMG_0251.jpg"
+                },
+                "raw": {
+                    "size": 20004938,
+                    "md5": "cde6b01541cc3a0b4d1d3cb6f07d606a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pink_sunrise/raw/IMG_0251.dng"
+                }
+            },
+            "IMG_0241": {
+                "jpg_pretty": {
+                    "size": 4079367,
+                    "md5": "867d5a203db0662fa78ee8554998f1dd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pink_sunrise/jpg_pretty/IMG_0241.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4757671,
+                    "md5": "fefe41badadead396b890ccd0860be14",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pink_sunrise/jpg_plain/IMG_0241.jpg"
+                },
+                "raw": {
+                    "size": 20906296,
+                    "md5": "9e2e31e933e9c6a9f82cde90db0fddad",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pink_sunrise/raw/IMG_0241.dng"
+                }
+            },
+            "IMG_0250": {
+                "jpg_pretty": {
+                    "size": 3456282,
+                    "md5": "8149e7d4a1eeed357b4909d6bde0dd35",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pink_sunrise/jpg_pretty/IMG_0250.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4411069,
+                    "md5": "ec112bdcfcb98222e4b3f69daab67c5f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pink_sunrise/jpg_plain/IMG_0250.jpg"
+                },
+                "raw": {
+                    "size": 20937156,
+                    "md5": "4e765bce363dd6a44ffaa3a7810c874c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pink_sunrise/raw/IMG_0250.dng"
+                }
+            },
+            "IMG_0239": {
+                "jpg_pretty": {
+                    "size": 3787439,
+                    "md5": "555051f6a3e601793f36a6c6fa5332b9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pink_sunrise/jpg_pretty/IMG_0239.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3901423,
+                    "md5": "ebe1bd0e798d1782e4dc3d4899196ee0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pink_sunrise/jpg_plain/IMG_0239.jpg"
+                },
+                "raw": {
+                    "size": 20427758,
+                    "md5": "6827c3b4d741ad9b729b7f785cf9fb93",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pink_sunrise/raw/IMG_0239.dng"
+                }
+            },
+            "IMG_0237": {
+                "jpg_pretty": {
+                    "size": 4321040,
+                    "md5": "0e1efbd00795f6f22c849d15e3bb8df7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pink_sunrise/jpg_pretty/IMG_0237.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5197874,
+                    "md5": "ef25498b748ac36c8156dc12a974c7db",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pink_sunrise/jpg_plain/IMG_0237.jpg"
+                },
+                "raw": {
+                    "size": 20286120,
+                    "md5": "e646d2a45bb26de8b2431da4eb8f5f22",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pink_sunrise/raw/IMG_0237.dng"
+                }
+            },
+            "IMG_0248": {
+                "jpg_pretty": {
+                    "size": 4821369,
+                    "md5": "d3a0624050cca487fa3d6ae271308892",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pink_sunrise/jpg_pretty/IMG_0248.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5412467,
+                    "md5": "b3c3d940d8bae215c976f0dac3b2e2a0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pink_sunrise/jpg_plain/IMG_0248.jpg"
+                },
+                "raw": {
+                    "size": 21590968,
+                    "md5": "d9353ebc0996fcfe56b65618568f458a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pink_sunrise/raw/IMG_0248.dng"
+                }
+            },
+            "IMG_0249": {
+                "jpg_pretty": {
+                    "size": 4057252,
+                    "md5": "155da31ba514b9f1d4510b2c4f6ea7c9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pink_sunrise/jpg_pretty/IMG_0249.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4907864,
+                    "md5": "99f142e5bbbf4d85c6d525a26190ab03",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pink_sunrise/jpg_plain/IMG_0249.jpg"
+                },
+                "raw": {
+                    "size": 20210276,
+                    "md5": "1f478c7aef97f09475179a7e5a9d7d71",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pink_sunrise/raw/IMG_0249.dng"
+                }
+            },
+            "IMG_0246": {
+                "jpg_pretty": {
+                    "size": 4189757,
+                    "md5": "f2498d06e9318b835cc15aaba0d554a8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pink_sunrise/jpg_pretty/IMG_0246.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5001656,
+                    "md5": "31f2fbe5b682fcd33fbda114756bc583",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pink_sunrise/jpg_plain/IMG_0246.jpg"
+                },
+                "raw": {
+                    "size": 20778080,
+                    "md5": "0ed0e5fb64e45440b3be95a37158fe89",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pink_sunrise/raw/IMG_0246.dng"
+                }
+            }
+        }
+    }
+}

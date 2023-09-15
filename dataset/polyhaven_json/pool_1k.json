@@ -1,0 +1,101 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "tree",
+        "water",
+        "pool",
+        "garden"
+    ],
+    "date_published": 1548917461,
+    "name": "Pool",
+    "categories": [
+        "outdoor",
+        "urban",
+        "morning-afternoon",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1548852900,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "name": "John Alexander Hopper"
+        }
+    ],
+    "files_hash": "1ff7660bb7488e77394d76bde7acb0f95915d666",
+    "download_count": 54047,
+    "files": {
+        "tonemapped": {
+            "size": 4109306,
+            "md5": "4ce8d6e75ffbcbfcaaba54715f34b757",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/pool.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 96571697,
+                    "md5": "b39c918667ae58360641aafd9f7286c9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/pool_8k.hdr"
+                },
+                "exr": {
+                    "size": 76303873,
+                    "md5": "b15239a03a2a9679d9162cec4ad089ed",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/pool_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 355147336,
+                    "md5": "6186eb3b18e8d49b988b7ffb8301d8e5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/pool_16k.hdr"
+                },
+                "exr": {
+                    "size": 280410013,
+                    "md5": "83a53ab16aa9d9318ee946b6b6f7c04f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/pool_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24871333,
+                    "md5": "2e6738d39df6046d2b7e61eed8a0f8be",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/pool_4k.hdr"
+                },
+                "exr": {
+                    "size": 19720481,
+                    "md5": "e52d8676eb4e060776e6e39ad48e06c8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/pool_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6267199,
+                    "md5": "8ee0758c42a1646ee660b906c43e9483",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/pool_2k.hdr"
+                },
+                "exr": {
+                    "size": 5152299,
+                    "md5": "42a98f83601b17e2a07d104b16257968",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/pool_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1585334,
+                    "md5": "60e133ee4fefeee5828cc0ff56d0c5a9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/pool_1k.hdr"
+                },
+                "exr": {
+                    "size": 1373989,
+                    "md5": "9ed3c49dcb0a9b1c3e9f8d7eae860f58",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/pool_1k.exr"
+                }
+            }
+        }
+    }
+}

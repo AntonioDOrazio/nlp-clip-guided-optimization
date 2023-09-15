@@ -1,0 +1,122 @@
+{
+    "donated": true,
+    "evs_cap": 27,
+    "type": 0,
+    "whitebalance": 6500,
+    "tags": [
+        "tree",
+        "sun",
+        "autumn",
+        "forest"
+    ],
+    "name": "Autumn Forest 04",
+    "categories": [
+        "natural light",
+        "outdoor",
+        "nature",
+        "high contrast",
+        "clear",
+        "sunrise-sunset"
+    ],
+    "coords": [
+        48.756729,
+        9.093388
+    ],
+    "date_taken": 1640105220,
+    "authors": {
+        "Alexander Scholten": "All"
+    },
+    "date_published": 1645401600,
+    "sponsors": [
+        "37678923",
+        "11167855"
+    ],
+    "files_hash": "727d98750b3722481d6ba8f71f40be0b75701a6a",
+    "download_count": 67710,
+    "files": {
+        "hdri": {
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/autumn_forest_04_16k.hdr",
+                    "size": 441293994,
+                    "md5": "4c6b565bf1ac37d62d25b4ff2b08d5de"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/autumn_forest_04_16k.exr",
+                    "size": 1399341517,
+                    "md5": "795f27b282dde7f6192f73d07c51468a"
+                }
+            },
+            "21k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/autumn_forest_04_21k.hdr",
+                    "size": 756267007,
+                    "md5": "f851682257341cc6c2fb0e7e8a86752f"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/autumn_forest_04_21k.exr",
+                    "size": 2425294131,
+                    "md5": "91a1b24ea3f4a73c4e10b9f6e3aa954e"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/autumn_forest_04_8k.hdr",
+                    "size": 116399171,
+                    "md5": "336420c2282e3da08f4587ff7c1671ef"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/autumn_forest_04_8k.exr",
+                    "size": 361601327,
+                    "md5": "6dd63154e3a0a4729b1f56f686a84212"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/autumn_forest_04_4k.hdr",
+                    "size": 30215494,
+                    "md5": "216c3a9937cfd2aa9951ab28f74ad599"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/autumn_forest_04_4k.exr",
+                    "size": 93339990,
+                    "md5": "bed321029901024b656af10962714a56"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/autumn_forest_04_2k.hdr",
+                    "size": 7737715,
+                    "md5": "3d150234bc821a6cf43e165ee612cb30"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/autumn_forest_04_2k.exr",
+                    "size": 24274763,
+                    "md5": "ddf131563e1ad751d5278867e89d94b6"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/autumn_forest_04_1k.hdr",
+                    "size": 1959488,
+                    "md5": "8ba1912ef797c3a1670c4481a8a74d5c"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/autumn_forest_04_1k.exr",
+                    "size": 6426250,
+                    "md5": "bfa54b62037fa1be65a43415cb9b4d79"
+                }
+            }
+        },
+        "colorchart": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/autumn_forest_04.zip",
+            "size": 390867027,
+            "md5": "38016843a3e332562fd83d0dfc0631f6"
+        },
+        "tonemapped": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/autumn_forest_04.jpg",
+            "size": 68042223,
+            "md5": "73934a9ba5cbed096c1a79064bfbf863"
+        }
+    }
+}

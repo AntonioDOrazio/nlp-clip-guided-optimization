@@ -1,0 +1,382 @@
+{
+    "evs_cap": 24,
+    "whitebalance": 5450,
+    "date_published": 1622584800,
+    "name": "Abandoned Pathway",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "morning-afternoon",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1585237740,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "type": 0,
+    "sponsors": [
+        "37678923"
+    ],
+    "backplates": true,
+    "tags": [
+        "sun",
+        "tree",
+        "road",
+        "path",
+        "field",
+        "backplates"
+    ],
+    "files_hash": "fabcdf9483424ecb1815de86985f35d9abff1503",
+    "download_count": 20958,
+    "files": {
+        "tonemapped": {
+            "size": 8412466,
+            "md5": "018d114bba897b2e1b44e77ec64b65d9",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/abandoned_pathway.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101340263,
+                    "md5": "314c7291bef3f3fd887f0a425308310f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/abandoned_pathway_8k.hdr"
+                },
+                "exr": {
+                    "size": 87031179,
+                    "md5": "7c6ffba9f2a32237bda735955713aa6e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/abandoned_pathway_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 377980970,
+                    "md5": "a5e5f9b78cc81b33e28dcc5f7a4d7d4a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/abandoned_pathway_16k.hdr"
+                },
+                "exr": {
+                    "size": 322760666,
+                    "md5": "6acd1123e820007cc8567bc0cf6ae95a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/abandoned_pathway_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25522291,
+                    "md5": "1692ea2f910bee3d790effc5b7859069",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/abandoned_pathway_4k.hdr"
+                },
+                "exr": {
+                    "size": 22192753,
+                    "md5": "5e53c83fedfb8ce05275b647303c1222",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/abandoned_pathway_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6180297,
+                    "md5": "f303365d8cbadd0085440fb8f6e3595f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/abandoned_pathway_2k.hdr"
+                },
+                "exr": {
+                    "size": 5566332,
+                    "md5": "f387284155c0bf9fd2808207b67f077d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/abandoned_pathway_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1514200,
+                    "md5": "5aee845367ede8fa2d835d320e393c14",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/abandoned_pathway_1k.hdr"
+                },
+                "exr": {
+                    "size": 1408004,
+                    "md5": "a23c98259f298dddc50d2c78e5ce676b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/abandoned_pathway_1k.exr"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 54055900,
+            "md5": "5b0066e0e5e2bd8b1c595288569dc434",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/abandoned_pathway.zip"
+        },
+        "backplates": {
+            "DSC_0939": {
+                "jpg_pretty": {
+                    "size": 15561209,
+                    "md5": "957b0d2ef2b7a602b8213fcad94b6edb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/jpg_pretty/DSC_0939.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12018890,
+                    "md5": "1bf2d0523c32efb0d8f21fb5148a847a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/jpg_plain/DSC_0939.jpg"
+                },
+                "raw": {
+                    "size": 18998709,
+                    "md5": "663793bbfcec813f1c421be0cf8ad7fd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/raw/DSC_0939.NEF"
+                }
+            },
+            "DSC_0949": {
+                "jpg_pretty": {
+                    "size": 16006696,
+                    "md5": "ffeb7d8e9227b8d4335ecce869da7614",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/jpg_pretty/DSC_0949.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11254375,
+                    "md5": "36fcbe6d40679b29613c4629fe0982e1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/jpg_plain/DSC_0949.jpg"
+                },
+                "raw": {
+                    "size": 18790840,
+                    "md5": "70fd63efb20c675ea5f46dee3027ee77",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/raw/DSC_0949.NEF"
+                }
+            },
+            "DSC_0904": {
+                "jpg_pretty": {
+                    "size": 14706048,
+                    "md5": "8353fa4b33d07dec9126cd6c8f84bc6a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/jpg_pretty/DSC_0904.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11496102,
+                    "md5": "15215b7c3ca6e9318a4f8fa6e4324951",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/jpg_plain/DSC_0904.jpg"
+                },
+                "raw": {
+                    "size": 18476139,
+                    "md5": "58b13c429c53340e66249aecc35450c4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/raw/DSC_0904.NEF"
+                }
+            },
+            "DSC_0959": {
+                "jpg_pretty": {
+                    "size": 20009434,
+                    "md5": "276b14ff3d58563bd5fb5a710f694dd7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/jpg_pretty/DSC_0959.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13817720,
+                    "md5": "ad4c534bb31df19c3c7a15dfb11c0660",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/jpg_plain/DSC_0959.jpg"
+                },
+                "raw": {
+                    "size": 19292009,
+                    "md5": "0a94210359c9e4758d1ca6162ccb79f7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/raw/DSC_0959.NEF"
+                }
+            },
+            "DSC_0919": {
+                "jpg_pretty": {
+                    "size": 17459512,
+                    "md5": "8a13344b692cf7f187c71002a16abe05",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/jpg_pretty/DSC_0919.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14556747,
+                    "md5": "ac119a41cee7eb09ef648d3d1012ab83",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/jpg_plain/DSC_0919.jpg"
+                },
+                "raw": {
+                    "size": 19559202,
+                    "md5": "f5528ce34dfc3ff14d0995ba475156e4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/raw/DSC_0919.NEF"
+                }
+            },
+            "DSC_0899": {
+                "jpg_pretty": {
+                    "size": 15315567,
+                    "md5": "d3f876052a08fb78c56143c7839aac53",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/jpg_pretty/DSC_0899.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11769821,
+                    "md5": "fb0adf1502fa2dd2715c8b39a042bd62",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/jpg_plain/DSC_0899.jpg"
+                },
+                "raw": {
+                    "size": 18783453,
+                    "md5": "5b0f6b28867ee07dcce6825054faafca",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/raw/DSC_0899.NEF"
+                }
+            },
+            "DSC_0974": {
+                "jpg_pretty": {
+                    "size": 18484613,
+                    "md5": "86d715832bd7aacc80da500b7a88374c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/jpg_pretty/DSC_0974.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14254052,
+                    "md5": "b4749feaf7a1c850a74b6cbf85f8c251",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/jpg_plain/DSC_0974.jpg"
+                },
+                "raw": {
+                    "size": 19402497,
+                    "md5": "29f403bc1f2fbee0ef6d102774e331d4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/raw/DSC_0974.NEF"
+                }
+            },
+            "DSC_0874": {
+                "jpg_pretty": {
+                    "size": 12775923,
+                    "md5": "8d015732bb315b8fa2112ed87f2e987f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/jpg_pretty/DSC_0874.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10243069,
+                    "md5": "acbcaf0e8c467459c3a4313bceab05aa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/jpg_plain/DSC_0874.jpg"
+                },
+                "raw": {
+                    "size": 17870136,
+                    "md5": "f9e4b7752e6fa4366ef974edf7d5cf39",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/raw/DSC_0874.NEF"
+                }
+            },
+            "DSC_0914": {
+                "jpg_pretty": {
+                    "size": 17094550,
+                    "md5": "3b10c5cdf8dd18533e4fbe23b5a82549",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/jpg_pretty/DSC_0914.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13909182,
+                    "md5": "caddb9850d692a82ebfdb3fd6b9d1231",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/jpg_plain/DSC_0914.jpg"
+                },
+                "raw": {
+                    "size": 19672917,
+                    "md5": "3e8b87738ae684ca171deb113728cf7a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/raw/DSC_0914.NEF"
+                }
+            },
+            "DSC_0969": {
+                "jpg_pretty": {
+                    "size": 17886183,
+                    "md5": "cc2756beea4c719364b77ebb6d38bf7d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/jpg_pretty/DSC_0969.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14364339,
+                    "md5": "1b674356a0d7d6b0c554040b26128a63",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/jpg_plain/DSC_0969.jpg"
+                },
+                "raw": {
+                    "size": 19540497,
+                    "md5": "e3f9ce476637d4aced214a147e044f81",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/raw/DSC_0969.NEF"
+                }
+            },
+            "DSC_0979": {
+                "jpg_pretty": {
+                    "size": 20087663,
+                    "md5": "7926d0a7a999b3f9a4723d10dd4cef03",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/jpg_pretty/DSC_0979.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13309863,
+                    "md5": "7c9201458c6ab33380f9e12d2673828f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/jpg_plain/DSC_0979.jpg"
+                },
+                "raw": {
+                    "size": 18670905,
+                    "md5": "346fa28f1ed68fe3501abfe7027f79ea",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/raw/DSC_0979.NEF"
+                }
+            },
+            "DSC_0934": {
+                "jpg_pretty": {
+                    "size": 18093209,
+                    "md5": "b0bd3643b19e15ee99b4fd7ee6d65a39",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/jpg_pretty/DSC_0934.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14315053,
+                    "md5": "71beeb722fc55353a281ae919d0e94bc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/jpg_plain/DSC_0934.jpg"
+                },
+                "raw": {
+                    "size": 20083547,
+                    "md5": "c7affef06acb60543edd00d3bcdb5e8f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/raw/DSC_0934.NEF"
+                }
+            },
+            "DSC_0889": {
+                "jpg_pretty": {
+                    "size": 20641972,
+                    "md5": "8ce36f8e7341db2359e9641dcb480774",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/jpg_pretty/DSC_0889.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15099172,
+                    "md5": "fff7ba1b0ab8bbe5fd14891d86ad0ac1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/jpg_plain/DSC_0889.jpg"
+                },
+                "raw": {
+                    "size": 20056553,
+                    "md5": "b6076bef41f93d09fb2b051443539e96",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/raw/DSC_0889.NEF"
+                }
+            },
+            "DSC_0944": {
+                "jpg_pretty": {
+                    "size": 18976603,
+                    "md5": "cfed40c16bc2456780ad4703759584ad",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/jpg_pretty/DSC_0944.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15396263,
+                    "md5": "390b13892faba90404b644944795bc17",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/jpg_plain/DSC_0944.jpg"
+                },
+                "raw": {
+                    "size": 20499996,
+                    "md5": "2ed93ac5927731d7951b480d1c853246",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/raw/DSC_0944.NEF"
+                }
+            },
+            "DSC_0884": {
+                "jpg_pretty": {
+                    "size": 15190584,
+                    "md5": "c2409b07627650792a5c3dda3d2c5568",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/jpg_pretty/DSC_0884.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12305427,
+                    "md5": "00fe2e4acd30cb22210fb48d8c1386b2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/jpg_plain/DSC_0884.jpg"
+                },
+                "raw": {
+                    "size": 19117584,
+                    "md5": "1b00ea159ca9febbee3eb7a27545b306",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/raw/DSC_0884.NEF"
+                }
+            },
+            "DSC_0894": {
+                "jpg_pretty": {
+                    "size": 16626565,
+                    "md5": "1e21cbd12b1ed45e2e9ea2589a028e5b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/jpg_pretty/DSC_0894.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13230998,
+                    "md5": "bead6d06872170fb3348c97a311939ac",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/jpg_plain/DSC_0894.jpg"
+                },
+                "raw": {
+                    "size": 19814581,
+                    "md5": "7ff92b289e3a86528369f3ba4968a9bc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_pathway/raw/DSC_0894.NEF"
+                }
+            }
+        }
+    }
+}

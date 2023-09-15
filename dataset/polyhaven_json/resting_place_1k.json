@@ -1,0 +1,108 @@
+{
+    "evs_cap": 27,
+    "type": 0,
+    "whitebalance": 5450,
+    "tags": [
+        "sun",
+        "grass",
+        "field",
+        "tree",
+        "dam",
+        "lake",
+        "park",
+        "hut",
+        "cabin"
+    ],
+    "name": "Resting Place",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "partly cloudy",
+        "skies",
+        "high contrast",
+        "morning-afternoon"
+    ],
+    "date_taken": 1684425480,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "info": null,
+    "files_hash": "c903718263f52f63d44be6814968d72a2c955884",
+    "date_published": 1686700800,
+    "download_count": 53894,
+    "files": {
+        "tonemapped": {
+            "size": 41480743,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/resting_place.jpg",
+            "md5": "9bd32654122c8ee0ca01acb5c711709e"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 100467828,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/resting_place_8k.hdr",
+                    "md5": "c20ae1093cfa2ab669c6798602538567"
+                },
+                "exr": {
+                    "size": 81484546,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/resting_place_8k.exr",
+                    "md5": "f46374b44a1d07f0f92d006ae35e4238"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 377307531,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/resting_place_16k.hdr",
+                    "md5": "2c54941dbf74e55eb1b228e31b8c0aa7"
+                },
+                "exr": {
+                    "size": 299203537,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/resting_place_16k.exr",
+                    "md5": "e393d95e7b7a9e3fccf63f75c4d4d913"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25759857,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/resting_place_4k.hdr",
+                    "md5": "54e4afc07ce6e7773dc8d5aea9f2ae27"
+                },
+                "exr": {
+                    "size": 21362377,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/resting_place_4k.exr",
+                    "md5": "a053d314d06e588ec8495fd94d64b458"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6539653,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/resting_place_2k.hdr",
+                    "md5": "7f18c51912b451f2575cf6f157ddf4d5"
+                },
+                "exr": {
+                    "size": 5588531,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/resting_place_2k.exr",
+                    "md5": "8aa792c4c33b133b5310a4269948e06b"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1664766,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/resting_place_1k.hdr",
+                    "md5": "323bf06757e4fe1bed0b09f2d570d481"
+                },
+                "exr": {
+                    "size": 1470295,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/resting_place_1k.exr",
+                    "md5": "2722bf6a306ae4ea824841284ac4b21f"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 90770867,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/resting_place.zip",
+            "md5": "fd39b017c6b1c9ce1e3f9d749e6f8c2d"
+        }
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "evs_cap": 23,
+    "type": 0,
+    "tags": [
+        "bed",
+        "tv",
+        "table",
+        "chair",
+        "mirror",
+        "window",
+        "curtain",
+        "lamp",
+        "hotel"
+    ],
+    "date_published": 1506981600,
+    "name": "Hotel Room",
+    "categories": [
+        "indoor",
+        "urban",
+        "high contrast",
+        "natural light",
+        "artificial light"
+    ],
+    "date_taken": 1478618040,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "13450515"
+    ],
+    "files_hash": "25f820d7462539e0cce7ec32a4a452b561af938f",
+    "download_count": 87912,
+    "files": {
+        "tonemapped": {
+            "size": 2989884,
+            "md5": "5675e838ff32b9ca8ac8ac4635d3adaf",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/hotel_room.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 95103877,
+                    "md5": "d09abd77fdad299a90ead2a630cd70c7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/hotel_room_8k.hdr"
+                },
+                "exr": {
+                    "size": 70596243,
+                    "md5": "fd7c255d0691c4429e73581c4e720cb6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/hotel_room_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 339409654,
+                    "md5": "d4bc4a71c1a4546ac06b220443498181",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/hotel_room_16k.hdr"
+                },
+                "exr": {
+                    "size": 255395498,
+                    "md5": "26c540dfc6a9f1561e3fa0e76b614bfd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/hotel_room_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24486585,
+                    "md5": "061931205903b0d054d689bf97e1ab34",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/hotel_room_4k.hdr"
+                },
+                "exr": {
+                    "size": 18699222,
+                    "md5": "36b998a34499984ba3691f1e7ef8a8cf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/hotel_room_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6186669,
+                    "md5": "c9c57b1e904f6003a30d08074a807125",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/hotel_room_2k.hdr"
+                },
+                "exr": {
+                    "size": 4931794,
+                    "md5": "d78e4479d6468d28622c2d7393d14da9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/hotel_room_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1572830,
+                    "md5": "48b3c2fb3896ead69f570d4e60316ff5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/hotel_room_1k.hdr"
+                },
+                "exr": {
+                    "size": 1329769,
+                    "md5": "aeb9143540b090edbb259e4b3ee89f90",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/hotel_room_1k.exr"
+                }
+            }
+        }
+    }
+}

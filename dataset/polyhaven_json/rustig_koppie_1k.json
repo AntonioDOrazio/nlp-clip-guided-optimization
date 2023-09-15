@@ -1,0 +1,104 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "tags": [
+        "hill",
+        "rock",
+        "sun",
+        "dry grass",
+        "bush"
+    ],
+    "date_published": 1506981600,
+    "name": "Rustig Koppie",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "partly cloudy",
+        "morning-afternoon",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        -25.795704,
+        27.6427
+    ],
+    "date_taken": 1498290060,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "10485422"
+    ],
+    "files_hash": "cff1aea7496df8472f86232911fb6acc4c1c675b",
+    "download_count": 63537,
+    "files": {
+        "tonemapped": {
+            "size": 5278261,
+            "md5": "1b7646df37fda98cd91fe8a145e617e9",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/rustig_koppie.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 90027078,
+                    "md5": "c25e771f009a6d00398eb30608a42f78",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/rustig_koppie_8k.hdr"
+                },
+                "exr": {
+                    "size": 74315679,
+                    "md5": "8b9696df947b6878547a2905d3797225",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/rustig_koppie_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 316275314,
+                    "md5": "6682d4992d699c6ef693cbc298814e62",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rustig_koppie_16k.hdr"
+                },
+                "exr": {
+                    "size": 266781241,
+                    "md5": "03c803b6b3eff8d67c768c7f54fce0ac",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rustig_koppie_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 23059423,
+                    "md5": "446a7aeb18d06e7ec62ead9782461285",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/rustig_koppie_4k.hdr"
+                },
+                "exr": {
+                    "size": 19619759,
+                    "md5": "70a7d8fb07043e3eebb4e47966de9a5f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/rustig_koppie_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5793109,
+                    "md5": "2732381c8e5cd97da2dbc6c8d4a4384e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/rustig_koppie_2k.hdr"
+                },
+                "exr": {
+                    "size": 5148254,
+                    "md5": "ec4f7c6e267e92cdb9d1586bcc5a4c40",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/rustig_koppie_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1486753,
+                    "md5": "98d7404177d2a5a02276b248faa205fa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/rustig_koppie_1k.hdr"
+                },
+                "exr": {
+                    "size": 1368521,
+                    "md5": "2e4e791912654c5dcbda783e6cfa7752",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/rustig_koppie_1k.exr"
+                }
+            }
+        }
+    }
+}

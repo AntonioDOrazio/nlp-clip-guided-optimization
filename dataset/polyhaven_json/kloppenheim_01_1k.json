@@ -1,0 +1,115 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "tags": [
+        "field",
+        "mist",
+        "cloud",
+        "grass"
+    ],
+    "date_published": 1583276400,
+    "name": "Kloppenheim 01",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "sunrise-sunset",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1572627540,
+    "coords": [
+        -25.654156,
+        30.161901
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "8896823"
+    ],
+    "files_hash": "30be60f492719a37ed52618b1cdfecf0d75cc4d6",
+    "download_count": 72019,
+    "files": {
+        "tonemapped": {
+            "size": 3379994,
+            "md5": "f821cbeac704d8db1eada7204252bedf",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/kloppenheim_01.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 88182811,
+                    "md5": "6fe6ace7c5d86f8255ae2324ac588c9a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/kloppenheim_01_8k.hdr"
+                },
+                "exr": {
+                    "size": 70493506,
+                    "md5": "842205568593608dc3ba1e3e705bcbcc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/kloppenheim_01_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 343541886,
+                    "md5": "df19d55dc9be95d9b84f5f4cd1fce591",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/kloppenheim_01_16k.hdr"
+                },
+                "exr": {
+                    "size": 263352906,
+                    "md5": "2f23ffe7eea600aedbe9ac21563900ce",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/kloppenheim_01_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 21718354,
+                    "md5": "ff55bd1e31ec57739570a7b3cbbc9d94",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/kloppenheim_01_4k.hdr"
+                },
+                "exr": {
+                    "size": 18380105,
+                    "md5": "67e9f5b292bff8c5fc56daa5f05e9a46",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/kloppenheim_01_4k.exr"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 722629927,
+                    "md5": "245fca6a94a287ed21b4bfe3531c0d85",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/kloppenheim_01_24k.hdr"
+                },
+                "exr": {
+                    "size": 542659157,
+                    "md5": "235b8dbe5f011571f3357a5dc89e5810",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/kloppenheim_01_24k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5296207,
+                    "md5": "a24175d34c7fbd1ed3542f2e81ae560b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/kloppenheim_01_2k.hdr"
+                },
+                "exr": {
+                    "size": 4712564,
+                    "md5": "907db184f5faaabb2947e59daff4e87d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/kloppenheim_01_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1339437,
+                    "md5": "1960baa3dd61f266b8860f2f9852147c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/kloppenheim_01_1k.hdr"
+                },
+                "exr": {
+                    "size": 1215465,
+                    "md5": "6b9a670848a2ce714e631c06462b7bbf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/kloppenheim_01_1k.exr"
+                }
+            }
+        }
+    }
+}

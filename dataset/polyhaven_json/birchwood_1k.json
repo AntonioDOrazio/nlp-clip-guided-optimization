@@ -1,0 +1,99 @@
+{
+    "evs_cap": 15,
+    "type": 0,
+    "tags": [
+        "tree",
+        "snow",
+        "winter",
+        "river",
+        "frozen"
+    ],
+    "date_published": 1578351600,
+    "name": "Birchwood",
+    "categories": [
+        "outdoor",
+        "nature",
+        "sunrise-sunset",
+        "clear",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1550592360,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "46292533"
+    ],
+    "files_hash": "2b03bbde37757980621563a2d39c3997eb44de6e",
+    "download_count": 41228,
+    "files": {
+        "tonemapped": {
+            "size": 3678368,
+            "md5": "57878a03e05e564b950dc36a93b4e754",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/birchwood.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 93416557,
+                    "md5": "64e2c9212be52a8bc5f2f0442cad0c4e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/birchwood_8k.hdr"
+                },
+                "exr": {
+                    "size": 68564584,
+                    "md5": "9dffc5fd33fe4c44f087e28bd9fde68b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/birchwood_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 348896251,
+                    "md5": "c2adc7344d0199af4bbaa06a9a9c08b6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/birchwood_16k.hdr"
+                },
+                "exr": {
+                    "size": 254446410,
+                    "md5": "6f13d79d76fe47993ec1f942ca125046",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/birchwood_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 23812748,
+                    "md5": "f898da9d48ad4b02bf160fe94c6435eb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/birchwood_4k.hdr"
+                },
+                "exr": {
+                    "size": 17626363,
+                    "md5": "1837d473d41acf843f8c741f501c5ad0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/birchwood_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5936696,
+                    "md5": "a2e221b9a7795e6a162a05bd649c1d7e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/birchwood_2k.hdr"
+                },
+                "exr": {
+                    "size": 4563127,
+                    "md5": "272b1308e346fcf4b6594ec46a6c5889",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/birchwood_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1495635,
+                    "md5": "651e9b2a3697809763b061e951bf25d9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/birchwood_1k.hdr"
+                },
+                "exr": {
+                    "size": 1203367,
+                    "md5": "f29060aa34571a9cfbd9634aadc0a228",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/birchwood_1k.exr"
+                }
+            }
+        }
+    }
+}

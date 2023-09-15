@@ -1,0 +1,96 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "tags": [
+        "pure skies"
+    ],
+    "date_published": 1671926400,
+    "name": "Hilly Terrain 01 (Pure Sky)",
+    "categories": [
+        "outdoor",
+        "nature",
+        "partly cloudy",
+        "sunrise-sunset",
+        "medium contrast",
+        "natural light",
+        "skies",
+        "pure skies"
+    ],
+    "date_taken": 1559070960,
+    "info": "Edited sky-only version of [Hilly Terrain 01](https://polyhaven.com/a/hilly_terrain_01).",
+    "authors": {
+        "Jarod Guest": "Sky edits",
+        "Sergej Majboroda": "Original"
+    },
+    "files_hash": "320e75534f91411b1f72a6a79a6f11af918a718b",
+    "download_count": 20991,
+    "files": {
+        "tonemapped": {
+            "size": 16907435,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/hilly_terrain_01_puresky.jpg",
+            "md5": "15712b03646d68a55b4a6252883546fd"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 68255170,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/hilly_terrain_01_puresky_8k.hdr",
+                    "md5": "4b36f103f65a830b5f1d49596f90e227"
+                },
+                "exr": {
+                    "size": 283174195,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/hilly_terrain_01_puresky_8k.exr",
+                    "md5": "8a78a26cc7546d898c3947f8cd4d570a"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 239229494,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/hilly_terrain_01_puresky_16k.hdr",
+                    "md5": "a3350ad2238cc885683f976beed55f5f"
+                },
+                "exr": {
+                    "size": 1102983076,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/hilly_terrain_01_puresky_16k.exr",
+                    "md5": "0da47998a8854ebbc867f68fef8b15c3"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 18451490,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/hilly_terrain_01_puresky_4k.hdr",
+                    "md5": "7187d4e09c18d940747b5ad6c808dfcb"
+                },
+                "exr": {
+                    "size": 73043264,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/hilly_terrain_01_puresky_4k.exr",
+                    "md5": "96967d6522df34f868a2bb1bf8a9ca2b"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 4709585,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/hilly_terrain_01_puresky_2k.hdr",
+                    "md5": "556348c09916903ad4f0fbf995a5ce09"
+                },
+                "exr": {
+                    "size": 19278670,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/hilly_terrain_01_puresky_2k.exr",
+                    "md5": "c50de380e37542db217ba1106282a6ab"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1216388,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/hilly_terrain_01_puresky_1k.hdr",
+                    "md5": "c2663d360bfc98605bf0226f568a3429"
+                },
+                "exr": {
+                    "size": 5271429,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/hilly_terrain_01_puresky_1k.exr",
+                    "md5": "2bdfb4439fcb615e0226ae3796dc3d5f"
+                }
+            }
+        }
+    }
+}

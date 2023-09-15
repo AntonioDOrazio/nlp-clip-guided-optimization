@@ -1,0 +1,123 @@
+{
+    "evs_cap": 26,
+    "files_hash": "0bbb5ffcfbb6429d2ad1cd9fb2057b937f52eaf7",
+    "prepaid": true,
+    "type": 0,
+    "whitebalance": 5329,
+    "tags": [
+        "sun",
+        "street",
+        "road",
+        "asphalt",
+        "car",
+        "film set",
+        "flag",
+        "50s"
+    ],
+    "date_published": 1658448000,
+    "name": "Pretville Street",
+    "categories": [
+        "natural light",
+        "outdoor",
+        "urban",
+        "high contrast",
+        "partly cloudy",
+        "morning-afternoon"
+    ],
+    "date_taken": 1653147360,
+    "coords": [
+        -25.740559556601085,
+        27.918297621359795
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "download_count": 33634,
+    "files": {
+        "tonemapped": {
+            "size": 41082215,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/pretville_street.jpg",
+            "md5": "125b57b175ebe9ed42b8850e7dd64901"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 98004520,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/pretville_street_8k.hdr",
+                    "md5": "fcbb72269281f30afa3e0ee792215ed7"
+                },
+                "exr": {
+                    "size": 325694179,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/pretville_street_8k.exr",
+                    "md5": "dab2a8b8cd21bc0bde2116e9a0323818"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 366127747,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/pretville_street_16k.hdr",
+                    "md5": "13dfaa5af53f2bd45b154e1d9f186287"
+                },
+                "exr": {
+                    "size": 1242772076,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/pretville_street_16k.exr",
+                    "md5": "ebc196219538ea2c80f4e833f866d479"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24256514,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/pretville_street_4k.hdr",
+                    "md5": "168917e698ba7c48a56d825c26d1d355"
+                },
+                "exr": {
+                    "size": 83444062,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/pretville_street_4k.exr",
+                    "md5": "e9658dc241ef94b721ccdb799a0461c3"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 818999245,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/pretville_street_24k.hdr",
+                    "md5": "59ea9a7ae26763e346a33ed627899696"
+                },
+                "exr": {
+                    "size": 2815089991,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/pretville_street_24k.exr",
+                    "md5": "1384cec01df9c6e2a1a7145cea8ddef5"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6061480,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/pretville_street_2k.hdr",
+                    "md5": "330e70a8bc1fe8d657c7cef2769e912f"
+                },
+                "exr": {
+                    "size": 21804882,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/pretville_street_2k.exr",
+                    "md5": "b369d5923cd0fe9710fd0ba6a980474b"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1554109,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/pretville_street_1k.hdr",
+                    "md5": "fbde1c0caccb233b6c41f80b9702187e"
+                },
+                "exr": {
+                    "size": 5858695,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/pretville_street_1k.exr",
+                    "md5": "8286a367f57a0357df1bf83c97e66fd4"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 77890539,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/pretville_street.zip",
+            "md5": "b85e5953c49f0c35516f35f3e35e5ac0"
+        }
+    }
+}

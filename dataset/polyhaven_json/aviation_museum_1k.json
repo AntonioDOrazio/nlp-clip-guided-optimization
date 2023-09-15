@@ -1,0 +1,469 @@
+{
+    "evs_cap": 27,
+    "type": 0,
+    "whitebalance": 5300,
+    "tags": [
+        "grass",
+        "plane",
+        "path",
+        "sun",
+        "park",
+        "museum",
+        "backplates"
+    ],
+    "name": "Aviation Museum",
+    "categories": [
+        "outdoor",
+        "nature",
+        "sunrise-sunset",
+        "clear",
+        "medium contrast",
+        "natural light",
+        "urban"
+    ],
+    "backplates": true,
+    "date_taken": 1602493800,
+    "coords": [
+        50.406782,
+        30.458331
+    ],
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "date_published": 1639612800,
+    "files_hash": "a577b718b9f320753682feb6d9e2ac93e29692b5",
+    "download_count": 19061,
+    "files": {
+        "hdri": {
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/aviation_museum_16k.hdr",
+                    "size": 368922477,
+                    "md5": "e94a306dee94226844307bdb94d689ee"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/aviation_museum_16k.exr",
+                    "size": 296265614,
+                    "md5": "63b5e8cce488e692a7580d1eb02ef902"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/aviation_museum_8k.hdr",
+                    "size": 98684781,
+                    "md5": "c463317f3943f4e339cffe4c2f1d5372"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/aviation_museum_8k.exr",
+                    "size": 80541989,
+                    "md5": "9c140e7805249d07cba40d5639a72ddb"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/aviation_museum_4k.hdr",
+                    "size": 24870396,
+                    "md5": "74a6f978c3a9b3534415149f4214eda7"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/aviation_museum_4k.exr",
+                    "size": 20615827,
+                    "md5": "cd3d93db4a55963bf0743221ce2116a0"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/aviation_museum_2k.hdr",
+                    "size": 6068039,
+                    "md5": "62375b60948914af00b3c7f4b55c50e6"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/aviation_museum_2k.exr",
+                    "size": 5256777,
+                    "md5": "534f89f5c04c1c426bfdb0471bc5a004"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/aviation_museum_1k.hdr",
+                    "size": 1502789,
+                    "md5": "902aa574a11ac28b08d0345dd1470656"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/aviation_museum_1k.exr",
+                    "size": 1356750,
+                    "md5": "4e9a351cad92f32e0d06d083b1b82c3d"
+                }
+            }
+        },
+        "colorchart": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/aviation_museum.zip",
+            "size": 71779585,
+            "md5": "8637919ed803b93231144b14357bd110"
+        },
+        "tonemapped": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/aviation_museum.jpg",
+            "size": 43616799,
+            "md5": "4c56fc79f44b908a0b542507ae89b6ab"
+        },
+        "backplates": {
+            "10": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_pretty/10.jpg",
+                    "size": 12974692,
+                    "md5": "b74fb4bb58474f67759761d4e07a7fcf"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/raw/10.NEF",
+                    "size": 27000454,
+                    "md5": "015f87819cfecd93e47517b150b14594"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_plain/10.jpg",
+                    "size": 10590531,
+                    "md5": "d91b5c5148d4764bd8e3444ca77c74be"
+                }
+            },
+            "11": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_pretty/11.jpg",
+                    "size": 13834983,
+                    "md5": "92d25658006ff34c44accd3e521950d9"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/raw/11.NEF",
+                    "size": 28189966,
+                    "md5": "fb7695da3720288f73feb35cad3fe524"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_plain/11.jpg",
+                    "size": 11570431,
+                    "md5": "c084b993e5bb4ee2852be85bce0fda6f"
+                }
+            },
+            "12": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_pretty/12.jpg",
+                    "size": 14995154,
+                    "md5": "984239ac50db50460e6005b905caea10"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/raw/12.NEF",
+                    "size": 27122935,
+                    "md5": "24ebf2b48b74efee6184b4b98033dae9"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_plain/12.jpg",
+                    "size": 11757480,
+                    "md5": "735de8dd1129184b5acacc0fe8e36dbd"
+                }
+            },
+            "13": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_pretty/13.jpg",
+                    "size": 12985890,
+                    "md5": "5161fe10bfe225993233c1667628e491"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/raw/13.NEF",
+                    "size": 25664856,
+                    "md5": "a0f50fc8a3e01c202b60e05f5f7a1689"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_plain/13.jpg",
+                    "size": 9756566,
+                    "md5": "6681a7035a42cf1aeac420777d69f008"
+                }
+            },
+            "14": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_pretty/14.jpg",
+                    "size": 13352965,
+                    "md5": "0290686770b1c9cd130f117430e3823a"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/raw/14.NEF",
+                    "size": 28053155,
+                    "md5": "05f7ded76f02cf96a0fb9b71fd36fd8b"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_plain/14.jpg",
+                    "size": 11251890,
+                    "md5": "65088b020d57688ce74136975e7b543a"
+                }
+            },
+            "15": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_pretty/15.jpg",
+                    "size": 14532873,
+                    "md5": "eba12dcdbe458b87a5ffa8db8463498a"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/raw/15.NEF",
+                    "size": 27862597,
+                    "md5": "3bebf65cc9f14f6562eec06921cdc054"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_plain/15.jpg",
+                    "size": 11862376,
+                    "md5": "a9c3a67756468d597eb90572dec4b0f4"
+                }
+            },
+            "16": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_pretty/16.jpg",
+                    "size": 14778121,
+                    "md5": "56137afb64d3f304382815b7fa9488d8"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/raw/16.NEF",
+                    "size": 27919073,
+                    "md5": "d50b392d4b56200df6b3820995b34f3b"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_plain/16.jpg",
+                    "size": 11924369,
+                    "md5": "bf59ce1b629a998ac55d2b25afc733a8"
+                }
+            },
+            "17": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_pretty/17.jpg",
+                    "size": 14767912,
+                    "md5": "4fa5768a3238c4f2fa70350e31634d99"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/raw/17.NEF",
+                    "size": 28455636,
+                    "md5": "8b1bf9d646b349faca91a977499752b8"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_plain/17.jpg",
+                    "size": 12711725,
+                    "md5": "869a375e07981bc5ff5e28683ee1c31a"
+                }
+            },
+            "18": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_pretty/18.jpg",
+                    "size": 14482379,
+                    "md5": "b84708843cbf001972842d66f66fc621"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/raw/18.NEF",
+                    "size": 28376026,
+                    "md5": "fb5db42a2b2d7350c17cee45c7c0ef13"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_plain/18.jpg",
+                    "size": 12057468,
+                    "md5": "73b0bdd0cb900fd66a860ce87a5cc692"
+                }
+            },
+            "19": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_pretty/19.jpg",
+                    "size": 14267344,
+                    "md5": "435d2eb018bf094d004462d0ccc8b429"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/raw/19.NEF",
+                    "size": 27868479,
+                    "md5": "365172b186216d2cb480f25cf4b3fd1f"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_plain/19.jpg",
+                    "size": 11712014,
+                    "md5": "ae7ec350502cb810eb0e5426a6bf29d7"
+                }
+            },
+            "20": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_pretty/20.jpg",
+                    "size": 15971058,
+                    "md5": "30fb51b7c76375a21c565caf6354178c"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/raw/20.NEF",
+                    "size": 29228324,
+                    "md5": "03c063b03482984a14a02a3fcce9dec6"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_plain/20.jpg",
+                    "size": 13542273,
+                    "md5": "8563251c0caa0755fb790a76cca1a806"
+                }
+            },
+            "21": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_pretty/21.jpg",
+                    "size": 18178766,
+                    "md5": "b4ad5518ff8cd46f5de3c558f31b9888"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/raw/21.NEF",
+                    "size": 30113449,
+                    "md5": "7793f5824101da6bfe4eb6a33e874016"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_plain/21.jpg",
+                    "size": 14652398,
+                    "md5": "596aaa1e006ff5e05940b033fe151fa6"
+                }
+            },
+            "01": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_pretty/01.jpg",
+                    "size": 13117542,
+                    "md5": "f1cab73d34ef02d1f42039ef447d42ab"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/raw/01.NEF",
+                    "size": 26863532,
+                    "md5": "329ea740f8642b4ae262deb7c6136278"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_plain/01.jpg",
+                    "size": 10307457,
+                    "md5": "4051fc667c25498ac1325ca159df66fe"
+                }
+            },
+            "02": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_pretty/02.jpg",
+                    "size": 12800018,
+                    "md5": "41b92724b4329cf2fb3ea43fcf338bf1"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/raw/02.NEF",
+                    "size": 26718300,
+                    "md5": "a978aa7063aceab56472c7890fb93106"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_plain/02.jpg",
+                    "size": 9866481,
+                    "md5": "540107aa9e2b9e7ce398dbfdfa600934"
+                }
+            },
+            "03": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_pretty/03.jpg",
+                    "size": 12590009,
+                    "md5": "ef9261d34c18426fa9d5aedb3068cd8f"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/raw/03.NEF",
+                    "size": 26691524,
+                    "md5": "15cdef7821595e01a5d7e739e99b5dd6"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_plain/03.jpg",
+                    "size": 10073765,
+                    "md5": "e44f0799815b60871855b1d9f6297912"
+                }
+            },
+            "04": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_pretty/04.jpg",
+                    "size": 12498132,
+                    "md5": "aabadf8ff78d6dd50feae161c776fe27"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/raw/04.NEF",
+                    "size": 26819642,
+                    "md5": "dfb6a0b1061f401dd8ee017e375a1f7a"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_plain/04.jpg",
+                    "size": 10174899,
+                    "md5": "16555a409da96473bba82ba2eeeaac27"
+                }
+            },
+            "05": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_pretty/05.jpg",
+                    "size": 18182122,
+                    "md5": "81ace1dae4c2a1daa7d8da8dd6f794d4"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/raw/05.NEF",
+                    "size": 28117690,
+                    "md5": "8c194e246894a2d5406cf0e024f73e53"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_plain/05.jpg",
+                    "size": 13815164,
+                    "md5": "02d024e82f1343a9a03bf79dd6fbbd65"
+                }
+            },
+            "06": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_pretty/06.jpg",
+                    "size": 16406029,
+                    "md5": "ade8867550b87d9df0ce1995e463618e"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/raw/06.NEF",
+                    "size": 28307023,
+                    "md5": "bd9f4abb9213cc6cf1dbb31b063b880f"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_plain/06.jpg",
+                    "size": 12702740,
+                    "md5": "a4ee1544107012d8801cf66ccdff8f38"
+                }
+            },
+            "07": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_pretty/07.jpg",
+                    "size": 16401658,
+                    "md5": "8b6030bcd4c4156d7fecf464c57eead1"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/raw/07.NEF",
+                    "size": 28191448,
+                    "md5": "05031c7679405e2390aba2266d031050"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_plain/07.jpg",
+                    "size": 12676489,
+                    "md5": "071c4a76708a7d21e2c1062782d11a23"
+                }
+            },
+            "08": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_pretty/08.jpg",
+                    "size": 14253056,
+                    "md5": "9630cac540f7ea61ba68faff77f23994"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/raw/08.NEF",
+                    "size": 26597526,
+                    "md5": "a30dcdb3031e3ab4c945d1a45f403215"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_plain/08.jpg",
+                    "size": 10880243,
+                    "md5": "524b23f5c5aa52ffddd359bc37630acf"
+                }
+            },
+            "09": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_pretty/09.jpg",
+                    "size": 14216603,
+                    "md5": "949da624b960678dc891b6e768a65cb7"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/raw/09.NEF",
+                    "size": 26636173,
+                    "md5": "dcaa423f90dab7c314c1284069ffd1e4"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/aviation_museum/jpg_plain/09.jpg",
+                    "size": 10936836,
+                    "md5": "3b0dac11da5793c78d7dd37752818935"
+                }
+            }
+        }
+    }
+}

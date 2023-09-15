@@ -1,0 +1,105 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "tags": [
+        "road",
+        "storm",
+        "path",
+        "rail",
+        "overpass",
+        "bridge"
+    ],
+    "date_published": 1506981600,
+    "name": "Cedar Bridge",
+    "categories": [
+        "outdoor",
+        "skies",
+        "urban",
+        "partly cloudy",
+        "morning-afternoon",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1487346360,
+    "coords": [
+        -26.019299,
+        28.001043
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "8571269"
+    ],
+    "files_hash": "d8dd2c8eddae2ff1bd0d46d53f20d2a7f09a5983",
+    "download_count": 54710,
+    "files": {
+        "tonemapped": {
+            "size": 3966474,
+            "md5": "5ebc5b228cf4c17f494141bd931aac84",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/cedar_bridge.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101471314,
+                    "md5": "0c3b5cff1fbdee45d9aa6475b2f28898",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/cedar_bridge_8k.hdr"
+                },
+                "exr": {
+                    "size": 82194337,
+                    "md5": "43d1d0214da6f60478c8e52fab4c78e6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/cedar_bridge_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 385306199,
+                    "md5": "de68865617c92953a570792fe8993f39",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/cedar_bridge_16k.hdr"
+                },
+                "exr": {
+                    "size": 301986473,
+                    "md5": "9f2c1ec0d57267ceb6793e2255b7a76d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/cedar_bridge_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25825509,
+                    "md5": "3d891ef28eb30f02890445af40a3a7b3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/cedar_bridge_4k.hdr"
+                },
+                "exr": {
+                    "size": 21324276,
+                    "md5": "5146f0420976da937c9f5cb1399a2219",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/cedar_bridge_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6518498,
+                    "md5": "914ac2ee91393fc5f4f89e0e629bd4c0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/cedar_bridge_2k.hdr"
+                },
+                "exr": {
+                    "size": 5592503,
+                    "md5": "a3202188b00c2f065dd4cf0ea779fb4d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/cedar_bridge_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1647963,
+                    "md5": "58297bd21b606e13247d0c8063a9055f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/cedar_bridge_1k.hdr"
+                },
+                "exr": {
+                    "size": 1493825,
+                    "md5": "3eceab54b4e187321ed024955aa917a3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/cedar_bridge_1k.exr"
+                }
+            }
+        }
+    }
+}

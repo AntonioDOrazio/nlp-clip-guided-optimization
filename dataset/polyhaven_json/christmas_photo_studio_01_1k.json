@@ -1,0 +1,655 @@
+{
+    "evs_cap": 25,
+    "type": 0,
+    "whitebalance": 5400,
+    "date_published": 1615849200,
+    "name": "Christmas Photo Studio 01",
+    "categories": [
+        "indoor",
+        "urban",
+        "night",
+        "high contrast",
+        "artificial light",
+        "studio"
+    ],
+    "date_taken": 1609265400,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "backplates": true,
+    "tags": [
+        "couch",
+        "sofa",
+        "wood",
+        "book",
+        "blanket",
+        "tree",
+        "christmas",
+        "step",
+        "ladder",
+        "studio",
+        "backplates"
+    ],
+    "files_hash": "b9604c7fee70704fba68629638e2d09d127a2bf7",
+    "download_count": 132870,
+    "files": {
+        "tonemapped": {
+            "size": 6439918,
+            "md5": "262714c2faf79569aae720505878f4fa",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/christmas_photo_studio_01.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 100945200,
+                    "md5": "e2b91169447fccb407628a18c97f2ffe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/christmas_photo_studio_01_8k.hdr"
+                },
+                "exr": {
+                    "size": 86757518,
+                    "md5": "e73087779eedc4b27b849ffc11ad4803",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/christmas_photo_studio_01_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 384683512,
+                    "md5": "3e99a1ad55f006957d556bb8d0367efd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/christmas_photo_studio_01_16k.hdr"
+                },
+                "exr": {
+                    "size": 317503016,
+                    "md5": "644a1ce697c30d139e4cf45763872812",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/christmas_photo_studio_01_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25931849,
+                    "md5": "6ce3f32bb25756ee14fe0065de5d6be9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/christmas_photo_studio_01_4k.hdr"
+                },
+                "exr": {
+                    "size": 22854764,
+                    "md5": "704976b855d33da83bacc1499d5eb3da",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/christmas_photo_studio_01_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6610007,
+                    "md5": "25611e20a5516e803faa7a0e60954f73",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/christmas_photo_studio_01_2k.hdr"
+                },
+                "exr": {
+                    "size": 5954968,
+                    "md5": "a276dfe58bf68585b6fbb4f50f4444d3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/christmas_photo_studio_01_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1677711,
+                    "md5": "98d713f69613ccfc63bacd486e59eeb3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/christmas_photo_studio_01_1k.hdr"
+                },
+                "exr": {
+                    "size": 1544478,
+                    "md5": "43dd931146eca5719108e81f3382b723",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/christmas_photo_studio_01_1k.exr"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 95586160,
+            "md5": "93ecf76ee3ff23dff81e5d9d2ad711ff",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/christmas_photo_studio_01.zip"
+        },
+        "backplates": {
+            "DSC_5919": {
+                "jpg_pretty": {
+                    "size": 16130006,
+                    "md5": "b81f466650be61735120b3e77f0b4614",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_pretty/DSC_5919.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15976781,
+                    "md5": "14fbbb395827054e32896bfb56d6a299",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_plain/DSC_5919.jpg"
+                },
+                "raw": {
+                    "size": 27036839,
+                    "md5": "48ae8054c30daa8274046eeeb3a96ef4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/raw/DSC_5919.NEF"
+                }
+            },
+            "DSC_5857": {
+                "jpg_pretty": {
+                    "size": 11339106,
+                    "md5": "334119e163fb5091f7fc308334f6429c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_pretty/DSC_5857.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9573754,
+                    "md5": "a556bce48cb1644fa5beaa7259dc0d37",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_plain/DSC_5857.jpg"
+                },
+                "raw": {
+                    "size": 24985797,
+                    "md5": "5c0e81c5d3d2cca5a58af900cddfa963",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/raw/DSC_5857.NEF"
+                }
+            },
+            "DSC_5879": {
+                "jpg_pretty": {
+                    "size": 14530610,
+                    "md5": "ce1417b94afa5f66e6546232d232f8bb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_pretty/DSC_5879.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15392371,
+                    "md5": "9e115c6e6620003348f0a662bbba7152",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_plain/DSC_5879.jpg"
+                },
+                "raw": {
+                    "size": 27145304,
+                    "md5": "7a00b8ad00a6afacd265949a6e57181a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/raw/DSC_5879.NEF"
+                }
+            },
+            "DSC_5934": {
+                "jpg_pretty": {
+                    "size": 13317429,
+                    "md5": "186aadfcc014caecede1682fa4c8d485",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_pretty/DSC_5934.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10704190,
+                    "md5": "460fe6f9ed1414611b1900c88fea842c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_plain/DSC_5934.jpg"
+                },
+                "raw": {
+                    "size": 23818109,
+                    "md5": "710dce2c95609f567f8de5c0066e4016",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/raw/DSC_5934.NEF"
+                }
+            },
+            "DSC_5837": {
+                "jpg_pretty": {
+                    "size": 16748291,
+                    "md5": "04157c2855e5975d2da9e708b75c94f3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_pretty/DSC_5837.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12805267,
+                    "md5": "d551f25870da67a14c662a503128bed7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_plain/DSC_5837.jpg"
+                },
+                "raw": {
+                    "size": 25477157,
+                    "md5": "0775213a9661110c4345d308a0048bc4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/raw/DSC_5837.NEF"
+                }
+            },
+            "DSC_5914": {
+                "jpg_pretty": {
+                    "size": 13899037,
+                    "md5": "812862a8633383f91fae59f43888fc72",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_pretty/DSC_5914.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9792709,
+                    "md5": "e66413c594cd635c6ce5b252f3816f54",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_plain/DSC_5914.jpg"
+                },
+                "raw": {
+                    "size": 23502961,
+                    "md5": "c9cce0f0c30d332636a6f782a03bcbb5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/raw/DSC_5914.NEF"
+                }
+            },
+            "DSC_5832": {
+                "jpg_pretty": {
+                    "size": 14567331,
+                    "md5": "2629f261569ccd91bcdb57915344d34a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_pretty/DSC_5832.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14321609,
+                    "md5": "4cd0583617211899a175d111f3c39be4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_plain/DSC_5832.jpg"
+                },
+                "raw": {
+                    "size": 26204971,
+                    "md5": "508f85ddd40d697b8ae916b093e7118e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/raw/DSC_5832.NEF"
+                }
+            },
+            "DSC_5812": {
+                "jpg_pretty": {
+                    "size": 12557558,
+                    "md5": "8a7caa80bfc8dc006c4559402bf0d14b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_pretty/DSC_5812.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13499814,
+                    "md5": "4484c5d62dddc647a9d9a2289ccc4243",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_plain/DSC_5812.jpg"
+                },
+                "raw": {
+                    "size": 25523164,
+                    "md5": "61f6e968e2671001e86e0aa7476c2667",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/raw/DSC_5812.NEF"
+                }
+            },
+            "DSC_5899": {
+                "jpg_pretty": {
+                    "size": 12159236,
+                    "md5": "d6d3ca402ad27f21db1140b227e96068",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_pretty/DSC_5899.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12477638,
+                    "md5": "5e6499455a0a81505e85c3bf15c2d341",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_plain/DSC_5899.jpg"
+                },
+                "raw": {
+                    "size": 24876863,
+                    "md5": "f92ab4b54e7fe50893971e5d792356a1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/raw/DSC_5899.NEF"
+                }
+            },
+            "DSC_5894": {
+                "jpg_pretty": {
+                    "size": 13458864,
+                    "md5": "76d912183c52345c4742c253610fae1c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_pretty/DSC_5894.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9218523,
+                    "md5": "473160f6365ef52cfae1d2078accf6cc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_plain/DSC_5894.jpg"
+                },
+                "raw": {
+                    "size": 24199857,
+                    "md5": "538273e6827cbd9a7f8f85d8c8ef6b1e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/raw/DSC_5894.NEF"
+                }
+            },
+            "DSC_5772": {
+                "jpg_pretty": {
+                    "size": 14172532,
+                    "md5": "75fa46ba35fa84b4ca0260b9133a77f1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_pretty/DSC_5772.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14563499,
+                    "md5": "4e32ced08ec95887153309a6872043c7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_plain/DSC_5772.jpg"
+                },
+                "raw": {
+                    "size": 26441578,
+                    "md5": "8a14e2a336fe1b108d7febf2fec1bbbc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/raw/DSC_5772.NEF"
+                }
+            },
+            "DSC_5797": {
+                "jpg_pretty": {
+                    "size": 14909622,
+                    "md5": "042a72071eacaf1b530a2c5497d48424",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_pretty/DSC_5797.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12792749,
+                    "md5": "f3bc6994df79436407800f8514abb34f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_plain/DSC_5797.jpg"
+                },
+                "raw": {
+                    "size": 25273347,
+                    "md5": "124d56ab8dd5094729ee512116027732",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/raw/DSC_5797.NEF"
+                }
+            },
+            "DSC_5852": {
+                "jpg_pretty": {
+                    "size": 14222198,
+                    "md5": "b93c055dba5d430ede00d22357f723b8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_pretty/DSC_5852.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13734215,
+                    "md5": "b99def989752462014fc39b26f1ec658",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_plain/DSC_5852.jpg"
+                },
+                "raw": {
+                    "size": 26586009,
+                    "md5": "b8db3240545239f3d2793a38f2379a6a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/raw/DSC_5852.NEF"
+                }
+            },
+            "DSC_5792": {
+                "jpg_pretty": {
+                    "size": 14897770,
+                    "md5": "eb83034c9c7442e27a7aaeae327b93d5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_pretty/DSC_5792.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12258235,
+                    "md5": "5064c1ac148df96728c27a6c23e13c5f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_plain/DSC_5792.jpg"
+                },
+                "raw": {
+                    "size": 24984689,
+                    "md5": "98b173a1496e6a08701ec68c6d53a7a1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/raw/DSC_5792.NEF"
+                }
+            },
+            "DSC_5909": {
+                "jpg_pretty": {
+                    "size": 15344478,
+                    "md5": "8da17ea9c710919d0a9e54da2d58e468",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_pretty/DSC_5909.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14237353,
+                    "md5": "e07e92aeda29cbd6ab9b597179120b1d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_plain/DSC_5909.jpg"
+                },
+                "raw": {
+                    "size": 25933820,
+                    "md5": "657771337e9f1743d506c822d0b1c47d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/raw/DSC_5909.NEF"
+                }
+            },
+            "DSC_5807": {
+                "jpg_pretty": {
+                    "size": 14685599,
+                    "md5": "2efcb994bc466a8f84314273f3d387a1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_pretty/DSC_5807.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14536340,
+                    "md5": "669b43a833b32b59e28a64418d509df6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_plain/DSC_5807.jpg"
+                },
+                "raw": {
+                    "size": 26088135,
+                    "md5": "0188fd42b045faf5f44959a79ec681b3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/raw/DSC_5807.NEF"
+                }
+            },
+            "DSC_5929": {
+                "jpg_pretty": {
+                    "size": 11967364,
+                    "md5": "106d5f4aa74abef978b4fcb6d546d2ae",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_pretty/DSC_5929.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9531594,
+                    "md5": "b03fad8ce89438f88bcbe54e84898666",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_plain/DSC_5929.jpg"
+                },
+                "raw": {
+                    "size": 24313354,
+                    "md5": "f06e2cf70d9c8312df58f044a4a46fe7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/raw/DSC_5929.NEF"
+                }
+            },
+            "DSC_5847": {
+                "jpg_pretty": {
+                    "size": 16536796,
+                    "md5": "616c66008e35c6c3b3bb4b85dd97cd6b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_pretty/DSC_5847.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15874380,
+                    "md5": "346f6df5142af20cb6a4ef3db95d9e2e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_plain/DSC_5847.jpg"
+                },
+                "raw": {
+                    "size": 27677883,
+                    "md5": "f930202449ace6d35cd3129cd7c7ca8c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/raw/DSC_5847.NEF"
+                }
+            },
+            "DSC_5869": {
+                "jpg_pretty": {
+                    "size": 12147961,
+                    "md5": "3799a0bb8b43c93d5900df6663f63de2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_pretty/DSC_5869.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9711324,
+                    "md5": "b5be33f8ef8b8bac62693aaa16a62004",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_plain/DSC_5869.jpg"
+                },
+                "raw": {
+                    "size": 24407031,
+                    "md5": "47076dd504798d89b926f01bb8913aed",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/raw/DSC_5869.NEF"
+                }
+            },
+            "DSC_5924": {
+                "jpg_pretty": {
+                    "size": 15284832,
+                    "md5": "2667bac197bc5987f5be23c5a3f39c35",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_pretty/DSC_5924.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14587049,
+                    "md5": "c56e4e1d57808acd2b4274bbeb8d3601",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_plain/DSC_5924.jpg"
+                },
+                "raw": {
+                    "size": 27081981,
+                    "md5": "bde865589989f8bd5ee64a53acc386ae",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/raw/DSC_5924.NEF"
+                }
+            },
+            "DSC_5802": {
+                "jpg_pretty": {
+                    "size": 15314985,
+                    "md5": "b2f182fba94441ca977895aaacdb65f6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_pretty/DSC_5802.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12716330,
+                    "md5": "0079d5d0dfa511b55683e721b47562a4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_plain/DSC_5802.jpg"
+                },
+                "raw": {
+                    "size": 25107731,
+                    "md5": "4e3d0071ec494ed615a8d7c3c8c867a7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/raw/DSC_5802.NEF"
+                }
+            },
+            "DSC_5827": {
+                "jpg_pretty": {
+                    "size": 17075241,
+                    "md5": "8d9feff9e55a211f6925ce6dd433789d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_pretty/DSC_5827.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16114885,
+                    "md5": "9e84d099303a4ae75ee5f2671e6c3b1b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_plain/DSC_5827.jpg"
+                },
+                "raw": {
+                    "size": 27318808,
+                    "md5": "ff52ef76ab2dddb38846727ab53e45c8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/raw/DSC_5827.NEF"
+                }
+            },
+            "DSC_5904": {
+                "jpg_pretty": {
+                    "size": 16484762,
+                    "md5": "909a7260d3de5ed9c0ff012a30db77b3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_pretty/DSC_5904.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14774428,
+                    "md5": "09dd3d0f8d0dd4c312fd34fea32b60c4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_plain/DSC_5904.jpg"
+                },
+                "raw": {
+                    "size": 26252303,
+                    "md5": "43b153cbb05ddefdc91541f4b8b814d6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/raw/DSC_5904.NEF"
+                }
+            },
+            "DSC_5787": {
+                "jpg_pretty": {
+                    "size": 16934297,
+                    "md5": "ac58c80f647f694b13949b704fca6163",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_pretty/DSC_5787.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15633588,
+                    "md5": "fe3ee1aec207c010ce5080c093dfbe68",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_plain/DSC_5787.jpg"
+                },
+                "raw": {
+                    "size": 27788293,
+                    "md5": "6d52b3a7cf5ae63d4557ea9992b59dc8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/raw/DSC_5787.NEF"
+                }
+            },
+            "DSC_5842": {
+                "jpg_pretty": {
+                    "size": 15689269,
+                    "md5": "fb78b4d83f6847357128cb5eed951a61",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_pretty/DSC_5842.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14866268,
+                    "md5": "c73ee3d6d216f5dcefd9d549db8165e0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_plain/DSC_5842.jpg"
+                },
+                "raw": {
+                    "size": 27715399,
+                    "md5": "c78bb7372e8f865c65a3f8d003caf80f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/raw/DSC_5842.NEF"
+                }
+            },
+            "DSC_5864": {
+                "jpg_pretty": {
+                    "size": 11220378,
+                    "md5": "1b6864a85486da96fc351eaebff141af",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_pretty/DSC_5864.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9333530,
+                    "md5": "cc8b255ac0b9b696d7d81dcdd00f2760",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_plain/DSC_5864.jpg"
+                },
+                "raw": {
+                    "size": 24307480,
+                    "md5": "fdb716ef617275a383d1169513a9bd47",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/raw/DSC_5864.NEF"
+                }
+            },
+            "DSC_5889": {
+                "jpg_pretty": {
+                    "size": 14483622,
+                    "md5": "353390bd26c003650eae8b08a7809403",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_pretty/DSC_5889.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11083555,
+                    "md5": "f8de1a46ecccb7ac6644c2fa465b2718",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_plain/DSC_5889.jpg"
+                },
+                "raw": {
+                    "size": 23890278,
+                    "md5": "ef69f129aa82cd382a4e0cf5c1fd2ac1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/raw/DSC_5889.NEF"
+                }
+            },
+            "DSC_5767": {
+                "jpg_pretty": {
+                    "size": 12518788,
+                    "md5": "ab01b6952a32942f6d07b9137f8943b9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_pretty/DSC_5767.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13662055,
+                    "md5": "a73fb3702287dcfaca4fd0a9602c375a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_plain/DSC_5767.jpg"
+                },
+                "raw": {
+                    "size": 25892599,
+                    "md5": "b0f3d98c1f642e3ab63d7b495ebe6c95",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/raw/DSC_5767.NEF"
+                }
+            },
+            "DSC_5822": {
+                "jpg_pretty": {
+                    "size": 14342174,
+                    "md5": "ff048e848cd3c83ea0f569c0dda37025",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_pretty/DSC_5822.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11792515,
+                    "md5": "b67f32b8d7daf51550ae0b63ae0b87bb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_plain/DSC_5822.jpg"
+                },
+                "raw": {
+                    "size": 24671643,
+                    "md5": "3f6e1667e0d4a72eb5d56ff3aea761c6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/raw/DSC_5822.NEF"
+                }
+            },
+            "DSC_5763": {
+                "jpg_pretty": {
+                    "size": 11144533,
+                    "md5": "eba336444c0bd79fbcb9821949d6ecaf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_pretty/DSC_5763.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13085600,
+                    "md5": "124c64c08f9b15488fb7a3b5ee0e0d9e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_plain/DSC_5763.jpg"
+                },
+                "raw": {
+                    "size": 25956738,
+                    "md5": "dc49c35878a92ad94478d96c1658c7e4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/raw/DSC_5763.NEF"
+                }
+            },
+            "DSC_5884": {
+                "jpg_pretty": {
+                    "size": 14664644,
+                    "md5": "705d4ff334f99d48b5c210ae3fb30b7c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_pretty/DSC_5884.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14883562,
+                    "md5": "93a4191b14b7c2561f7b5f3fb1366558",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_plain/DSC_5884.jpg"
+                },
+                "raw": {
+                    "size": 27196827,
+                    "md5": "289bb8e4ae51ad453dad26222ed240ff",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/raw/DSC_5884.NEF"
+                }
+            },
+            "DSC_5782": {
+                "jpg_pretty": {
+                    "size": 13654683,
+                    "md5": "c032239bada9efc824521459dc3b25d4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_pretty/DSC_5782.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14041734,
+                    "md5": "e2421ab18eda879af2461264ae45167d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/jpg_plain/DSC_5782.jpg"
+                },
+                "raw": {
+                    "size": 26905775,
+                    "md5": "d7023fd1e09e7a4f89fd434580907f7e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/christmas_photo_studio_01/raw/DSC_5782.NEF"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "tags": [
+        "grass",
+        "mountain",
+        "path",
+        "hill"
+    ],
+    "date_published": 1511996400,
+    "name": "Champagne Castle 1",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "sunrise-sunset",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        -29.044435,
+        29.402205
+    ],
+    "date_taken": 1460561580,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "33031620"
+    ],
+    "files_hash": "449a6943fe48770d174bdb9bc55b9f7d9706d7bc",
+    "download_count": 86220,
+    "files": {
+        "tonemapped": {
+            "size": 6178857,
+            "md5": "a4cf5bae0bb611d3edef057445464bbf",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/champagne_castle_1.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 104041520,
+                    "md5": "015ed90cfba5a1d6bf9f99fc9a0df708",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/champagne_castle_1_8k.hdr"
+                },
+                "exr": {
+                    "size": 88852555,
+                    "md5": "e22c2e01ef324d63082e30b4fa5aa996",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/champagne_castle_1_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 396557467,
+                    "md5": "69ef4c7276ff12ed99c6ca687394f954",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/champagne_castle_1_16k.hdr"
+                },
+                "exr": {
+                    "size": 334770722,
+                    "md5": "04eb69869ecf9dd61c42721e018ca697",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/champagne_castle_1_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26379983,
+                    "md5": "f38af02db7067e9122283dcf7e74e7ae",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/champagne_castle_1_4k.hdr"
+                },
+                "exr": {
+                    "size": 22106647,
+                    "md5": "a06a1d1d6714b5ff85c8309e322ea063",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/champagne_castle_1_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6564098,
+                    "md5": "35cd7ab3ff3bd91c4e7ebb12cde27caf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/champagne_castle_1_2k.hdr"
+                },
+                "exr": {
+                    "size": 5513597,
+                    "md5": "c4cbdb4801151bcc6a7c5f7f1d365fdb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/champagne_castle_1_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1617493,
+                    "md5": "7fc4dfe799ec76fdc66d22e6f3a5fed8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/champagne_castle_1_1k.hdr"
+                },
+                "exr": {
+                    "size": 1406188,
+                    "md5": "458f7b6d9255aeb5367f9b07edb0acb9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/champagne_castle_1_1k.exr"
+                }
+            }
+        }
+    }
+}

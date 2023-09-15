@@ -1,0 +1,109 @@
+{
+    "evs_cap": 24,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "tree",
+        "sun",
+        "rail",
+        "track",
+        "rock",
+        "forest"
+    ],
+    "date_published": 1537221600,
+    "name": "Moulton Falls Train Tunnel East",
+    "categories": [
+        "outdoor",
+        "nature",
+        "midday",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1532091900,
+    "coords": [
+        45.832753,
+        -122.390642
+    ],
+    "authors": {
+        "Philip Modin": "All"
+    },
+    "sponsors": [
+        {
+            "url": "https://www.idin-jewellery.co.uk/",
+            "name": "Idin Jewellery"
+        },
+        "3237733"
+    ],
+    "files_hash": "6e915c74fa915ddb6d5b9504d4ee9860afa29fcc",
+    "download_count": 16627,
+    "files": {
+        "tonemapped": {
+            "size": 11045905,
+            "md5": "0485e8ed06e149409b9a32366e475c02",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/moulton_falls_train_tunnel_east.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 115193162,
+                    "md5": "e0191e9fc6bedea3415cab6125f76e8e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/moulton_falls_train_tunnel_east_8k.hdr"
+                },
+                "exr": {
+                    "size": 114241133,
+                    "md5": "5c01948c2cc11fdf67f593431fa6ae76",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/moulton_falls_train_tunnel_east_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 444390710,
+                    "md5": "8727fd85bcd451cd57c9c5bccf34ee17",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/moulton_falls_train_tunnel_east_16k.hdr"
+                },
+                "exr": {
+                    "size": 439475380,
+                    "md5": "c50f71d40ff5731982fc9ff87421e643",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/moulton_falls_train_tunnel_east_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 29174571,
+                    "md5": "3fe99c01732cb7219a8161744e954da6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/moulton_falls_train_tunnel_east_4k.hdr"
+                },
+                "exr": {
+                    "size": 28848475,
+                    "md5": "1b0983ff67e02ce4ad8afc8ad9fe8479",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/moulton_falls_train_tunnel_east_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7285106,
+                    "md5": "cc05c820f0388e84144ead90e2472f1e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/moulton_falls_train_tunnel_east_2k.hdr"
+                },
+                "exr": {
+                    "size": 7245479,
+                    "md5": "81fec4e0ac3b109e250144d7813ba8d6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/moulton_falls_train_tunnel_east_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1803643,
+                    "md5": "67104bf827c608b038055df433374fc6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/moulton_falls_train_tunnel_east_1k.hdr"
+                },
+                "exr": {
+                    "size": 1831613,
+                    "md5": "b83b8506483dc9ff485cccbf01782a97",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/moulton_falls_train_tunnel_east_1k.exr"
+                }
+            }
+        }
+    }
+}

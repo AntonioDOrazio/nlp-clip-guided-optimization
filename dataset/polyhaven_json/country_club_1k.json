@@ -1,0 +1,585 @@
+{
+    "evs_cap": 21,
+    "type": 0,
+    "whitebalance": 5100,
+    "tags": [
+        "victorian",
+        "room",
+        "window",
+        "ballroom",
+        "wood floor",
+        "backplates"
+    ],
+    "name": "Country Club",
+    "categories": [
+        "indoor",
+        "urban",
+        "natural light",
+        "high contrast",
+        "morning-afternoon"
+    ],
+    "backplates": true,
+    "date_taken": 1634730480,
+    "coords": [
+        50.941082,
+        34.388942
+    ],
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "date_published": 1642032000,
+    "files_hash": "e7c5f394671a09ce02a1110008da5f16e51c832b",
+    "download_count": 34495,
+    "files": {
+        "hdri": {
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/country_club_16k.hdr",
+                    "size": 371158660,
+                    "md5": "be6a93e4bddde17e555a063e9bc6c0c9"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/country_club_16k.exr",
+                    "size": 297441546,
+                    "md5": "2ee2d6dfa61aac75ef0e44a8b8852086"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/country_club_8k.hdr",
+                    "size": 99089549,
+                    "md5": "86a8f502219eeb59bdd1d8baa5a61370"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/country_club_8k.exr",
+                    "size": 85509900,
+                    "md5": "f8fd3ab1998fe82e0944722890696af8"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/country_club_4k.hdr",
+                    "size": 25904771,
+                    "md5": "d5d1531816487241c056aaf0bf3036db"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/country_club_4k.exr",
+                    "size": 23594252,
+                    "md5": "0a404cde3f267366e26e8905fd0c346f"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/country_club_2k.hdr",
+                    "size": 6713100,
+                    "md5": "1705f88d599e4e0e04b23ee484a26a34"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/country_club_2k.exr",
+                    "size": 6339242,
+                    "md5": "b3a11cef994a24f915247c80971a7a4b"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/country_club_1k.hdr",
+                    "size": 1728719,
+                    "md5": "54f7154010b3bea20ec0caedf343169f"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/country_club_1k.exr",
+                    "size": 1673105,
+                    "md5": "0879429d8fd78521ab1e25ba5e85cea1"
+                }
+            }
+        },
+        "colorchart": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/country_club.zip",
+            "size": 77279857,
+            "md5": "f10c9d5dd3c25c7b62b51696fd02e693"
+        },
+        "tonemapped": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/country_club.jpg",
+            "size": 43962420,
+            "md5": "1d349f12e7cf3f3c590acc80cc2fab64"
+        },
+        "backplates": {
+            "10": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_pretty/10.jpg",
+                    "size": 14264479,
+                    "md5": "3a06c71b17fe2aab7fbceba3cff9e1fb"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/raw/10.NEF",
+                    "size": 25779768,
+                    "md5": "77ec34fbf488120653f339a24e557e90"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_plain/10.jpg",
+                    "size": 10151604,
+                    "md5": "cb04702e37847faf45e7c4e2d9fc86ec"
+                }
+            },
+            "11": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_pretty/11.jpg",
+                    "size": 14707680,
+                    "md5": "272b103407cb825f78b3d12164c252d7"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/raw/11.NEF",
+                    "size": 26920460,
+                    "md5": "a83550c77daed93f95aedb7339ef4395"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_plain/11.jpg",
+                    "size": 10690024,
+                    "md5": "144ec54a581134ac089ef6375eff8174"
+                }
+            },
+            "12": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_pretty/12.jpg",
+                    "size": 14756905,
+                    "md5": "ac83a6488e25a64e7493408ef32f7894"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/raw/12.NEF",
+                    "size": 27241115,
+                    "md5": "598c95551bdc9593d60f488f30c712d4"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_plain/12.jpg",
+                    "size": 10800304,
+                    "md5": "21cc075090e29678f871168e00112f50"
+                }
+            },
+            "13": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_pretty/13.jpg",
+                    "size": 13512732,
+                    "md5": "905575bce9f9f553bb3fc46bf521fe8f"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/raw/13.NEF",
+                    "size": 26567393,
+                    "md5": "2e8e5191fa01a8561ba8ba472c4735b1"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_plain/13.jpg",
+                    "size": 9413279,
+                    "md5": "c726ae3e8188a9e7e6a73619de849ddf"
+                }
+            },
+            "14": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_pretty/14.jpg",
+                    "size": 13857307,
+                    "md5": "ab99370f8b86fc9d77db4828f8cb4cb8"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/raw/14.NEF",
+                    "size": 25002819,
+                    "md5": "779104d2521d23f5d594fc1799ccf3df"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_plain/14.jpg",
+                    "size": 9755276,
+                    "md5": "dc6a1366c5631e727dcce3321e57e712"
+                }
+            },
+            "15": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_pretty/15.jpg",
+                    "size": 14754140,
+                    "md5": "a283a979c40e66bd807122d5f384e20d"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/raw/15.NEF",
+                    "size": 25150346,
+                    "md5": "840f63dad874992d4ff37098c07b4cec"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_plain/15.jpg",
+                    "size": 9741322,
+                    "md5": "67ca6162badc3910bd266ed904618f61"
+                }
+            },
+            "16": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_pretty/16.jpg",
+                    "size": 15705888,
+                    "md5": "fd26b1cab572bb6541142b9563952a17"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/raw/16.NEF",
+                    "size": 25167679,
+                    "md5": "7b68931a02ebbcad9dd11175189d4620"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_plain/16.jpg",
+                    "size": 10315949,
+                    "md5": "a113bcc51bbc336edf02de9c9f9edf49"
+                }
+            },
+            "17": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_pretty/17.jpg",
+                    "size": 14169515,
+                    "md5": "dbb46cbdb5cf6a13ce45baef8ebf8d88"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/raw/17.NEF",
+                    "size": 26206096,
+                    "md5": "9188f2cd51dc21d2bf975609490d7229"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_plain/17.jpg",
+                    "size": 9321336,
+                    "md5": "ce6d656a855ddbcf400b78f321f41983"
+                }
+            },
+            "18": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_pretty/18.jpg",
+                    "size": 14462279,
+                    "md5": "2eff18e84dda49810d5b1c82acb4495a"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/raw/18.NEF",
+                    "size": 25542639,
+                    "md5": "cd463245673f29b094a23ad9a2958727"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_plain/18.jpg",
+                    "size": 9500112,
+                    "md5": "f152f6ada43c3c8abc22c7c82ebacb32"
+                }
+            },
+            "19": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_pretty/19.jpg",
+                    "size": 15674297,
+                    "md5": "12aa91237ef71ecbbd67800260759eda"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/raw/19.NEF",
+                    "size": 25276926,
+                    "md5": "d9471e15cb1121fa2b19c07c91b86841"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_plain/19.jpg",
+                    "size": 10044779,
+                    "md5": "a60d93202c7b41bafb299ac502893c1e"
+                }
+            },
+            "20": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_pretty/20.jpg",
+                    "size": 15423495,
+                    "md5": "56ebda69948e1724fc360fb02ad48776"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/raw/20.NEF",
+                    "size": 25797551,
+                    "md5": "399122e146b651638e7e6fe62ad42dd4"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_plain/20.jpg",
+                    "size": 10541127,
+                    "md5": "eac4b5bd9057268da3d2b7ff9c53de42"
+                }
+            },
+            "21": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_pretty/21.jpg",
+                    "size": 15298488,
+                    "md5": "fb8a60f5e7700314f86bf16973170705"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/raw/21.NEF",
+                    "size": 24882110,
+                    "md5": "24d79acfb983a99e25865ef7d11bf5ae"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_plain/21.jpg",
+                    "size": 9336209,
+                    "md5": "17abf573202d6f77165b55dbc66c9fbe"
+                }
+            },
+            "22": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_pretty/22.jpg",
+                    "size": 15580998,
+                    "md5": "c5b239ff7a3d01251d267da619c907aa"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/raw/22.NEF",
+                    "size": 25796878,
+                    "md5": "2dfc447167f9dc29424e324c3964bf77"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_plain/22.jpg",
+                    "size": 10048003,
+                    "md5": "a7a04e7fd16b9566523a1d285e7578e7"
+                }
+            },
+            "23": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_pretty/23.jpg",
+                    "size": 13890573,
+                    "md5": "f6245784ce44c6ed5df3801ec53ce9b0"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/raw/23.NEF",
+                    "size": 27511002,
+                    "md5": "e44775a4279ca841f7cee6ebc4d76e74"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_plain/23.jpg",
+                    "size": 8669135,
+                    "md5": "c084c5078b335c7c50885cbd6bab89bb"
+                }
+            },
+            "24": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_pretty/24.jpg",
+                    "size": 14822263,
+                    "md5": "788cd9f3918574fb979292d2f085e381"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/raw/24.NEF",
+                    "size": 26873008,
+                    "md5": "56893020ace00b680a732ce7fca8af51"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_plain/24.jpg",
+                    "size": 10054597,
+                    "md5": "eab574ca7cf0b87cb00a743a308922d0"
+                }
+            },
+            "25": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_pretty/25.jpg",
+                    "size": 14848691,
+                    "md5": "ccd058787d9251389c9aa96afa4d3b8b"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/raw/25.NEF",
+                    "size": 27378302,
+                    "md5": "6957b68034336e1bea3b1ae633401119"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_plain/25.jpg",
+                    "size": 9862260,
+                    "md5": "ec310e58ad0a071bc7a02e2707b4e25d"
+                }
+            },
+            "26": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_pretty/26.jpg",
+                    "size": 14713622,
+                    "md5": "81a237d0f5459bbde55e486a052c5067"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/raw/26.NEF",
+                    "size": 27361576,
+                    "md5": "ba95293137e4abc0b979b7aef41fb40b"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_plain/26.jpg",
+                    "size": 11053718,
+                    "md5": "d1da2d93d70f95d6e8dd66a9c99ffef0"
+                }
+            },
+            "27": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_pretty/27.jpg",
+                    "size": 14843651,
+                    "md5": "a21815f3435e067198fcbfb13197732e"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/raw/27.NEF",
+                    "size": 27813960,
+                    "md5": "c3b3c655c1569c90a90ca780bd1a6846"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_plain/27.jpg",
+                    "size": 9698129,
+                    "md5": "c35f49c2c8d02321578e43e23abd5ab7"
+                }
+            },
+            "28": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_pretty/28.jpg",
+                    "size": 13533486,
+                    "md5": "7e502a509aef054c650b4408eab8ef8c"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/raw/28.NEF",
+                    "size": 26289110,
+                    "md5": "192040c750f0e85eb03cb0256fa5d1ed"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_plain/28.jpg",
+                    "size": 9268903,
+                    "md5": "a4c8a3cfd9fb05c34ebbdffdd00400c3"
+                }
+            },
+            "01": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_pretty/01.jpg",
+                    "size": 15447941,
+                    "md5": "25df1484715ee9b33e7104aab4780742"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/raw/01.NEF",
+                    "size": 26085538,
+                    "md5": "09aca2fd24e98b0af8fd223f47143285"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_plain/01.jpg",
+                    "size": 10413676,
+                    "md5": "a3e10b7bdd4a74c75189116f21d9cc52"
+                }
+            },
+            "02": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_pretty/02.jpg",
+                    "size": 15284559,
+                    "md5": "aacb3d1af7e7185f79c51232f1efc895"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/raw/02.NEF",
+                    "size": 25570843,
+                    "md5": "b55f4010a9b7792071f7a75a7d295d57"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_plain/02.jpg",
+                    "size": 10584008,
+                    "md5": "136a50d72ec08c687853004c1c3d6c78"
+                }
+            },
+            "03": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_pretty/03.jpg",
+                    "size": 15366086,
+                    "md5": "ac1a66a7fbf6483b26fdf96e7e02f8da"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/raw/03.NEF",
+                    "size": 27582572,
+                    "md5": "f8857971942751b5d22ffc36937c4c5a"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_plain/03.jpg",
+                    "size": 10386259,
+                    "md5": "c0feeb24118e9ddf4094e45389ba29ef"
+                }
+            },
+            "04": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_pretty/04.jpg",
+                    "size": 12792329,
+                    "md5": "2e997fbfea8b157723a91bb472f7dea3"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/raw/04.NEF",
+                    "size": 25710560,
+                    "md5": "35af1e25dc5dc65b2837947489c65d87"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_plain/04.jpg",
+                    "size": 9139315,
+                    "md5": "129f9291b443c1e304a11bbb5ca04c9b"
+                }
+            },
+            "05": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_pretty/05.jpg",
+                    "size": 14199011,
+                    "md5": "52fe88e0f946091baa6e6b42c9573c13"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/raw/05.NEF",
+                    "size": 25322079,
+                    "md5": "2fc6767e5b044b714a940af79875c187"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_plain/05.jpg",
+                    "size": 9342535,
+                    "md5": "1eb7b078dcd11db1fbe5909eabf273c5"
+                }
+            },
+            "06": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_pretty/06.jpg",
+                    "size": 14232392,
+                    "md5": "184884a00bb8c1ff84c1666a7049d275"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/raw/06.NEF",
+                    "size": 26844669,
+                    "md5": "a1ca867ae1d17b9956274c823a6612e4"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_plain/06.jpg",
+                    "size": 10858364,
+                    "md5": "37ee4bae4244331174448061d1a2eaf4"
+                }
+            },
+            "07": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_pretty/07.jpg",
+                    "size": 14786399,
+                    "md5": "222bf6bf1f196bc13989fe1e8360dd77"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/raw/07.NEF",
+                    "size": 26678361,
+                    "md5": "1cfc1b971d3b97d20d55c82d3654d660"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_plain/07.jpg",
+                    "size": 10892716,
+                    "md5": "f4807db172ebc3925eba3cf9c10e7cfe"
+                }
+            },
+            "08": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_pretty/08.jpg",
+                    "size": 15197481,
+                    "md5": "6da25547d4fe03a64621056435408bc7"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/raw/08.NEF",
+                    "size": 26965856,
+                    "md5": "6674c5dac7f9df8cf030ada8c1ee9a15"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_plain/08.jpg",
+                    "size": 10689715,
+                    "md5": "99154c7d63aff5839bc5cc1c0da060e2"
+                }
+            },
+            "09": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_pretty/09.jpg",
+                    "size": 14465305,
+                    "md5": "ba183e10238c6ff3dccc5fb7da956f5b"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/raw/09.NEF",
+                    "size": 27175369,
+                    "md5": "0bdbe564cbeda9cc50ea24812c228ab8"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/country_club/jpg_plain/09.jpg",
+                    "size": 10250212,
+                    "md5": "3f69ef762f4e02f8d5ea2bb82e0cb9ff"
+                }
+            }
+        }
+    }
+}

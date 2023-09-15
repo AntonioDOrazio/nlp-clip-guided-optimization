@@ -1,0 +1,98 @@
+{
+    "date_published": 1548999925,
+    "sponsors": [
+        "3237733"
+    ],
+    "evs_cap": 8,
+    "files_hash": "88f58440c2f465140c91bb847a628e2f7b602e94",
+    "name": "Artist Workshop",
+    "categories": [
+        "indoor",
+        "urban",
+        "midday",
+        "low contrast",
+        "natural light"
+    ],
+    "type": 0,
+    "date_taken": 1546773660,
+    "tags": [
+        "painting",
+        "canvas",
+        "window",
+        "art",
+        "atelier"
+    ],
+    "authors": {
+        "Oliksiy Yakovlyev": "All"
+    },
+    "download_count": 121533,
+    "files": {
+        "tonemapped": {
+            "size": 5156645,
+            "md5": "5270ac6538233292774989824e81c94c",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/artist_workshop.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103847376,
+                    "md5": "e429eed9512afe6792bc60dc64f8907c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/artist_workshop_8k.hdr"
+                },
+                "exr": {
+                    "size": 89239378,
+                    "md5": "90ad168428485152aed9644fa391af7c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/artist_workshop_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 427841285,
+                    "md5": "4c952370f4d65c0a64de5a547e8841a2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/artist_workshop_16k.hdr"
+                },
+                "exr": {
+                    "size": 357052163,
+                    "md5": "55a3b29903cceb6ee2aed9b3e86dc3c8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/artist_workshop_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26533937,
+                    "md5": "14b9d1995070c2b2602f0bde5c6876e5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/artist_workshop_4k.hdr"
+                },
+                "exr": {
+                    "size": 23151289,
+                    "md5": "3712420f0d3e8c2104e91a8b85d6aa31",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/artist_workshop_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6756758,
+                    "md5": "a8ae489db50601b645bda82c0eb2510a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/artist_workshop_2k.hdr"
+                },
+                "exr": {
+                    "size": 5968591,
+                    "md5": "1e98cccfb2974753eb9e7e299941516a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/artist_workshop_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1719663,
+                    "md5": "924ec59bb3fc3f939e2d6824204f9118",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/artist_workshop_1k.hdr"
+                },
+                "exr": {
+                    "size": 1550391,
+                    "md5": "1b0675cdf4d770372792dc066d71fd24",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/artist_workshop_1k.exr"
+                }
+            }
+        }
+    }
+}

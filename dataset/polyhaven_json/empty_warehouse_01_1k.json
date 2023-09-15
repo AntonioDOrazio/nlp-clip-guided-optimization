@@ -1,0 +1,431 @@
+{
+    "evs_cap": 16,
+    "type": 0,
+    "whitebalance": 5900,
+    "date_published": 1595887200,
+    "name": "Empty Warehouse 01",
+    "categories": [
+        "indoor",
+        "urban",
+        "morning-afternoon",
+        "medium contrast",
+        "artificial light"
+    ],
+    "date_taken": 1589545260,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "22167459"
+    ],
+    "backplates": true,
+    "tags": [
+        "warehouse",
+        "derelict",
+        "fluorescent",
+        "concrete",
+        "industrial",
+        "backplates"
+    ],
+    "files_hash": "7e10341dec13cd2b0992c0b0c179458f55bf457e",
+    "download_count": 112294,
+    "files": {
+        "tonemapped": {
+            "size": 4072009,
+            "md5": "c8bade16362fe4ffcc2f8c176b84daba",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/empty_warehouse_01.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 98999045,
+                    "md5": "e9b9598e7152834f4682a8f1aaf06af9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/empty_warehouse_01_8k.hdr"
+                },
+                "exr": {
+                    "size": 82896399,
+                    "md5": "6efdcb245e70b58a864bc8f2272d0ada",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/empty_warehouse_01_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 369562778,
+                    "md5": "1b47edc5d8fb24ce8f63356e07847983",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/empty_warehouse_01_16k.hdr"
+                },
+                "exr": {
+                    "size": 289598383,
+                    "md5": "c9fc70c89d9a20d523af1ad6211896d5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/empty_warehouse_01_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25713024,
+                    "md5": "fbc3a9abe13f166bf1318f24fe4e80a4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/empty_warehouse_01_4k.hdr"
+                },
+                "exr": {
+                    "size": 22501521,
+                    "md5": "662c25f66f5f8c705b67e2b7bc569a8b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/empty_warehouse_01_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6581920,
+                    "md5": "bc3fa539601289d2a176b5e8d3be1740",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/empty_warehouse_01_2k.hdr"
+                },
+                "exr": {
+                    "size": 5978351,
+                    "md5": "b35d2656dcf36835ea41f2373b87b6e2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/empty_warehouse_01_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1672140,
+                    "md5": "ab2931b0191b050b97b1e08ab67b0fb0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/empty_warehouse_01_1k.hdr"
+                },
+                "exr": {
+                    "size": 1571814,
+                    "md5": "c5f04a7e7a0ec2e3b27f1f9a900fcc8d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/empty_warehouse_01_1k.exr"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 79244243,
+            "md5": "de606c98bbabc102e5a474c0dfd2e033",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/empty_warehouse_01.zip"
+        },
+        "backplates": {
+            "DSC_0959": {
+                "jpg_pretty": {
+                    "size": 12512328,
+                    "md5": "158fdfb07357e3716114708a7e4f61bc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_pretty/DSC_0959.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6288832,
+                    "md5": "dcd633ac8e3a077215271c0d6525ae51",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_plain/DSC_0959.jpg"
+                },
+                "raw": {
+                    "size": 16540904,
+                    "md5": "c8fb175b44130982e8c8fd94c73f06fc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/raw/DSC_0959.NEF"
+                }
+            },
+            "DSC_0965": {
+                "jpg_pretty": {
+                    "size": 9064938,
+                    "md5": "59a2925262102e4954d7d9a1f0e4be83",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_pretty/DSC_0965.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5594356,
+                    "md5": "43fdea71caa234c53adccb9151936c89",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_plain/DSC_0965.jpg"
+                },
+                "raw": {
+                    "size": 16415432,
+                    "md5": "13f2f562851e1b303eb2ab7c5d4599e2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/raw/DSC_0965.NEF"
+                }
+            },
+            "DSC_0953": {
+                "jpg_pretty": {
+                    "size": 12054375,
+                    "md5": "34863ebc88f90cfaf699a6d50a295256",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_pretty/DSC_0953.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6041606,
+                    "md5": "5873e248fec777ab5a0b29d6e6ba1adc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_plain/DSC_0953.jpg"
+                },
+                "raw": {
+                    "size": 16433925,
+                    "md5": "dffbecd46b8503d4e8f8c573f8e39aad",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/raw/DSC_0953.NEF"
+                }
+            },
+            "DSC_0941": {
+                "jpg_pretty": {
+                    "size": 9131374,
+                    "md5": "2fd08602f4154e963e9b178f6253fe46",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_pretty/DSC_0941.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6337002,
+                    "md5": "ca4de55f1ab80ac3cfd0650e84b0ce88",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_plain/DSC_0941.jpg"
+                },
+                "raw": {
+                    "size": 16688644,
+                    "md5": "457d2e491863ea4adfcf562a7e2ad807",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/raw/DSC_0941.NEF"
+                }
+            },
+            "DSC_0947": {
+                "jpg_pretty": {
+                    "size": 8528409,
+                    "md5": "67acce24abf58435b824ee0073c5024e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_pretty/DSC_0947.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5077062,
+                    "md5": "d88dd6b3f150c7c374a8ef9f0237557a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_plain/DSC_0947.jpg"
+                },
+                "raw": {
+                    "size": 16200169,
+                    "md5": "f0dc23180185e62487711983d4a5a7b8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/raw/DSC_0947.NEF"
+                }
+            },
+            "DSC_0935": {
+                "jpg_pretty": {
+                    "size": 9113908,
+                    "md5": "4743ecf92f2608f3633cf653f9f6d976",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_pretty/DSC_0935.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6238419,
+                    "md5": "42f2d137332dc6a4b0da5c94e57baf80",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_plain/DSC_0935.jpg"
+                },
+                "raw": {
+                    "size": 16488599,
+                    "md5": "c88fff043e29c64fc9bf6681270bb6df",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/raw/DSC_0935.NEF"
+                }
+            },
+            "DSC_0989": {
+                "jpg_pretty": {
+                    "size": 9744401,
+                    "md5": "a5fcfaf138f156cdbd3478ff528b46b7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_pretty/DSC_0989.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6234447,
+                    "md5": "241ae550cdfd4ff690fa9403109ac167",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_plain/DSC_0989.jpg"
+                },
+                "raw": {
+                    "size": 16733532,
+                    "md5": "48a6ddff4b4fe89a5bce2b698b07cb46",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/raw/DSC_0989.NEF"
+                }
+            },
+            "DSC_0977": {
+                "jpg_pretty": {
+                    "size": 8675377,
+                    "md5": "768ebc751e6c0b0003c3d3af63457a8a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_pretty/DSC_0977.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5472030,
+                    "md5": "ee54176d21595b8826aa438567451834",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_plain/DSC_0977.jpg"
+                },
+                "raw": {
+                    "size": 16555203,
+                    "md5": "15548dd51bd90ca911bb125d2a6cc92e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/raw/DSC_0977.NEF"
+                }
+            },
+            "DSC_0044": {
+                "jpg_pretty": {
+                    "size": 5126897,
+                    "md5": "b3dd1adc2d76c67f6ecee2eae515334a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_pretty/DSC_0044.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6711368,
+                    "md5": "d5495919d3491c1424ca53e70e207208",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_plain/DSC_0044.jpg"
+                },
+                "raw": {
+                    "size": 17450589,
+                    "md5": "de1c4162a9e52b2c641f272472a50676",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/raw/DSC_0044.NEF"
+                }
+            },
+            "DSC_0020": {
+                "jpg_pretty": {
+                    "size": 9547883,
+                    "md5": "b0b2f291b7180f9a74ac34ee5ebe778b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_pretty/DSC_0020.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6331397,
+                    "md5": "1732026b6840d343fe343eefb3e9e4d5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_plain/DSC_0020.jpg"
+                },
+                "raw": {
+                    "size": 17112558,
+                    "md5": "532415d7ed6c5f14acfa8facb6dfcc38",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/raw/DSC_0020.NEF"
+                }
+            },
+            "DSC_0086": {
+                "jpg_pretty": {
+                    "size": 9159178,
+                    "md5": "9e1d6129850b80f599419a296cf64932",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_pretty/DSC_0086.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6872575,
+                    "md5": "e9bdccc8414ebdd20ef1d7b4d11dd00e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_plain/DSC_0086.jpg"
+                },
+                "raw": {
+                    "size": 17429822,
+                    "md5": "34fed932653967c3cb9dcad611d38bc1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/raw/DSC_0086.NEF"
+                }
+            },
+            "DSC_0074": {
+                "jpg_pretty": {
+                    "size": 8475615,
+                    "md5": "4febf6f54d48cac913ec2d32a2f5f8a2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_pretty/DSC_0074.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6100450,
+                    "md5": "e2c20e69bcbd583ffc3e8a397fd082d7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_plain/DSC_0074.jpg"
+                },
+                "raw": {
+                    "size": 16612766,
+                    "md5": "1a29dc3da3547c56772646fb3e6ade7a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/raw/DSC_0074.NEF"
+                }
+            },
+            "DSC_0026": {
+                "jpg_pretty": {
+                    "size": 11427402,
+                    "md5": "0bcf7e2715887cecec2f86592365d301",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_pretty/DSC_0026.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6039172,
+                    "md5": "f8396c555819251e1e0477ef1a7e069f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_plain/DSC_0026.jpg"
+                },
+                "raw": {
+                    "size": 16904788,
+                    "md5": "c21b65834f897019631aacf36e7dde95",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/raw/DSC_0026.NEF"
+                }
+            },
+            "DSC_0983": {
+                "jpg_pretty": {
+                    "size": 8989453,
+                    "md5": "62bc6a091bb230197999012a03ab2451",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_pretty/DSC_0983.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6457995,
+                    "md5": "1c8df121fda50a139eaa9b47d2d42094",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_plain/DSC_0983.jpg"
+                },
+                "raw": {
+                    "size": 16759991,
+                    "md5": "7785637de2b316ee36c44c27f94da34b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/raw/DSC_0983.NEF"
+                }
+            },
+            "DSC_0971": {
+                "jpg_pretty": {
+                    "size": 8965379,
+                    "md5": "5b0c47360e25ff46d02d13726548a160",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_pretty/DSC_0971.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6626329,
+                    "md5": "38896abecc35bf5e3c2442d5004566d0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_plain/DSC_0971.jpg"
+                },
+                "raw": {
+                    "size": 17344564,
+                    "md5": "3e5a7ee9b0acdc20533d7a66a817ed7a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/raw/DSC_0971.NEF"
+                }
+            },
+            "DSC_0056": {
+                "jpg_pretty": {
+                    "size": 8679487,
+                    "md5": "ca591099b6c6fe1d581d5acb3293a150",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_pretty/DSC_0056.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6609921,
+                    "md5": "fa6d5f6b26d5680510111c1b64981eb4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_plain/DSC_0056.jpg"
+                },
+                "raw": {
+                    "size": 17077032,
+                    "md5": "9b37b3cdcfa3f6d4fad5c18e39ed5f81",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/raw/DSC_0056.NEF"
+                }
+            },
+            "DSC_0080": {
+                "jpg_pretty": {
+                    "size": 9088907,
+                    "md5": "b8c15dd13d03038f11462bcebe69d85f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_pretty/DSC_0080.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6604741,
+                    "md5": "d9ebba6b5857baf9779a1763dbe639d7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_plain/DSC_0080.jpg"
+                },
+                "raw": {
+                    "size": 17060210,
+                    "md5": "2fcc4b9d4187ebbc67a5058eb79b77c8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/raw/DSC_0080.NEF"
+                }
+            },
+            "DSC_0062": {
+                "jpg_pretty": {
+                    "size": 9430546,
+                    "md5": "5a1269db37e311411e5143cc96b0d33d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_pretty/DSC_0062.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6706971,
+                    "md5": "e7db54607cba682436e3c6affc96bd19",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_plain/DSC_0062.jpg"
+                },
+                "raw": {
+                    "size": 17314944,
+                    "md5": "e7dbcd6ee8bf2d52f9da3028bf84cd4d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/raw/DSC_0062.NEF"
+                }
+            },
+            "DSC_0092": {
+                "jpg_pretty": {
+                    "size": 9152870,
+                    "md5": "5bde60f0d777f7c68b92e9242544afcd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_pretty/DSC_0092.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6411891,
+                    "md5": "2727eed68d0fc46de91325c072cac802",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/jpg_plain/DSC_0092.jpg"
+                },
+                "raw": {
+                    "size": 17039733,
+                    "md5": "c2138d180443cba0d91ea182eea64da2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/empty_warehouse_01/raw/DSC_0092.NEF"
+                }
+            }
+        }
+    }
+}

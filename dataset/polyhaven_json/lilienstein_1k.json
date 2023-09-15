@@ -1,0 +1,116 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "tags": [
+        "sun",
+        "grass",
+        "field",
+        "forest",
+        "meadow"
+    ],
+    "date_published": 1608591600,
+    "name": "Lilienstein",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "sunrise-sunset",
+        "partly cloudy",
+        "medium contrast",
+        "natural light"
+    ],
+    "date_taken": 1597379160,
+    "coords": [
+        50.938841,
+        14.090542
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        "37678923"
+    ],
+    "files_hash": "b560180b63cfb88933740a2ec06483683a61093d",
+    "download_count": 533430,
+    "files": {
+        "tonemapped": {
+            "size": 9820679,
+            "md5": "ec0101625ef45d9b589ee7dfa91d5abf",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/lilienstein.jpg"
+        },
+        "hdri": {
+            "19k": {
+                "hdr": {
+                    "size": 597034353,
+                    "md5": "141cbd48d4fb25e11627484d3de205d1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/lilienstein_19k.hdr"
+                },
+                "exr": {
+                    "size": 525720926,
+                    "md5": "c225d481361e8c67d3a71b684ce73918",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/lilienstein_19k.exr"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "size": 109999528,
+                    "md5": "a42c5d1928a96244903a9fc9f7540c94",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/lilienstein_8k.hdr"
+                },
+                "exr": {
+                    "size": 95898349,
+                    "md5": "5b7a9420aa2ef9cdbb6c1ae39a70a118",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/lilienstein_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 421013156,
+                    "md5": "62989f0490fd457e7383edd3c539470e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/lilienstein_16k.hdr"
+                },
+                "exr": {
+                    "size": 370174326,
+                    "md5": "844cce5267960784abafe2dcf192aab1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/lilienstein_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27890163,
+                    "md5": "2b836bd5be6f0bdf965dcc2fbd81f15b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/lilienstein_4k.hdr"
+                },
+                "exr": {
+                    "size": 24099716,
+                    "md5": "fb2f40710d86b98a71aa189b14c346e7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/lilienstein_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6953927,
+                    "md5": "aa619c20562049d8ef601236003be6e6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/lilienstein_2k.hdr"
+                },
+                "exr": {
+                    "size": 6015061,
+                    "md5": "8a8341c921a09f25aa4a06e6a4b5f0c4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/lilienstein_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1726218,
+                    "md5": "983916e5dc060c1973dbae46940e4c25",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/lilienstein_1k.hdr"
+                },
+                "exr": {
+                    "size": 1517161,
+                    "md5": "a95165129b8cbdf79c3cedbd311a704e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/lilienstein_1k.exr"
+                }
+            }
+        }
+    }
+}

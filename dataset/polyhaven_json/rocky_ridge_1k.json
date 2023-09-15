@@ -1,0 +1,108 @@
+{
+    "evs_cap": 21,
+    "type": 0,
+    "tags": [
+        "sun",
+        "view",
+        "hilltop",
+        "suburb",
+        "rock",
+        "grass"
+    ],
+    "date_published": 1522879200,
+    "name": "Rocky Ridge",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "sunrise-sunset",
+        "partly cloudy",
+        "medium contrast",
+        "natural light"
+    ],
+    "coords": [
+        -26.145263,
+        27.967626
+    ],
+    "date_taken": 1436108760,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "name": "David"
+        },
+        "3237733"
+    ],
+    "files_hash": "26b785bb5be1cc3c8e51647c168c774aa058c553",
+    "download_count": 43585,
+    "files": {
+        "tonemapped": {
+            "size": 3980545,
+            "md5": "563d1591a364e3084e7713bb41e5e2ca",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/rocky_ridge.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 97108350,
+                    "md5": "7489cdad0f12cec07c71a32007b47251",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/rocky_ridge_8k.hdr"
+                },
+                "exr": {
+                    "size": 76839161,
+                    "md5": "1fd6063d2357b6e9fbeef784d17d20a2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/rocky_ridge_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 352677127,
+                    "md5": "c307ac7bb1421e738163c608286cab80",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rocky_ridge_16k.hdr"
+                },
+                "exr": {
+                    "size": 272034113,
+                    "md5": "f0406f9ed5801c7b8570e5b37387f6d3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rocky_ridge_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25393980,
+                    "md5": "4ef44f61e35a2818bae251893448649c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/rocky_ridge_4k.hdr"
+                },
+                "exr": {
+                    "size": 20512999,
+                    "md5": "7ea21f382076882e58353804b89dfcbe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/rocky_ridge_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6484183,
+                    "md5": "d7ee2f6f0b08cc2b997b32c6081e42f0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/rocky_ridge_2k.hdr"
+                },
+                "exr": {
+                    "size": 5340045,
+                    "md5": "50a54c24316066782b9170f86c408447",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/rocky_ridge_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1634899,
+                    "md5": "99c40f7843acc301769df4b9c9136a73",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/rocky_ridge_1k.hdr"
+                },
+                "exr": {
+                    "size": 1391632,
+                    "md5": "9092e3e1fe48fba3b7e6d03b24f4fe5e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/rocky_ridge_1k.exr"
+                }
+            }
+        }
+    }
+}

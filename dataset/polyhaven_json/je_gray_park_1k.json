@@ -1,0 +1,120 @@
+{
+    "evs_cap": 20,
+    "type": 0,
+    "tags": [
+        "grass",
+        "field",
+        "sun"
+    ],
+    "name": "J&E Gray Park",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "partly cloudy",
+        "natural light",
+        "high contrast",
+        "skies"
+    ],
+    "coords": [
+        -26.13826,
+        28.060909
+    ],
+    "date_taken": 1604336340,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "date_published": 1639353600,
+    "sponsors": [
+        "37678923"
+    ],
+    "prepaid": true,
+    "files_hash": "4acd0ea69daab3184f8c0cc8e19dfd75414d2c82",
+    "download_count": 227144,
+    "files": {
+        "hdri": {
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/je_gray_park_16k.hdr",
+                    "size": 377276885,
+                    "md5": "4e36deca28f29ae04a82e7742d02027f"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/je_gray_park_16k.exr",
+                    "size": 303954110,
+                    "md5": "2b683d271fdaea7624166bdc358a5998"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/je_gray_park_24k.hdr",
+                    "size": 812548152,
+                    "md5": "c4f2554cee487141e75dba7955840b13"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/je_gray_park_24k.exr",
+                    "size": 706835139,
+                    "md5": "9e7445c0208011b1b6824eba1a62bc53"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/je_gray_park_8k.hdr",
+                    "size": 101560496,
+                    "md5": "320f1a9381a8054dc2bfa8ad3e7ee336"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/je_gray_park_8k.exr",
+                    "size": 85684755,
+                    "md5": "b2843237cabe309001dc0b78e0a8cbe1"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/je_gray_park_4k.hdr",
+                    "size": 25135833,
+                    "md5": "52c20be50f1d705c1f3bfdc1bd8dce1e"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/je_gray_park_4k.exr",
+                    "size": 21561191,
+                    "md5": "c6b6c404a87b30ae9aa3f4a432bbe06a"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/je_gray_park_2k.hdr",
+                    "size": 6129780,
+                    "md5": "0693a38e8c00fc1ff7e1df0728da3160"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/je_gray_park_2k.exr",
+                    "size": 5450490,
+                    "md5": "41509b41739276d9c570685c6084b46c"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/je_gray_park_1k.hdr",
+                    "size": 1523559,
+                    "md5": "42da0fb0407bf23140eb1b4627ef1174"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/je_gray_park_1k.exr",
+                    "size": 1393502,
+                    "md5": "98a24fd0f9239eb8151053ec16e91f7c"
+                }
+            }
+        },
+        "colorchart": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/je_gray_park.zip",
+            "size": 64388090,
+            "md5": "fba5b671dce1fa7e735d3a6b9055a1d3"
+        },
+        "tonemapped": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/je_gray_park.jpg",
+            "size": 48386179,
+            "md5": "d2d2bc4ca17efb3a2a211a02b67a3980"
+        }
+    }
+}

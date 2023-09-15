@@ -1,0 +1,109 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "tags": [
+        "water",
+        "dam",
+        "lake",
+        "pier",
+        "boat",
+        "hill",
+        "mountain"
+    ],
+    "date_published": 1508536800,
+    "name": "Bell Park Pier",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "sunrise-sunset",
+        "partly cloudy",
+        "medium contrast",
+        "natural light"
+    ],
+    "coords": [
+        -28.955231,
+        29.437319
+    ],
+    "date_taken": 1460474400,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "7941984",
+        {
+            "name": "Rick Kay"
+        }
+    ],
+    "files_hash": "b6f64955d922f3940eb5866c668479ba2de45e70",
+    "download_count": 69175,
+    "files": {
+        "tonemapped": {
+            "size": 3667472,
+            "md5": "7c08f1d333e695e07c581018a1b36497",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/bell_park_pier.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 93361682,
+                    "md5": "f85c75348bf1bd6ee47a68bc2253f539",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/bell_park_pier_8k.hdr"
+                },
+                "exr": {
+                    "size": 68475792,
+                    "md5": "b53a749507c551f2f893a628a7619656",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/bell_park_pier_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 346943720,
+                    "md5": "51817fb1efcabb41306ab9bf38c5f31f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/bell_park_pier_16k.hdr"
+                },
+                "exr": {
+                    "size": 246342751,
+                    "md5": "6fe8cdc26d7bc4608953f6cd699cb640",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/bell_park_pier_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 23561744,
+                    "md5": "1096d0d709a031a6817754429c46157b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/bell_park_pier_4k.hdr"
+                },
+                "exr": {
+                    "size": 18036240,
+                    "md5": "6ce2552589526aceaba3e678d1b893c2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/bell_park_pier_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5834058,
+                    "md5": "e1494486b78c7735cfcc3346718ebbc6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/bell_park_pier_2k.hdr"
+                },
+                "exr": {
+                    "size": 4800893,
+                    "md5": "5b7414f942e019e65fd8e6962765d380",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/bell_park_pier_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1470884,
+                    "md5": "02b12d97aff1dbb5b7697634a5f0cca7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/bell_park_pier_1k.hdr"
+                },
+                "exr": {
+                    "size": 1297419,
+                    "md5": "f12f0bb88e7c5cb3b32c30564125bbd9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/bell_park_pier_1k.exr"
+                }
+            }
+        }
+    }
+}

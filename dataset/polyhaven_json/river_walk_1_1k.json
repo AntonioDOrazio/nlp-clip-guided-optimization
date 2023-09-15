@@ -1,0 +1,107 @@
+{
+    "evs_cap": 10,
+    "type": 0,
+    "tags": [
+        "forest",
+        "tree",
+        "path",
+        "bush",
+        "leaves",
+        "canopy"
+    ],
+    "date_published": 1509663600,
+    "name": "River Walk 1",
+    "categories": [
+        "outdoor",
+        "nature",
+        "sunrise-sunset",
+        "medium contrast",
+        "natural light"
+    ],
+    "coords": [
+        -25.03313,
+        31.132754
+    ],
+    "date_taken": 1507822140,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "url": "http://www.mdjustin.com/",
+            "name": "Justin Dolan"
+        },
+        "20953239"
+    ],
+    "files_hash": "2973ac3ba9e2f59cf0957808e986759b73c292a0",
+    "download_count": 53276,
+    "files": {
+        "tonemapped": {
+            "size": 12468624,
+            "md5": "27e07785340524fe232b93d10de0de6a",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/river_walk_1.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 114288301,
+                    "md5": "b71ecae97e5f3889d54a0c37d66f7beb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/river_walk_1_8k.hdr"
+                },
+                "exr": {
+                    "size": 122100501,
+                    "md5": "a97dbadec86ee5f16dbe642aedcbfcad",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/river_walk_1_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 427771576,
+                    "md5": "92f2500f94e18519572d6414f7d5b0f1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/river_walk_1_16k.hdr"
+                },
+                "exr": {
+                    "size": 443451838,
+                    "md5": "ede6887d0729921eefe071b09e22ae8d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/river_walk_1_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 29948313,
+                    "md5": "02665985562522b5ce33b842ff0c182d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/river_walk_1_4k.hdr"
+                },
+                "exr": {
+                    "size": 32443578,
+                    "md5": "f078439fa83fc080ecf0e4f5781c0134",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/river_walk_1_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7733949,
+                    "md5": "8d7aeb19bdc9badd478fd3e07ca73a56",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/river_walk_1_2k.hdr"
+                },
+                "exr": {
+                    "size": 8427975,
+                    "md5": "53f6bb217eeaaa7cc657dc0b8493c369",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/river_walk_1_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1972415,
+                    "md5": "23cce8a72ed8d0923b1d33ec31b21db3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/river_walk_1_1k.hdr"
+                },
+                "exr": {
+                    "size": 2155365,
+                    "md5": "6d6e2877ed0e50201646dbc62e04cafe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/river_walk_1_1k.exr"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "evs_cap": 26,
+    "type": 0,
+    "whitebalance": 5303,
+    "tags": [
+        "bridge",
+        "cobblestone",
+        "bicycle",
+        "fountain",
+        "restaurant",
+        "padlock",
+        "cafe"
+    ],
+    "name": "Little Paris Eiffel Tower",
+    "categories": [
+        "outdoor",
+        "nature",
+        "natural light",
+        "high contrast",
+        "sunrise-sunset"
+    ],
+    "date_taken": 1678555860,
+    "coords": [
+        -25.737049,
+        27.90226
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "info": null,
+    "files_hash": "dd364be018f0e3666a46d1c5719de78782b63e2d",
+    "date_published": 1681862400,
+    "download_count": 58260,
+    "files": {
+        "tonemapped": {
+            "size": 53867311,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/little_paris_eiffel_tower.jpg",
+            "md5": "0ca9bd822e1175b863c19441ad3876af"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 105631819,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/little_paris_eiffel_tower_8k.hdr",
+                    "md5": "602c5c12453548ca3bc13f591ca78689"
+                },
+                "exr": {
+                    "size": 387669684,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/little_paris_eiffel_tower_8k.exr",
+                    "md5": "67e15519aa264274fac259d45c6f9446"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 378415660,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/little_paris_eiffel_tower_16k.hdr",
+                    "md5": "335f89980400cc5b877979e92aa53897"
+                },
+                "exr": {
+                    "size": 1459517616,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/little_paris_eiffel_tower_16k.exr",
+                    "md5": "2df20e5f7e6c1e68116c53f69f1e6020"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27625996,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/little_paris_eiffel_tower_4k.hdr",
+                    "md5": "eefc8750a1331e171b9c50005c9aa4c3"
+                },
+                "exr": {
+                    "size": 97680841,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/little_paris_eiffel_tower_4k.exr",
+                    "md5": "61d747ed2f4cbbb3987aced027b889f3"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7098396,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/little_paris_eiffel_tower_2k.hdr",
+                    "md5": "9cafe78e3213c9a1aeee1e31c9ed5356"
+                },
+                "exr": {
+                    "size": 24563715,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/little_paris_eiffel_tower_2k.exr",
+                    "md5": "75c4a289b75582c1f608d6cd72c2098a"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1803331,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/little_paris_eiffel_tower_1k.hdr",
+                    "md5": "932bc901e174e933261bf54a14def6cd"
+                },
+                "exr": {
+                    "size": 6170203,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/little_paris_eiffel_tower_1k.exr",
+                    "md5": "506763db88a55ac1ed3750ef56e0217a"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 217790461,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/little_paris_eiffel_tower.zip",
+            "md5": "22196009ee7c379f7a5509f51011432d"
+        }
+    }
+}

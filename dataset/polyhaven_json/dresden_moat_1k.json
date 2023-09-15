@@ -1,0 +1,103 @@
+{
+    "evs_cap": 6,
+    "type": 0,
+    "tags": [
+        "tree",
+        "pond",
+        "lake",
+        "grass",
+        "river",
+        "moat",
+        "building",
+        "autumn",
+        "leaves"
+    ],
+    "date_published": 1506981600,
+    "name": "Dresden Moat",
+    "categories": [
+        "outdoor",
+        "nature",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        51.05422,
+        13.731482
+    ],
+    "date_taken": 1478602140,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "files_hash": "90b1b79d27a61cce07acaffffe1d4a7e7c8916e0",
+    "download_count": 33456,
+    "files": {
+        "tonemapped": {
+            "size": 7125788,
+            "md5": "b5a99d463ea052b512edba69c74ebf32",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/dresden_moat.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103553423,
+                    "md5": "38084580e35d6f11644cc574d7b5b582",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/dresden_moat_8k.hdr"
+                },
+                "exr": {
+                    "size": 94916067,
+                    "md5": "64f6141a4849ed78279da792bab3ed05",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/dresden_moat_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 382654179,
+                    "md5": "f127a9e4de666204863ac544e727d7a9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/dresden_moat_16k.hdr"
+                },
+                "exr": {
+                    "size": 352318020,
+                    "md5": "c2c386fb341cac91b8b30334e2aea55b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/dresden_moat_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26668440,
+                    "md5": "ba2d65e67d2d3e7a9eb0517def07eb4c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/dresden_moat_4k.hdr"
+                },
+                "exr": {
+                    "size": 24534843,
+                    "md5": "cd6a105e83ea00c756e6904fee4df49e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/dresden_moat_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6709411,
+                    "md5": "5c35b6ba9e1e526f2605f89230fa4164",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/dresden_moat_2k.hdr"
+                },
+                "exr": {
+                    "size": 6243162,
+                    "md5": "f1056e2a0ea581c7b9489434be0ac29c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/dresden_moat_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1683897,
+                    "md5": "91929b5eee9210c400d6df81da6c3d11",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/dresden_moat_1k.hdr"
+                },
+                "exr": {
+                    "size": 1594283,
+                    "md5": "5b70b6d06b7d21b31ab64d5e08aa1f93",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/dresden_moat_1k.exr"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "evs_cap": 21,
+    "type": 0,
+    "tags": [
+        "asphalt",
+        "sun",
+        "parking"
+    ],
+    "date_published": 1563487200,
+    "name": "Mall Parking Lot",
+    "categories": [
+        "outdoor",
+        "urban",
+        "morning-afternoon",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1557120420,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "16608220"
+    ],
+    "files_hash": "582c277a6560917086319cd9e30956d6bfd59345",
+    "download_count": 39170,
+    "files": {
+        "tonemapped": {
+            "size": 4677140,
+            "md5": "b35fa91d7d3cdf77ea488b6658564912",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/mall_parking_lot.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 100164329,
+                    "md5": "770463d4e08881a0084ea4bdddee9463",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/mall_parking_lot_8k.hdr"
+                },
+                "exr": {
+                    "size": 77303672,
+                    "md5": "135f1c90fc49d1ee9bc25ebdbef33017",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/mall_parking_lot_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 379734451,
+                    "md5": "53a89958095cb4c6614b61b6487a8913",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/mall_parking_lot_16k.hdr"
+                },
+                "exr": {
+                    "size": 287405582,
+                    "md5": "4c0f0bb7dccc0cfe171d791c6a8b74e6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/mall_parking_lot_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24959595,
+                    "md5": "7578dff71456c05a979ebd9164cc5c50",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/mall_parking_lot_4k.hdr"
+                },
+                "exr": {
+                    "size": 19184300,
+                    "md5": "81953c5ec8d0993c6c95bd92ba37dcdd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/mall_parking_lot_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6074339,
+                    "md5": "9db8f51c7e817d91375958b3f19d15d6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/mall_parking_lot_2k.hdr"
+                },
+                "exr": {
+                    "size": 4700702,
+                    "md5": "3e5a572e210c19e2f453cdd0ae007b79",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/mall_parking_lot_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1511729,
+                    "md5": "0fd40b9d0ad3f208c53ecce588f9b556",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/mall_parking_lot_1k.hdr"
+                },
+                "exr": {
+                    "size": 1179868,
+                    "md5": "7f653adf3568932afe7b95541074628a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/mall_parking_lot_1k.exr"
+                }
+            }
+        }
+    }
+}

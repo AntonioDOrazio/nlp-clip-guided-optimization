@@ -1,0 +1,124 @@
+{
+    "evs_cap": 22,
+    "name": "Ehingen Hillside 02",
+    "categories": [
+        "natural light",
+        "outdoor",
+        "nature",
+        "high contrast",
+        "partly cloudy",
+        "morning-afternoon",
+        "skies"
+    ],
+    "type": 0,
+    "date_taken": 1647187380,
+    "coords": [
+        48.309322,
+        9.727035
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "tags": [
+        "sun",
+        "grass",
+        "field",
+        "tree",
+        "dry",
+        "dry grass",
+        "view",
+        "hill"
+    ],
+    "date_published": 1652832000,
+    "files_hash": "6fde1bb8be385cfbf926ff0c553e3b4fe744f8fd",
+    "sponsors": [
+        "4047949"
+    ],
+    "download_count": 20600,
+    "files": {
+        "tonemapped": {
+            "size": 51721946,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/ehingen_hillside_02.jpg",
+            "md5": "7e4afcb303c319532a0729c2204986a1"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102844110,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/ehingen_hillside_02_8k.hdr",
+                    "md5": "0cc3730795e983af0492da8624ce03b7"
+                },
+                "exr": {
+                    "size": 331061939,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/ehingen_hillside_02_8k.exr",
+                    "md5": "7081fea54894c940cd4d2b94cfe78b49"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 389245547,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/ehingen_hillside_02_16k.hdr",
+                    "md5": "9e6fc1c51d090b361bd64367ac73dff0"
+                },
+                "exr": {
+                    "size": 1295289571,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/ehingen_hillside_02_16k.exr",
+                    "md5": "f0d8968416f5b466ccf3d7f047568298"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25889234,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/ehingen_hillside_02_4k.hdr",
+                    "md5": "c5835aaff65ce80b79cc3cd3944ac1d8"
+                },
+                "exr": {
+                    "size": 84501167,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/ehingen_hillside_02_4k.exr",
+                    "md5": "c6493ecbb6a55c60b9d2a51a1291c098"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6281033,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/ehingen_hillside_02_2k.hdr",
+                    "md5": "cf17a348bb7b6d46c5eb7fbd8f210d6e"
+                },
+                "exr": {
+                    "size": 21878556,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/ehingen_hillside_02_2k.exr",
+                    "md5": "23c81bd31ef594e047cfac5da0aa5434"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1515564,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/ehingen_hillside_02_1k.hdr",
+                    "md5": "83241558690d25a80593d8b0e773b15c"
+                },
+                "exr": {
+                    "size": 5833097,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/ehingen_hillside_02_1k.exr",
+                    "md5": "8c7866232d130ef02becb919b37d9fd0"
+                }
+            },
+            "22k": {
+                "hdr": {
+                    "size": 712135870,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/ehingen_hillside_02_22k.hdr",
+                    "md5": "40774c102cd277a3befa069443eda6d1"
+                },
+                "exr": {
+                    "size": 2441487364,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/ehingen_hillside_02_22k.exr",
+                    "md5": "853bfbcb45debe8f541a427b37419ef6"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 108185038,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/ehingen_hillside_02.zip",
+            "md5": "39c3ee78d22af33f24237b81e89e4f44"
+        }
+    }
+}

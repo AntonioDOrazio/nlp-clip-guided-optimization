@@ -1,0 +1,100 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "architecture",
+        "building",
+        "boat",
+        "dock",
+        "city"
+    ],
+    "date_published": 1561672800,
+    "name": "Limehouse",
+    "categories": [
+        "outdoor",
+        "urban",
+        "morning-afternoon",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1558280700,
+    "coords": [
+        51.510606,
+        -0.036324
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "files_hash": "663a134670e2c9353697d03775d246bff22b20b6",
+    "download_count": 19771,
+    "files": {
+        "tonemapped": {
+            "size": 4376022,
+            "md5": "990a272e81cef887414fa5e30f3cd481",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/limehouse.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102002952,
+                    "md5": "cecb6cdf10a4a60dd1a5d6ca4a45a414",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/limehouse_8k.hdr"
+                },
+                "exr": {
+                    "size": 84739049,
+                    "md5": "d7f770999eabfd432e63beb2266ca1f5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/limehouse_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 386144039,
+                    "md5": "ee181ae41e0a7a4906ffddc25b95fc63",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/limehouse_16k.hdr"
+                },
+                "exr": {
+                    "size": 316282441,
+                    "md5": "8915497e315df5326bc61566d476a6b8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/limehouse_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25824431,
+                    "md5": "7f69ad5fbaf8dc8ee2df54e331fda763",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/limehouse_4k.hdr"
+                },
+                "exr": {
+                    "size": 21480121,
+                    "md5": "bc3c76a62f6c6ba7da3f8f1832b35319",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/limehouse_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6468075,
+                    "md5": "533ce3463ef8d6b98424bf20eb95aa21",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/limehouse_2k.hdr"
+                },
+                "exr": {
+                    "size": 5531331,
+                    "md5": "5b266975eeb9290ccc1a8ab5d725e669",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/limehouse_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1622761,
+                    "md5": "6921c97dfccd61ab49ea56ada808a00a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/limehouse_1k.hdr"
+                },
+                "exr": {
+                    "size": 1456331,
+                    "md5": "7aad80d241627c54c5d50bab67138459",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/limehouse_1k.exr"
+                }
+            }
+        }
+    }
+}

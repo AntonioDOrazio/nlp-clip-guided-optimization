@@ -1,0 +1,107 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "tags": [
+        "tree",
+        "bench",
+        "leaves",
+        "autumn",
+        "path",
+        "road",
+        "berlin",
+        "cobblestone",
+        "forest"
+    ],
+    "date_published": 1510631148,
+    "name": "Ahornsteig",
+    "categories": [
+        "outdoor",
+        "nature",
+        "midday",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1478344200,
+    "coords": [
+        52.515389,
+        13.376306
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "3567764"
+    ],
+    "files_hash": "60cca0be0522176c01f17f2725b85ec46e024445",
+    "download_count": 25396,
+    "files": {
+        "tonemapped": {
+            "size": 11152646,
+            "md5": "b4dbeb8c485f9626b9d309f4eb700c82",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/ahornsteig.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 109043677,
+                    "md5": "7612273132bc669361b33d1b2a53e368",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/ahornsteig_8k.hdr"
+                },
+                "exr": {
+                    "size": 112333216,
+                    "md5": "03384daaa6f73874d14a7c3befd01fb4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/ahornsteig_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 407271550,
+                    "md5": "100121b78c47d942d4c5c803258ad350",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/ahornsteig_16k.hdr"
+                },
+                "exr": {
+                    "size": 404815044,
+                    "md5": "b9d142b6fc31fec2db4f855f8ac4845e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/ahornsteig_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 28444671,
+                    "md5": "b418b18f753de0ad7c0a3203c8eb7549",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/ahornsteig_4k.hdr"
+                },
+                "exr": {
+                    "size": 29870077,
+                    "md5": "ba7ce94cec33a35197813b64b718ceef",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/ahornsteig_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7297949,
+                    "md5": "d2368699fe44b0889c7a46d53d77bda6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/ahornsteig_2k.hdr"
+                },
+                "exr": {
+                    "size": 7747118,
+                    "md5": "f575f3c935f417a052f5de6b0b37b677",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/ahornsteig_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1851203,
+                    "md5": "31e33ff9145aee5da0a23f605001b91e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/ahornsteig_1k.hdr"
+                },
+                "exr": {
+                    "size": 1977969,
+                    "md5": "d4dabdbecab583db8b1e49068530e377",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/ahornsteig_1k.exr"
+                }
+            }
+        }
+    }
+}

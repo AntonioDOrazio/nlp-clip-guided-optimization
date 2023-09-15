@@ -1,0 +1,104 @@
+{
+    "evs_cap": 6,
+    "type": 0,
+    "tags": [
+        "tree",
+        "bench",
+        "road",
+        "bush",
+        "leaves",
+        "autumn",
+        "path"
+    ],
+    "date_published": 1506981600,
+    "name": "Autumn Crossing",
+    "categories": [
+        "outdoor",
+        "nature",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1478853960,
+    "coords": [
+        52.38588,
+        9.76973
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "8571269"
+    ],
+    "files_hash": "a9d031c9635c8f7b47c2f397fae3c45ed08f3bd3",
+    "download_count": 21053,
+    "files": {
+        "tonemapped": {
+            "size": 10080276,
+            "md5": "895598131bb85b7779a23f9e0f5c72e8",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/autumn_crossing.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 111602823,
+                    "md5": "3ae8fd9b3a89df9e6812d723a7c24c6e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/autumn_crossing_8k.hdr"
+                },
+                "exr": {
+                    "size": 113139521,
+                    "md5": "48719d675462a5291825a998e425833b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/autumn_crossing_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 419014128,
+                    "md5": "9e23a9939c757358155af4611d6fcba6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/autumn_crossing_16k.hdr"
+                },
+                "exr": {
+                    "size": 412373290,
+                    "md5": "a940c36acff4fa904b66297b703b38ed",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/autumn_crossing_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 29104130,
+                    "md5": "9e3c67bfe7c060db05e6297894ba7e29",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/autumn_crossing_4k.hdr"
+                },
+                "exr": {
+                    "size": 29974837,
+                    "md5": "fe62b74265b10cd841938e9491331ded",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/autumn_crossing_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7461584,
+                    "md5": "8bc9609dee905ca42cc378d582f6b939",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/autumn_crossing_2k.hdr"
+                },
+                "exr": {
+                    "size": 7721555,
+                    "md5": "99d64eb0043ad471b04677382467b8ba",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/autumn_crossing_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1889442,
+                    "md5": "c0f556c01d12120169b916b0b4c3efc1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/autumn_crossing_1k.hdr"
+                },
+                "exr": {
+                    "size": 1956247,
+                    "md5": "c4dd5ec5cac432233b7749a435b37589",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/autumn_crossing_1k.exr"
+                }
+            }
+        }
+    }
+}

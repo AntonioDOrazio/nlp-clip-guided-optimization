@@ -1,0 +1,123 @@
+{
+    "evs_cap": 26,
+    "type": 0,
+    "whitebalance": 5319,
+    "tags": [
+        "sun",
+        "grass",
+        "dry grass",
+        "hilltop",
+        "mountain",
+        "hill",
+        "path"
+    ],
+    "name": "Rolling Hills",
+    "categories": [
+        "natural light",
+        "outdoor",
+        "nature",
+        "high contrast",
+        "clear",
+        "sunrise-sunset",
+        "skies"
+    ],
+    "coords": [
+        -24.8912,
+        30.7544
+    ],
+    "date_taken": 1622218620,
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "date_published": 1658102400,
+    "prepaid": true,
+    "files_hash": "e98fdef779b6d836b13162333822f8aa085a1e71",
+    "download_count": 43633,
+    "files": {
+        "tonemapped": {
+            "size": 42365819,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/rolling_hills.jpg",
+            "md5": "f5780de77323905c3141a32adda839d7"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 99483843,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/rolling_hills_8k.hdr",
+                    "md5": "e4e54f3ab6dfae25f9cb46d410a7023b"
+                },
+                "exr": {
+                    "size": 324792606,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/rolling_hills_8k.exr",
+                    "md5": "de3bc168e58affbd5ceb0c069d8ae358"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 371183657,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rolling_hills_16k.hdr",
+                    "md5": "48c4b36af4d0f6f247795e9045b77bbc"
+                },
+                "exr": {
+                    "size": 1243321868,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rolling_hills_16k.exr",
+                    "md5": "c726644ee2de791edac89615845622cc"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24371067,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/rolling_hills_4k.hdr",
+                    "md5": "2c2dd50495a3bc7de97d9cccba1999d3"
+                },
+                "exr": {
+                    "size": 82710658,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/rolling_hills_4k.exr",
+                    "md5": "61c37927e6f64b9fc1a419e66262ba99"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5837209,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/rolling_hills_2k.hdr",
+                    "md5": "a2c83e62202485942acd583bba602b67"
+                },
+                "exr": {
+                    "size": 21439108,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/rolling_hills_2k.exr",
+                    "md5": "e158eaee297b23ec221a1781b1b6d33a"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 822435491,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rolling_hills_24k.hdr",
+                    "md5": "01d8dc882b4ba99d26026fad2e2f0c66"
+                },
+                "exr": {
+                    "size": 2772825354,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rolling_hills_24k.exr",
+                    "md5": "85403de05fe26780108b4c1992e2a4d9"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1430433,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/rolling_hills_1k.hdr",
+                    "md5": "358c2ec51d67be8d3fb53df744aa1058"
+                },
+                "exr": {
+                    "size": 5740745,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/rolling_hills_1k.exr",
+                    "md5": "287b639215c778b724e18ab922ac3d75"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 73676481,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/rolling_hills.zip",
+            "md5": "eb434400ab323dbb541c331ead3d579e"
+        }
+    }
+}

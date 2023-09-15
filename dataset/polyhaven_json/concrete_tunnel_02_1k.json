@@ -1,0 +1,117 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "asphalt",
+        "concrete",
+        "tunnel",
+        "road",
+        "underpass"
+    ],
+    "date_published": 1593468000,
+    "name": "Concrete Tunnel 02",
+    "categories": [
+        "indoor",
+        "urban",
+        "midday",
+        "medium contrast",
+        "natural light"
+    ],
+    "coords": [
+        48.785815,
+        8.990118
+    ],
+    "date_taken": 1590483540,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        "11167855",
+        "18031080",
+        "3267566",
+        "3237733"
+    ],
+    "files_hash": "df767099515ccfff8f33a2f72954addd004856fe",
+    "download_count": 22855,
+    "files": {
+        "tonemapped": {
+            "size": 7124063,
+            "md5": "8a81d92e875fe7d170a96876dfcb61d0",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/concrete_tunnel_02.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 106705201,
+                    "md5": "24a043b78730978b09f30698bcaa3a52",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/concrete_tunnel_02_8k.hdr"
+                },
+                "exr": {
+                    "size": 100291811,
+                    "md5": "3802fdb44c2440e571dd5a5c5e5b941c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/concrete_tunnel_02_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 413182204,
+                    "md5": "294c666647f961ccb60ee4a76e003215",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/concrete_tunnel_02_16k.hdr"
+                },
+                "exr": {
+                    "size": 384105824,
+                    "md5": "93cf58c493303eeec554bb84b30d0715",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/concrete_tunnel_02_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26973592,
+                    "md5": "f32eec048903e402d685aff080f26eb4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/concrete_tunnel_02_4k.hdr"
+                },
+                "exr": {
+                    "size": 25350224,
+                    "md5": "613a98f635e7b1481e5ffe813b5fb4ef",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/concrete_tunnel_02_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6773023,
+                    "md5": "4ddd246a3a79f9be48fc867def52b00b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/concrete_tunnel_02_2k.hdr"
+                },
+                "exr": {
+                    "size": 6303092,
+                    "md5": "53261a3effe1f2aa721e49f0444798a7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/concrete_tunnel_02_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1692169,
+                    "md5": "fd6fa7ef3250c525b441d03d5b1c4c2c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/concrete_tunnel_02_1k.hdr"
+                },
+                "exr": {
+                    "size": 1552586,
+                    "md5": "1b26dd23f811cfebfd0c003d7ca4af57",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/concrete_tunnel_02_1k.exr"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 606081236,
+                    "md5": "0a4abe5367b2c0ef7de99b9bb812b48e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/concrete_tunnel_02_20k.hdr"
+                },
+                "exr": {
+                    "size": 553697181,
+                    "md5": "2c03718fe31daa512b95b70ea2542d68",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/concrete_tunnel_02_20k.exr"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "evs_cap": 0,
+    "type": 0,
+    "tags": [
+        "tank",
+        "sun",
+        "city",
+        "building",
+        "architecture",
+        "europe"
+    ],
+    "date_published": 1560463200,
+    "name": "Museum of History",
+    "categories": [
+        "outdoor",
+        "urban",
+        "morning-afternoon",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1554560880,
+    "authors": {
+        "Oliksiy Yakovlyev": "All"
+    },
+    "files_hash": "d6cbdfed85aa8617560df378a3a93df85a76dc30",
+    "download_count": 15683,
+    "files": {
+        "tonemapped": {
+            "size": 4220626,
+            "md5": "cb475dca4ec98ab5f49588504c0344d4",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/museum_of_history.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 90621272,
+                    "md5": "0aa07e93742d3ecf5aa409f03b0027eb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/museum_of_history_8k.hdr"
+                },
+                "exr": {
+                    "size": 72922364,
+                    "md5": "dc1c612bd1785f3cedc5828a254690ca",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/museum_of_history_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 359959762,
+                    "md5": "be3e07d109ae0253f49039b220959b38",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/museum_of_history_16k.hdr"
+                },
+                "exr": {
+                    "size": 279504186,
+                    "md5": "23332b738efb0e247bdee354b751b101",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/museum_of_history_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 22494691,
+                    "md5": "52d9b41f3983e664fd6bf8236507fed7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/museum_of_history_4k.hdr"
+                },
+                "exr": {
+                    "size": 18937903,
+                    "md5": "7f56cb9f65e628baf16756faa607e785",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/museum_of_history_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5540085,
+                    "md5": "149e93f592e5d879dc4f4fb2bd61bf07",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/museum_of_history_2k.hdr"
+                },
+                "exr": {
+                    "size": 4958193,
+                    "md5": "824eb72921acbceeed4039975426bddc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/museum_of_history_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1437437,
+                    "md5": "62970b672caa55eb8a0c78b6a9f25a16",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/museum_of_history_1k.hdr"
+                },
+                "exr": {
+                    "size": 1317207,
+                    "md5": "c6bf7ada5ac9ca14c6c58e28660a26e3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/museum_of_history_1k.exr"
+                }
+            }
+        }
+    }
+}

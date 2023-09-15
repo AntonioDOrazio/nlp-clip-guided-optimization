@@ -1,0 +1,101 @@
+{
+    "evs_cap": 15,
+    "type": 0,
+    "whitebalance": 3500,
+    "tags": [
+        "sport",
+        "boxing",
+        "ring",
+        "basement",
+        "fluorescent"
+    ],
+    "name": "Basement Boxing Ring",
+    "categories": [
+        "indoor",
+        "urban",
+        "artificial light",
+        "medium contrast"
+    ],
+    "date_taken": 1673963160,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "info": null,
+    "files_hash": "9f7c6c9d331a89e2516cc3346e711e2247e561ef",
+    "date_published": 1678665600,
+    "download_count": 7727,
+    "files": {
+        "tonemapped": {
+            "size": 35808905,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/basement_boxing_ring.jpg",
+            "md5": "dbba8748cdcfb5a8aeb345417e8b0e77"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 91652279,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/basement_boxing_ring_8k.hdr",
+                    "md5": "5d6795edba18e323f180e1f80d249b5e"
+                },
+                "exr": {
+                    "size": 68873282,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/basement_boxing_ring_8k.exr",
+                    "md5": "11facf6e94568a8a57d86b31af7dadd3"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 335901828,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/basement_boxing_ring_16k.hdr",
+                    "md5": "a1ccbb853d301e59b7c8ab7848369589"
+                },
+                "exr": {
+                    "size": 250073323,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/basement_boxing_ring_16k.exr",
+                    "md5": "b81443d3109d42c8e55677049b88d2a2"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 23522354,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/basement_boxing_ring_4k.hdr",
+                    "md5": "16568bffc8b21583c684c4453a4cad11"
+                },
+                "exr": {
+                    "size": 17689699,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/basement_boxing_ring_4k.exr",
+                    "md5": "fd87ee1cd7541374047c5a4ac2bb893b"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5951819,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/basement_boxing_ring_2k.hdr",
+                    "md5": "60bddfe2970b34654b38f120056616b6"
+                },
+                "exr": {
+                    "size": 4546024,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/basement_boxing_ring_2k.exr",
+                    "md5": "8f12a4823eb5d5ab6f9e68b3bed6e21f"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1515030,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/basement_boxing_ring_1k.hdr",
+                    "md5": "abe81b138909079214727ca572e9fd6f"
+                },
+                "exr": {
+                    "size": 1189950,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/basement_boxing_ring_1k.exr",
+                    "md5": "cb2df87378214e0708c8a5612efa0725"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 72845226,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/basement_boxing_ring.zip",
+            "md5": "80dfd585ee402db4dcfd7daaf82aba7c"
+        }
+    }
+}

@@ -1,0 +1,308 @@
+{
+    "evs_cap": 26,
+    "type": 0,
+    "whitebalance": 5750,
+    "date_published": 1576796400,
+    "name": "Driving School",
+    "categories": [
+        "outdoor",
+        "skies",
+        "urban",
+        "morning-afternoon",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1570534800,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "16090038"
+    ],
+    "backplates": true,
+    "tags": [
+        "parking",
+        "road",
+        "asphalt",
+        "tire",
+        "backplates"
+    ],
+    "files_hash": "f771561085f5597534b23c3418f664ef24694da4",
+    "download_count": 135942,
+    "files": {
+        "tonemapped": {
+            "size": 6242996,
+            "md5": "bafb110fd207af6e52fb058895f3ed0e",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/driving_school.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101764584,
+                    "md5": "d80a98cde9abe33d395ceac010935a49",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/driving_school_8k.hdr"
+                },
+                "exr": {
+                    "size": 84607044,
+                    "md5": "ec152f1c23242577c2f315e8be11106e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/driving_school_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 375454321,
+                    "md5": "4f2bd6df3f023d532e0ed56562af7c68",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/driving_school_16k.hdr"
+                },
+                "exr": {
+                    "size": 306143991,
+                    "md5": "9106f4a992e8cdb30baabfb46f5a6da2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/driving_school_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26061248,
+                    "md5": "265155b7c055d151deb962e5ac22fba5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/driving_school_4k.hdr"
+                },
+                "exr": {
+                    "size": 21986635,
+                    "md5": "c3cce77dc292848b66da224f9db78f62",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/driving_school_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6556878,
+                    "md5": "8bdcc299686c3ed299025859b1fba074",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/driving_school_2k.hdr"
+                },
+                "exr": {
+                    "size": 5647616,
+                    "md5": "8eb3ae4f1d0ab1e0a890cc48f0baa928",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/driving_school_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1659851,
+                    "md5": "e31b5f9736a9507ab42bae0ec780366f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/driving_school_1k.hdr"
+                },
+                "exr": {
+                    "size": 1457358,
+                    "md5": "44e1c30152234bbc2de94194174acb80",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/driving_school_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "DSC_0143": {
+                "jpg_pretty": {
+                    "size": 16195630,
+                    "md5": "8cbe0484e22ff41be361c25c16364c54",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/jpg_pretty/DSC_0143.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11105119,
+                    "md5": "2f19ea28d05152a534d2d66dccaebed3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/jpg_plain/DSC_0143.jpg"
+                },
+                "raw": {
+                    "size": 20956445,
+                    "md5": "31625fc1fba4b3f0c8552783bf6a4c99",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/raw/DSC_0143.NEF"
+                }
+            },
+            "DSC_0198": {
+                "jpg_pretty": {
+                    "size": 17058494,
+                    "md5": "46bdf9a2f261e8fd3181b539167dc310",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/jpg_pretty/DSC_0198.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10601730,
+                    "md5": "e61ff5c323125e5bb14a3b751ff7e6a9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/jpg_plain/DSC_0198.jpg"
+                },
+                "raw": {
+                    "size": 19988527,
+                    "md5": "aa5dd65d0ae3c137ff79b8443a9f889e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/raw/DSC_0198.NEF"
+                }
+            },
+            "DSC_0263": {
+                "jpg_pretty": {
+                    "size": 16629040,
+                    "md5": "380334c2f297d16516071a8ad5dc1c77",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/jpg_pretty/DSC_0263.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10940187,
+                    "md5": "44382b770621032f21aced946a1d740d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/jpg_plain/DSC_0263.jpg"
+                },
+                "raw": {
+                    "size": 20286231,
+                    "md5": "b7458b1621974079988c17b0c575393a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/raw/DSC_0263.NEF"
+                }
+            },
+            "DSC_0213": {
+                "jpg_pretty": {
+                    "size": 18314811,
+                    "md5": "3dc80294a8c7eb3983a8ee798550703b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/jpg_pretty/DSC_0213.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13146644,
+                    "md5": "e377293e1ccdb23951e921bebba94080",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/jpg_plain/DSC_0213.jpg"
+                },
+                "raw": {
+                    "size": 20787283,
+                    "md5": "6efcd7f44d10e4f7b2f4b616b11a4eea",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/raw/DSC_0213.NEF"
+                }
+            },
+            "DSC_0223": {
+                "jpg_pretty": {
+                    "size": 11222577,
+                    "md5": "01a4f93bac5e27243c965acdbd22bda8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/jpg_pretty/DSC_0223.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6512479,
+                    "md5": "72545058ea7cc3333a0f254fb24eddab",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/jpg_plain/DSC_0223.jpg"
+                },
+                "raw": {
+                    "size": 17299918,
+                    "md5": "b1756532c02bb14a3a422f2c05494774",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/raw/DSC_0223.NEF"
+                }
+            },
+            "DSC_0133": {
+                "jpg_pretty": {
+                    "size": 16638590,
+                    "md5": "21fe9de9f9cd276a0ea59b784b983333",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/jpg_pretty/DSC_0133.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11249624,
+                    "md5": "86118de9a84509f82c3e463ef5384b25",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/jpg_plain/DSC_0133.jpg"
+                },
+                "raw": {
+                    "size": 20403918,
+                    "md5": "6b61c53ba2d78be21ba4554ce2f06228",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/raw/DSC_0133.NEF"
+                }
+            },
+            "DSC_0243": {
+                "jpg_pretty": {
+                    "size": 18613962,
+                    "md5": "786c1e79fb38f73e8d1a5960cc3f47d8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/jpg_pretty/DSC_0243.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13104757,
+                    "md5": "c3de1e67e30bec817814b3abed213d3a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/jpg_plain/DSC_0243.jpg"
+                },
+                "raw": {
+                    "size": 20827078,
+                    "md5": "c3d7a079cc14bf328e569c7491ff48ce",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/raw/DSC_0243.NEF"
+                }
+            },
+            "DSC_0118": {
+                "jpg_pretty": {
+                    "size": 13746369,
+                    "md5": "7cea32c7b4af658845f7a449da6241f9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/jpg_pretty/DSC_0118.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8129241,
+                    "md5": "ace8ce0853cd115a9332cc954de7c2eb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/jpg_plain/DSC_0118.jpg"
+                },
+                "raw": {
+                    "size": 18634445,
+                    "md5": "e85cf242ec45c7c3471a873762ce9f97",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/raw/DSC_0118.NEF"
+                }
+            },
+            "DSC_0138": {
+                "jpg_pretty": {
+                    "size": 14015069,
+                    "md5": "bae9441a54c6e79b076cf65438dbf231",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/jpg_pretty/DSC_0138.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9220447,
+                    "md5": "e2933fb9159cfcac6feb553d44249c0b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/jpg_plain/DSC_0138.jpg"
+                },
+                "raw": {
+                    "size": 19153669,
+                    "md5": "bf7c9b4439e9e34749e3d7ee3406dc10",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/raw/DSC_0138.NEF"
+                }
+            },
+            "DSC_0258": {
+                "jpg_pretty": {
+                    "size": 14915787,
+                    "md5": "e978a09583ce40e8cc0aa3be89c181b5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/jpg_pretty/DSC_0258.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9781096,
+                    "md5": "437ecec4816de77ff78db609070ce6aa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/jpg_plain/DSC_0258.jpg"
+                },
+                "raw": {
+                    "size": 19555452,
+                    "md5": "8b6aa3bb2cca270e154899329ecc9879",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/raw/DSC_0258.NEF"
+                }
+            },
+            "DSC_0208": {
+                "jpg_pretty": {
+                    "size": 15620652,
+                    "md5": "5c58da1543529f5c0ad4368eaba8b155",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/jpg_pretty/DSC_0208.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9923427,
+                    "md5": "2d2d89eb9f4eb6a61d3ef6982b0dd27c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/jpg_plain/DSC_0208.jpg"
+                },
+                "raw": {
+                    "size": 19756129,
+                    "md5": "15df759f49b938294597853d27fa04bf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/raw/DSC_0208.NEF"
+                }
+            },
+            "DSC_0218": {
+                "jpg_pretty": {
+                    "size": 16433252,
+                    "md5": "61257b185bcab7821c1c3d6e906394fc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/jpg_pretty/DSC_0218.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11524794,
+                    "md5": "bc2ac3fe28f638137fe7f87e2a24037b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/jpg_plain/DSC_0218.jpg"
+                },
+                "raw": {
+                    "size": 19596102,
+                    "md5": "65506a0abcb045912d03566e47df788e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/driving_school/raw/DSC_0218.NEF"
+                }
+            }
+        }
+    }
+}

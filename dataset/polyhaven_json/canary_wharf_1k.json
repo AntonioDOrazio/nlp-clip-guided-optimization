@@ -1,0 +1,106 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "europe",
+        "london",
+        "architecture",
+        "city",
+        "building",
+        "railing",
+        "concrete",
+        "street"
+    ],
+    "date_published": 1563832800,
+    "name": "Canary Wharf",
+    "categories": [
+        "outdoor",
+        "urban",
+        "morning-afternoon",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        51.503704,
+        -0.020148
+    ],
+    "date_taken": 1558282140,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        "3267566"
+    ],
+    "files_hash": "01ae899f5d9d31a319cb64e79e360ed5bc911beb",
+    "download_count": 311221,
+    "files": {
+        "tonemapped": {
+            "size": 6175039,
+            "md5": "8f657e36b6294be1da2031262dd85506",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/canary_wharf.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102813833,
+                    "md5": "cfcd0468ba19819d665adb502aa9f687",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/canary_wharf_8k.hdr"
+                },
+                "exr": {
+                    "size": 91935210,
+                    "md5": "1d804de5e816cc74b31fcbfb6b4f2661",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/canary_wharf_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 390026470,
+                    "md5": "ac8b5727371d8516cd0d810390a8a752",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/canary_wharf_16k.hdr"
+                },
+                "exr": {
+                    "size": 335790832,
+                    "md5": "280f63eb5d64de5d4e6d39b0cc1b6fe9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/canary_wharf_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26148423,
+                    "md5": "8e8f52871f1c63395812dc6bcaaedde9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/canary_wharf_4k.hdr"
+                },
+                "exr": {
+                    "size": 23628910,
+                    "md5": "ef251648e55f04743da819a0c60c627a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/canary_wharf_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6582992,
+                    "md5": "4e0c06db5c5ad55a20976dc4a2ae44bf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/canary_wharf_2k.hdr"
+                },
+                "exr": {
+                    "size": 6027280,
+                    "md5": "acfa4776b3b7a887c1530e57e26df86c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/canary_wharf_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1654556,
+                    "md5": "c7debad43a69f70e320d43ae0e3bee05",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/canary_wharf_1k.hdr"
+                },
+                "exr": {
+                    "size": 1538276,
+                    "md5": "1a03d1b5f73f8c45893db8faa8f80434",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/canary_wharf_1k.exr"
+                }
+            }
+        }
+    }
+}

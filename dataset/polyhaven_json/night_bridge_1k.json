@@ -1,0 +1,102 @@
+{
+    "evs_cap": 16,
+    "type": 0,
+    "whitebalance": 3100,
+    "tags": [
+        "snow",
+        "winter",
+        "tree",
+        "building",
+        "apartments",
+        "bridge",
+        "path"
+    ],
+    "date_published": 1552604400,
+    "name": "Night Bridge",
+    "categories": [
+        "outdoor",
+        "urban",
+        "night",
+        "overcast",
+        "medium contrast",
+        "artificial light"
+    ],
+    "date_taken": 1546209120,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "8571269"
+    ],
+    "files_hash": "ca0f66fd5e45f8487928b86a67a102f27054fb1f",
+    "download_count": 36824,
+    "files": {
+        "tonemapped": {
+            "size": 3796156,
+            "md5": "c3196b660c200ee3d03a7c03f7ef4333",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/night_bridge.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 97242762,
+                    "md5": "6d11e348e213cdf111d0a984c6272e9a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/night_bridge_8k.hdr"
+                },
+                "exr": {
+                    "size": 75403465,
+                    "md5": "19a46872ebd91f6e25479742be77ede6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/night_bridge_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 372025768,
+                    "md5": "1ce034c8e947a6512bb64b415c8ca3e0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/night_bridge_16k.hdr"
+                },
+                "exr": {
+                    "size": 277207798,
+                    "md5": "4cdfb66b86dd15855c746808cc197c48",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/night_bridge_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24617125,
+                    "md5": "b84162d25410b6f72a50f7eeaeee42f0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/night_bridge_4k.hdr"
+                },
+                "exr": {
+                    "size": 19452060,
+                    "md5": "b57f670132669b5761864086acfc5750",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/night_bridge_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6019098,
+                    "md5": "493b868f1685eb30eeec7a75033b2c51",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/night_bridge_2k.hdr"
+                },
+                "exr": {
+                    "size": 4943523,
+                    "md5": "041af38f7d360e9a968cf1ae3c13aac1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/night_bridge_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1442264,
+                    "md5": "901a322e12e025b18822efdaf79e08dd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/night_bridge_1k.hdr"
+                },
+                "exr": {
+                    "size": 1262386,
+                    "md5": "e87b0d45562f480ad7c47ca5470db483",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/night_bridge_1k.exr"
+                }
+            }
+        }
+    }
+}

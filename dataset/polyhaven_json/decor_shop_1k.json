@@ -1,0 +1,654 @@
+{
+    "evs_cap": 17,
+    "type": 0,
+    "whitebalance": 3500,
+    "date_published": 1617055200,
+    "name": "Decor Shop",
+    "categories": [
+        "indoor",
+        "urban",
+        "morning-afternoon",
+        "medium contrast",
+        "artificial light"
+    ],
+    "date_taken": 1607773020,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "backplates": true,
+    "tags": [
+        "tile",
+        "couch",
+        "decor",
+        "chandelier",
+        "store",
+        "shop",
+        "backplates"
+    ],
+    "sponsors": [
+        "16608220",
+        "7934315"
+    ],
+    "files_hash": "df6683ddb9e13f68c67c4f977326312978412326",
+    "download_count": 41160,
+    "files": {
+        "tonemapped": {
+            "size": 4579922,
+            "md5": "4cdd31d27cbb47e802afe0e119d63a94",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/decor_shop.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 97083874,
+                    "md5": "3caad8ea99e5602d68d7df4df02b97af",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/decor_shop_8k.hdr"
+                },
+                "exr": {
+                    "size": 76896829,
+                    "md5": "32fa29757c8430005ddeeccf86992e51",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/decor_shop_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 365159970,
+                    "md5": "6b6bdd1f156ba2c2bd79e063fbd1fa5b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/decor_shop_16k.hdr"
+                },
+                "exr": {
+                    "size": 279917280,
+                    "md5": "d2798cd141a6c73b566912084f7b1f34",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/decor_shop_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25059196,
+                    "md5": "c61630a04496177e8b310a10580e1c1a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/decor_shop_4k.hdr"
+                },
+                "exr": {
+                    "size": 20332420,
+                    "md5": "708b1e8f3f2e68aeea8fbd9741d04b4d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/decor_shop_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6395347,
+                    "md5": "ac71048c2b39a95fa1637d49287826ee",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/decor_shop_2k.hdr"
+                },
+                "exr": {
+                    "size": 5401136,
+                    "md5": "f0a501c738ef942421e3b74d38a95f6c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/decor_shop_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1626098,
+                    "md5": "73bc2e920d763bbfd6e5685c8965bed7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/decor_shop_1k.hdr"
+                },
+                "exr": {
+                    "size": 1455372,
+                    "md5": "72021a7cf81f9dffb91091674432428e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/decor_shop_1k.exr"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 93982297,
+            "md5": "59c51aea4eb3de930cfc3f58384671d9",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/decor_shop.zip"
+        },
+        "backplates": {
+            "DSC_4725": {
+                "jpg_pretty": {
+                    "size": 12421033,
+                    "md5": "3cafd2232d6f840d5a72c772c405b788",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_pretty/DSC_4725.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11075913,
+                    "md5": "e8f1713a09026b5aaaf41f19a48faaac",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_plain/DSC_4725.jpg"
+                },
+                "raw": {
+                    "size": 26906640,
+                    "md5": "fa5450474ecbe096168485b36fb6be59",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/raw/DSC_4725.NEF"
+                }
+            },
+            "DSC_4625": {
+                "jpg_pretty": {
+                    "size": 12918796,
+                    "md5": "d4fcd1c2c45ad7a14fdfa21cdf35fcf9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_pretty/DSC_4625.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10411127,
+                    "md5": "4890b4d2ff4fc602926fcaf98c8a5257",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_plain/DSC_4625.jpg"
+                },
+                "raw": {
+                    "size": 24839106,
+                    "md5": "55b052df4d9c684e17069952b4dd0ce7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/raw/DSC_4625.NEF"
+                }
+            },
+            "DSC_4705": {
+                "jpg_pretty": {
+                    "size": 10827375,
+                    "md5": "54ff4216b5895558de35273b7c87a5b9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_pretty/DSC_4705.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10744550,
+                    "md5": "b6b6965359c4a14485ae48fc3d2a27db",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_plain/DSC_4705.jpg"
+                },
+                "raw": {
+                    "size": 25650251,
+                    "md5": "2544fd75671df28005fd225b01cce669",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/raw/DSC_4705.NEF"
+                }
+            },
+            "DSC_4765": {
+                "jpg_pretty": {
+                    "size": 15475768,
+                    "md5": "8774caa36f353efa252c41cc30ab7473",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_pretty/DSC_4765.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12679570,
+                    "md5": "fa32a8fcb678a06f3dc7247578d85197",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_plain/DSC_4765.jpg"
+                },
+                "raw": {
+                    "size": 27651029,
+                    "md5": "5352e34e03f9717d0e2988a7f89fcd8e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/raw/DSC_4765.NEF"
+                }
+            },
+            "DSC_4600": {
+                "jpg_pretty": {
+                    "size": 10993244,
+                    "md5": "9f7e51193743b176d23f18f2f0b4839c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_pretty/DSC_4600.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10923988,
+                    "md5": "8b59f851413326ed0f4dcc5254522d71",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_plain/DSC_4600.jpg"
+                },
+                "raw": {
+                    "size": 25983494,
+                    "md5": "c1ef440df35e5471a662a429dd9d3073",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/raw/DSC_4600.NEF"
+                }
+            },
+            "DSC_4720": {
+                "jpg_pretty": {
+                    "size": 10542391,
+                    "md5": "07399f141e2dd0535f5ddcec1dcf0f09",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_pretty/DSC_4720.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10484753,
+                    "md5": "d7986da7fe85248909b1b99f2524707b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_plain/DSC_4720.jpg"
+                },
+                "raw": {
+                    "size": 26271822,
+                    "md5": "00a47da4b90de7b73c29a6d8c919c109",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/raw/DSC_4720.NEF"
+                }
+            },
+            "DSC_4745": {
+                "jpg_pretty": {
+                    "size": 10302979,
+                    "md5": "338cbc070b7c4b0d4fa8782d26345815",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_pretty/DSC_4745.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11410997,
+                    "md5": "794ccae2e8a060904b24f06020f7f0f0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_plain/DSC_4745.jpg"
+                },
+                "raw": {
+                    "size": 26504151,
+                    "md5": "82ceceeb195f15ab799dc87e12c95052",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/raw/DSC_4745.NEF"
+                }
+            },
+            "DSC_4700": {
+                "jpg_pretty": {
+                    "size": 11469716,
+                    "md5": "df2c509ddd1a0c8562a1ed581c7d6f33",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_pretty/DSC_4700.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10393608,
+                    "md5": "d435787bd9d55bff3549714c387ad2fa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_plain/DSC_4700.jpg"
+                },
+                "raw": {
+                    "size": 26022241,
+                    "md5": "4655ae2bd3b2c36207a3e9b302dd4445",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/raw/DSC_4700.NEF"
+                }
+            },
+            "DSC_4585": {
+                "jpg_pretty": {
+                    "size": 13358958,
+                    "md5": "c771c93108617d8120b1d61b8009eb45",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_pretty/DSC_4585.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10462446,
+                    "md5": "4fe890347ac9069e61db562f2d55b139",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_plain/DSC_4585.jpg"
+                },
+                "raw": {
+                    "size": 26089548,
+                    "md5": "873968ab33f256d3f77a1d54de3bc746",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/raw/DSC_4585.NEF"
+                }
+            },
+            "DSC_4565": {
+                "jpg_pretty": {
+                    "size": 11132258,
+                    "md5": "64d5cad5eaf9c19b4d246cda0b2ba9ac",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_pretty/DSC_4565.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11033271,
+                    "md5": "4a4669ef227bf5611946e0098c24d41c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_plain/DSC_4565.jpg"
+                },
+                "raw": {
+                    "size": 26302673,
+                    "md5": "abaf3b142e3b1437a44333fe99ebd0f6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/raw/DSC_4565.NEF"
+                }
+            },
+            "DSC_4685": {
+                "jpg_pretty": {
+                    "size": 9767610,
+                    "md5": "a4f53d7a5daf279cc8d864cd7813e358",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_pretty/DSC_4685.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10005738,
+                    "md5": "10c99d8b2dc6da382bfe477af63ec77d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_plain/DSC_4685.jpg"
+                },
+                "raw": {
+                    "size": 25663821,
+                    "md5": "2f39341e72bf544961101bd0df333705",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/raw/DSC_4685.NEF"
+                }
+            },
+            "DSC_4740": {
+                "jpg_pretty": {
+                    "size": 10893029,
+                    "md5": "7316fc2e0ca79a2f635cb9c260258c67",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_pretty/DSC_4740.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11223149,
+                    "md5": "5912e2ed94291b87eaf078f97f552e78",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_plain/DSC_4740.jpg"
+                },
+                "raw": {
+                    "size": 27217187,
+                    "md5": "cd04ca29ca9950f647975a41949bb3ea",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/raw/DSC_4740.NEF"
+                }
+            },
+            "DSC_4580": {
+                "jpg_pretty": {
+                    "size": 11705581,
+                    "md5": "e0c4707267a36bc4d76e26cc0d60b749",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_pretty/DSC_4580.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10600642,
+                    "md5": "9bc9c01eb601037854bb010d49b00b14",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_plain/DSC_4580.jpg"
+                },
+                "raw": {
+                    "size": 25811007,
+                    "md5": "3e307ae702f1b5b1dbe285b2774d6756",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/raw/DSC_4580.NEF"
+                }
+            },
+            "DSC_4680": {
+                "jpg_pretty": {
+                    "size": 12023553,
+                    "md5": "964404ba5e11da0b4fe91d2f70c9a218",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_pretty/DSC_4680.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10528807,
+                    "md5": "ae339b8a4929d0d7384123279c0ecd0d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_plain/DSC_4680.jpg"
+                },
+                "raw": {
+                    "size": 25458711,
+                    "md5": "ade577ca908ca825c76138028fa31031",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/raw/DSC_4680.NEF"
+                }
+            },
+            "DSC_4660": {
+                "jpg_pretty": {
+                    "size": 11061578,
+                    "md5": "84cd823d8ac821000fe5f457d43c7d64",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_pretty/DSC_4660.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10893021,
+                    "md5": "db243f5a0da8794a274527ac40223d01",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_plain/DSC_4660.jpg"
+                },
+                "raw": {
+                    "size": 26019384,
+                    "md5": "f6c4a9c9e2a2c0abe72ecead81154f94",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/raw/DSC_4660.NEF"
+                }
+            },
+            "DSC_4735": {
+                "jpg_pretty": {
+                    "size": 11091176,
+                    "md5": "292e6da9492cb586c6df290af77d0cf4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_pretty/DSC_4735.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11327103,
+                    "md5": "2408d6fe04053edbd74d5638948c91de",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_plain/DSC_4735.jpg"
+                },
+                "raw": {
+                    "size": 27317664,
+                    "md5": "537f870119fb2570dafb6aa096448aa8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/raw/DSC_4735.NEF"
+                }
+            },
+            "DSC_4715": {
+                "jpg_pretty": {
+                    "size": 9915499,
+                    "md5": "129e40b6c7d8a70cccb570754f5f57f7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_pretty/DSC_4715.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10357955,
+                    "md5": "506ca677bcd730051ad91eceecba6e5e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_plain/DSC_4715.jpg"
+                },
+                "raw": {
+                    "size": 26411210,
+                    "md5": "103fc777062b23d3c250c2697185d64d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/raw/DSC_4715.NEF"
+                }
+            },
+            "DSC_4655": {
+                "jpg_pretty": {
+                    "size": 11496325,
+                    "md5": "c3a4ef7bf4de05a580de1a0e05ab9445",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_pretty/DSC_4655.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10755421,
+                    "md5": "f9debcd8deef854d397961bac43bae3e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_plain/DSC_4655.jpg"
+                },
+                "raw": {
+                    "size": 25992956,
+                    "md5": "02b894116d92313db6e5b73ec3001419",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/raw/DSC_4655.NEF"
+                }
+            },
+            "DSC_4710": {
+                "jpg_pretty": {
+                    "size": 10326348,
+                    "md5": "b946c75427e09edb011d978bca05b06d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_pretty/DSC_4710.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10961614,
+                    "md5": "fd19feb0726c14b92a622b0f7cf18484",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_plain/DSC_4710.jpg"
+                },
+                "raw": {
+                    "size": 26498660,
+                    "md5": "d144786666aa5c41ddcca9ab53d80e6d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/raw/DSC_4710.NEF"
+                }
+            },
+            "DSC_4635": {
+                "jpg_pretty": {
+                    "size": 12534180,
+                    "md5": "71253f057649937448fb73550d0223cc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_pretty/DSC_4635.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11855348,
+                    "md5": "d2b328ab11efaba61546cbf9ed4d92bf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_plain/DSC_4635.jpg"
+                },
+                "raw": {
+                    "size": 26047304,
+                    "md5": "4d79ad4347f7ab89379a9f81f4a55675",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/raw/DSC_4635.NEF"
+                }
+            },
+            "DSC_4595": {
+                "jpg_pretty": {
+                    "size": 12631312,
+                    "md5": "d8184784e5f93d48f8f7b9d7bace268d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_pretty/DSC_4595.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10221519,
+                    "md5": "0c71f053655fd7e2d6867507aa6884e5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_plain/DSC_4595.jpg"
+                },
+                "raw": {
+                    "size": 25522191,
+                    "md5": "889178ca6f828caa6dafae0527f4e55d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/raw/DSC_4595.NEF"
+                }
+            },
+            "DSC_4695": {
+                "jpg_pretty": {
+                    "size": 10116099,
+                    "md5": "faff5929abf630e914de1349576505c4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_pretty/DSC_4695.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10013941,
+                    "md5": "2b8500e452a34d819487e49dece488d4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_plain/DSC_4695.jpg"
+                },
+                "raw": {
+                    "size": 26247075,
+                    "md5": "fa7ed47370cbe387f2dfb49028fba7a6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/raw/DSC_4695.NEF"
+                }
+            },
+            "DSC_4750": {
+                "jpg_pretty": {
+                    "size": 10523277,
+                    "md5": "dbc1b70c91849d28ffb156614ebec9ae",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_pretty/DSC_4750.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11469619,
+                    "md5": "7d758c62543a4e61b54862a7ac9eed85",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_plain/DSC_4750.jpg"
+                },
+                "raw": {
+                    "size": 26671762,
+                    "md5": "173a335da803c936663b95ac60e11c38",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/raw/DSC_4750.NEF"
+                }
+            },
+            "DSC_4650": {
+                "jpg_pretty": {
+                    "size": 10734478,
+                    "md5": "c19c2399a5e6db74bf86c40f84cf54bc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_pretty/DSC_4650.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10376473,
+                    "md5": "70cc2cf86ddb958270787995a371b27e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_plain/DSC_4650.jpg"
+                },
+                "raw": {
+                    "size": 25775644,
+                    "md5": "bc0ed6518523fda9c796bfd477923f2a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/raw/DSC_4650.NEF"
+                }
+            },
+            "DSC_4575": {
+                "jpg_pretty": {
+                    "size": 13219332,
+                    "md5": "9ae7e5b68b717e4f31325335b685aa28",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_pretty/DSC_4575.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10940055,
+                    "md5": "443c0f672495212cfa32dbc3586cd9a1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_plain/DSC_4575.jpg"
+                },
+                "raw": {
+                    "size": 26272157,
+                    "md5": "01cc3aa203c05eb124288d0af928ecce",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/raw/DSC_4575.NEF"
+                }
+            },
+            "DSC_4675": {
+                "jpg_pretty": {
+                    "size": 11261902,
+                    "md5": "b3e18e62ca86fe900041ca3ec0b92653",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_pretty/DSC_4675.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10613967,
+                    "md5": "f07db945c3e4d5c31ea12a27d28e144f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_plain/DSC_4675.jpg"
+                },
+                "raw": {
+                    "size": 25723533,
+                    "md5": "27bd58d9adea19d1a09e90efbc632a1a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/raw/DSC_4675.NEF"
+                }
+            },
+            "DSC_4730": {
+                "jpg_pretty": {
+                    "size": 12071105,
+                    "md5": "01964f970f30b6b5f6cb348a64b9ec8c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_pretty/DSC_4730.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11650048,
+                    "md5": "09cce72f3a68d46484692a07a1258bef",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_plain/DSC_4730.jpg"
+                },
+                "raw": {
+                    "size": 26859501,
+                    "md5": "9d83339befd4d766959f8f066b475484",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/raw/DSC_4730.NEF"
+                }
+            },
+            "DSC_4630": {
+                "jpg_pretty": {
+                    "size": 12142324,
+                    "md5": "648d9945634217a83fa2e8dce660d02f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_pretty/DSC_4630.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10542764,
+                    "md5": "faf4d91768ffecbde8afbbedfbadacd1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_plain/DSC_4630.jpg"
+                },
+                "raw": {
+                    "size": 25904413,
+                    "md5": "4d636d90840e6c837c9205dee5a8de06",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/raw/DSC_4630.NEF"
+                }
+            },
+            "DSC_4570": {
+                "jpg_pretty": {
+                    "size": 12275883,
+                    "md5": "462ea66c864564a30ee4bb77c5fa67f3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_pretty/DSC_4570.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11890887,
+                    "md5": "88364c36c420521ca66caa3b563a0324",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_plain/DSC_4570.jpg"
+                },
+                "raw": {
+                    "size": 26345814,
+                    "md5": "2a14bdb7888c3a961f5b6c51c6d2c863",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/raw/DSC_4570.NEF"
+                }
+            },
+            "DSC_4690": {
+                "jpg_pretty": {
+                    "size": 9767017,
+                    "md5": "44729db8d61d99440356b8751b817b52",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_pretty/DSC_4690.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9997749,
+                    "md5": "f4967abd37f0ec32698a72a77dffb384",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_plain/DSC_4690.jpg"
+                },
+                "raw": {
+                    "size": 25752058,
+                    "md5": "dfe85f7bd861897734812d15e25c1960",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/raw/DSC_4690.NEF"
+                }
+            },
+            "DSC_4670": {
+                "jpg_pretty": {
+                    "size": 10197484,
+                    "md5": "30d0af7469f97c7ed51758570a61d100",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_pretty/DSC_4670.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10090097,
+                    "md5": "f522d286d0ea3656b99934886c52f57f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_plain/DSC_4670.jpg"
+                },
+                "raw": {
+                    "size": 25927221,
+                    "md5": "4a28ac4611bc3f19d2f770e414163659",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/raw/DSC_4670.NEF"
+                }
+            },
+            "DSC_4590": {
+                "jpg_pretty": {
+                    "size": 12266184,
+                    "md5": "612779f2f20f3513ca11b489d7c2a109",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_pretty/DSC_4590.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10819297,
+                    "md5": "9b9e40d07af8097279ed43b3a085a6a1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/jpg_plain/DSC_4590.jpg"
+                },
+                "raw": {
+                    "size": 26448561,
+                    "md5": "b388c4d69348bf4c3c6fdca039366473",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/decor_shop/raw/DSC_4590.NEF"
+                }
+            }
+        }
+    }
+}

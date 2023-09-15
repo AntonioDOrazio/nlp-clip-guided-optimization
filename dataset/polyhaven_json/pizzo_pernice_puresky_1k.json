@@ -1,0 +1,112 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "tags": [
+        "pure skies"
+    ],
+    "date_published": 1671235200,
+    "name": "Pizzo Pernice (Pure Sky)",
+    "categories": [
+        "natural light",
+        "outdoor",
+        "nature",
+        "high contrast",
+        "skies",
+        "clear",
+        "midday",
+        "pure skies"
+    ],
+    "coords": [
+        45.995926,
+        8.51848
+    ],
+    "date_taken": 1650113100,
+    "authors": {
+        "Andreas Mischok": "Original",
+        "Jarod Guest": "Sky edits"
+    },
+    "info": "Edited sky-only version of [Pizzo Pernice](https://polyhaven.com/a/pizzo_pernice).",
+    "files_hash": "b83281f83c3c98b859da0afe4f119abec3eddf08",
+    "download_count": 23073,
+    "files": {
+        "tonemapped": {
+            "size": 19973551,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/pizzo_pernice_puresky.jpg",
+            "md5": "0fbc813c5630ec6d29996242c06eb9ea"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 69552907,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/pizzo_pernice_puresky_8k.hdr",
+                    "md5": "d06e9d4f399f5c2c2fab37f373a95246"
+                },
+                "exr": {
+                    "size": 286138767,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/pizzo_pernice_puresky_8k.exr",
+                    "md5": "b90aa2aabd97c6900f3bde3f64281df7"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 243224780,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/pizzo_pernice_puresky_16k.hdr",
+                    "md5": "ea080924b0f54bff053da508c2c9d4c6"
+                },
+                "exr": {
+                    "size": 1113812828,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/pizzo_pernice_puresky_16k.exr",
+                    "md5": "769601357e6b074a11083c808bb66946"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 18266153,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/pizzo_pernice_puresky_4k.hdr",
+                    "md5": "70d5b689a0ffd55c665c86205e7df893"
+                },
+                "exr": {
+                    "size": 73644902,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/pizzo_pernice_puresky_4k.exr",
+                    "md5": "6cf964772c0e5633a4302c35a1b9aa3c"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 4469283,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/pizzo_pernice_puresky_2k.hdr",
+                    "md5": "d4d352855cb8f62523e8750f3229795b"
+                },
+                "exr": {
+                    "size": 19290970,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/pizzo_pernice_puresky_2k.exr",
+                    "md5": "ff734729f88f771a2cde141f3210934c"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1164240,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/pizzo_pernice_puresky_1k.hdr",
+                    "md5": "d6376bb76af551042326300efca40e29"
+                },
+                "exr": {
+                    "size": 5242249,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/pizzo_pernice_puresky_1k.exr",
+                    "md5": "f3d8ca132f1f4e0d74d608ccf29e29cd"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 364250031,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/pizzo_pernice_puresky_20k.hdr",
+                    "md5": "3dce21c15a0f749433da00376d3c091e"
+                },
+                "exr": {
+                    "size": 1752341152,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/pizzo_pernice_puresky_20k.exr",
+                    "md5": "6cfed8c8fbdf62d265adfdb5ab2901ce"
+                }
+            }
+        }
+    }
+}

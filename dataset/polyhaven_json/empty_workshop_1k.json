@@ -1,0 +1,104 @@
+{
+    "evs_cap": 17,
+    "type": 0,
+    "whitebalance": 6500,
+    "tags": [
+        "bare",
+        "empty",
+        "clean",
+        "spacious",
+        "brick",
+        "concrete",
+        "wood"
+    ],
+    "name": "Empty Workshop",
+    "categories": [
+        "medium contrast",
+        "indoor",
+        "urban",
+        "midday",
+        "natural light"
+    ],
+    "date_taken": 1686911940,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "info": null,
+    "files_hash": "49bcce8cfa1b16231c9ac76e4b832b20033aedfc",
+    "date_published": 1691539200,
+    "download_count": 2385,
+    "files": {
+        "tonemapped": {
+            "size": 45869092,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/empty_workshop.jpg",
+            "md5": "19e1b41a1cf09cd41cab34afb75f731d"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 100927632,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/empty_workshop_8k.hdr",
+                    "md5": "18d74df5429b349e5b8fd34d74fbee7e"
+                },
+                "exr": {
+                    "size": 91888197,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/empty_workshop_8k.exr",
+                    "md5": "652d5cad1ec0496e61a6ff33fbd984a9"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 377117448,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/empty_workshop_16k.hdr",
+                    "md5": "5d3387ddba2e2f5debd9b198a036a320"
+                },
+                "exr": {
+                    "size": 323118241,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/empty_workshop_16k.exr",
+                    "md5": "1d3699bf0da85e9d6e599b0ce3398645"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26262683,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/empty_workshop_4k.hdr",
+                    "md5": "5b212450530f10de4fe790ee0d273610"
+                },
+                "exr": {
+                    "size": 24959199,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/empty_workshop_4k.exr",
+                    "md5": "6620281377aebdab437a14f6ca7fd443"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6744230,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/empty_workshop_2k.hdr",
+                    "md5": "d1ddaae55c321db4ea1041045a7479c6"
+                },
+                "exr": {
+                    "size": 6600402,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/empty_workshop_2k.exr",
+                    "md5": "7d05fc5b0eae158fcb9591cd0a289ccb"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1719455,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/empty_workshop_1k.hdr",
+                    "md5": "288059ac470230c86ec3cb00d96de4bf"
+                },
+                "exr": {
+                    "size": 1715443,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/empty_workshop_1k.exr",
+                    "md5": "3d7766f8db3e9116ef0b357094d30f29"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 93864012,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/empty_workshop.zip",
+            "md5": "03415871e4e21e2dc5e8df3de2fbd11d"
+        }
+    }
+}

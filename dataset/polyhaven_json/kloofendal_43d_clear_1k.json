@@ -1,0 +1,121 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "whitebalance": 5313,
+    "tags": [
+        "sun",
+        "grass",
+        "rock",
+        "hilltop",
+        "view"
+    ],
+    "name": "Kloofendal 43d Clear",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "partly cloudy",
+        "clear",
+        "skies",
+        "high contrast",
+        "midday"
+    ],
+    "date_taken": 1684320360,
+    "coords": [
+        -26.123391,
+        27.883609
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "info": null,
+    "files_hash": "cc610d030a16937e577b2ccfe34f91bede306d65",
+    "date_published": 1685491200,
+    "download_count": 28106,
+    "files": {
+        "tonemapped": {
+            "size": 47185855,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/kloofendal_43d_clear.jpg",
+            "md5": "fc00231625e1af69c7923e1e50d4936f"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 100184155,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/kloofendal_43d_clear_8k.hdr",
+                    "md5": "87bf391ac85244b98840fbc179cd17f7"
+                },
+                "exr": {
+                    "size": 384798021,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/kloofendal_43d_clear_8k.exr",
+                    "md5": "575ffcebb29c889aa89f42d4d03cbe67"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 372059484,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/kloofendal_43d_clear_16k.hdr",
+                    "md5": "01a14ad2132f9b1b64cf5235aea15001"
+                },
+                "exr": {
+                    "size": 1518235207,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/kloofendal_43d_clear_16k.exr",
+                    "md5": "01288b9b7a3d21edb0a118018dec9667"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25138112,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/kloofendal_43d_clear_4k.hdr",
+                    "md5": "236317e51a352cf15f05d645f531a73d"
+                },
+                "exr": {
+                    "size": 96687898,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/kloofendal_43d_clear_4k.exr",
+                    "md5": "8de7b84e2fb788794bfe08c96a53c1e0"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 822941081,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/kloofendal_43d_clear_24k.hdr",
+                    "md5": "4938e1096386b6c07b0078357203bf04"
+                },
+                "exr": {
+                    "size": 3370890441,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/kloofendal_43d_clear_24k.exr",
+                    "md5": "190d54f2a1c4e78ed31b27930f5f0ae0"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6141852,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/kloofendal_43d_clear_2k.hdr",
+                    "md5": "b750f8a44a524c08bacba42223944f47"
+                },
+                "exr": {
+                    "size": 24251914,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/kloofendal_43d_clear_2k.exr",
+                    "md5": "51d32f85ad3e85a22fe42649289ee7a5"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1522036,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/kloofendal_43d_clear_1k.hdr",
+                    "md5": "ffeb3c7f97e6418b51b7715ae446fa4e"
+                },
+                "exr": {
+                    "size": 6087369,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/kloofendal_43d_clear_1k.exr",
+                    "md5": "e6e5106790268fe2944ba11d8c0a7c15"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 819918400,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/kloofendal_43d_clear.zip",
+            "md5": "553414a1a07a053728e9a831d92e57cd"
+        }
+    }
+}

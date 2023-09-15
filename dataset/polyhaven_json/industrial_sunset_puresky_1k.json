@@ -1,0 +1,99 @@
+{
+    "evs_cap": 13,
+    "name": "Industrial Sunset (Pure Sky)",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "sunrise-sunset",
+        "partly cloudy",
+        "low contrast",
+        "natural light",
+        "pure skies"
+    ],
+    "type": 0,
+    "date_taken": 1553708760,
+    "info": "Edited sky-only version of [Industrial Sunset](https://polyhaven.com/a/industrial_sunset).",
+    "authors": {
+        "Jarod Guest": "Sky Edits",
+        "Sergej Majboroda": "Original"
+    },
+    "tags": [
+        "pure skies"
+    ],
+    "files_hash": "0465ed8a76d4a6ccf83df6ae40cd4c84dd37c3a0",
+    "date_published": 1677974400,
+    "sponsors": [
+        "66627515"
+    ],
+    "download_count": 95647,
+    "files": {
+        "tonemapped": {
+            "size": 16038282,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/industrial_sunset_puresky.jpg",
+            "md5": "be98161b9ba68820ae9cd80a41d37d97"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 58782680,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/industrial_sunset_puresky_8k.hdr",
+                    "md5": "60cb407a76f19a720d8b6dae16e422e2"
+                },
+                "exr": {
+                    "size": 279615834,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/industrial_sunset_puresky_8k.exr",
+                    "md5": "392a79d2dd18ddeed2aace3a48ddc355"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 191750746,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/industrial_sunset_puresky_16k.hdr",
+                    "md5": "3a3d0f63876967079b842d58a6abd1d6"
+                },
+                "exr": {
+                    "size": 1085209829,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/industrial_sunset_puresky_16k.exr",
+                    "md5": "1b00a2f05976f3e4ccffbcd34be85ead"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 16409672,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/industrial_sunset_puresky_4k.hdr",
+                    "md5": "45dde2afb42e42fa7b2f3a3b36bf6a95"
+                },
+                "exr": {
+                    "size": 72626722,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/industrial_sunset_puresky_4k.exr",
+                    "md5": "e7e03be8255b76d9d157da1fe3ba5961"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 4344656,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/industrial_sunset_puresky_2k.hdr",
+                    "md5": "54457ed6fc7e0dcd7fcdcd0603892a7d"
+                },
+                "exr": {
+                    "size": 19256272,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/industrial_sunset_puresky_2k.exr",
+                    "md5": "1b0cd7f120be24130ba5fec30fcab430"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1158432,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/industrial_sunset_puresky_1k.hdr",
+                    "md5": "622cc98d705210e283318c306089bb2e"
+                },
+                "exr": {
+                    "size": 5276991,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/industrial_sunset_puresky_1k.exr",
+                    "md5": "940892fee9784f1c9f3ce1197399f235"
+                }
+            }
+        }
+    }
+}

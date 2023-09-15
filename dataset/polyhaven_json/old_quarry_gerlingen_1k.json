@@ -1,0 +1,120 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "tags": [
+        "forest",
+        "autumn",
+        "tree",
+        "grass",
+        "field"
+    ],
+    "name": "Old Quarry Gerlingen",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "overcast",
+        "low contrast",
+        "midday"
+    ],
+    "date_taken": 1607265660,
+    "coords": [
+        48.777357,
+        9.064269
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "date_published": 1645056000,
+    "sponsors": [
+        "37678923"
+    ],
+    "files_hash": "0ec4addcf915241856fb6f832ef3576fedbad6e2",
+    "download_count": 18620,
+    "files": {
+        "hdri": {
+            "18k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/old_quarry_gerlingen_18k.hdr",
+                    "size": 552014010,
+                    "md5": "4c0c61d5ff74f33cb0caeb3b25f39ff3"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/old_quarry_gerlingen_18k.exr",
+                    "size": 2779148811,
+                    "md5": "340f59fd2cb483be72124c1034f1ec06"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/old_quarry_gerlingen_16k.hdr",
+                    "size": 429838698,
+                    "md5": "6ff351e1ef02cdd6af746581b4a63347"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/old_quarry_gerlingen_16k.exr",
+                    "size": 2147614552,
+                    "md5": "c546a22c5b292ee199dec35cbeb3366d"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/old_quarry_gerlingen_8k.hdr",
+                    "size": 110962136,
+                    "md5": "cf312c54c63bc34d3b7c4326682d396a"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/old_quarry_gerlingen_8k.exr",
+                    "size": 536937346,
+                    "md5": "6b1c04a74e6e7ae3049abd420f3ea9f1"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/old_quarry_gerlingen_4k.hdr",
+                    "size": 28001667,
+                    "md5": "a85297dfe6a1bbb2881c835cef24f1e4"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/old_quarry_gerlingen_4k.exr",
+                    "size": 134251397,
+                    "md5": "4bb3c48b939c1d447a291b363e1b3b99"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/old_quarry_gerlingen_2k.hdr",
+                    "size": 6960313,
+                    "md5": "53a4fdfe37cb6d44b53dbfc0ee4965b4"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/old_quarry_gerlingen_2k.exr",
+                    "size": 33571717,
+                    "md5": "2254cd322c28f183aaba80b3c52f09b7"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/old_quarry_gerlingen_1k.hdr",
+                    "size": 1704058,
+                    "md5": "d3ae45afc6aa647e349ab567a55b5a97"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/old_quarry_gerlingen_1k.exr",
+                    "size": 8397701,
+                    "md5": "0c964f35d0c3fd42b7498ef4b3c0ac0d"
+                }
+            }
+        },
+        "colorchart": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/old_quarry_gerlingen.zip",
+            "size": 198837084,
+            "md5": "aa1b3557135a9d758df76683d655fbb9"
+        },
+        "tonemapped": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/old_quarry_gerlingen.jpg",
+            "size": 54646569,
+            "md5": "884a2902e997629145f7786775139658"
+        }
+    }
+}

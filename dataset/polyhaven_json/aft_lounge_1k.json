@@ -1,0 +1,107 @@
+{
+    "evs_cap": 24,
+    "type": 0,
+    "tags": [
+        "lounge",
+        "chair",
+        "ship",
+        "stage",
+        "carpet",
+        "window",
+        "ocean",
+        "sun",
+        "lamp",
+        "table"
+    ],
+    "date_published": 1531778400,
+    "name": "Aft Lounge",
+    "categories": [
+        "indoor",
+        "urban",
+        "sunrise-sunset",
+        "clear",
+        "high contrast",
+        "natural light",
+        "artificial light"
+    ],
+    "date_taken": 1524888240,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "name": "Lorie Loeb"
+        }
+    ],
+    "files_hash": "9217d58260ddad9aca4e813ec82fade5fc2969dc",
+    "download_count": 46115,
+    "files": {
+        "tonemapped": {
+            "size": 6592832,
+            "md5": "744f723202331d0c2210d43ba35a8081",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/aft_lounge.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 99865043,
+                    "md5": "772d53597647cefaed296653755f9de9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/aft_lounge_8k.hdr"
+                },
+                "exr": {
+                    "size": 94917045,
+                    "md5": "3221eecae664157a3eefffc40a0080ce",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/aft_lounge_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 354874965,
+                    "md5": "ed7022cf7406d761755af38dbeb4d2bd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/aft_lounge_16k.hdr"
+                },
+                "exr": {
+                    "size": 328168930,
+                    "md5": "ce0f9cf8c08f4a09f907f25339487a00",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/aft_lounge_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26339352,
+                    "md5": "5e8681ccb9d59ecbcf2edbc848b2dc1a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/aft_lounge_4k.hdr"
+                },
+                "exr": {
+                    "size": 26190727,
+                    "md5": "816dae148142792746f85742e24e3280",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/aft_lounge_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6861496,
+                    "md5": "30a3840a39aa12cfd2a0415b74e15484",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/aft_lounge_2k.hdr"
+                },
+                "exr": {
+                    "size": 7077377,
+                    "md5": "5b8a19c7b7f316c0c29cf99f567f6bbd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/aft_lounge_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1776815,
+                    "md5": "52d29fc0e9ff63d190c88d13489a1bad",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/aft_lounge_1k.hdr"
+                },
+                "exr": {
+                    "size": 1885272,
+                    "md5": "1df1409144545c7233fc7e3b387c5ca5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/aft_lounge_1k.exr"
+                }
+            }
+        }
+    }
+}

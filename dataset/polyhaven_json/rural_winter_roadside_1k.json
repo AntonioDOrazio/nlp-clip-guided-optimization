@@ -1,0 +1,100 @@
+{
+    "evs_cap": 11,
+    "type": 0,
+    "tags": [
+        "road",
+        "grass",
+        "field",
+        "snow",
+        "winter"
+    ],
+    "date_published": 1559858400,
+    "name": "Rural Winter Roadside",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "sunrise-sunset",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1553015700,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "10485422"
+    ],
+    "files_hash": "0fd75a83df15c40ba5283a31e977df04495c2597",
+    "download_count": 32005,
+    "files": {
+        "tonemapped": {
+            "size": 5953963,
+            "md5": "dcb7468cae7e1c22c45a36ba1109eb72",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/rural_winter_roadside.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 105089498,
+                    "md5": "44e20b657f653d0d25546450fc248539",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/rural_winter_roadside_8k.hdr"
+                },
+                "exr": {
+                    "size": 85195989,
+                    "md5": "15f4e654b8f7f51035b5d32aa895ba60",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/rural_winter_roadside_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 395647256,
+                    "md5": "018e204e673dacdc589bbc8c6361088d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rural_winter_roadside_16k.hdr"
+                },
+                "exr": {
+                    "size": 320554112,
+                    "md5": "5da1c2d36c85baa4decbac115f9f50d1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rural_winter_roadside_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26492240,
+                    "md5": "4ab558990256cfae15079e83946f6853",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/rural_winter_roadside_4k.hdr"
+                },
+                "exr": {
+                    "size": 21529092,
+                    "md5": "7528b95fd788b7cb8fb489f7525ffd12",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/rural_winter_roadside_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6591719,
+                    "md5": "85ccff37b8787a59d27fc47f26cf6e5e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/rural_winter_roadside_2k.hdr"
+                },
+                "exr": {
+                    "size": 5453306,
+                    "md5": "7232acec23d0714ee1c3901108cfd070",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/rural_winter_roadside_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1648082,
+                    "md5": "e1cc58d8b8675a5f383414a6e9f0eb0d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/rural_winter_roadside_1k.hdr"
+                },
+                "exr": {
+                    "size": 1408374,
+                    "md5": "a59e3829f3b5168962f414ef33564378",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/rural_winter_roadside_1k.exr"
+                }
+            }
+        }
+    }
+}

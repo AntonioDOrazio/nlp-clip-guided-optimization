@@ -1,0 +1,120 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "tags": [
+        "tree",
+        "forest",
+        "autumn",
+        "leaves",
+        "mud"
+    ],
+    "date_published": 1611615600,
+    "name": "Muddy Autumn Forest",
+    "categories": [
+        "outdoor",
+        "nature",
+        "midday",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1607261160,
+    "coords": [
+        48.778718,
+        9.064013
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        "3237733"
+    ],
+    "files_hash": "5e9b70a9a9c06cfa3cf2b702642b996944fbe596",
+    "download_count": 17603,
+    "files": {
+        "tonemapped": {
+            "size": 15676173,
+            "md5": "69c89aef218710b2166913fa68eb26a9",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/muddy_autumn_forest.jpg"
+        },
+        "hdri": {
+            "19k": {
+                "hdr": {
+                    "size": 649920410,
+                    "md5": "8eef3a85c441533c0e8590fd46ce726e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/muddy_autumn_forest_19k.hdr"
+                },
+                "exr": {
+                    "size": 1547523906,
+                    "md5": "26cb7eb8a2d2447835ea516f69133a9f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/muddy_autumn_forest_19k.exr"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "size": 116603817,
+                    "md5": "98e4b7487deb7562333dafc93588d72f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/muddy_autumn_forest_8k.hdr"
+                },
+                "exr": {
+                    "size": 362055319,
+                    "md5": "6961d0cad7fd8a6049d4c427758a5733",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/muddy_autumn_forest_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 453078372,
+                    "md5": "a0e6833e7df9a48b68ea9b6f27722260",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/muddy_autumn_forest_16k.hdr"
+                },
+                "exr": {
+                    "size": 1416469090,
+                    "md5": "c4a21840be69ccc6c68647fab4c2ae19",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/muddy_autumn_forest_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 29698958,
+                    "md5": "501f945c9f5f13d3dfd4301902546c9f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/muddy_autumn_forest_4k.hdr"
+                },
+                "exr": {
+                    "size": 92861169,
+                    "md5": "7bd6b73a2f5f578a2855691fa0204c9d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/muddy_autumn_forest_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7518277,
+                    "md5": "427c2aa25ca50538ffc995de07f65c6c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/muddy_autumn_forest_2k.hdr"
+                },
+                "exr": {
+                    "size": 24077109,
+                    "md5": "2814cd2288658cdea9a62aa33ae95eea",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/muddy_autumn_forest_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1894897,
+                    "md5": "6b48a2f786d2da1f6ded81d26305892f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/muddy_autumn_forest_1k.hdr"
+                },
+                "exr": {
+                    "size": 6375369,
+                    "md5": "772d44c0069d64959e783da4c5305084",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/muddy_autumn_forest_1k.exr"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 210911653,
+            "md5": "59d2f775112ca1d413eea9002c397f53",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/muddy_autumn_forest.zip"
+        }
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "tags": [
+        "sun",
+        "tree",
+        "grass",
+        "hilltop",
+        "hill",
+        "fence"
+    ],
+    "date_published": 1604617200,
+    "name": "Immenst\u00e4dter Horn",
+    "categories": [
+        "outdoor",
+        "nature",
+        "midday",
+        "partly cloudy",
+        "medium contrast",
+        "natural light"
+    ],
+    "coords": [
+        47.552946,
+        10.186616
+    ],
+    "date_taken": 1602153600,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        "3267566",
+        {
+            "url": "https://www.ronenbekerman.com/",
+            "name": "Ronen Bekerman"
+        },
+        "42579608"
+    ],
+    "files_hash": "709db641dde38697be0ff42b7ef6ce70db375f04",
+    "download_count": 227351,
+    "files": {
+        "tonemapped": {
+            "size": 9632498,
+            "md5": "92b202e58df1e260a7d7a6d953bb6c3f",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/immenstadter_horn.jpg"
+        },
+        "hdri": {
+            "19k": {
+                "hdr": {
+                    "size": 565264848,
+                    "md5": "6cb92b4b4b013bd498ef4fb70d1bdf37",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/immenstadter_horn_19k.hdr"
+                },
+                "exr": {
+                    "size": 497526946,
+                    "md5": "e5a90f7ea54accfff5386eb0b8883009",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/immenstadter_horn_19k.exr"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "size": 106395700,
+                    "md5": "aecd53eb1a59ef4f3705bd619e1b4926",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/immenstadter_horn_8k.hdr"
+                },
+                "exr": {
+                    "size": 93247902,
+                    "md5": "de5ac6a6dc0fa2309bf73413ab1d4c06",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/immenstadter_horn_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 407254381,
+                    "md5": "aee838b4bb187f57664675e37a2f770d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/immenstadter_horn_16k.hdr"
+                },
+                "exr": {
+                    "size": 357974900,
+                    "md5": "951e48aee969bbe4a1e8d2a6a72aa4bf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/immenstadter_horn_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27132451,
+                    "md5": "342bdafd0adca45cfe208535c22569b4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/immenstadter_horn_4k.hdr"
+                },
+                "exr": {
+                    "size": 23931918,
+                    "md5": "22ee986e65ba449a54676b1b92148735",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/immenstadter_horn_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6836690,
+                    "md5": "f142c92a6820e305402956322dcc0162",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/immenstadter_horn_2k.hdr"
+                },
+                "exr": {
+                    "size": 6166412,
+                    "md5": "620c93f41eb27a130b0a871b4640a2ca",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/immenstadter_horn_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1720005,
+                    "md5": "00245b7bdbdaae950af982308330f68c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/immenstadter_horn_1k.hdr"
+                },
+                "exr": {
+                    "size": 1603030,
+                    "md5": "c0ac1443861cee0f73828ecd0615050e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/immenstadter_horn_1k.exr"
+                }
+            }
+        }
+    }
+}

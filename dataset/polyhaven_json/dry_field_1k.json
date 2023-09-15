@@ -1,0 +1,106 @@
+{
+    "evs_cap": 21,
+    "type": 0,
+    "tags": [
+        "dry grass",
+        "yellow",
+        "winter",
+        "sun"
+    ],
+    "date_published": 1506981600,
+    "name": "Dry Field",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "partly cloudy",
+        "morning-afternoon",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        -26.126319,
+        28.007311
+    ],
+    "date_taken": 1436016180,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "url": "http://samuelcote.com/",
+            "name": "Samuel C\u00f4t\u00e9"
+        }
+    ],
+    "files_hash": "f27ad2c8a8add6a11c45cdc9769f9542d3b35dad",
+    "download_count": 43817,
+    "files": {
+        "tonemapped": {
+            "size": 5912046,
+            "md5": "c22b75ff97270cb774fac3cb5e5f2339",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/dry_field.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102380197,
+                    "md5": "a998d2360fb7202a206d1420e8044422",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/dry_field_8k.hdr"
+                },
+                "exr": {
+                    "size": 85437134,
+                    "md5": "e75a593a98dc21b3f5f7a587a3e31296",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/dry_field_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 381405680,
+                    "md5": "04f882408b1c9f4b69abb466571f44b3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/dry_field_16k.hdr"
+                },
+                "exr": {
+                    "size": 311370043,
+                    "md5": "3f123121b73f02a2bd5812085514580b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/dry_field_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26541797,
+                    "md5": "22f2ed608ee1fbf8710e958b68110c11",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/dry_field_4k.hdr"
+                },
+                "exr": {
+                    "size": 22237152,
+                    "md5": "ca90cf2f3eb3cd92166e51a749a8d66e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/dry_field_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6724483,
+                    "md5": "36a0f7983e9895e56784122ba794ccd4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/dry_field_2k.hdr"
+                },
+                "exr": {
+                    "size": 5637903,
+                    "md5": "80d919eb24c0e073ca75bf4d8e88cb5b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/dry_field_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1673128,
+                    "md5": "7d0de3d3879054859c32776371ef29c6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/dry_field_1k.hdr"
+                },
+                "exr": {
+                    "size": 1432183,
+                    "md5": "68dbccf8f3bef2a5227a445aaf5703f7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/dry_field_1k.exr"
+                }
+            }
+        }
+    }
+}

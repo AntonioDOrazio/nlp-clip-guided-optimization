@@ -1,0 +1,96 @@
+{
+    "evs_cap": 14,
+    "type": 0,
+    "tags": [
+        "couch",
+        "seat",
+        "bench",
+        "fluorescent"
+    ],
+    "date_published": 1550790000,
+    "name": "Cinema Lobby",
+    "categories": [
+        "indoor",
+        "urban",
+        "medium contrast",
+        "artificial light"
+    ],
+    "date_taken": 1545930840,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "16608220"
+    ],
+    "files_hash": "a34b6a60e6d669f0cc3a5ea6708d4f0baf5179ca",
+    "download_count": 35068,
+    "files": {
+        "tonemapped": {
+            "size": 6368251,
+            "md5": "b9e22169670e8ff46493c8b0fcaa4590",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/cinema_lobby.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102983718,
+                    "md5": "c425f18af46c360e81cb788b5c9bd1d1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/cinema_lobby_8k.hdr"
+                },
+                "exr": {
+                    "size": 93003804,
+                    "md5": "47d87d29a6acc75fc52a06a1211f420b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/cinema_lobby_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 396136400,
+                    "md5": "aaca91b711a5b2d99ddecb0664c75fac",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/cinema_lobby_16k.hdr"
+                },
+                "exr": {
+                    "size": 339966676,
+                    "md5": "402ff88f9d5fe8e6422c74bfb686ee6c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/cinema_lobby_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26366369,
+                    "md5": "9412300aecba939ea9ca1d13850611c0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/cinema_lobby_4k.hdr"
+                },
+                "exr": {
+                    "size": 23987858,
+                    "md5": "627a1db7182f4522684b1ffb3e8acc9c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/cinema_lobby_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6678705,
+                    "md5": "d1961c60896989c95bdbb3eb8d2e5d9b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/cinema_lobby_2k.hdr"
+                },
+                "exr": {
+                    "size": 6051735,
+                    "md5": "745d9e66fd6cf0f058873cd3a0232a85",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/cinema_lobby_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1682194,
+                    "md5": "2d6f48fd544781e698670a9408ce6778",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/cinema_lobby_1k.hdr"
+                },
+                "exr": {
+                    "size": 1536361,
+                    "md5": "707fbbcd03250de5b306fe0cb48e50ea",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/cinema_lobby_1k.exr"
+                }
+            }
+        }
+    }
+}

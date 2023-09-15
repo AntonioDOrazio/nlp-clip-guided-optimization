@@ -1,0 +1,101 @@
+{
+    "evs_cap": 14,
+    "type": 0,
+    "tags": [
+        "lamp",
+        "table",
+        "window",
+        "glass",
+        "balcony",
+        "view",
+        "log"
+    ],
+    "date_published": 1511996400,
+    "name": "Cayley Interior",
+    "categories": [
+        "indoor",
+        "urban",
+        "sunrise-sunset",
+        "artificial light",
+        "natural light",
+        "high contrast"
+    ],
+    "date_taken": 1460647800,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "3567764"
+    ],
+    "files_hash": "62650dee46413da671af6e114c7c7afcca7701a3",
+    "download_count": 198318,
+    "files": {
+        "tonemapped": {
+            "size": 4583075,
+            "md5": "b56ae551991b3cd259cd11f23e4129b5",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/cayley_interior.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103954752,
+                    "md5": "a35acd1b9a1197a247652487869cd85b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/cayley_interior_8k.hdr"
+                },
+                "exr": {
+                    "size": 93625814,
+                    "md5": "0adc74beb25aa311ae38a20dc845ec88",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/cayley_interior_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 402310488,
+                    "md5": "21a2873396b236463bf318ef0bc904f6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/cayley_interior_16k.hdr"
+                },
+                "exr": {
+                    "size": 356169716,
+                    "md5": "7882124cdf8486de0a4e81087b948722",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/cayley_interior_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26384709,
+                    "md5": "81bf138ad57841be8033474037c14421",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/cayley_interior_4k.hdr"
+                },
+                "exr": {
+                    "size": 23775865,
+                    "md5": "2302379f935ad7486d7aa5c439badbe6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/cayley_interior_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6689493,
+                    "md5": "14ad64241c6c81dd22128f3960a9efb1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/cayley_interior_2k.hdr"
+                },
+                "exr": {
+                    "size": 6116713,
+                    "md5": "c98be269e315e381645bf8ce79aae757",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/cayley_interior_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1709305,
+                    "md5": "6583810e1f8a3cf1354b21d93cb2d36d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/cayley_interior_1k.hdr"
+                },
+                "exr": {
+                    "size": 1620311,
+                    "md5": "81d1291d74f05dbe32c8cd9b461eef9a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/cayley_interior_1k.exr"
+                }
+            }
+        }
+    }
+}

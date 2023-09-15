@@ -1,0 +1,97 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5400,
+    "date_published": 1562633268,
+    "name": "Pump House",
+    "categories": [
+        "indoor",
+        "urban",
+        "morning-afternoon",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1546872660,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "files_hash": "b4f35c34728c4343eda23d1af380061e9301b891",
+    "tags": [
+        "brick",
+        "pump",
+        "dirt",
+        "pipe",
+        "shed",
+        "window"
+    ],
+    "download_count": 11453,
+    "files": {
+        "tonemapped": {
+            "size": 7129754,
+            "md5": "3079688102e251697279d6c40e779f57",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/pump_house.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 104941094,
+                    "md5": "ffe0be792b71946fa7bb412d4da27ce5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/pump_house_8k.hdr"
+                },
+                "exr": {
+                    "size": 99625731,
+                    "md5": "8d8e2ced56ebc20e09f0e9db67539ccd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/pump_house_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 395217675,
+                    "md5": "72ea43a9322a89ed3342d70aa84b10b2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/pump_house_16k.hdr"
+                },
+                "exr": {
+                    "size": 359234362,
+                    "md5": "e368323812e659bd92ec9d1bc9760130",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/pump_house_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26952088,
+                    "md5": "7684e74ca3f4c2e4932bc9f58d52f90b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/pump_house_4k.hdr"
+                },
+                "exr": {
+                    "size": 26227381,
+                    "md5": "a334f0cc0daf9d4e7892e783a8169f3b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/pump_house_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6818779,
+                    "md5": "5bf0372ce0c15f63c10885a970da7650",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/pump_house_2k.hdr"
+                },
+                "exr": {
+                    "size": 6713342,
+                    "md5": "557239f2e50951dd3dab097e9a5bfeef",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/pump_house_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1717392,
+                    "md5": "65664015b994cef27928e417597bdc77",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/pump_house_1k.hdr"
+                },
+                "exr": {
+                    "size": 1711086,
+                    "md5": "e8c6fcd3709ba52589b5879db51dcf25",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/pump_house_1k.exr"
+                }
+            }
+        }
+    }
+}

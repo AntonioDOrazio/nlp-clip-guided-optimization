@@ -1,0 +1,110 @@
+{
+    "evs_cap": 20,
+    "type": 0,
+    "tags": [
+        "grass",
+        "tree",
+        "bench",
+        "park",
+        "fence",
+        "hill",
+        "lake",
+        "dam",
+        "sun"
+    ],
+    "date_published": 1508796000,
+    "name": "Delta 2",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "midday",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        -26.12437,
+        28.011295
+    ],
+    "date_taken": 1506946980,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "name": "Kimba"
+        }
+    ],
+    "files_hash": "1512311ead88a05305e508de1a6c551ccaf4594e",
+    "download_count": 166739,
+    "files": {
+        "tonemapped": {
+            "size": 7794187,
+            "md5": "24d704955f45ee642c0e62c9c9d29cc3",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/delta_2.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 100992205,
+                    "md5": "c6369d7b1b8c735d8beb7e554b64504b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/delta_2_8k.hdr"
+                },
+                "exr": {
+                    "size": 89222765,
+                    "md5": "15d852185ee35e9940992def687788a2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/delta_2_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 374340726,
+                    "md5": "79d01a937e9c04e3376203d447d9c794",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/delta_2_16k.hdr"
+                },
+                "exr": {
+                    "size": 328501491,
+                    "md5": "2cdbc4eba119c30d674b51c27b50f494",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/delta_2_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25992918,
+                    "md5": "44277afac720c9134595090372f67f84",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/delta_2_4k.hdr"
+                },
+                "exr": {
+                    "size": 23431189,
+                    "md5": "88821b7e80bc5b5496adbefb7a86b8fe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/delta_2_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6587556,
+                    "md5": "b93171ec54eec20965d533c9746b7256",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/delta_2_2k.hdr"
+                },
+                "exr": {
+                    "size": 6094113,
+                    "md5": "a0e1c441e361f0dd2b9876310061f9c6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/delta_2_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1672484,
+                    "md5": "68837921fba0f31c401e128363e054fb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/delta_2_1k.hdr"
+                },
+                "exr": {
+                    "size": 1588171,
+                    "md5": "a5996486881bbedd4aa495f42d2f42ab",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/delta_2_1k.exr"
+                }
+            }
+        }
+    }
+}

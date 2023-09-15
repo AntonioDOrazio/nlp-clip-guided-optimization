@@ -1,0 +1,123 @@
+{
+    "evs_cap": 26,
+    "type": 0,
+    "whitebalance": 5303,
+    "tags": [
+        "sun",
+        "grass",
+        "concrete",
+        "hut",
+        "bush",
+        "garden",
+        "tree",
+        "playground"
+    ],
+    "name": "Forgotten Miniland",
+    "categories": [
+        "natural light",
+        "outdoor",
+        "nature",
+        "partly cloudy",
+        "high contrast",
+        "sunrise-sunset"
+    ],
+    "coords": [
+        -26.2294633429358,
+        28.053987291911515
+    ],
+    "date_taken": 1666938120,
+    "info": null,
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "files_hash": "6150e2b4c6c4d4a3ff8b9ffc1a02c0dbb76afdb2",
+    "date_published": 1673395200,
+    "download_count": 66052,
+    "files": {
+        "tonemapped": {
+            "size": 44096759,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/forgotten_miniland.jpg",
+            "md5": "939d928a44965e492547c9c3b4b81424"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 98115821,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/forgotten_miniland_8k.hdr",
+                    "md5": "0a636ebf4a4b724a91ebc301fb81f923"
+                },
+                "exr": {
+                    "size": 383688957,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/forgotten_miniland_8k.exr",
+                    "md5": "999dccb61e56309564cedef331293773"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 357299534,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/forgotten_miniland_16k.hdr",
+                    "md5": "563248b5b3c4c1dd4342c742391d4b4a"
+                },
+                "exr": {
+                    "size": 1515989945,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/forgotten_miniland_16k.exr",
+                    "md5": "c500a665bf4f01af2d4990fd6d888c61"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24885960,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/forgotten_miniland_4k.hdr",
+                    "md5": "4bbc771ed9ea13ee625447ed6ec6a180"
+                },
+                "exr": {
+                    "size": 96319708,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/forgotten_miniland_4k.exr",
+                    "md5": "ef4196e6c589a3f49873712d1678c880"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6096404,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/forgotten_miniland_2k.hdr",
+                    "md5": "17cba062c6dca69dc10bc15ef866cc5f"
+                },
+                "exr": {
+                    "size": 24145756,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/forgotten_miniland_2k.exr",
+                    "md5": "3d8e83d4a2f836ab72ab5681a914223f"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 773893071,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/forgotten_miniland_24k.hdr",
+                    "md5": "38aef6066351b5f8237c6357b55393e8"
+                },
+                "exr": {
+                    "size": 3379790687,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/forgotten_miniland_24k.exr",
+                    "md5": "c90c553329d7fe46959c832c0ef45489"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1489345,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/forgotten_miniland_1k.hdr",
+                    "md5": "faa012759f8a645ab336989ba6d1e763"
+                },
+                "exr": {
+                    "size": 6059437,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/forgotten_miniland_1k.exr",
+                    "md5": "5c18c6de6ddb0853038668ac8be6a4c1"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 218163536,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/forgotten_miniland.zip",
+            "md5": "50cf06a650181dbd71cd24112983edcf"
+        }
+    }
+}

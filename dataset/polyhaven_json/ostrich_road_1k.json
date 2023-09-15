@@ -1,0 +1,466 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "date_published": 1522879200,
+    "name": "Ostrich Road",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "morning-afternoon",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        -34.355893,
+        18.473482
+    ],
+    "date_taken": 1464593400,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "name": "3DLux"
+        }
+    ],
+    "backplates": true,
+    "tags": [
+        "road",
+        "shrub",
+        "hill",
+        "bush",
+        "backplates"
+    ],
+    "files_hash": "925010f4e9cfaa99805575455d2d410679a69f55",
+    "download_count": 40227,
+    "files": {
+        "tonemapped": {
+            "size": 5007806,
+            "md5": "9f2f9a771f3b877ed2706908be2e7d37",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/ostrich_road.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102750328,
+                    "md5": "abc5b742d057863773a527f576ac425d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/ostrich_road_8k.hdr"
+                },
+                "exr": {
+                    "size": 84958599,
+                    "md5": "c7140926f5b60c1aec73e15e3fee0d42",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/ostrich_road_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 385185027,
+                    "md5": "cf7020ededaa2310f9fdf64dcc166465",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/ostrich_road_16k.hdr"
+                },
+                "exr": {
+                    "size": 315267467,
+                    "md5": "ebc7619a194350c9bf74c64e0646041b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/ostrich_road_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26314133,
+                    "md5": "46c147c64970b906f8da60d8a2f0073a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/ostrich_road_4k.hdr"
+                },
+                "exr": {
+                    "size": 21958891,
+                    "md5": "400d2c6f6e7663e189dabcc6cc6c430d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/ostrich_road_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6618128,
+                    "md5": "343a0673ccecc6a05037c2e9cc36d3e1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/ostrich_road_2k.hdr"
+                },
+                "exr": {
+                    "size": 5640622,
+                    "md5": "76f29965c5a935f2717b1f3106f01807",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/ostrich_road_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1653170,
+                    "md5": "238bebe3d20a7b5c7d048be3760b3e60",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/ostrich_road_1k.hdr"
+                },
+                "exr": {
+                    "size": 1455801,
+                    "md5": "10fdcbe6ff5fc44d40d727c46c635ce4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/ostrich_road_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "IMG_0309": {
+                "jpg_pretty": {
+                    "size": 9007124,
+                    "md5": "02af26b158b3473a97b668a30d05b328",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_pretty/IMG_0309.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6815699,
+                    "md5": "caf0b9513b71ac8054389e2c8fc72a83",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_plain/IMG_0309.jpg"
+                },
+                "raw": {
+                    "size": 24122458,
+                    "md5": "b5d2b227daeb1478e8b48c15a8aac5e8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/raw/IMG_0309.dng"
+                }
+            },
+            "IMG_0308": {
+                "jpg_pretty": {
+                    "size": 6743373,
+                    "md5": "1408d4532c162c16b4a4bf82acd9077f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_pretty/IMG_0308.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6420820,
+                    "md5": "111fe15a7ea2058f5b0d8be77d5f495f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_plain/IMG_0308.jpg"
+                },
+                "raw": {
+                    "size": 20537900,
+                    "md5": "05d2d1ba9bec60a6628ef9fa18dd87c3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/raw/IMG_0308.dng"
+                }
+            },
+            "IMG_0307": {
+                "jpg_pretty": {
+                    "size": 7932507,
+                    "md5": "525f0cfef118bd84a89e6b6a0a7ebcfc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_pretty/IMG_0307.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6426846,
+                    "md5": "245794f39bc0e6e611b815ac8cee0475",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_plain/IMG_0307.jpg"
+                },
+                "raw": {
+                    "size": 19666052,
+                    "md5": "a2857f85dbe676372a1fa8b4cd3ae8a4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/raw/IMG_0307.dng"
+                }
+            },
+            "IMG_0304": {
+                "jpg_pretty": {
+                    "size": 7108531,
+                    "md5": "dcf93f118b4fb8a52ab5a3402549f5e8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_pretty/IMG_0304.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5709833,
+                    "md5": "0bc46cad3f225b3b9a34f46ab9cbd68e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_plain/IMG_0304.jpg"
+                },
+                "raw": {
+                    "size": 21803764,
+                    "md5": "0b3bd6e3cf6dd2da90fdb1860c962e02",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/raw/IMG_0304.dng"
+                }
+            },
+            "IMG_0303": {
+                "jpg_pretty": {
+                    "size": 7019696,
+                    "md5": "0b2b3864ebdaeddb3f39d466c43bc342",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_pretty/IMG_0303.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6202207,
+                    "md5": "5d56330f3b999740a698f9f803724e9a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_plain/IMG_0303.jpg"
+                },
+                "raw": {
+                    "size": 20948718,
+                    "md5": "c4eabdd58f3eb8cf7fa64278ef3450b1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/raw/IMG_0303.dng"
+                }
+            },
+            "IMG_0288": {
+                "jpg_pretty": {
+                    "size": 8226348,
+                    "md5": "7543dbba1a54bea4245de29d42b9026b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_pretty/IMG_0288.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5978303,
+                    "md5": "09fc11734a5ff0acbeab3b4ac03844dd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_plain/IMG_0288.jpg"
+                },
+                "raw": {
+                    "size": 23814788,
+                    "md5": "2f1f803e8a47c6335b22849a59364367",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/raw/IMG_0288.dng"
+                }
+            },
+            "IMG_0300": {
+                "jpg_pretty": {
+                    "size": 9945505,
+                    "md5": "4ed8214540a19ba477039f9a2c3d80fc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_pretty/IMG_0300.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7468404,
+                    "md5": "fc306ac3a59e97aab38f5d586568cd74",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_plain/IMG_0300.jpg"
+                },
+                "raw": {
+                    "size": 23737146,
+                    "md5": "b364ab5f1f9612477b5bfb349353f873",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/raw/IMG_0300.dng"
+                }
+            },
+            "IMG_0311": {
+                "jpg_pretty": {
+                    "size": 4644849,
+                    "md5": "cfb0c032c1b6ad4767d1e520be8d88b5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_pretty/IMG_0311.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5316439,
+                    "md5": "1183b83c233607d44814d620fa506fe5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_plain/IMG_0311.jpg"
+                },
+                "raw": {
+                    "size": 20551472,
+                    "md5": "73dcf807a9cb0cefd2be3c913495e092",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/raw/IMG_0311.dng"
+                }
+            },
+            "IMG_0289": {
+                "jpg_pretty": {
+                    "size": 10462475,
+                    "md5": "0c49d24e2680224741d2b7c160f31eac",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_pretty/IMG_0289.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8709938,
+                    "md5": "883275a41718170334b0a663f0d8a1df",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_plain/IMG_0289.jpg"
+                },
+                "raw": {
+                    "size": 24161808,
+                    "md5": "0c274e723e96098ea9162a1a963dc521",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/raw/IMG_0289.dng"
+                }
+            },
+            "IMG_0310": {
+                "jpg_pretty": {
+                    "size": 10684675,
+                    "md5": "56774211bc6d5173e8ce10e879803311",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_pretty/IMG_0310.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7911017,
+                    "md5": "319bc3d262186c5924e540a0ae5678b9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_plain/IMG_0310.jpg"
+                },
+                "raw": {
+                    "size": 24300308,
+                    "md5": "b2fddffbd359b6c1754c711fc7b75a4c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/raw/IMG_0310.dng"
+                }
+            },
+            "IMG_0286": {
+                "jpg_pretty": {
+                    "size": 7101830,
+                    "md5": "521e368489ac680bc65d94836f45dd66",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_pretty/IMG_0286.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5513114,
+                    "md5": "11d9b3ae0ccdd303722ca75f17233dc8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_plain/IMG_0286.jpg"
+                },
+                "raw": {
+                    "size": 23155244,
+                    "md5": "701c9d52dc714168441aa8e2cca1de0c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/raw/IMG_0286.dng"
+                }
+            },
+            "IMG_0287": {
+                "jpg_pretty": {
+                    "size": 12528326,
+                    "md5": "d8080c06a44140e1975d226213269ee1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_pretty/IMG_0287.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9245869,
+                    "md5": "577c26d0dd39381b6e20e8036aec4341",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_plain/IMG_0287.jpg"
+                },
+                "raw": {
+                    "size": 24103788,
+                    "md5": "8c2acb0b3e087060f50b1a9eb8375744",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/raw/IMG_0287.dng"
+                }
+            },
+            "IMG_0284": {
+                "jpg_pretty": {
+                    "size": 10833641,
+                    "md5": "ad9b3b16d1436129e220338630695b56",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_pretty/IMG_0284.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8504745,
+                    "md5": "99012516926860071d1428fe79c4d2c7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_plain/IMG_0284.jpg"
+                },
+                "raw": {
+                    "size": 23456654,
+                    "md5": "1d3db7189c8a1ba8839b2dc54fca0b71",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/raw/IMG_0284.dng"
+                }
+            },
+            "IMG_0285": {
+                "jpg_pretty": {
+                    "size": 10614318,
+                    "md5": "5eda6a0ad5c0eeb525466a952900b66c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_pretty/IMG_0285.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8170863,
+                    "md5": "246e1ec4e5d5cde47127e65c6b7ec2b8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_plain/IMG_0285.jpg"
+                },
+                "raw": {
+                    "size": 23119600,
+                    "md5": "34aaf0cac3ac1013689ceae18ebb993a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/raw/IMG_0285.dng"
+                }
+            },
+            "IMG_0296": {
+                "jpg_pretty": {
+                    "size": 8746727,
+                    "md5": "0e398d2ac7d3239abeeae7304aa68dae",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_pretty/IMG_0296.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6497531,
+                    "md5": "d2f2671256871591b6db3ac3ad1d8e5f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_plain/IMG_0296.jpg"
+                },
+                "raw": {
+                    "size": 23545526,
+                    "md5": "ded24cf0e56827b3025a09762eff0abe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/raw/IMG_0296.dng"
+                }
+            },
+            "IMG_0293": {
+                "jpg_pretty": {
+                    "size": 7762056,
+                    "md5": "ddd36321bf025a5f258ebb7e073bf1c4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_pretty/IMG_0293.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6419799,
+                    "md5": "bb8e32ccb3c21da465f9ecf60446a066",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_plain/IMG_0293.jpg"
+                },
+                "raw": {
+                    "size": 20870960,
+                    "md5": "66deee360ecc27fa437b3c190f5895ce",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/raw/IMG_0293.dng"
+                }
+            },
+            "IMG_0283": {
+                "jpg_pretty": {
+                    "size": 5119570,
+                    "md5": "a0cbbfc196580af33ea17988d32dcb3f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_pretty/IMG_0283.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5804286,
+                    "md5": "6a9a49e983ed8128237fcd11be9c906b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_plain/IMG_0283.jpg"
+                },
+                "raw": {
+                    "size": 21222954,
+                    "md5": "d8c5826fad1209f317677a7d10473665",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/raw/IMG_0283.dng"
+                }
+            },
+            "IMG_0294": {
+                "jpg_pretty": {
+                    "size": 6099233,
+                    "md5": "3baf7761d285cb93d4604d01f22f8f4a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_pretty/IMG_0294.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5452609,
+                    "md5": "42efde91545bd651f27bd8f465fb2288",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_plain/IMG_0294.jpg"
+                },
+                "raw": {
+                    "size": 20273490,
+                    "md5": "60eef51260dd296763dd0c8a9083ea7c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/raw/IMG_0294.dng"
+                }
+            },
+            "IMG_0291": {
+                "jpg_pretty": {
+                    "size": 3548776,
+                    "md5": "4281f84e65b0cfc0fae01eabb7f7f45a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_pretty/IMG_0291.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5102003,
+                    "md5": "e07cd062ed40e96c5bf9f1931a5596e9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_plain/IMG_0291.jpg"
+                },
+                "raw": {
+                    "size": 19119012,
+                    "md5": "593f5d5bb576a74984baa9a258b185ed",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/raw/IMG_0291.dng"
+                }
+            },
+            "IMG_0292": {
+                "jpg_pretty": {
+                    "size": 10594045,
+                    "md5": "90748041e68571ca8dda38354bfdbb7e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_pretty/IMG_0292.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8421224,
+                    "md5": "2f3cbf032846825266a9c65373b13a7f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_plain/IMG_0292.jpg"
+                },
+                "raw": {
+                    "size": 21695470,
+                    "md5": "0bfa7f557dcac80e73ca44350dd020d3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/raw/IMG_0292.dng"
+                }
+            },
+            "IMG_0290": {
+                "jpg_pretty": {
+                    "size": 4898608,
+                    "md5": "072e071c337b397c4ffbc454c075f1c1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_pretty/IMG_0290.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5872602,
+                    "md5": "a5441c3303bf65d116b57056ff6d3267",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/jpg_plain/IMG_0290.jpg"
+                },
+                "raw": {
+                    "size": 19616894,
+                    "md5": "4bc6e93cd850d6c0ab1a56b3dd307baa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/ostrich_road/raw/IMG_0290.dng"
+                }
+            }
+        }
+    }
+}

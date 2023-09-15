@@ -1,0 +1,104 @@
+{
+    "evs_cap": 21,
+    "type": 0,
+    "tags": [
+        "moon",
+        "field",
+        "stars",
+        "grass",
+        "tree"
+    ],
+    "date_published": 1522879200,
+    "name": "Moonlit Golf",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "night",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1443378240,
+    "coords": [
+        -25.031215,
+        31.14022
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "3567764"
+    ],
+    "files_hash": "c1dbe728ba6e1f6b708e05c76105bc2e54c87024",
+    "download_count": 209493,
+    "files": {
+        "tonemapped": {
+            "size": 7127492,
+            "md5": "ef08349a60bc1772927aaa6aa11ff93c",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/moonlit_golf.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 112116433,
+                    "md5": "b5f164c55126a26028bafe3828122938",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/moonlit_golf_8k.hdr"
+                },
+                "exr": {
+                    "size": 112631648,
+                    "md5": "090bb89ef7d9bc6b2e80fa609b82d130",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/moonlit_golf_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 428864204,
+                    "md5": "3757785cacb7f4d7cceaba7a0b917dd6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/moonlit_golf_16k.hdr"
+                },
+                "exr": {
+                    "size": 420773241,
+                    "md5": "6f35f63179fca6bab12da970d8dd4b2b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/moonlit_golf_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27933102,
+                    "md5": "66b262635bf2c06c972fbf6c742b791e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/moonlit_golf_4k.hdr"
+                },
+                "exr": {
+                    "size": 26502331,
+                    "md5": "8c73de9aab0560e0369a967ad0ad0243",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/moonlit_golf_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6965630,
+                    "md5": "c17ce656eefd5c3975f4d26fca9cb6a8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/moonlit_golf_2k.hdr"
+                },
+                "exr": {
+                    "size": 6391359,
+                    "md5": "985c101b30fef96e1892c5d5cc98c675",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/moonlit_golf_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1720798,
+                    "md5": "2b26bafa9bcfe66f422df21b1e1befe9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/moonlit_golf_1k.hdr"
+                },
+                "exr": {
+                    "size": 1524357,
+                    "md5": "6991bc96714540904f0a073ed2b5a1d8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/moonlit_golf_1k.exr"
+                }
+            }
+        }
+    }
+}

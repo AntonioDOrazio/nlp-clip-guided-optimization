@@ -1,0 +1,130 @@
+{
+    "evs_cap": 26,
+    "type": 0,
+    "whitebalance": 5303,
+    "tags": [
+        "sun",
+        "bridge",
+        "pond",
+        "lake",
+        "water",
+        "padlock",
+        "tower",
+        "iron",
+        "symmetrical",
+        "willow",
+        "steel",
+        "romantic",
+        "bench",
+        "bicycle"
+    ],
+    "name": "Little Paris Under Tower",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "clear",
+        "high contrast",
+        "sunrise-sunset",
+        "urban"
+    ],
+    "date_taken": 1678555560,
+    "coords": [
+        -25.737042635939886,
+        27.902084094407385
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "info": null,
+    "files_hash": "7279806683ecf9c337eba870af9bfb166e39a422",
+    "date_published": 1682726400,
+    "download_count": 14675,
+    "files": {
+        "tonemapped": {
+            "size": 51810592,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/little_paris_under_tower.jpg",
+            "md5": "62b53c6dc3b4ca9a7643784e65a58121"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 106098488,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/little_paris_under_tower_8k.hdr",
+                    "md5": "b301682c32a13adfe27c43c1b2d8bb35"
+                },
+                "exr": {
+                    "size": 386575074,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/little_paris_under_tower_8k.exr",
+                    "md5": "69171288dc8d600e53d931cb104c6fa9"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 397394348,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/little_paris_under_tower_16k.hdr",
+                    "md5": "17e3451c4ac2f8d93d9e98a7d3f5070a"
+                },
+                "exr": {
+                    "size": 1528355243,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/little_paris_under_tower_16k.exr",
+                    "md5": "f887f6db73224f99aa20886d95f5efd0"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27376776,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/little_paris_under_tower_4k.hdr",
+                    "md5": "03e113f363537bba6a1fb1122a755d73"
+                },
+                "exr": {
+                    "size": 97248147,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/little_paris_under_tower_4k.exr",
+                    "md5": "fd40ebd1ab361f241a1d6ef1d19dac4e"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 865960017,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/little_paris_under_tower_24k.hdr",
+                    "md5": "de19e92db6b3265c747fd2ed91595d5e"
+                },
+                "exr": {
+                    "size": 3407482360,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/little_paris_under_tower_24k.exr",
+                    "md5": "5352c7233e22aa32e94233e8c6a363b6"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6996664,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/little_paris_under_tower_2k.hdr",
+                    "md5": "4558418b56a59d7448d5ff05c27bbc4b"
+                },
+                "exr": {
+                    "size": 24448783,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/little_paris_under_tower_2k.exr",
+                    "md5": "c49ae7a5d2f021ef21381e5068605325"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1788137,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/little_paris_under_tower_1k.hdr",
+                    "md5": "8c30caa6e5ce2f41c6e9004d7580a6ed"
+                },
+                "exr": {
+                    "size": 6151381,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/little_paris_under_tower_1k.exr",
+                    "md5": "a1d37f79744fe3cf7818f65f9b237957"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 215000852,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/little_paris_under_tower.zip",
+            "md5": "f9c3c5eddd2aa5f332f55ab7dc857414"
+        }
+    }
+}

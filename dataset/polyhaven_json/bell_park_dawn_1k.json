@@ -1,0 +1,100 @@
+{
+    "evs_cap": 6,
+    "type": 0,
+    "tags": [
+        "dam",
+        "lake",
+        "grass",
+        "hill"
+    ],
+    "date_published": 1522879200,
+    "name": "Bell Park Dawn",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "sunrise-sunset",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        -28.956042,
+        29.435203
+    ],
+    "date_taken": 1460608740,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "files_hash": "507bc3142d14259ee76c0cb184648eb86adebf9a",
+    "download_count": 44805,
+    "files": {
+        "tonemapped": {
+            "size": 5949490,
+            "md5": "bb866374f137b33425c2b7d9ff5c8578",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/bell_park_dawn.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 106919836,
+                    "md5": "f7d63cb5f1c0f2e5fcf260819fe60957",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/bell_park_dawn_8k.hdr"
+                },
+                "exr": {
+                    "size": 93281016,
+                    "md5": "a9d51b26d606e0331dcfb463ff444d97",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/bell_park_dawn_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 407623652,
+                    "md5": "2d2d34526044414e6cd670bf2cf5d67e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/bell_park_dawn_16k.hdr"
+                },
+                "exr": {
+                    "size": 351503352,
+                    "md5": "cd47eeb2973c03172dcaaf74212c1f56",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/bell_park_dawn_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27179843,
+                    "md5": "2e4ce45547376a858a034139c5df58e3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/bell_park_dawn_4k.hdr"
+                },
+                "exr": {
+                    "size": 22925350,
+                    "md5": "55e2ebfd7e2dcbfeae3cc6373bddbd92",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/bell_park_dawn_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6751432,
+                    "md5": "8393a014383991b00eef9fb6e74c8d68",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/bell_park_dawn_2k.hdr"
+                },
+                "exr": {
+                    "size": 5562545,
+                    "md5": "531251a517f53d1ba3cbdb7167d8b70d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/bell_park_dawn_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1643660,
+                    "md5": "8d108f562df28732304a269437321b9d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/bell_park_dawn_1k.hdr"
+                },
+                "exr": {
+                    "size": 1380276,
+                    "md5": "181db87d33e88fa4eba5b5561b97c525",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/bell_park_dawn_1k.exr"
+                }
+            }
+        }
+    }
+}

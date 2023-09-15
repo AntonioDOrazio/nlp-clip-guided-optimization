@@ -1,0 +1,121 @@
+{
+    "evs_cap": 23,
+    "type": 0,
+    "whitebalance": 5329,
+    "tags": [
+        "mountain",
+        "hilltop",
+        "grass",
+        "shrub",
+        "valley",
+        "lookout"
+    ],
+    "name": "Clarens Midday",
+    "categories": [
+        "natural light",
+        "nature",
+        "outdoor",
+        "low contrast",
+        "midday",
+        "partly cloudy",
+        "skies"
+    ],
+    "date_taken": 1619621580,
+    "coords": [
+        -28.524658,
+        28.409542
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "date_published": 1662336000,
+    "files_hash": "7dc5cdcbc2e966060e0233311ee31c1ca2461519",
+    "download_count": 130490,
+    "files": {
+        "tonemapped": {
+            "size": 40962566,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/clarens_midday.jpg",
+            "md5": "021b10bff1d00231ad6b5993c6b521a5"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101201774,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/clarens_midday_8k.hdr",
+                    "md5": "b1f56b612dc452844ed35acd34f6388c"
+                },
+                "exr": {
+                    "size": 330623740,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/clarens_midday_8k.exr",
+                    "md5": "d6563f9314fda3e764d0a062385b7e88"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 381188310,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/clarens_midday_16k.hdr",
+                    "md5": "2c0a0b59531d091a4687c784867253c0"
+                },
+                "exr": {
+                    "size": 1251988476,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/clarens_midday_16k.exr",
+                    "md5": "d28a41d7cd2d31c73ba8a853afd32d0a"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25749971,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/clarens_midday_4k.hdr",
+                    "md5": "7efb0689bac3f6618a220ffc1ad92f8e"
+                },
+                "exr": {
+                    "size": 85633858,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/clarens_midday_4k.exr",
+                    "md5": "72f1d3ed21022b0b318225f5f1368d4f"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 841551946,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/clarens_midday_24k.hdr",
+                    "md5": "d0fdd1bda655f56af0e27339ff65ff0c"
+                },
+                "exr": {
+                    "size": 2796214215,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/clarens_midday_24k.exr",
+                    "md5": "66fd578c2c4521a729641206ad05919a"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6476415,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/clarens_midday_2k.hdr",
+                    "md5": "a67abb36bea89c6a07b2425b65441e24"
+                },
+                "exr": {
+                    "size": 22503010,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/clarens_midday_2k.exr",
+                    "md5": "7e8c56b3a1d8e9f348ef4ecf026dd178"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1621639,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/clarens_midday_1k.hdr",
+                    "md5": "7be5f434a87beadf4586891a6251ee3a"
+                },
+                "exr": {
+                    "size": 6036284,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/clarens_midday_1k.exr",
+                    "md5": "c782d5c676d391cb626a8ea5dd62ec16"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 67977422,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/clarens_midday.zip",
+            "md5": "3473495c5785cd69738565f6ac5657d3"
+        }
+    }
+}

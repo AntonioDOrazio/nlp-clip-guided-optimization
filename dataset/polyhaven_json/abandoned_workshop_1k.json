@@ -1,0 +1,487 @@
+{
+    "evs_cap": 16,
+    "type": 0,
+    "whitebalance": 4550,
+    "date_published": 1606172400,
+    "name": "Abandoned workshop",
+    "categories": [
+        "indoor",
+        "urban",
+        "medium contrast",
+        "natural light"
+    ],
+    "date_taken": 1597313400,
+    "coords": [
+        50.922393,
+        34.822357
+    ],
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "16608220"
+    ],
+    "backplates": true,
+    "tags": [
+        "abandoned",
+        "warehouse",
+        "rubble",
+        "brick",
+        "pillar",
+        "bare",
+        "empty",
+        "backplates"
+    ],
+    "files_hash": "75a54728474138e2ea2bd631bc0729cb18d217cb",
+    "download_count": 21679,
+    "files": {
+        "tonemapped": {
+            "size": 7469545,
+            "md5": "2807935ae46bad569a1d2e60cad764c8",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/abandoned_workshop.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103143928,
+                    "md5": "f7046eb765a098fcb83ae47f7a22b506",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/abandoned_workshop_8k.hdr"
+                },
+                "exr": {
+                    "size": 95093565,
+                    "md5": "99b326491064d1b7be13990a9da75e93",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/abandoned_workshop_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 393622675,
+                    "md5": "72a08ae22682a113c8a9ba1d1c28f4ab",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/abandoned_workshop_16k.hdr"
+                },
+                "exr": {
+                    "size": 339515959,
+                    "md5": "4388e71d5ac8a8743d45e47a73a2ea4b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/abandoned_workshop_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26528900,
+                    "md5": "1fd280d852835951ed150924ab6ea271",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/abandoned_workshop_4k.hdr"
+                },
+                "exr": {
+                    "size": 25180459,
+                    "md5": "2d45cbe6041342db21cce4414d4e122f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/abandoned_workshop_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6739970,
+                    "md5": "612f93b122c6c0b92bf2ea4355e6c577",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/abandoned_workshop_2k.hdr"
+                },
+                "exr": {
+                    "size": 6460723,
+                    "md5": "610eea16bcbddd7fc77250bee5963df2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/abandoned_workshop_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1697985,
+                    "md5": "3131ea8d1ff78b036ba259e8d4577327",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/abandoned_workshop_1k.hdr"
+                },
+                "exr": {
+                    "size": 1636406,
+                    "md5": "56fd0f4547d3f964b66ebff7a8cb962f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/abandoned_workshop_1k.exr"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 86445407,
+            "md5": "96d5d4f56a8771a2259f5dc3fe3a2925",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/abandoned_workshop.zip"
+        },
+        "backplates": {
+            "DSC_7270": {
+                "jpg_pretty": {
+                    "size": 16854705,
+                    "md5": "0a4f772436e760b8ac184689602c064f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_pretty/DSC_7270.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12902484,
+                    "md5": "a9d64552e9765b913673d471ab9ad72d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_plain/DSC_7270.jpg"
+                },
+                "raw": {
+                    "size": 24744002,
+                    "md5": "dffe277646c58f04cde6924dc1af5751",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/raw/DSC_7270.NEF"
+                }
+            },
+            "DSC_7305": {
+                "jpg_pretty": {
+                    "size": 13340125,
+                    "md5": "884e55600fe8ea73b3879135d17b318f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_pretty/DSC_7305.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10455960,
+                    "md5": "16b4242cf52a7ae74ec2953f27c459fe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_plain/DSC_7305.jpg"
+                },
+                "raw": {
+                    "size": 26551557,
+                    "md5": "2f007f5645487658b2d34536483bd7fc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/raw/DSC_7305.NEF"
+                }
+            },
+            "DSC_7405": {
+                "jpg_pretty": {
+                    "size": 14259504,
+                    "md5": "6d1c8a701e360f1f8095ec2234899adf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_pretty/DSC_7405.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12983667,
+                    "md5": "9695ae636f3e058a5ff61c188923445f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_plain/DSC_7405.jpg"
+                },
+                "raw": {
+                    "size": 26966823,
+                    "md5": "459b1c93f3291522f3a2bb49c7d0c559",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/raw/DSC_7405.NEF"
+                }
+            },
+            "DSC_7205": {
+                "jpg_pretty": {
+                    "size": 12174237,
+                    "md5": "44aed10ac1a2a64d148dd515c6137f39",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_pretty/DSC_7205.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9169620,
+                    "md5": "350dd0346ede446b0aaf1a325a5c4ca5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_plain/DSC_7205.jpg"
+                },
+                "raw": {
+                    "size": 23886630,
+                    "md5": "2de2dc9ccf8be4b2eca072de28eb94f9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/raw/DSC_7205.NEF"
+                }
+            },
+            "DSC_7315": {
+                "jpg_pretty": {
+                    "size": 14375567,
+                    "md5": "b02d3b714288c713ba0a9024c2f1872f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_pretty/DSC_7315.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13326188,
+                    "md5": "776d528b9b79418ad7055860eea3042b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_plain/DSC_7315.jpg"
+                },
+                "raw": {
+                    "size": 25290131,
+                    "md5": "65501e6711b7eb300f47750f96557481",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/raw/DSC_7315.NEF"
+                }
+            },
+            "DSC_7455": {
+                "jpg_pretty": {
+                    "size": 14210021,
+                    "md5": "6eb5429e8d509f10058fcb75979f60d9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_pretty/DSC_7455.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12853951,
+                    "md5": "3ad2746a84b8383c6dbc69a1679ced52",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_plain/DSC_7455.jpg"
+                },
+                "raw": {
+                    "size": 24312149,
+                    "md5": "c0029ce69fb73dcd33fc95c193fa6199",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/raw/DSC_7455.NEF"
+                }
+            },
+            "DSC_7145": {
+                "jpg_pretty": {
+                    "size": 18296933,
+                    "md5": "f45f7719a3dafb5556d6de5d66f511bd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_pretty/DSC_7145.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12121940,
+                    "md5": "b9a24d2b78682834c1c0b44f3fbdaf6a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_plain/DSC_7145.jpg"
+                },
+                "raw": {
+                    "size": 24330646,
+                    "md5": "b8a4b1707e7a33c30bffa7f32aaad411",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/raw/DSC_7145.NEF"
+                }
+            },
+            "DSC_7200": {
+                "jpg_pretty": {
+                    "size": 13487497,
+                    "md5": "3a0c1e00ab53a1d21bdf347c3ced5bfa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_pretty/DSC_7200.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9949393,
+                    "md5": "cf306744fecc4b88ae059318948efa44",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_plain/DSC_7200.jpg"
+                },
+                "raw": {
+                    "size": 24031103,
+                    "md5": "be401b7483b18d0704379d63c4184d4a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/raw/DSC_7200.NEF"
+                }
+            },
+            "DSC_7255": {
+                "jpg_pretty": {
+                    "size": 13320763,
+                    "md5": "2f75302fab3753841a575fa01315394b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_pretty/DSC_7255.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10480163,
+                    "md5": "b392ced87fc70ae3062fb699b6629a89",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_plain/DSC_7255.jpg"
+                },
+                "raw": {
+                    "size": 23804127,
+                    "md5": "c3dedd2dd42da8aed9adb0558a97e19c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/raw/DSC_7255.NEF"
+                }
+            },
+            "DSC_7365": {
+                "jpg_pretty": {
+                    "size": 13923258,
+                    "md5": "ff1ac9c8648dbed2db11add7a832ec0f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_pretty/DSC_7365.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12565895,
+                    "md5": "48c0c35aea703d58dab359c309927abc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_plain/DSC_7365.jpg"
+                },
+                "raw": {
+                    "size": 25265939,
+                    "md5": "09c6c57693cd6906818c52b5df8434a3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/raw/DSC_7365.NEF"
+                }
+            },
+            "DSC_7410": {
+                "jpg_pretty": {
+                    "size": 15047445,
+                    "md5": "08e73816be331595a0d7c46aa8dd277c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_pretty/DSC_7410.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12893011,
+                    "md5": "5fcd24f78f2077b2b9fd9ef76ad8a0ae",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_plain/DSC_7410.jpg"
+                },
+                "raw": {
+                    "size": 25305037,
+                    "md5": "51101ce1fe2f85cd471f2b87be6d7746",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/raw/DSC_7410.NEF"
+                }
+            },
+            "DSC_7165": {
+                "jpg_pretty": {
+                    "size": 12567937,
+                    "md5": "b983f626131dc1ee3a3ea1f58827687f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_pretty/DSC_7165.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10323219,
+                    "md5": "9151e722a012666800ddd5fbd3d0ca44",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_plain/DSC_7165.jpg"
+                },
+                "raw": {
+                    "size": 24450129,
+                    "md5": "e9945ccd6ea93282a71ef993630ee00a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/raw/DSC_7165.NEF"
+                }
+            },
+            "DSC_7220": {
+                "jpg_pretty": {
+                    "size": 13743112,
+                    "md5": "58f458bbe59fbd8b59861e85545c2921",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_pretty/DSC_7220.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11040994,
+                    "md5": "7d5964a273e5c3fc1d95589708228b90",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_plain/DSC_7220.jpg"
+                },
+                "raw": {
+                    "size": 24813085,
+                    "md5": "f38ed2ba85e52c0d0ce5c831d8c596b6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/raw/DSC_7220.NEF"
+                }
+            },
+            "DSC_7265": {
+                "jpg_pretty": {
+                    "size": 14379051,
+                    "md5": "fd6f48cd1131074910f7522992ec1337",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_pretty/DSC_7265.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12791607,
+                    "md5": "56a28697931393cf3935e731ce79dd59",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_plain/DSC_7265.jpg"
+                },
+                "raw": {
+                    "size": 24456146,
+                    "md5": "e4bf3a38b4e1c067df262697907b4905",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/raw/DSC_7265.NEF"
+                }
+            },
+            "DSC_7320": {
+                "jpg_pretty": {
+                    "size": 14694162,
+                    "md5": "79b71dad6dbe5b7eb7bff7ce440ee948",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_pretty/DSC_7320.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12778983,
+                    "md5": "e74bc7aafecb3b5dc64c9256aaad0326",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_plain/DSC_7320.jpg"
+                },
+                "raw": {
+                    "size": 25248189,
+                    "md5": "87faffae9ced439721f7ae54b772d451",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/raw/DSC_7320.NEF"
+                }
+            },
+            "DSC_7175": {
+                "jpg_pretty": {
+                    "size": 13325610,
+                    "md5": "626bd708d1ac9c92c235d9a7d8c8f008",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_pretty/DSC_7175.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9681170,
+                    "md5": "d574eae0fc1e4f4b1a14bf89a05fa435",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_plain/DSC_7175.jpg"
+                },
+                "raw": {
+                    "size": 24677520,
+                    "md5": "34a120b34f0938ad6c8c6e1ab8f0bbef",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/raw/DSC_7175.NEF"
+                }
+            },
+            "DSC_7150": {
+                "jpg_pretty": {
+                    "size": 12857295,
+                    "md5": "c7145b6bfdfa75ecdbd8c596f8d6c49f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_pretty/DSC_7150.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10154752,
+                    "md5": "c7ba0c7f9d6f9568a5a1ff874b69140e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_plain/DSC_7150.jpg"
+                },
+                "raw": {
+                    "size": 24832400,
+                    "md5": "9cb76e76da0a6dddbe59e2217a7ae1f7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/raw/DSC_7150.NEF"
+                }
+            },
+            "DSC_7260": {
+                "jpg_pretty": {
+                    "size": 14543988,
+                    "md5": "bcd11822014646682efcbfd634000333",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_pretty/DSC_7260.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13052935,
+                    "md5": "4524cac2c71c1743ad4eb0a82753d7ed",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_plain/DSC_7260.jpg"
+                },
+                "raw": {
+                    "size": 24746008,
+                    "md5": "bc01825d41d8511cb183f43eaf18c341",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/raw/DSC_7260.NEF"
+                }
+            },
+            "DSC_7370": {
+                "jpg_pretty": {
+                    "size": 14436065,
+                    "md5": "fb1b8ed2579da93168d1f81602ebc521",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_pretty/DSC_7370.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13247801,
+                    "md5": "2da869ca5c574470b16be53595c2845a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_plain/DSC_7370.jpg"
+                },
+                "raw": {
+                    "size": 24316570,
+                    "md5": "d460a82767363716e99eb5150cb6d737",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/raw/DSC_7370.NEF"
+                }
+            },
+            "DSC_7140": {
+                "jpg_pretty": {
+                    "size": 14826771,
+                    "md5": "d512e7fc3e252690ce056dd2a97d49e3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_pretty/DSC_7140.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13012081,
+                    "md5": "a6a548d51af08906251a77291fc7e66d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_plain/DSC_7140.jpg"
+                },
+                "raw": {
+                    "size": 24732406,
+                    "md5": "f8763a5f0a5425004acdf5fc079306ef",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/raw/DSC_7140.NEF"
+                }
+            },
+            "DSC_7195": {
+                "jpg_pretty": {
+                    "size": 12142610,
+                    "md5": "b166f2f033cdb419ce8d3859b2e77122",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_pretty/DSC_7195.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9257598,
+                    "md5": "6009580542a0536e8eb4f0f1527db89b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_plain/DSC_7195.jpg"
+                },
+                "raw": {
+                    "size": 24023198,
+                    "md5": "4d408380ba32a29e98bbd4b87c48bb07",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/raw/DSC_7195.NEF"
+                }
+            },
+            "DSC_7250": {
+                "jpg_pretty": {
+                    "size": 13120523,
+                    "md5": "c78935b3e2cd19ae0fc5d92403873685",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_pretty/DSC_7250.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10540674,
+                    "md5": "e4b9a83cbacd390130b80b8944c9004b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/jpg_plain/DSC_7250.jpg"
+                },
+                "raw": {
+                    "size": 24467153,
+                    "md5": "9eabf7658119a7a74b0076b2ecc515e4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_workshop/raw/DSC_7250.NEF"
+                }
+            }
+        }
+    }
+}

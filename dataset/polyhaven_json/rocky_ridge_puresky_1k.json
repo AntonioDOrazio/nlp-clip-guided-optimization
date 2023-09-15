@@ -1,0 +1,100 @@
+{
+    "evs_cap": 21,
+    "type": 0,
+    "tags": [
+        "pure skies"
+    ],
+    "date_published": 1670112000,
+    "name": "Rocky Ridge (Pure Sky)",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "sunrise-sunset",
+        "partly cloudy",
+        "medium contrast",
+        "natural light",
+        "pure skies"
+    ],
+    "coords": [
+        -26.145263,
+        27.967626
+    ],
+    "date_taken": 1436108760,
+    "authors": {
+        "Greg Zaal": "Original",
+        "Jarod Guest": "Sky edits"
+    },
+    "info": "Edited sky-only version of [Rocky Ridge](https://polyhaven.com/a/rocky_ridge).",
+    "files_hash": "5da32381cb36edfae70629894c1f243e2b444f44",
+    "download_count": 18031,
+    "files": {
+        "tonemapped": {
+            "size": 18309207,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/rocky_ridge_puresky.jpg",
+            "md5": "fa6b944fbd1416288b340160123c46e8"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 63482034,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/rocky_ridge_puresky_8k.hdr",
+                    "md5": "b57a2bcff683d309f0c8f5a83ac0d0c3"
+                },
+                "exr": {
+                    "size": 283820827,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/rocky_ridge_puresky_8k.exr",
+                    "md5": "465066e7db20023fd09e79f36d030819"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 203950813,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rocky_ridge_puresky_16k.hdr",
+                    "md5": "960ae4549165d5d91b2fba8711c56906"
+                },
+                "exr": {
+                    "size": 1097474823,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rocky_ridge_puresky_16k.exr",
+                    "md5": "46b99aa7b2594f2eb7b301676adbf541"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 18336135,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/rocky_ridge_puresky_4k.hdr",
+                    "md5": "82a9fe5e7184408d7da4821401b54c26"
+                },
+                "exr": {
+                    "size": 73881929,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/rocky_ridge_puresky_4k.exr",
+                    "md5": "e15d83e43300a0a0b5e77d4f02622522"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 4909490,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/rocky_ridge_puresky_2k.hdr",
+                    "md5": "44c6f5dcc9eac1b3e4930541998b7e2f"
+                },
+                "exr": {
+                    "size": 19579104,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/rocky_ridge_puresky_2k.exr",
+                    "md5": "d99c8cab35ad35594bcdd3378092c863"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1279031,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/rocky_ridge_puresky_1k.hdr",
+                    "md5": "e1d75ffbefe219c461334ed7953a1293"
+                },
+                "exr": {
+                    "size": 5345875,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/rocky_ridge_puresky_1k.exr",
+                    "md5": "5750ac37b059b43e1bc314cdf3ddb41b"
+                }
+            }
+        }
+    }
+}

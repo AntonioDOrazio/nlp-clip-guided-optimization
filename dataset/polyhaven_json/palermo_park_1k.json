@@ -1,0 +1,114 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "tags": [
+        "tree",
+        "park",
+        "path",
+        "autumn"
+    ],
+    "date_published": 1587420000,
+    "name": "Palermo Park",
+    "categories": [
+        "outdoor",
+        "nature",
+        "urban",
+        "morning-afternoon",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1569766620,
+    "coords": [
+        38.11751,
+        13.369234
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        "16608220"
+    ],
+    "files_hash": "962419155ff9cba2750818663486462696d1fae5",
+    "download_count": 55251,
+    "files": {
+        "tonemapped": {
+            "size": 8408453,
+            "md5": "c494f8a1e3a2c6bb39a9f454d409813e",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/palermo_park.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 108791306,
+                    "md5": "e72b621e439f5491ead074c39a5597a2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/palermo_park_8k.hdr"
+                },
+                "exr": {
+                    "size": 103978961,
+                    "md5": "0b68261a86b62e2be2b84ff8d7275f16",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/palermo_park_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 415406323,
+                    "md5": "7f87100f868bd36aa35d9fa43a4d9f5f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/palermo_park_16k.hdr"
+                },
+                "exr": {
+                    "size": 383660860,
+                    "md5": "2ad1861da07fdf8788c139b8d05ad23a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/palermo_park_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27935135,
+                    "md5": "a7ddb18933a2eb308fa8034297d5ece4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/palermo_park_4k.hdr"
+                },
+                "exr": {
+                    "size": 27238179,
+                    "md5": "0c948f4beb18bf4a15fb231bc6d3db08",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/palermo_park_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7093595,
+                    "md5": "a5ff5de69f4a9db826a4289cfdfd7fac",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/palermo_park_2k.hdr"
+                },
+                "exr": {
+                    "size": 6982430,
+                    "md5": "d1124a2161aae42c01129b792dd53b1a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/palermo_park_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1789328,
+                    "md5": "f9d5aacd28be6cf69a1aa81e6d22693e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/palermo_park_1k.hdr"
+                },
+                "exr": {
+                    "size": 1775598,
+                    "md5": "dc937c98b9e3f4470a40ffb5fb1596f8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/palermo_park_1k.exr"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 643592018,
+                    "md5": "d2bb6ef16b6308f62d416eb32e1a45a6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/palermo_park_20k.hdr"
+                },
+                "exr": {
+                    "size": 580848640,
+                    "md5": "f924eaee9bb157958ca03aebce9b30cb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/palermo_park_20k.exr"
+                }
+            }
+        }
+    }
+}

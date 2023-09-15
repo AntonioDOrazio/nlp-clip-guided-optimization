@@ -1,0 +1,524 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "date_published": 1522879200,
+    "name": "Cape Hill",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "sunrise-sunset",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        -34.266591,
+        18.458238
+    ],
+    "date_taken": 1464588960,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "backplates": true,
+    "tags": [
+        "rock",
+        "shrub",
+        "view",
+        "ocean",
+        "hill",
+        "hilltop",
+        "sun",
+        "backplates"
+    ],
+    "sponsors": [
+        "10485422",
+        {
+            "url": "http://alienghostship.com/",
+            "name": "Rick Kay"
+        },
+        "37678923",
+        "11167855"
+    ],
+    "files_hash": "feaad1f50cd22b59bb45afb0ea3875fb97933d1e",
+    "download_count": 174366,
+    "files": {
+        "tonemapped": {
+            "size": 5003452,
+            "md5": "632682bdfd30fa650d0712e8f76394d6",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/cape_hill.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 96926082,
+                    "md5": "2f17aea06fdb2dcc597c26c0abeb0d6b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/cape_hill_8k.hdr"
+                },
+                "exr": {
+                    "size": 77136095,
+                    "md5": "803bd628268644d2c238019a3a7c2451",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/cape_hill_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 355168719,
+                    "md5": "581d16e2fc86e58e7ddb039135215a4d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/cape_hill_16k.hdr"
+                },
+                "exr": {
+                    "size": 275368582,
+                    "md5": "f2bb57cc0da7ad737e9ed270df1eb91a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/cape_hill_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25033751,
+                    "md5": "d8448bb4b4eb61f5979a558e8602da2e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/cape_hill_4k.hdr"
+                },
+                "exr": {
+                    "size": 20554471,
+                    "md5": "2ece2082bb80493fb9894c34601c792d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/cape_hill_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6398074,
+                    "md5": "bc08342ff87c28f10c3f999a2464624d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/cape_hill_2k.hdr"
+                },
+                "exr": {
+                    "size": 5470000,
+                    "md5": "a265e35724156c1e26c3ea227ee585c4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/cape_hill_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1642586,
+                    "md5": "723332df1450c56ddd758db0c6f6a74d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/cape_hill_1k.hdr"
+                },
+                "exr": {
+                    "size": 1466104,
+                    "md5": "3f7299298356dc41636935a0955ff524",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/cape_hill_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "IMG_0259": {
+                "jpg_pretty": {
+                    "size": 3895264,
+                    "md5": "09741f210ba1e5b75012c0d94d912931",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_pretty/IMG_0259.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3790357,
+                    "md5": "c08cf3fdadeeefde614434ebaacf7c44",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_plain/IMG_0259.jpg"
+                },
+                "raw": {
+                    "size": 19616090,
+                    "md5": "5bc25be391671a500587d50c2c730c99",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/raw/IMG_0259.dng"
+                }
+            },
+            "IMG_0257": {
+                "jpg_pretty": {
+                    "size": 3817112,
+                    "md5": "7f02a9f97905cb367b30c36ef2654098",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_pretty/IMG_0257.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3801107,
+                    "md5": "02dd09b28ee4e58985e23bbd157b563b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_plain/IMG_0257.jpg"
+                },
+                "raw": {
+                    "size": 19020546,
+                    "md5": "e48b48106eeac283a9e695d0ba95af25",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/raw/IMG_0257.dng"
+                }
+            },
+            "IMG_0268": {
+                "jpg_pretty": {
+                    "size": 4919196,
+                    "md5": "7261936711bc27e1f9b8862006799ad7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_pretty/IMG_0268.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4278997,
+                    "md5": "2dad28cae8dd94506ff2a0b6a62d62a5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_plain/IMG_0268.jpg"
+                },
+                "raw": {
+                    "size": 20352218,
+                    "md5": "1db80fa470a5a8efb80e688d195292e8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/raw/IMG_0268.dng"
+                }
+            },
+            "IMG_0279": {
+                "jpg_pretty": {
+                    "size": 8275837,
+                    "md5": "cd0476eeebf4edd914f3a21fc3ce814e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_pretty/IMG_0279.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6497627,
+                    "md5": "e8d27a67154563757650278039292e83",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_plain/IMG_0279.jpg"
+                },
+                "raw": {
+                    "size": 21720226,
+                    "md5": "eca97e1fc7e56f04aaf64509833debfe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/raw/IMG_0279.dng"
+                }
+            },
+            "IMG_0258": {
+                "jpg_pretty": {
+                    "size": 3603512,
+                    "md5": "c9b6d8e6c30ead179454932ce7550201",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_pretty/IMG_0258.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3860962,
+                    "md5": "aec05038b2bda5559ee8e2f6e3120634",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_plain/IMG_0258.jpg"
+                },
+                "raw": {
+                    "size": 19014684,
+                    "md5": "da21095da50a010ffde7dfb62eeda88b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/raw/IMG_0258.dng"
+                }
+            },
+            "IMG_0269": {
+                "jpg_pretty": {
+                    "size": 4880132,
+                    "md5": "c99f7e4049137ac0c06542ce69015d78",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_pretty/IMG_0269.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4371214,
+                    "md5": "5fc65bee425cec974c0c147c835e9062",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_plain/IMG_0269.jpg"
+                },
+                "raw": {
+                    "size": 19089262,
+                    "md5": "791aa2bd2b60fff0a9eb5cb6b999488c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/raw/IMG_0269.dng"
+                }
+            },
+            "IMG_0255": {
+                "jpg_pretty": {
+                    "size": 4830979,
+                    "md5": "012012f553951a45c91280b1116cd5a4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_pretty/IMG_0255.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3716260,
+                    "md5": "4c2278d52354c172e4687b23832adfbb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_plain/IMG_0255.jpg"
+                },
+                "raw": {
+                    "size": 17293118,
+                    "md5": "6e4e7f78766176693e394eff50fe9387",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/raw/IMG_0255.dng"
+                }
+            },
+            "IMG_0266": {
+                "jpg_pretty": {
+                    "size": 7809305,
+                    "md5": "375ce4ce981dcdbb3f3fb087fc590dc9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_pretty/IMG_0266.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6157880,
+                    "md5": "2b70c520ad7770f0c74710a5a231574c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_plain/IMG_0266.jpg"
+                },
+                "raw": {
+                    "size": 21905068,
+                    "md5": "8e4c718604af50d0fdad8994132075c5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/raw/IMG_0266.dng"
+                }
+            },
+            "IMG_0277": {
+                "jpg_pretty": {
+                    "size": 6176435,
+                    "md5": "6d431433c71698e69f29910e2e15a88a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_pretty/IMG_0277.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4570626,
+                    "md5": "daf728541225608bcf98b90322f8aa0f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_plain/IMG_0277.jpg"
+                },
+                "raw": {
+                    "size": 20077234,
+                    "md5": "59b6011f1cadcaf57bf2a110a176b3f0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/raw/IMG_0277.dng"
+                }
+            },
+            "IMG_0256": {
+                "jpg_pretty": {
+                    "size": 4235569,
+                    "md5": "c85908a1b0dd1505bc1a3c391b282620",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_pretty/IMG_0256.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3337105,
+                    "md5": "411851ab6d60b37539bd50949069f9ba",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_plain/IMG_0256.jpg"
+                },
+                "raw": {
+                    "size": 19158586,
+                    "md5": "b93a65145d77ca0cf27980cf5f6b2aff",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/raw/IMG_0256.dng"
+                }
+            },
+            "IMG_0267": {
+                "jpg_pretty": {
+                    "size": 7580783,
+                    "md5": "d6261cbd7523eeba482bf9ef9e021d5e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_pretty/IMG_0267.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6070650,
+                    "md5": "477852db22cbdf167d29df9731095ff7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_plain/IMG_0267.jpg"
+                },
+                "raw": {
+                    "size": 21248804,
+                    "md5": "81e170b5d999c5ed7356b708c9309d2b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/raw/IMG_0267.dng"
+                }
+            },
+            "IMG_0275": {
+                "jpg_pretty": {
+                    "size": 4008420,
+                    "md5": "db479cdb3162ea3a858a07faeba8f5d4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_pretty/IMG_0275.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3604087,
+                    "md5": "9b8b4cb8517f11a751db48770ceb7263",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_plain/IMG_0275.jpg"
+                },
+                "raw": {
+                    "size": 20303782,
+                    "md5": "392d66c3c4ce212e0263a4b8db6f1119",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/raw/IMG_0275.dng"
+                }
+            },
+            "IMG_0254": {
+                "jpg_pretty": {
+                    "size": 3629048,
+                    "md5": "47dd8a95c24282d43f35d24202372b13",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_pretty/IMG_0254.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3925034,
+                    "md5": "f650f69b30e9724184030039224b96b2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_plain/IMG_0254.jpg"
+                },
+                "raw": {
+                    "size": 18128866,
+                    "md5": "4c5c1d50dff574421ef0a765aa7fbd70",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/raw/IMG_0254.dng"
+                }
+            },
+            "IMG_0276": {
+                "jpg_pretty": {
+                    "size": 6078820,
+                    "md5": "ea38f3f99b2e2e81f3c0fae92f03f91e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_pretty/IMG_0276.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4357442,
+                    "md5": "00ed75e1dfb03713aeec63e3f50f5341",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_plain/IMG_0276.jpg"
+                },
+                "raw": {
+                    "size": 19611400,
+                    "md5": "f8c53253b9cb7ca125d105b163ddf53a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/raw/IMG_0276.dng"
+                }
+            },
+            "IMG_0262": {
+                "jpg_pretty": {
+                    "size": 3424979,
+                    "md5": "3c11a229d2d2cffddf6057d8264b7202",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_pretty/IMG_0262.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3970423,
+                    "md5": "8c943fb113d17de1c929179434ab5de2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_plain/IMG_0262.jpg"
+                },
+                "raw": {
+                    "size": 19613440,
+                    "md5": "316be83eb207b3110ca43c9593320829",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/raw/IMG_0262.dng"
+                }
+            },
+            "IMG_0273": {
+                "jpg_pretty": {
+                    "size": 5358474,
+                    "md5": "1ef12555464032992c6640deffc168d6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_pretty/IMG_0273.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4955431,
+                    "md5": "b6edb7aafb1876c630bdcccaf4c786c1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_plain/IMG_0273.jpg"
+                },
+                "raw": {
+                    "size": 19628676,
+                    "md5": "ba193fd54b485bbc8f70ba2299593b96",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/raw/IMG_0273.dng"
+                }
+            },
+            "IMG_0252": {
+                "jpg_pretty": {
+                    "size": 9369202,
+                    "md5": "3cd63f20116cdf138c2c6301ada568db",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_pretty/IMG_0252.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8328605,
+                    "md5": "4868928f7920cd495f6e3640de62b24c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_plain/IMG_0252.jpg"
+                },
+                "raw": {
+                    "size": 23266668,
+                    "md5": "9404cca3a3d8b108ce72032a8a6c3f58",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/raw/IMG_0252.dng"
+                }
+            },
+            "IMG_0263": {
+                "jpg_pretty": {
+                    "size": 5738719,
+                    "md5": "c5133ee85b2b7ea670ac3a621716d76b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_pretty/IMG_0263.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4508181,
+                    "md5": "d6838d3e92080772a86fed2fafd1a7ec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_plain/IMG_0263.jpg"
+                },
+                "raw": {
+                    "size": 20661514,
+                    "md5": "8d4119ffdb9a774cb79c19fa0354f4ae",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/raw/IMG_0263.dng"
+                }
+            },
+            "IMG_0274": {
+                "jpg_pretty": {
+                    "size": 5306612,
+                    "md5": "b34a472210f367f869c91fe36b2ce14e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_pretty/IMG_0274.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3880646,
+                    "md5": "6cdc57c5d40657026bd784ef020b0dd1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_plain/IMG_0274.jpg"
+                },
+                "raw": {
+                    "size": 19128420,
+                    "md5": "1c61cf36c069a1c825de1ce362850606",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/raw/IMG_0274.dng"
+                }
+            },
+            "IMG_0260": {
+                "jpg_pretty": {
+                    "size": 4385697,
+                    "md5": "17e6158c80bf6c91e145a07b4de54f78",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_pretty/IMG_0260.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3876896,
+                    "md5": "9f96ce47976ad55a3e4502bc2142a51f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_plain/IMG_0260.jpg"
+                },
+                "raw": {
+                    "size": 19124164,
+                    "md5": "e49c71377420105f5e7f517d896f7df7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/raw/IMG_0260.dng"
+                }
+            },
+            "IMG_0271": {
+                "jpg_pretty": {
+                    "size": 4672694,
+                    "md5": "37b131e2d97e7c2d61b636b26cf12615",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_pretty/IMG_0271.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4704171,
+                    "md5": "5e9cf9d3620cbbcaf764793f19dc19d4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_plain/IMG_0271.jpg"
+                },
+                "raw": {
+                    "size": 20326168,
+                    "md5": "57d8a3ffc7b92e963ff5de7e6c9646ba",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/raw/IMG_0271.dng"
+                }
+            },
+            "IMG_0282": {
+                "jpg_pretty": {
+                    "size": 5557873,
+                    "md5": "f0d4b0cd06598869a31664b483989ba8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_pretty/IMG_0282.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3901301,
+                    "md5": "398f123479713f6168787d93691fa0ea",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_plain/IMG_0282.jpg"
+                },
+                "raw": {
+                    "size": 19248764,
+                    "md5": "32b96c64bb107cc93fd1609119ae612f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/raw/IMG_0282.dng"
+                }
+            },
+            "IMG_0280": {
+                "jpg_pretty": {
+                    "size": 6382152,
+                    "md5": "9dadf887f0223930072bc0e1aa3e542c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_pretty/IMG_0280.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5164649,
+                    "md5": "d44a92d9bfffa40bc9c8c83f57da3688",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_plain/IMG_0280.jpg"
+                },
+                "raw": {
+                    "size": 19436552,
+                    "md5": "dd5d871152cf70421dda353c0aa815bc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/raw/IMG_0280.dng"
+                }
+            },
+            "IMG_0281": {
+                "jpg_pretty": {
+                    "size": 5112286,
+                    "md5": "693888c72142555bbb82a923b075a183",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_pretty/IMG_0281.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3850682,
+                    "md5": "777fb936687bc9002c794f57c39e6db2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/jpg_plain/IMG_0281.jpg"
+                },
+                "raw": {
+                    "size": 19049962,
+                    "md5": "37ca1a651bcbf96f40400930692c594c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/cape_hill/raw/IMG_0281.dng"
+                }
+            }
+        }
+    }
+}

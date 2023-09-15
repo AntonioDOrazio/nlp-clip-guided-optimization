@@ -1,0 +1,101 @@
+{
+    "evs_cap": 24,
+    "type": 0,
+    "tags": [
+        "sun",
+        "sand",
+        "tracks"
+    ],
+    "date_published": 1565906400,
+    "name": "Quarry 01",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "sunrise-sunset",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1560793380,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "3267566",
+        "18031080",
+        "3237733",
+        "20953239"
+    ],
+    "files_hash": "6c1c234e636244f71ef1e4d4e2cf67d43eb7685a",
+    "download_count": 76245,
+    "files": {
+        "tonemapped": {
+            "size": 5229486,
+            "md5": "f8b8f6a9722fe8f65a5be5a83f36975e",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/quarry_01.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 99952538,
+                    "md5": "1cebffa8bd281ce1038034ecbb9b406b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/quarry_01_8k.hdr"
+                },
+                "exr": {
+                    "size": 76292073,
+                    "md5": "d6156d2cf748c2377edb6b9bee99ce6a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/quarry_01_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 377012840,
+                    "md5": "656c60bb69a1a4b05765756f53ca1ebe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/quarry_01_16k.hdr"
+                },
+                "exr": {
+                    "size": 284512557,
+                    "md5": "d4ad882270332ce2d1e4f0a27940148a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/quarry_01_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24946177,
+                    "md5": "a5396f4e17c350511cb6545503a68fea",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/quarry_01_4k.hdr"
+                },
+                "exr": {
+                    "size": 19149118,
+                    "md5": "c544146aca33a7b5ee213934ab74ae12",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/quarry_01_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6021773,
+                    "md5": "07af4f0f2f26ef6e1ba8406e4799f8e8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/quarry_01_2k.hdr"
+                },
+                "exr": {
+                    "size": 4805520,
+                    "md5": "acf8d5fb176a2e98837cc5ac6fa74bde",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/quarry_01_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1477951,
+                    "md5": "d4c4954484c7a713e283b22f71591f26",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/quarry_01_1k.hdr"
+                },
+                "exr": {
+                    "size": 1233162,
+                    "md5": "2d68ddc0179296d0328f371f141b1a47",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/quarry_01_1k.exr"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "tags": [
+        "tunnel",
+        "brick",
+        "dirt",
+        "cave",
+        "castle",
+        "arch",
+        "shelter",
+        "doorway"
+    ],
+    "date_published": 1620684000,
+    "name": "Drachenfels Cellar",
+    "categories": [
+        "indoor",
+        "nature",
+        "urban",
+        "medium contrast",
+        "natural light"
+    ],
+    "date_taken": 1616248920,
+    "coords": [
+        49.122096,
+        7.82833
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        "9910225"
+    ],
+    "files_hash": "b9bf4f6ae151874b8be5c323ad0d37991f347601",
+    "download_count": 31333,
+    "files": {
+        "tonemapped": {
+            "size": 15204624,
+            "md5": "1721b91fb570f5f317806465863549e3",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/drachenfels_cellar.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 115755894,
+                    "md5": "27230c9c02094510f849d144234b2890",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/drachenfels_cellar_8k.hdr"
+                },
+                "exr": {
+                    "size": 139395790,
+                    "md5": "edfebd4891944ada4446198727d03deb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/drachenfels_cellar_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 453915830,
+                    "md5": "837a0512c63f0a08afefbe70d9eafe8f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/drachenfels_cellar_16k.hdr"
+                },
+                "exr": {
+                    "size": 553012624,
+                    "md5": "84515cf17767852879048012d07ec8fb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/drachenfels_cellar_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 29273625,
+                    "md5": "1ab38a61f329f846fff4136463357ff0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/drachenfels_cellar_4k.hdr"
+                },
+                "exr": {
+                    "size": 35295769,
+                    "md5": "23db033687d94ebcf2321ef55993ded9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/drachenfels_cellar_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7371243,
+                    "md5": "f467c6d80410f8c602251c64c896b299",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/drachenfels_cellar_2k.hdr"
+                },
+                "exr": {
+                    "size": 8923729,
+                    "md5": "eaaddf27b12d2b0783bb85660c48dcf7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/drachenfels_cellar_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1849258,
+                    "md5": "4543ffe81a4be5acef2d99e9b7fc4283",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/drachenfels_cellar_1k.hdr"
+                },
+                "exr": {
+                    "size": 2258346,
+                    "md5": "bfb8b627b99107a135828e24b24969bc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/drachenfels_cellar_1k.exr"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 718942568,
+                    "md5": "0c05cf4b0c80a7d33c8efa0afcf5ca4e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/drachenfels_cellar_20k.hdr"
+                },
+                "exr": {
+                    "size": 843974500,
+                    "md5": "4942c9a85d7aaa6c6ca7744388be5259",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/drachenfels_cellar_20k.exr"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 169713698,
+            "md5": "fc42aa43fac632c68f462e9e10615a03",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/drachenfels_cellar.zip"
+        }
+    }
+}

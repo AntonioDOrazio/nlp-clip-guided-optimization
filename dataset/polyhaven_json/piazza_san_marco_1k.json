@@ -1,0 +1,298 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "whitebalance": 5400,
+    "date_published": 1512444932,
+    "name": "Piazza San Marco",
+    "categories": [
+        "outdoor",
+        "urban",
+        "sunrise-sunset",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1509596400,
+    "coords": [
+        45.434284,
+        12.338462
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "3567764",
+        "3267566"
+    ],
+    "backplates": true,
+    "tags": [
+        "europe",
+        "square",
+        "architecture",
+        "building",
+        "tower",
+        "church",
+        "venice",
+        "backplates"
+    ],
+    "files_hash": "a508048b3a50d6878eeb55b335f6d49d91b120f0",
+    "download_count": 40060,
+    "files": {
+        "tonemapped": {
+            "size": 4740714,
+            "md5": "695db22e90a225c876bc95bfc4709baf",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/piazza_san_marco.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 92112577,
+                    "md5": "fcda500606f3a61a4f3b761aaf720f75",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/piazza_san_marco_8k.hdr"
+                },
+                "exr": {
+                    "size": 75229790,
+                    "md5": "5c567b0cb1d04475587d368b5c4fdabf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/piazza_san_marco_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 331739266,
+                    "md5": "533e6d8a85fec3a5fa5ddd8fad6899c1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/piazza_san_marco_16k.hdr"
+                },
+                "exr": {
+                    "size": 265369946,
+                    "md5": "274495cc246922cf98fd57ecab1fb402",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/piazza_san_marco_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 23833253,
+                    "md5": "0105c49aab55809485a0594d1efb0c21",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/piazza_san_marco_4k.hdr"
+                },
+                "exr": {
+                    "size": 20118577,
+                    "md5": "3c45b6ebe57063299007e35e70111b30",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/piazza_san_marco_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6061497,
+                    "md5": "e6c97ad78ea4801a0127dad0cd1f7058",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/piazza_san_marco_2k.hdr"
+                },
+                "exr": {
+                    "size": 5292475,
+                    "md5": "e8319904e54bbebfc9bea8315084760b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/piazza_san_marco_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1549299,
+                    "md5": "005e3fda1da5d2be50e4677b5347626a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/piazza_san_marco_1k.hdr"
+                },
+                "exr": {
+                    "size": 1396852,
+                    "md5": "24c6f0cf1998e69740193f58f35989ce",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/piazza_san_marco_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "DSC07170": {
+                "jpg_pretty": {
+                    "size": 23298407,
+                    "md5": "1c2f99826a7107984ee4324b471222b5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_san_marco/jpg_pretty/DSC07170.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15631881,
+                    "md5": "abd612594264d26f924e42ddceff4a85",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_san_marco/jpg_plain/DSC07170.jpg"
+                },
+                "raw": {
+                    "size": 37093376,
+                    "md5": "0cec17dbceeba7406313ed95194ee42d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_san_marco/raw/DSC07170.ARW"
+                }
+            },
+            "DSC07156": {
+                "jpg_pretty": {
+                    "size": 20913333,
+                    "md5": "b58c6d58e7259ee55e4a44f18a1874f8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_san_marco/jpg_pretty/DSC07156.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14980680,
+                    "md5": "7da92b18059715b6884dc8758ead96d8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_san_marco/jpg_plain/DSC07156.jpg"
+                },
+                "raw": {
+                    "size": 37126144,
+                    "md5": "51c5b1651dbe0a590a29727b74298c51",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_san_marco/raw/DSC07156.ARW"
+                }
+            },
+            "DSC07167": {
+                "jpg_pretty": {
+                    "size": 25046270,
+                    "md5": "95ade4debdc5943c5bdd6a2e57bff4ff",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_san_marco/jpg_pretty/DSC07167.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18165583,
+                    "md5": "1de14f7d33c968a469476069eb47a96e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_san_marco/jpg_plain/DSC07167.jpg"
+                },
+                "raw": {
+                    "size": 37257216,
+                    "md5": "140ff7e378dbf8b0891ff81d809c022f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_san_marco/raw/DSC07167.ARW"
+                }
+            },
+            "DSC07166": {
+                "jpg_pretty": {
+                    "size": 24251505,
+                    "md5": "310e74c5c99add31bfc480e4f939db79",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_san_marco/jpg_pretty/DSC07166.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18967043,
+                    "md5": "9f74c0b39896e857aa1a7593baedfc8a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_san_marco/jpg_plain/DSC07166.jpg"
+                },
+                "raw": {
+                    "size": 37257216,
+                    "md5": "f211e322e2c6ceab11bf03841ce7c6d1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_san_marco/raw/DSC07166.ARW"
+                }
+            },
+            "DSC07164": {
+                "jpg_pretty": {
+                    "size": 22301715,
+                    "md5": "34fae57df18a18604da7e55fe650fe9c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_san_marco/jpg_pretty/DSC07164.jpg"
+                },
+                "jpg_plain": {
+                    "size": 17505222,
+                    "md5": "31755df21eb1a771258d6db644bcee5b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_san_marco/jpg_plain/DSC07164.jpg"
+                },
+                "raw": {
+                    "size": 37158912,
+                    "md5": "6148b5c55601aa70867a147b15d0edeb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_san_marco/raw/DSC07164.ARW"
+                }
+            },
+            "DSC07163": {
+                "jpg_pretty": {
+                    "size": 28698886,
+                    "md5": "6f75a93ccef26cf68cb37d16ba96d72d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_san_marco/jpg_pretty/DSC07163.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20570627,
+                    "md5": "80deddf53ee57c503ed6ad971f4ea302",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_san_marco/jpg_plain/DSC07163.jpg"
+                },
+                "raw": {
+                    "size": 37224448,
+                    "md5": "21df5af1f527e49ca4afdfe8296c8eba",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_san_marco/raw/DSC07163.ARW"
+                }
+            },
+            "DSC07162": {
+                "jpg_pretty": {
+                    "size": 28861696,
+                    "md5": "a41c8e4042c6ea998ae0743f2a2297c7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_san_marco/jpg_pretty/DSC07162.jpg"
+                },
+                "jpg_plain": {
+                    "size": 21182934,
+                    "md5": "e60cdbcb3949371946e0a4dfe2eb2e52",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_san_marco/jpg_plain/DSC07162.jpg"
+                },
+                "raw": {
+                    "size": 37224448,
+                    "md5": "c0a4f0e2560238bdc8d5d1ccb3899787",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_san_marco/raw/DSC07162.ARW"
+                }
+            },
+            "DSC07160": {
+                "jpg_pretty": {
+                    "size": 19850480,
+                    "md5": "0d6885575185e96b54dd1c1534f1b70c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_san_marco/jpg_pretty/DSC07160.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14091962,
+                    "md5": "5df8f19372c20efabbbe46e4050affb5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_san_marco/jpg_plain/DSC07160.jpg"
+                },
+                "raw": {
+                    "size": 37093376,
+                    "md5": "b194a56d7dec95a7af5c4762476bc9be",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_san_marco/raw/DSC07160.ARW"
+                }
+            },
+            "DSC07159": {
+                "jpg_pretty": {
+                    "size": 18144786,
+                    "md5": "6e98b2c7e894ddb6ec5f66bb8135986f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_san_marco/jpg_pretty/DSC07159.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13024896,
+                    "md5": "5d9e26200e893dc58438a6286ed98c24",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_san_marco/jpg_plain/DSC07159.jpg"
+                },
+                "raw": {
+                    "size": 37027840,
+                    "md5": "de00920bc6752b728ac73a6e31a830bb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_san_marco/raw/DSC07159.ARW"
+                }
+            },
+            "DSC07158": {
+                "jpg_pretty": {
+                    "size": 18422939,
+                    "md5": "685d8a9be689bb7e57ec00b7bc373bfb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_san_marco/jpg_pretty/DSC07158.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12967390,
+                    "md5": "01fca3a3e4009c3fa8e47234a286f1a1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_san_marco/jpg_plain/DSC07158.jpg"
+                },
+                "raw": {
+                    "size": 37027840,
+                    "md5": "5f3512371d96906afe5978d913efc1e2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_san_marco/raw/DSC07158.ARW"
+                }
+            },
+            "DSC07168": {
+                "jpg_pretty": {
+                    "size": 21093589,
+                    "md5": "c3f0dcabb4c318ecbbd5a6ca26d35b94",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_san_marco/jpg_pretty/DSC07168.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15265523,
+                    "md5": "4efd8d9082031cce9b317427cdf0bcfe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_san_marco/jpg_plain/DSC07168.jpg"
+                },
+                "raw": {
+                    "size": 37093376,
+                    "md5": "51ab5198ea8b45f1fafe167098f9d7a8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/piazza_san_marco/raw/DSC07168.ARW"
+                }
+            }
+        }
+    }
+}

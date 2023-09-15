@@ -1,0 +1,118 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5319,
+    "tags": [
+        "tree",
+        "forest",
+        "bush",
+        "shrub"
+    ],
+    "name": "Nature Reserve Forest",
+    "categories": [
+        "natural light",
+        "outdoor",
+        "nature",
+        "low contrast",
+        "sunrise-sunset"
+    ],
+    "coords": [
+        -26.17339719205484,
+        28.052003511364774
+    ],
+    "date_taken": 1623773040,
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "date_published": 1656288000,
+    "prepaid": true,
+    "files_hash": "35e8fda244df224426d6ea78a967268ee789ad6f",
+    "download_count": 14352,
+    "files": {
+        "tonemapped": {
+            "size": 55510227,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/nature_reserve_forest.jpg",
+            "md5": "152888d4aceb516d5bbe7366d3a7be27"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 112254556,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/nature_reserve_forest_8k.hdr",
+                    "md5": "9fcd1c9078174db778389994c5c07844"
+                },
+                "exr": {
+                    "size": 355271889,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/nature_reserve_forest_8k.exr",
+                    "md5": "9c791743992f0f54f30717c95ae1913c"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 420967999,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/nature_reserve_forest_16k.hdr",
+                    "md5": "878e638a10761960ffe1382d288da060"
+                },
+                "exr": {
+                    "size": 1347091460,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/nature_reserve_forest_16k.exr",
+                    "md5": "682b86001e54b7e863f89a8bde893e39"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 29076709,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/nature_reserve_forest_4k.hdr",
+                    "md5": "fdaaaba1128fff06452410648f79346f"
+                },
+                "exr": {
+                    "size": 91921774,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/nature_reserve_forest_4k.exr",
+                    "md5": "acf9b018e72dd2e11067c7a769c68047"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7457457,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/nature_reserve_forest_2k.hdr",
+                    "md5": "e6fa4231d1674e763c791e42f52cd924"
+                },
+                "exr": {
+                    "size": 23984648,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/nature_reserve_forest_2k.exr",
+                    "md5": "bebf3420a7626c489e6c507c17968fbc"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 921053456,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/nature_reserve_forest_24k.hdr",
+                    "md5": "562d788101c4ba2540195998ecb9f5e8"
+                },
+                "exr": {
+                    "size": 3006757634,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/nature_reserve_forest_24k.exr",
+                    "md5": "f6336ca0c26737c62443edec2f285c04"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1900770,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/nature_reserve_forest_1k.hdr",
+                    "md5": "93c0154883ffed7ff5300692fc7d959d"
+                },
+                "exr": {
+                    "size": 6369236,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/nature_reserve_forest_1k.exr",
+                    "md5": "e70cf94f7e34abca48d3bced534f55b5"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 68726862,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/nature_reserve_forest.zip",
+            "md5": "07029831e336342d88464e20d69ad271"
+        }
+    }
+}

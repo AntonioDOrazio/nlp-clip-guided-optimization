@@ -1,0 +1,102 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "whitebalance": 5050,
+    "tags": [
+        "museum",
+        "bone",
+        "lion",
+        "tiger",
+        "whale",
+        "skeleton"
+    ],
+    "date_published": 1546902000,
+    "name": "Hall of Mammals",
+    "categories": [
+        "indoor",
+        "urban",
+        "medium contrast",
+        "artificial light"
+    ],
+    "date_taken": 1544441940,
+    "authors": {
+        "Oliksiy Yakovlyev": "All"
+    },
+    "sponsors": [
+        {
+            "name": "Chris Lowe"
+        },
+        "66627515"
+    ],
+    "files_hash": "9e873bee6df2050e6b961a0a3b11930b8819b994",
+    "download_count": 13459,
+    "files": {
+        "tonemapped": {
+            "size": 5387654,
+            "md5": "77e456da250923fa3f5f533cb65b3b76",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/hall_of_mammals.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103213339,
+                    "md5": "c9ddcc2952ceaac893eb405128231d73",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/hall_of_mammals_8k.hdr"
+                },
+                "exr": {
+                    "size": 87783405,
+                    "md5": "290207bb100b7fe23c5c7499c644aaae",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/hall_of_mammals_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 425735778,
+                    "md5": "ccee8332c85a473da54e3ca051a62d33",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/hall_of_mammals_16k.hdr"
+                },
+                "exr": {
+                    "size": 353896550,
+                    "md5": "725fa8ae2c1f0042a059ae00e4abd374",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/hall_of_mammals_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26218800,
+                    "md5": "b93b7e5416c7e01392fb80540ccccb94",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/hall_of_mammals_4k.hdr"
+                },
+                "exr": {
+                    "size": 22392034,
+                    "md5": "07c1dcc842e60c2becbef060bcbae2b8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/hall_of_mammals_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6607673,
+                    "md5": "671cd8c1e2cf4efb61d2465cb956f463",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/hall_of_mammals_2k.hdr"
+                },
+                "exr": {
+                    "size": 5743055,
+                    "md5": "ae3c3de4d9d631c4976e11d913886925",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/hall_of_mammals_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1667030,
+                    "md5": "d26ebe703b4886b688ccf86d8b208ab4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/hall_of_mammals_1k.hdr"
+                },
+                "exr": {
+                    "size": 1508623,
+                    "md5": "3c3cf469e05210ddfa6ce699fbd1a2c9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/hall_of_mammals_1k.exr"
+                }
+            }
+        }
+    }
+}

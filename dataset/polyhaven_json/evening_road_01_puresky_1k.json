@@ -1,0 +1,97 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "pure skies"
+    ],
+    "name": "Evening Road 01 (Pure Sky)",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "sunrise-sunset",
+        "partly cloudy",
+        "medium contrast",
+        "natural light",
+        "pure skies"
+    ],
+    "date_taken": 1565544540,
+    "info": "Edited sky-only version of [Evening Road 01](https://polyhaven.com/a/evening_road_01).",
+    "authors": {
+        "Jarod Guest": "Sky Edits",
+        "Sergej Majboroda": "Original"
+    },
+    "files_hash": "eded15ce74d3bc548d23d72636fbaeac48c3d692",
+    "date_published": 1677888000,
+    "download_count": 86238,
+    "files": {
+        "tonemapped": {
+            "size": 19627533,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/evening_road_01_puresky.jpg",
+            "md5": "180ae3ba5b13f58c3d3d20a059191c37"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 66926900,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/evening_road_01_puresky_8k.hdr",
+                    "md5": "4a8ecf869c4e20269b20dd0c74020317"
+                },
+                "exr": {
+                    "size": 287480666,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/evening_road_01_puresky_8k.exr",
+                    "md5": "e8b4e3240d0f6b52b0544b554afe624a"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 227116713,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/evening_road_01_puresky_16k.hdr",
+                    "md5": "e6b79d5901736113c9f1ba8bbc499399"
+                },
+                "exr": {
+                    "size": 1110944273,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/evening_road_01_puresky_16k.exr",
+                    "md5": "f0252d6ba99509d4d75b90be2b8bbdb0"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 18692813,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/evening_road_01_puresky_4k.hdr",
+                    "md5": "3461499a68e8fe03ec42592f4bc2d5ef"
+                },
+                "exr": {
+                    "size": 74911001,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/evening_road_01_puresky_4k.exr",
+                    "md5": "4976b3d848524eda5146ca4602811cc2"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 4989873,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/evening_road_01_puresky_2k.hdr",
+                    "md5": "a33ff15f2c60d2554d0f72f4563256ac"
+                },
+                "exr": {
+                    "size": 19941765,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/evening_road_01_puresky_2k.exr",
+                    "md5": "675723292a90323f33345b4dd078adbf"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1309268,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/evening_road_01_puresky_1k.hdr",
+                    "md5": "fc099ad084dd53e4716be9a99b20cd80"
+                },
+                "exr": {
+                    "size": 5457434,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/evening_road_01_puresky_1k.exr",
+                    "md5": "c4ec03ae2d195bb117e48b4badd6e21f"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "bed",
+        "tv",
+        "hotel",
+        "cabin",
+        "boat",
+        "ship",
+        "cruise"
+    ],
+    "date_published": 1508536800,
+    "name": "Cabin",
+    "categories": [
+        "indoor",
+        "urban",
+        "high contrast",
+        "artificial light"
+    ],
+    "date_taken": 1426255920,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "files_hash": "d965a5e2e681bcaa99b4c5a998fced74dbb48211",
+    "download_count": 23716,
+    "files": {
+        "tonemapped": {
+            "size": 3763887,
+            "md5": "d21a0880f656bb81ceea99c879f45ccb",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/cabin.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103653961,
+                    "md5": "a6ba0defc3372771ceb6c174e5a10672",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/cabin_8k.hdr"
+                },
+                "exr": {
+                    "size": 95797024,
+                    "md5": "e87a7d49459f8f80bef24e8f0246aa83",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/cabin_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 395518921,
+                    "md5": "ba78edabad8f719cdb50f589ee1d9cbd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/cabin_16k.hdr"
+                },
+                "exr": {
+                    "size": 338278353,
+                    "md5": "469ab8e786de0b744bd261e8bda81673",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/cabin_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26165949,
+                    "md5": "904a62e5b69df87f8c53deba6aab2a26",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/cabin_4k.hdr"
+                },
+                "exr": {
+                    "size": 23788072,
+                    "md5": "75f9796b8f3eec04a35d9a76c448be5d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/cabin_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6574412,
+                    "md5": "eff7b2fc3d2c4d096bfe80f8d737843f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/cabin_2k.hdr"
+                },
+                "exr": {
+                    "size": 5923838,
+                    "md5": "083e6090d4c9aaa2fe8cf32119bb12bd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/cabin_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1655387,
+                    "md5": "0dc606363f36589711f68c62417fdfff",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/cabin_1k.hdr"
+                },
+                "exr": {
+                    "size": 1513048,
+                    "md5": "6b3b47e7f939e84acc0873667cffc7eb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/cabin_1k.exr"
+                }
+            }
+        }
+    }
+}

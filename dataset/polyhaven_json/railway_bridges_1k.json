@@ -1,0 +1,344 @@
+{
+    "evs_cap": 26,
+    "type": 0,
+    "whitebalance": 4900,
+    "date_published": 1573513200,
+    "name": "Railway Bridges",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "sunrise-sunset",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1566665280,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "993026"
+    ],
+    "backplates": true,
+    "tags": [
+        "train",
+        "rail",
+        "sun",
+        "grass",
+        "bridge",
+        "steel",
+        "backplates"
+    ],
+    "files_hash": "2a31d4e35f862049868f8c9a8b2f5496ceed3144",
+    "download_count": 25576,
+    "files": {
+        "tonemapped": {
+            "size": 6457040,
+            "md5": "c968641cef90886fd7d63de261a76838",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/railway_bridges.jpg"
+        },
+        "backplates": {
+            "DSC_0403": {
+                "jpg_pretty": {
+                    "size": 21083476,
+                    "md5": "a0f8c6e6d86eee729e0f6a058b4e8151",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/jpg_pretty/DSC_0403.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15393630,
+                    "md5": "e5f33c1792704705ad1e7fe7428d1f71",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/jpg_plain/DSC_0403.jpg"
+                },
+                "raw": {
+                    "size": 19211539,
+                    "md5": "4de7cfe6e30a6aa9fa17e4b71778b1e3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/raw/DSC_0403.NEF"
+                }
+            },
+            "DSC_0108": {
+                "jpg_pretty": {
+                    "size": 17085734,
+                    "md5": "05f66569e17af2e0441e318caba55e4f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/jpg_pretty/DSC_0108.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12180691,
+                    "md5": "3064adbcc43d33273bc00902d2f4e133",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/jpg_plain/DSC_0108.jpg"
+                },
+                "raw": {
+                    "size": 19174384,
+                    "md5": "b631ac12d5e1ec2ec1f4a9f5bb204829",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/raw/DSC_0108.NEF"
+                }
+            },
+            "DSC_0218": {
+                "jpg_pretty": {
+                    "size": 17429487,
+                    "md5": "5878400a5b0a3075fca065f0feb2992f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/jpg_pretty/DSC_0218.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10883306,
+                    "md5": "5ff05130ed45db5b51c276e643924a2f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/jpg_plain/DSC_0218.jpg"
+                },
+                "raw": {
+                    "size": 18517311,
+                    "md5": "94caa32babb657d1da2a48087c4a0a7b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/raw/DSC_0218.NEF"
+                }
+            },
+            "DSC_0263": {
+                "jpg_pretty": {
+                    "size": 14944997,
+                    "md5": "244a688a282d59ccfb4b9c146b623b41",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/jpg_pretty/DSC_0263.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6137058,
+                    "md5": "a15a199b73076ef8918a099d9888da73",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/jpg_plain/DSC_0263.jpg"
+                },
+                "raw": {
+                    "size": 18249639,
+                    "md5": "b014029a40547c0f9f51da183bbb4347",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/raw/DSC_0263.NEF"
+                }
+            },
+            "DSC_0383": {
+                "jpg_pretty": {
+                    "size": 14317617,
+                    "md5": "fd23a78fc4a8abcfd97a8027dacc26bb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/jpg_pretty/DSC_0383.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7539842,
+                    "md5": "763b30eed9343aaf03878b2cdb5dd9b0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/jpg_plain/DSC_0383.jpg"
+                },
+                "raw": {
+                    "size": 15834164,
+                    "md5": "610509089062cdd61cf2f55722966402",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/raw/DSC_0383.NEF"
+                }
+            },
+            "DSC_0268": {
+                "jpg_pretty": {
+                    "size": 17144971,
+                    "md5": "a73e4b3e1b6d6d0a39244f8390e444dc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/jpg_pretty/DSC_0268.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11535166,
+                    "md5": "378809013f0e710bc924768d3a9af07b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/jpg_plain/DSC_0268.jpg"
+                },
+                "raw": {
+                    "size": 18184287,
+                    "md5": "1b562d77c717075fd721f534be1747e3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/raw/DSC_0268.NEF"
+                }
+            },
+            "DSC_0378": {
+                "jpg_pretty": {
+                    "size": 13601322,
+                    "md5": "4e11b4161f8f71d02cb7e228ddd082e8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/jpg_pretty/DSC_0378.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7466018,
+                    "md5": "6ded3a7c0a73da991b5d2b52182562d4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/jpg_plain/DSC_0378.jpg"
+                },
+                "raw": {
+                    "size": 15861626,
+                    "md5": "2ba0d17f6e2f739ed6f092f5cfd7d90a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/raw/DSC_0378.NEF"
+                }
+            },
+            "DSC_0477": {
+                "jpg_pretty": {
+                    "size": 17548875,
+                    "md5": "83f8c2815d0ec94df8df6a4d63a63862",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/jpg_pretty/DSC_0477.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11179732,
+                    "md5": "eacb52a01f354e744ddf7d0fc7a8505a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/jpg_plain/DSC_0477.jpg"
+                },
+                "raw": {
+                    "size": 19227507,
+                    "md5": "965de8e90f9868013577e29bfc7cf23e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/raw/DSC_0477.NEF"
+                }
+            },
+            "DSC_0113": {
+                "jpg_pretty": {
+                    "size": 15231339,
+                    "md5": "98c9ca14dfaff8673efff4f2b3e5dad8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/jpg_pretty/DSC_0113.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8894379,
+                    "md5": "ede0670ed0d98d81b0009a8f0b5c3b15",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/jpg_plain/DSC_0113.JPG"
+                },
+                "raw": {
+                    "size": 19129418,
+                    "md5": "b617573937d1b84e9dbd964983a35a9f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/raw/DSC_0113.NEF"
+                }
+            },
+            "DSC_0123": {
+                "jpg_pretty": {
+                    "size": 16994250,
+                    "md5": "f8f52b74957e343c7ef71d7d6ced3db5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/jpg_pretty/DSC_0123.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13098515,
+                    "md5": "613e8a5f62ee493efc94a0176f40e66a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/jpg_plain/DSC_0123.jpg"
+                },
+                "raw": {
+                    "size": 19163091,
+                    "md5": "c5abca42178a10b4f4fcc8ed441b7cb1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/raw/DSC_0123.NEF"
+                }
+            },
+            "DSC_0233": {
+                "jpg_pretty": {
+                    "size": 18264543,
+                    "md5": "314b638f4335fcb103e0c1b158f785fa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/jpg_pretty/DSC_0233.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12469124,
+                    "md5": "38c2097841a4019de927278cd67eec8f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/jpg_plain/DSC_0233.jpg"
+                },
+                "raw": {
+                    "size": 18894258,
+                    "md5": "eb632d12398f88851e45ff53c17c293d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/raw/DSC_0233.NEF"
+                }
+            },
+            "DSC_0442": {
+                "jpg_pretty": {
+                    "size": 16205530,
+                    "md5": "cca0cf8888c258d1e0ecf46c89e0fb58",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/jpg_pretty/DSC_0442.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10043314,
+                    "md5": "b59b67ac5a4af855eec5728b04073c76",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/jpg_plain/DSC_0442.jpg"
+                },
+                "raw": {
+                    "size": 18470349,
+                    "md5": "46dd7ec626a225d779933481b7d4a1c2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/raw/DSC_0442.NEF"
+                }
+            },
+            "DSC_0183": {
+                "jpg_pretty": {
+                    "size": 16795369,
+                    "md5": "481c570837d011b346d058d0dfb7f03b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/jpg_pretty/DSC_0183.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11492601,
+                    "md5": "572492618d34023327e71b7571f129f7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/jpg_plain/DSC_0183.jpg"
+                },
+                "raw": {
+                    "size": 18799034,
+                    "md5": "8808a406ff3f9d19a88887bc4bf1f45c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/raw/DSC_0183.NEF"
+                }
+            },
+            "DSC_0392": {
+                "jpg_pretty": {
+                    "size": 16336645,
+                    "md5": "5ff51f1642c2ce587f19467491a6475a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/jpg_pretty/DSC_0392.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11430961,
+                    "md5": "2949fbe5e073f512fac18d2d99bcedb8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/jpg_plain/DSC_0392.jpg"
+                },
+                "raw": {
+                    "size": 19368473,
+                    "md5": "4a557f682f182fe133a5bbe6f2323268",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/railway_bridges/raw/DSC_0392.NEF"
+                }
+            }
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102286083,
+                    "md5": "44b84d873d5dc2f0f530ae25ba292e19",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/railway_bridges_8k.hdr"
+                },
+                "exr": {
+                    "size": 83140185,
+                    "md5": "63c6f5cd35d3ef943acd79b3079d20d4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/railway_bridges_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 379563191,
+                    "md5": "b1d0d3e0345b2847abe57917d5309970",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/railway_bridges_16k.hdr"
+                },
+                "exr": {
+                    "size": 304608801,
+                    "md5": "da6985be234cc31bdae8cd54e84e71bf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/railway_bridges_16k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6387118,
+                    "md5": "f782176a5b756e5bc5e5914c9af7a62b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/railway_bridges_2k.hdr"
+                },
+                "exr": {
+                    "size": 5385757,
+                    "md5": "d57f9a01fa752782f09785989169288c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/railway_bridges_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1587262,
+                    "md5": "7bc5d78754d4de612fe591ccfd1cb49a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/railway_bridges_1k.hdr"
+                },
+                "exr": {
+                    "size": 1385097,
+                    "md5": "80ddc0a5a15de24141be00f5a9a7a3c2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/railway_bridges_1k.exr"
+                }
+            },
+            "4k": {
+                "exr": {
+                    "size": 21236010,
+                    "md5": "52012102eafb3555bc64d64510cd99df",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/railway_bridges_4k.exr"
+                },
+                "hdr": {
+                    "md5": "7703d1f84009026e1da14b4be33a08a1",
+                    "size": 25911846,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/railway_bridges_4k.hdr"
+                }
+            }
+        }
+    }
+}

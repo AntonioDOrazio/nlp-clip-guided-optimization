@@ -1,0 +1,539 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 9200,
+    "tags": [
+        "tree",
+        "grass",
+        "bridge",
+        "abandoned",
+        "lake",
+        "willow",
+        "mansion",
+        "europe",
+        "backplates"
+    ],
+    "name": "Gothic Manor 01",
+    "categories": [
+        "natural light",
+        "outdoor",
+        "nature",
+        "clear",
+        "sunrise-sunset",
+        "low contrast"
+    ],
+    "backplates": true,
+    "coords": [
+        50.044017,
+        35.432039
+    ],
+    "date_taken": 1600905600,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "date_published": 1643587200,
+    "prepaid": true,
+    "files_hash": "b49abea33fc34f063f7f1e6ecf66e9d2f62bcb92",
+    "download_count": 45692,
+    "files": {
+        "hdri": {
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/gothic_manor_01_16k.hdr",
+                    "size": 391913339,
+                    "md5": "3641580a6683dd5da04f9bfe6dad9562"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/gothic_manor_01_16k.exr",
+                    "size": 350978094,
+                    "md5": "402bb8a5d3049aec2dea6bcd19e9ba90"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/gothic_manor_01_8k.hdr",
+                    "size": 105425693,
+                    "md5": "656e0a18b8f6d7e236620955b5c43143"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/gothic_manor_01_8k.exr",
+                    "size": 96085214,
+                    "md5": "402ef831d3b329dd510a23e40f31b957"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/gothic_manor_01_4k.hdr",
+                    "size": 27078073,
+                    "md5": "0ee432e9fd92e8fd0c28b2c1442da59a"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/gothic_manor_01_4k.exr",
+                    "size": 24598224,
+                    "md5": "64c3842ee321db95b22596ce6216b208"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/gothic_manor_01_2k.hdr",
+                    "size": 6724285,
+                    "md5": "6441ccb6a0ad5a526d053013b32159e5"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/gothic_manor_01_2k.exr",
+                    "size": 6153262,
+                    "md5": "7da45c963214b165531b8aadec4a4f69"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/gothic_manor_01_1k.hdr",
+                    "size": 1657416,
+                    "md5": "c861cec84333059bc2489d73b1e494f5"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/gothic_manor_01_1k.exr",
+                    "size": 1546666,
+                    "md5": "e1ce983652efb9ce90eaa11951a0a6a1"
+                }
+            }
+        },
+        "colorchart": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/gothic_manor_01.zip",
+            "size": 69832174,
+            "md5": "cfea7badf02b5eaa4ca29c13e9489dde"
+        },
+        "tonemapped": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/gothic_manor_01.jpg",
+            "size": 9484050,
+            "md5": "0240f59395c6b1f6565b3d751654eafc"
+        },
+        "backplates": {
+            "DSC_1636": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_pretty/DSC_1636.jpg",
+                    "size": 17453889,
+                    "md5": "be1926a72dd93f49600a327a0050b7fb"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/raw/DSC_1636.NEF",
+                    "size": 28687603,
+                    "md5": "d407f40d8a00f06dea6d34f9898fa849"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_plain/DSC_1636.jpg",
+                    "size": 13138831,
+                    "md5": "5e6ee3d4e07e2a0d5386fbc33c0f92e0"
+                }
+            },
+            "DSC_1656": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_pretty/DSC_1656.jpg",
+                    "size": 20341869,
+                    "md5": "d8f4fce6daa120bf0f1f430392755985"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/raw/DSC_1656.NEF",
+                    "size": 26026472,
+                    "md5": "ad061e08c4ffdbfb2a0d8b4e2ca01ebb"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_plain/DSC_1656.jpg",
+                    "size": 15024312,
+                    "md5": "49a13b7edd5791529ba43b14c9a40bbf"
+                }
+            },
+            "DSC_1711": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_pretty/DSC_1711.jpg",
+                    "size": 16264220,
+                    "md5": "375004973394815d6e1ee9e27e0e905f"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/raw/DSC_1711.NEF",
+                    "size": 28496204,
+                    "md5": "2cf3be6ef4ded2ec60a0ae3c6deb1666"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_plain/DSC_1711.jpg",
+                    "size": 11483094,
+                    "md5": "7cc568bf3066ffbf4810982d4571cace"
+                }
+            },
+            "DSC_1611": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_pretty/DSC_1611.jpg",
+                    "size": 17029508,
+                    "md5": "a64a289ea627a230a8579543511a4db6"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/raw/DSC_1611.NEF",
+                    "size": 26937189,
+                    "md5": "25315ad46b8fcb1e2c489f1d3ecaae70"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_plain/DSC_1611.jpg",
+                    "size": 10606871,
+                    "md5": "b679cf6f6b613b5370b84d63417e0530"
+                }
+            },
+            "DSC_1716": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_pretty/DSC_1716.jpg",
+                    "size": 18584656,
+                    "md5": "9f19abc08a2ea19f5c1b3a0b13a41478"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/raw/DSC_1716.NEF",
+                    "size": 29505554,
+                    "md5": "b8440c6b5cbd139c79cb1beccc9f5301"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_plain/DSC_1716.jpg",
+                    "size": 14073286,
+                    "md5": "716c9c9727737cb4679d81aa1ad49188"
+                }
+            },
+            "DSC_1616": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_pretty/DSC_1616.jpg",
+                    "size": 16713393,
+                    "md5": "d637eaebc1eb7d38daf3028693c52f68"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/raw/DSC_1616.NEF",
+                    "size": 29162747,
+                    "md5": "90347a5a1e9c998233ff35a12d2428ab"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_plain/DSC_1616.jpg",
+                    "size": 12834425,
+                    "md5": "8a51b9537d951e5da894e22833cf6699"
+                }
+            },
+            "DSC_1671": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_pretty/DSC_1671.jpg",
+                    "size": 21789120,
+                    "md5": "59e40a968f0dde24fdfdd26bf44ade0b"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/raw/DSC_1671.NEF",
+                    "size": 27956499,
+                    "md5": "e4ef74ee9c81b8b48e837c8e5cddfcf1"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_plain/DSC_1671.jpg",
+                    "size": 17632412,
+                    "md5": "0e85d2c41729ca328421cec222a430df"
+                }
+            },
+            "DSC_1691": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_pretty/DSC_1691.jpg",
+                    "size": 17852503,
+                    "md5": "d034a38424a5b9d051719e0214cc24fe"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/raw/DSC_1691.NEF",
+                    "size": 30486297,
+                    "md5": "8d3612f594c82b0907891361849d0910"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_plain/DSC_1691.jpg",
+                    "size": 14020325,
+                    "md5": "e367826fe94271675280b6a9003498ac"
+                }
+            },
+            "DSC_1676": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_pretty/DSC_1676.jpg",
+                    "size": 21537481,
+                    "md5": "dad194a3bc6dba56137bf58dea255b56"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/raw/DSC_1676.NEF",
+                    "size": 27203509,
+                    "md5": "0364eb3bbf4fd3a6900c61e8e23233f7"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_plain/DSC_1676.jpg",
+                    "size": 16444945,
+                    "md5": "f81ea364c5f2dae3585b649d8a16acbd"
+                }
+            },
+            "DSC_1631": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_pretty/DSC_1631.jpg",
+                    "size": 18570539,
+                    "md5": "47717063ca06eef3f05891e11c47eb53"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/raw/DSC_1631.NEF",
+                    "size": 30828106,
+                    "md5": "29f392e4bc5ee8721a20972132c638a9"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_plain/DSC_1631.jpg",
+                    "size": 15308903,
+                    "md5": "3883baf5ee719c2e9c5017c71bfe1bce"
+                }
+            },
+            "DSC_1696": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_pretty/DSC_1696.jpg",
+                    "size": 17840474,
+                    "md5": "ae9710e7b5899ef7273810548850fbfe"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/raw/DSC_1696.NEF",
+                    "size": 29743439,
+                    "md5": "adc0f9f55dc27f9fbd7093d1073394d6"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_plain/DSC_1696.jpg",
+                    "size": 12793743,
+                    "md5": "2deac8357fd89ea9460cd86a7e65be9a"
+                }
+            },
+            "DSC_1651": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_pretty/DSC_1651.jpg",
+                    "size": 19870959,
+                    "md5": "730d3d7ecb147234a3e89e7384c986ac"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/raw/DSC_1651.NEF",
+                    "size": 26244189,
+                    "md5": "7ae6a08dd5a1180a38a4d91414af7025"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_plain/DSC_1651.jpg",
+                    "size": 10758267,
+                    "md5": "50be804dd5c79f8158489563b9bd1b56"
+                }
+            },
+            "DSC_1701": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_pretty/DSC_1701.jpg",
+                    "size": 17030721,
+                    "md5": "4f6f6e69dce76f0b1ecaec93d48985c1"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/raw/DSC_1701.NEF",
+                    "size": 28384923,
+                    "md5": "ff656db0af5f7c4ca7cde79c6b7b5c27"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_plain/DSC_1701.jpg",
+                    "size": 12319839,
+                    "md5": "fcf50e6148d0a35ea43aac8ad1736900"
+                }
+            },
+            "DSC_1646": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_pretty/DSC_1646.jpg",
+                    "size": 19590661,
+                    "md5": "fef665a9aa729c1d00209dd2be05dc54"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/raw/DSC_1646.NEF",
+                    "size": 28655663,
+                    "md5": "18202d0be5a91a9711bc2b64d9b254a0"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_plain/DSC_1646.jpg",
+                    "size": 17787333,
+                    "md5": "e593d040032b1b96971d5d5b7ed73134"
+                }
+            },
+            "DSC_1601": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_pretty/DSC_1601.jpg",
+                    "size": 18194517,
+                    "md5": "59e9c4c845fda7d6291c30d143927cd5"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/raw/DSC_1601.NEF",
+                    "size": 28101594,
+                    "md5": "fb9583032a9377fa3c5d71ac535fb5b4"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_plain/DSC_1601.jpg",
+                    "size": 12070669,
+                    "md5": "5d3d9f4d5c47bda0412c4b4c75792209"
+                }
+            },
+            "DSC_1721": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_pretty/DSC_1721.jpg",
+                    "size": 18321502,
+                    "md5": "7d6193121b41fffe61401d89e0833fef"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/raw/DSC_1721.NEF",
+                    "size": 29868734,
+                    "md5": "2854a84c35c82112895f5642924d2107"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_plain/DSC_1721.jpg",
+                    "size": 13952509,
+                    "md5": "94f645eca51953943b9115c1e6fe6f2a"
+                }
+            },
+            "DSC_1666": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_pretty/DSC_1666.jpg",
+                    "size": 22055051,
+                    "md5": "f9015d40fb99f9fe1d8f419bf4e4bdc2"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/raw/DSC_1666.NEF",
+                    "size": 28118254,
+                    "md5": "e5e1ceaf3d00524976055803a23a9697"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_plain/DSC_1666.jpg",
+                    "size": 14946124,
+                    "md5": "2121436549d82db6d208c05153f51bb2"
+                }
+            },
+            "DSC_1706": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_pretty/DSC_1706.jpg",
+                    "size": 18128801,
+                    "md5": "c9a34e0f54db08aa481e9aa351ed94dc"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/raw/DSC_1706.NEF",
+                    "size": 28583197,
+                    "md5": "44845293fe4b4f8526aa8445a39871b0"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_plain/DSC_1706.jpg",
+                    "size": 12390177,
+                    "md5": "25c3cff7da512aebcadba0bd41edf426"
+                }
+            },
+            "DSC_1606": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_pretty/DSC_1606.jpg",
+                    "size": 20176755,
+                    "md5": "01b57385d1009fcb070394a99580f705"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/raw/DSC_1606.NEF",
+                    "size": 29981594,
+                    "md5": "fb619072b6e9f2c244fe4835f37d5e1f"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_plain/DSC_1606.jpg",
+                    "size": 16380285,
+                    "md5": "d9d4145ebf06022535826c5484ea78c9"
+                }
+            },
+            "DSC_1626": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_pretty/DSC_1626.jpg",
+                    "size": 18838251,
+                    "md5": "ed8bc9d59e9da1850705735a777c9d4d"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/raw/DSC_1626.NEF",
+                    "size": 31429172,
+                    "md5": "12634cee8b224bee255893dd6ef6c641"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_plain/DSC_1626.jpg",
+                    "size": 15957520,
+                    "md5": "b814e6f9520abca97f1e99e4365c3696"
+                }
+            },
+            "DSC_1661": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_pretty/DSC_1661.jpg",
+                    "size": 20907271,
+                    "md5": "8900377695ab4d31dba24ba5a6f692ff"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/raw/DSC_1661.NEF",
+                    "size": 26811826,
+                    "md5": "cedccee75f08777dc45dbf0d46359b63"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_plain/DSC_1661.jpg",
+                    "size": 15931758,
+                    "md5": "b4884ed79adb37aeefc34e0353c3fe51"
+                }
+            },
+            "DSC_1681": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_pretty/DSC_1681.jpg",
+                    "size": 18085081,
+                    "md5": "d7d9f4dfd682f84bffd9f0f608f45f20"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/raw/DSC_1681.NEF",
+                    "size": 28082871,
+                    "md5": "af57c930887a98ee19b21f7d293bc238"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_plain/DSC_1681.jpg",
+                    "size": 15703227,
+                    "md5": "20c61fec19f7fef2e97587d57fe27692"
+                }
+            },
+            "DSC_1621": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_pretty/DSC_1621.jpg",
+                    "size": 17992473,
+                    "md5": "4a1cbbaacffaf4d086b2dbb47ae0d74b"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/raw/DSC_1621.NEF",
+                    "size": 28775442,
+                    "md5": "78cf004a88f00a02fa5cb36a555c6490"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_plain/DSC_1621.jpg",
+                    "size": 13407581,
+                    "md5": "65f5f0de2ccd8db581dcf378e55bfd8f"
+                }
+            },
+            "DSC_1686": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_pretty/DSC_1686.jpg",
+                    "size": 19248908,
+                    "md5": "1e13a3dd4d3910361314d8138a4df98f"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/raw/DSC_1686.NEF",
+                    "size": 29649405,
+                    "md5": "c3acb2500a73408ac2da5164f4f4c43b"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_plain/DSC_1686.jpg",
+                    "size": 15329744,
+                    "md5": "fbbc684c2faa96b33d9fbff7a795683b"
+                }
+            },
+            "DSC_1641": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_pretty/DSC_1641.jpg",
+                    "size": 17545732,
+                    "md5": "3a4fb252c98ac9f467500d75b2f1c403"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/raw/DSC_1641.NEF",
+                    "size": 29043639,
+                    "md5": "2e3148cc3f4e45c9950234fb6d442cc4"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/gothic_manor_01/jpg_plain/DSC_1641.jpg",
+                    "size": 13133212,
+                    "md5": "e809bbed6d9a381374248187619f2a95"
+                }
+            }
+        }
+    }
+}

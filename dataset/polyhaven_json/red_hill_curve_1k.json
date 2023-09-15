@@ -1,0 +1,485 @@
+{
+    "evs_cap": 21,
+    "type": 0,
+    "whitebalance": 5400,
+    "date_published": 1511996400,
+    "name": "Red Hill Curve",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "morning-afternoon",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        -34.18798,
+        18.422078
+    ],
+    "date_taken": 1464516600,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "backplates": true,
+    "tags": [
+        "sun",
+        "road",
+        "hill",
+        "rock",
+        "ocean",
+        "town",
+        "backplates"
+    ],
+    "files_hash": "97ccc83bb71f9042ee389300e4a71c6aa885e997",
+    "sponsors": [
+        "10961937",
+        "93287434"
+    ],
+    "download_count": 53973,
+    "files": {
+        "tonemapped": {
+            "size": 7837894,
+            "md5": "af696cb6443419298337835478745e4c",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/red_hill_curve.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 108136218,
+                    "md5": "66e13bdea67848c1da1f332ade0feca2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/red_hill_curve_8k.hdr"
+                },
+                "exr": {
+                    "size": 96946135,
+                    "md5": "1d39de9f47a9abc27695c1dd380665f9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/red_hill_curve_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 409448722,
+                    "md5": "e4cb0667a187fb728c95240c5e6ead27",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/red_hill_curve_16k.hdr"
+                },
+                "exr": {
+                    "size": 361097271,
+                    "md5": "f07f719924fc60f3ac10392a989af73b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/red_hill_curve_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27452843,
+                    "md5": "efa5724e6c4daefbb342f9fc77d8df39",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/red_hill_curve_4k.hdr"
+                },
+                "exr": {
+                    "size": 24630971,
+                    "md5": "76d523fbfb0af4eaf095a3ecb7ad5ced",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/red_hill_curve_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6868820,
+                    "md5": "cca8b5028d20ad64550c49c3819770ce",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/red_hill_curve_2k.hdr"
+                },
+                "exr": {
+                    "size": 6257585,
+                    "md5": "2289ed812764341edd802cfa4799cdf5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/red_hill_curve_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1719157,
+                    "md5": "76a21b6b5e8d34a932c9324c3600d732",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/red_hill_curve_1k.hdr"
+                },
+                "exr": {
+                    "size": 1603771,
+                    "md5": "ace8a3bf6f973c97e9c2b72214589092",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/red_hill_curve_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "IMG_0180-Pano": {
+                "jpg_pretty": {
+                    "size": 5425002,
+                    "md5": "4c3b68fc2999aa229fff83a0ee786f3d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_pretty/IMG_0180-Pano.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4506739,
+                    "md5": "4dd570e90039d68f965fce60b3b45e54",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_plain/IMG_0180-Pano.jpg"
+                },
+                "raw": {
+                    "size": 85570964,
+                    "md5": "e02a3f65d417af8d390ea42fb8fe7bec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/raw/IMG_0180-Pano.dng"
+                }
+            },
+            "IMG_0208": {
+                "jpg_pretty": {
+                    "size": 4278876,
+                    "md5": "512574a692b6de38292fa7c31828fb22",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_pretty/IMG_0208.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5906785,
+                    "md5": "86304a6a1d462df69d494a868b749788",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_plain/IMG_0208.jpg"
+                },
+                "raw": {
+                    "size": 20859752,
+                    "md5": "f09cb79558178502ec0fcbf2e220a88a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/raw/IMG_0208.dng"
+                }
+            },
+            "IMG_0206": {
+                "jpg_pretty": {
+                    "size": 11365673,
+                    "md5": "dd8b7df996dadf5d2d25320ed765576f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_pretty/IMG_0206.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12066565,
+                    "md5": "96f82ced4115b8aa110f1f8726208494",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_plain/IMG_0206.jpg"
+                },
+                "raw": {
+                    "size": 24032428,
+                    "md5": "25760c634c83f3dafac6e03fae44b3b3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/raw/IMG_0206.dng"
+                }
+            },
+            "IMG_0181-Pano": {
+                "jpg_pretty": {
+                    "size": 6155249,
+                    "md5": "c7b08ca39c1a05f64abf45cd0df08d43",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_pretty/IMG_0181-Pano.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6743741,
+                    "md5": "8a8fb4b136017f442ac2c7c15f2f8adf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_plain/IMG_0181-Pano.jpg"
+                },
+                "raw": {
+                    "size": 110541058,
+                    "md5": "e3165ad40690469cf3fba389e68dfd01",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/raw/IMG_0181-Pano.dng"
+                }
+            },
+            "IMG_0207": {
+                "jpg_pretty": {
+                    "size": 6719524,
+                    "md5": "a33353c15faff83079aab0192facb47e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_pretty/IMG_0207.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7305057,
+                    "md5": "0856521a9c63b1cdb83f57f5e24ec04b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_plain/IMG_0207.jpg"
+                },
+                "raw": {
+                    "size": 22837656,
+                    "md5": "d2b68de70a7f0bfc1fa1c53e46784496",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/raw/IMG_0207.dng"
+                }
+            },
+            "IMG_0204": {
+                "jpg_pretty": {
+                    "size": 7349598,
+                    "md5": "3e6d9b075f335ae4a883d9107ad1baca",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_pretty/IMG_0204.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7915766,
+                    "md5": "592dd5765cc0f05c8c94432b7b4e0a0e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_plain/IMG_0204.jpg"
+                },
+                "raw": {
+                    "size": 22111192,
+                    "md5": "cd381d181a2f5e0a4517873f61930aa8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/raw/IMG_0204.dng"
+                }
+            },
+            "IMG_0205": {
+                "jpg_pretty": {
+                    "size": 10206214,
+                    "md5": "4b6807495f39b5aefccdcde3f7c50b93",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_pretty/IMG_0205.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10771249,
+                    "md5": "65cba9a0cf9f3fe995690f87af0c6ec5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_plain/IMG_0205.jpg"
+                },
+                "raw": {
+                    "size": 23472140,
+                    "md5": "df123163a657fc40f58d6733ecc33a44",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/raw/IMG_0205.dng"
+                }
+            },
+            "IMG_0202": {
+                "jpg_pretty": {
+                    "size": 5477207,
+                    "md5": "98071c0b8839ca28b8eaff196f691248",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_pretty/IMG_0202.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6119422,
+                    "md5": "1b7eed37582dd29940ded1f79552bbf7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_plain/IMG_0202.jpg"
+                },
+                "raw": {
+                    "size": 21965214,
+                    "md5": "74afc690a5d8dbd4a941cf8485ddc302",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/raw/IMG_0202.dng"
+                }
+            },
+            "IMG_0203": {
+                "jpg_pretty": {
+                    "size": 7839164,
+                    "md5": "5d19abaedafa88333065df8c787065a5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_pretty/IMG_0203.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8357202,
+                    "md5": "afec0c31564803285f38aac7152be876",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_plain/IMG_0203.jpg"
+                },
+                "raw": {
+                    "size": 23233110,
+                    "md5": "6ced479c0602fa1361b4c4e95ac6d667",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/raw/IMG_0203.dng"
+                }
+            },
+            "IMG_0200": {
+                "jpg_pretty": {
+                    "size": 6540897,
+                    "md5": "5274047688f11aa05d409abc10c34961",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_pretty/IMG_0200.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7038929,
+                    "md5": "cb8afb3d1bbd9a3cbf089b86d2ec5249",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_plain/IMG_0200.jpg"
+                },
+                "raw": {
+                    "size": 22626152,
+                    "md5": "ad5f6bbdacf3db0e0b5f9ae0452bef9a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/raw/IMG_0200.dng"
+                }
+            },
+            "IMG_0201": {
+                "jpg_pretty": {
+                    "size": 8733678,
+                    "md5": "2aa651d51dcc9e5ee5a2b9819351b0e7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_pretty/IMG_0201.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8599643,
+                    "md5": "b1f8baf96062e243d8aed8b8e3e287bf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_plain/IMG_0201.jpg"
+                },
+                "raw": {
+                    "size": 23295276,
+                    "md5": "d76c60c29e4dc46c55393f5b63f0722a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/raw/IMG_0201.dng"
+                }
+            },
+            "IMG_0198": {
+                "jpg_pretty": {
+                    "size": 4058106,
+                    "md5": "d8ba8bba5be7f440baba6f553eea8205",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_pretty/IMG_0198.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5900275,
+                    "md5": "61d7b9009ac73a79d07b5d92d28e8775",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_plain/IMG_0198.jpg"
+                },
+                "raw": {
+                    "size": 20630018,
+                    "md5": "dde3e00ceb5bb9ee9b8d8086cfd3e3cb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/raw/IMG_0198.dng"
+                }
+            },
+            "IMG_0220": {
+                "jpg_pretty": {
+                    "size": 5705830,
+                    "md5": "c4b3dc600a2f0a2311622ef229cf7d44",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_pretty/IMG_0220.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6594385,
+                    "md5": "de8670b588b9d5ae6c203eaef72ee78a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_plain/IMG_0220.jpg"
+                },
+                "raw": {
+                    "size": 21921070,
+                    "md5": "072ead683d81fdece3b01fe40f8c4c5f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/raw/IMG_0220.dng"
+                }
+            },
+            "IMG_0177": {
+                "jpg_pretty": {
+                    "size": 3477564,
+                    "md5": "725a74292c5ff82a1f1308a53ae7d480",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_pretty/IMG_0177.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3760164,
+                    "md5": "4ea93cb0bb2d9304943fb135c29468c4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_plain/IMG_0177.jpg"
+                },
+                "raw": {
+                    "size": 19353396,
+                    "md5": "e0efcc40b56a8946d461cdef1efb4ad3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/raw/IMG_0177.dng"
+                }
+            },
+            "IMG_0199": {
+                "jpg_pretty": {
+                    "size": 8663747,
+                    "md5": "097b08a44ccb1bd5cd61183179715053",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_pretty/IMG_0199.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8618381,
+                    "md5": "1b6c86575bf0e0d4cbe8858c9b7d58f5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_plain/IMG_0199.jpg"
+                },
+                "raw": {
+                    "size": 23551796,
+                    "md5": "683722117347b159cc88dfd658a506f0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/raw/IMG_0199.dng"
+                }
+            },
+            "IMG_0174": {
+                "jpg_pretty": {
+                    "size": 10689194,
+                    "md5": "10d45b441c07e0aed309e0f48174f9b8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_pretty/IMG_0174.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9279924,
+                    "md5": "30f3c4ae08dc81ba65068a71e44ced12",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_plain/IMG_0174.jpg"
+                },
+                "raw": {
+                    "size": 26713240,
+                    "md5": "26ebf5997fba86f678eff9469fc63f63",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/raw/IMG_0174.dng"
+                }
+            },
+            "IMG_0196": {
+                "jpg_pretty": {
+                    "size": 4382330,
+                    "md5": "12829b3e6d0396b084311e43434f48f6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_pretty/IMG_0196.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6022142,
+                    "md5": "f276818abe3c685bd0cfa8650345b1af",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_plain/IMG_0196.jpg"
+                },
+                "raw": {
+                    "size": 20872592,
+                    "md5": "9882e650529abd75c5c12b85d0ce03d8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/raw/IMG_0196.dng"
+                }
+            },
+            "IMG_0175": {
+                "jpg_pretty": {
+                    "size": 4397920,
+                    "md5": "934ccda2d3975aa05e15eac431cda928",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_pretty/IMG_0175.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4684784,
+                    "md5": "4a239a5af2a7c636cef1bfab89183e66",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_plain/IMG_0175.jpg"
+                },
+                "raw": {
+                    "size": 20322082,
+                    "md5": "ffd402634df4d22c2aba571b2539a2a9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/raw/IMG_0175.dng"
+                }
+            },
+            "IMG_0197": {
+                "jpg_pretty": {
+                    "size": 5364417,
+                    "md5": "4d98f5721e027522c3678efd3c6b2c34",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_pretty/IMG_0197.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6925155,
+                    "md5": "3717c78395cdd64e251a206fb4ba5427",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_plain/IMG_0197.jpg"
+                },
+                "raw": {
+                    "size": 21445358,
+                    "md5": "b80db087ae898a441b66a7ba94b376d8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/raw/IMG_0197.dng"
+                }
+            },
+            "IMG_0194": {
+                "jpg_pretty": {
+                    "size": 4024084,
+                    "md5": "786a59b21a0a97a9b9353585119b6a63",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_pretty/IMG_0194.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5471482,
+                    "md5": "b5a0a268ce10f22a11383787155fb5f5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_plain/IMG_0194.jpg"
+                },
+                "raw": {
+                    "size": 21052220,
+                    "md5": "6fe55d4faa3c19fc2e66daafc0c30331",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/raw/IMG_0194.dng"
+                }
+            },
+            "IMG_0195": {
+                "jpg_pretty": {
+                    "size": 5320791,
+                    "md5": "d87eb5ccb8d8964342cb99308424ff32",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_pretty/IMG_0195.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6522573,
+                    "md5": "493e4e99c411441f91624e66c8127b4a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_plain/IMG_0195.jpg"
+                },
+                "raw": {
+                    "size": 21524068,
+                    "md5": "b201ce3be481d2f8620d0ca9b49a97f4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/raw/IMG_0195.dng"
+                }
+            },
+            "IMG_0193-Pano": {
+                "jpg_pretty": {
+                    "size": 13249365,
+                    "md5": "a0447ddc5646752e1159b3d4fabcbb8c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_pretty/IMG_0193-Pano.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13704513,
+                    "md5": "7b5675607edf34d7b101789ea6c14902",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/jpg_plain/IMG_0193-Pano.jpg"
+                },
+                "raw": {
+                    "size": 163485756,
+                    "md5": "25f3913ff5421b4092636debd1cdda72",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/red_hill_curve/raw/IMG_0193-Pano.dng"
+                }
+            }
+        }
+    }
+}

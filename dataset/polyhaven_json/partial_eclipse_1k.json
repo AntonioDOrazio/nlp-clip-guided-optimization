@@ -1,0 +1,104 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "tags": [
+        "sun",
+        "partial eclipse",
+        "tree",
+        "dead",
+        "burnt grass",
+        "winter"
+    ],
+    "date_published": 1506981600,
+    "name": "Partial Eclipse",
+    "categories": [
+        "outdoor",
+        "nature",
+        "clear",
+        "midday",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1472720880,
+    "coords": [
+        -26.123941,
+        28.008388
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "8571269"
+    ],
+    "files_hash": "686d6d75bd69edf26d2fc641de1ccd33f0bb314f",
+    "download_count": 16294,
+    "files": {
+        "tonemapped": {
+            "size": 9979992,
+            "md5": "fb781503d431c5a9bfddee3f7db2b2dd",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/partial_eclipse.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 107360674,
+                    "md5": "8f3d7331476758fe047a844096248212",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/partial_eclipse_8k.hdr"
+                },
+                "exr": {
+                    "size": 105842941,
+                    "md5": "4da916a51c0a3599b12f10b23a093e21",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/partial_eclipse_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 393576119,
+                    "md5": "ff34b1d89d9af65e6d5957fee4173c18",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/partial_eclipse_16k.hdr"
+                },
+                "exr": {
+                    "size": 386085708,
+                    "md5": "0c94043746043256031d164eb16da26f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/partial_eclipse_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27527176,
+                    "md5": "b0a7c53041051d28025c90527ab95208",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/partial_eclipse_4k.hdr"
+                },
+                "exr": {
+                    "size": 27614199,
+                    "md5": "7cec8e30dc56ffe2a48ce419d0cc6019",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/partial_eclipse_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6962142,
+                    "md5": "46462059816d9d2f189fc098c2020afd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/partial_eclipse_2k.hdr"
+                },
+                "exr": {
+                    "size": 7097479,
+                    "md5": "6bf664f419bdb32aa0408a1bf259d100",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/partial_eclipse_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1784453,
+                    "md5": "5504f7609c1b02c38da5de281211a075",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/partial_eclipse_1k.hdr"
+                },
+                "exr": {
+                    "size": 1817967,
+                    "md5": "4b753fe1758c9089c08d6b3972e86715",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/partial_eclipse_1k.exr"
+                }
+            }
+        }
+    }
+}

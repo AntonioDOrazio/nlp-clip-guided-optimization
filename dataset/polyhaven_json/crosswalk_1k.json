@@ -1,0 +1,452 @@
+{
+    "evs_cap": 27,
+    "type": 0,
+    "whitebalance": 5300,
+    "date_published": 1608246000,
+    "name": "Crosswalk",
+    "categories": [
+        "outdoor",
+        "urban",
+        "morning-afternoon",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1600984800,
+    "coords": [
+        50.08049,
+        36.261773
+    ],
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "53439564"
+    ],
+    "backplates": true,
+    "tags": [
+        "road",
+        "sun",
+        "pedetrian",
+        "asphalt",
+        "backplates"
+    ],
+    "files_hash": "ff602f4004753f8730709553f9f84bd217de945c",
+    "download_count": 62804,
+    "files": {
+        "tonemapped": {
+            "size": 7664266,
+            "md5": "f1f0402960e4e04494e5a654bb50d666",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/crosswalk.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101416316,
+                    "md5": "7fae7ae3e85dd7b35f537dd1dfffd40d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/crosswalk_8k.hdr"
+                },
+                "exr": {
+                    "size": 88413887,
+                    "md5": "04bfe819438dc572d8b5cc6705f994f1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/crosswalk_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 382279882,
+                    "md5": "dbdcb3119ffd8f9588ade889b9ee8ba2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/crosswalk_16k.hdr"
+                },
+                "exr": {
+                    "size": 328166148,
+                    "md5": "390e5c269c3383c6d2ac5949912478e1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/crosswalk_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25633036,
+                    "md5": "976e7ef0909fc129a5956316e2dde161",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/crosswalk_4k.hdr"
+                },
+                "exr": {
+                    "size": 22553384,
+                    "md5": "2cc274ebbdd287038cbd8978af3e50fe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/crosswalk_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6314886,
+                    "md5": "976cbdb396636a088826d9f4796ff930",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/crosswalk_2k.hdr"
+                },
+                "exr": {
+                    "size": 5648836,
+                    "md5": "85e7d5c220eb6a17003a794000659c2a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/crosswalk_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1572012,
+                    "md5": "8de93ae04917c1a9eb2b5d22d01a73ab",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/crosswalk_1k.hdr"
+                },
+                "exr": {
+                    "size": 1428245,
+                    "md5": "35eb27e2a8c3dc501c9c536a0bca03a5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/crosswalk_1k.exr"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 82041299,
+            "md5": "42172fa7f3216538b9295364f16c325e",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/crosswalk.zip"
+        },
+        "backplates": {
+            "DSC_3705": {
+                "jpg_pretty": {
+                    "size": 19913505,
+                    "md5": "8c2b81874f7d44738df669139482f1bc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_pretty/DSC_3705.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15813495,
+                    "md5": "b55d2f505a82b4b5bb249bc269c5d557",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_plain/DSC_3705.jpg"
+                },
+                "raw": {
+                    "size": 31514495,
+                    "md5": "209b618de45c341ef9b7375b312df4fe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/raw/DSC_3705.NEF"
+                }
+            },
+            "DSC_3635": {
+                "jpg_pretty": {
+                    "size": 18922100,
+                    "md5": "cd0a381135f92289f87e1b882e25f9c7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_pretty/DSC_3635.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13272761,
+                    "md5": "424bcda06061970643d7bdf739eef022",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_plain/DSC_3635.jpg"
+                },
+                "raw": {
+                    "size": 27729549,
+                    "md5": "7089221f3fd009ef970a4d6b4e824b7d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/raw/DSC_3635.NEF"
+                }
+            },
+            "DSC_3625": {
+                "jpg_pretty": {
+                    "size": 16595382,
+                    "md5": "09c153e4be41ce16d0f982ef2329a801",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_pretty/DSC_3625.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11145237,
+                    "md5": "6f0a1e628c51e0da3d3c2a886662f27f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_plain/DSC_3625.jpg"
+                },
+                "raw": {
+                    "size": 26933058,
+                    "md5": "afd6039875c1b41518f11b6d346910b9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/raw/DSC_3625.NEF"
+                }
+            },
+            "DSC_3615": {
+                "jpg_pretty": {
+                    "size": 20592346,
+                    "md5": "84ee7aae5003a7a2259b6925fde3dd3a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_pretty/DSC_3615.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15257157,
+                    "md5": "4c50ffc3bcde16e0139ca7f4e6d64013",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_plain/DSC_3615.jpg"
+                },
+                "raw": {
+                    "size": 28737825,
+                    "md5": "5dbab8e6b0303801ac24317e0d5c6247",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/raw/DSC_3615.NEF"
+                }
+            },
+            "DSC_3605": {
+                "jpg_pretty": {
+                    "size": 20491057,
+                    "md5": "2b25657ababf5a53bc3c104803bff693",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_pretty/DSC_3605.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16937161,
+                    "md5": "6b8578a4d20a5634a4a85e9c74ec38a9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_plain/DSC_3605.jpg"
+                },
+                "raw": {
+                    "size": 29823177,
+                    "md5": "2df87983aa03e2f0301a475fe656229b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/raw/DSC_3605.NEF"
+                }
+            },
+            "DSC_3675": {
+                "jpg_pretty": {
+                    "size": 20702746,
+                    "md5": "42b5982bdcc193d2b5f37f1f359e0cb4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_pretty/DSC_3675.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14701727,
+                    "md5": "2d78a5298da5d2f32a6cae8fbe9ccd2a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_plain/DSC_3675.jpg"
+                },
+                "raw": {
+                    "size": 30359981,
+                    "md5": "006bfbe0c814e685e29e334579991873",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/raw/DSC_3675.NEF"
+                }
+            },
+            "DSC_3665": {
+                "jpg_pretty": {
+                    "size": 17665838,
+                    "md5": "9d079439cb57ecf40120c5350b533dbf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_pretty/DSC_3665.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11589715,
+                    "md5": "2ba53ff41f105729dcb26e692c7b95fc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_plain/DSC_3665.jpg"
+                },
+                "raw": {
+                    "size": 27296685,
+                    "md5": "8f7e805cacdc20ae25c682f60d03e5f7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/raw/DSC_3665.NEF"
+                }
+            },
+            "DSC_3600": {
+                "jpg_pretty": {
+                    "size": 20166831,
+                    "md5": "82467413063685436f3c1cc940ec15ec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_pretty/DSC_3600.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14763948,
+                    "md5": "27088d532b21c977f2a19e21e90bbca2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_plain/DSC_3600.jpg"
+                },
+                "raw": {
+                    "size": 28359210,
+                    "md5": "5a7a597b177d897ab4d2ddb47789b958",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/raw/DSC_3600.NEF"
+                }
+            },
+            "DSC_3655": {
+                "jpg_pretty": {
+                    "size": 17202522,
+                    "md5": "070a956527f369a5014984c016242ded",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_pretty/DSC_3655.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12271416,
+                    "md5": "22348e93313d90ef0a182d3c22e9096d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_plain/DSC_3655.jpg"
+                },
+                "raw": {
+                    "size": 29043691,
+                    "md5": "f7880d413f16761bd0545637dbceffb3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/raw/DSC_3655.NEF"
+                }
+            },
+            "DSC_3710": {
+                "jpg_pretty": {
+                    "size": 18981889,
+                    "md5": "32b198cc912b99daf9607e687524d012",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_pretty/DSC_3710.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12010262,
+                    "md5": "39b42795f6d1758599fe17a60370e9c8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_plain/DSC_3710.jpg"
+                },
+                "raw": {
+                    "size": 27633092,
+                    "md5": "beb5fe184861befae4f1219480d86c3b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/raw/DSC_3710.NEF"
+                }
+            },
+            "DSC_3645": {
+                "jpg_pretty": {
+                    "size": 18059075,
+                    "md5": "c2eeb8706b1d2a4bedd250efedae0deb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_pretty/DSC_3645.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11820857,
+                    "md5": "f330fdf32d09e630e84bc48bc0e8aef0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_plain/DSC_3645.jpg"
+                },
+                "raw": {
+                    "size": 26462490,
+                    "md5": "641c554c43a137edf940acfd2521b093",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/raw/DSC_3645.NEF"
+                }
+            },
+            "DSC_3700": {
+                "jpg_pretty": {
+                    "size": 18914993,
+                    "md5": "8a85dafb41f9a665bd06314092617d04",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_pretty/DSC_3700.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14101854,
+                    "md5": "9909c9bc6c1193e5548975270ac4ec8b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_plain/DSC_3700.jpg"
+                },
+                "raw": {
+                    "size": 29238118,
+                    "md5": "7ad5d71143a198e1be3d2e0dfd8b10fb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/raw/DSC_3700.NEF"
+                }
+            },
+            "DSC_3660": {
+                "jpg_pretty": {
+                    "size": 16876609,
+                    "md5": "5c29914fbf869481cf007929a17d693d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_pretty/DSC_3660.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12584256,
+                    "md5": "48873b447ad9739bf6b396550ff150ee",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_plain/DSC_3660.jpg"
+                },
+                "raw": {
+                    "size": 28882187,
+                    "md5": "e9fbfc200865fe6debc0d8fca02d8d9f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/raw/DSC_3660.NEF"
+                }
+            },
+            "DSC_3650": {
+                "jpg_pretty": {
+                    "size": 17532349,
+                    "md5": "21b78623b96ef6b55ea98b6bac7cfab1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_pretty/DSC_3650.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13551037,
+                    "md5": "90e7efbe56cfeccca105d2db7c1492ef",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_plain/DSC_3650.jpg"
+                },
+                "raw": {
+                    "size": 29735664,
+                    "md5": "cf81e4611c46f9f48707689373d3ad47",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/raw/DSC_3650.NEF"
+                }
+            },
+            "DSC_3640": {
+                "jpg_pretty": {
+                    "size": 20171994,
+                    "md5": "5b8883b54bc1fc781ce8deca654aa684",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_pretty/DSC_3640.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12716284,
+                    "md5": "2e688695bedb98b83bea1242976f7a94",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_plain/DSC_3640.jpg"
+                },
+                "raw": {
+                    "size": 26701785,
+                    "md5": "8e180aefee35bc57c2b973b0aca12a03",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/raw/DSC_3640.NEF"
+                }
+            },
+            "DSC_3630": {
+                "jpg_pretty": {
+                    "size": 16831821,
+                    "md5": "a5c54e29dc50c5498272c1ed70d77a41",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_pretty/DSC_3630.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12207937,
+                    "md5": "75a4538804b914990a4a3dba8e63b878",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_plain/DSC_3630.jpg"
+                },
+                "raw": {
+                    "size": 27743919,
+                    "md5": "562fcc86317378ffcbea6c90b1bced1e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/raw/DSC_3630.NEF"
+                }
+            },
+            "DSC_3685": {
+                "jpg_pretty": {
+                    "size": 16820230,
+                    "md5": "33e3c388970d33232a32a44f80e3452d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_pretty/DSC_3685.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11815647,
+                    "md5": "7a96f538411f6cbca00b74a59fa8e2b9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_plain/DSC_3685.jpg"
+                },
+                "raw": {
+                    "size": 28347935,
+                    "md5": "fe060db1ec47f4766bcc1256df8e14f8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/raw/DSC_3685.NEF"
+                }
+            },
+            "DSC_3690": {
+                "jpg_pretty": {
+                    "size": 18228656,
+                    "md5": "d02993afca881b2c7f2a4b306cc3979c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_pretty/DSC_3690.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13384841,
+                    "md5": "51115b1d09b7d97529588355106a5643",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_plain/DSC_3690.jpg"
+                },
+                "raw": {
+                    "size": 31139628,
+                    "md5": "4cf72192efad4165bc6959132b26711c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/raw/DSC_3690.NEF"
+                }
+            },
+            "DSC_3680": {
+                "jpg_pretty": {
+                    "size": 18108955,
+                    "md5": "85e3ab540686a507deb7b6b603c0e9c0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_pretty/DSC_3680.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13069405,
+                    "md5": "0da8cef6a974308782fdcb0aed70db8f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_plain/DSC_3680.jpg"
+                },
+                "raw": {
+                    "size": 28731292,
+                    "md5": "da8fa89c6b3a61a6f449c2cd194c9b87",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/raw/DSC_3680.NEF"
+                }
+            },
+            "DSC_3670": {
+                "jpg_pretty": {
+                    "size": 18774282,
+                    "md5": "a665f5ed8cff7944c4a08c60bce7cc9a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_pretty/DSC_3670.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12085953,
+                    "md5": "9569ae1c65d06086ee07f8ac6827b8a9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/jpg_plain/DSC_3670.jpg"
+                },
+                "raw": {
+                    "size": 29837009,
+                    "md5": "fd4571746a68cd70b98910480bf9983b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/crosswalk/raw/DSC_3670.NEF"
+                }
+            }
+        }
+    }
+}

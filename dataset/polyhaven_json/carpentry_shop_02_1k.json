@@ -1,0 +1,104 @@
+{
+    "evs_cap": 12,
+    "files_hash": "ed7f29254afc82db97c799b70a7ab0a363534baf",
+    "type": 0,
+    "whitebalance": 4000,
+    "tags": [
+        "lamp",
+        "fluorescent",
+        "workshop",
+        "machine",
+        "tools",
+        "wood",
+        "carpentry",
+        "workbench"
+    ],
+    "date_published": 1570485600,
+    "sponsors": [
+        {
+            "name": "_blankRepository",
+            "url": "http://www.blankrepository.org/"
+        }
+    ],
+    "name": "Carpentry Shop 02",
+    "categories": [
+        "indoor",
+        "urban",
+        "high contrast",
+        "artificial light"
+    ],
+    "date_taken": 1554722640,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "download_count": 33010,
+    "files": {
+        "tonemapped": {
+            "size": 5833753,
+            "md5": "99815bf3304396bb61c7ccbbcb1a67da",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/carpentry_shop_02.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103722059,
+                    "md5": "08af08f80fb63cea7f5f0b2fa6529fe3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/carpentry_shop_02_8k.hdr"
+                },
+                "exr": {
+                    "size": 96425891,
+                    "md5": "964639411040f155911fbadb9714b5f7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/carpentry_shop_02_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 401492700,
+                    "md5": "c66ca21040f33064cea09ef5066b80a2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/carpentry_shop_02_16k.hdr"
+                },
+                "exr": {
+                    "size": 362604284,
+                    "md5": "e3cffc538ab8a969619dbc1d57287adc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/carpentry_shop_02_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26470662,
+                    "md5": "c760c8b5ca7fe017baad6fcf0f230307",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/carpentry_shop_02_4k.hdr"
+                },
+                "exr": {
+                    "size": 25305910,
+                    "md5": "2722cb8d53e86eb67656378df954ee41",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/carpentry_shop_02_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6758761,
+                    "md5": "0d651db9aa3bd8352cb0bfd166001a9d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/carpentry_shop_02_2k.hdr"
+                },
+                "exr": {
+                    "size": 6682929,
+                    "md5": "149cc51686055c2cab6459faa4a8ff5d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/carpentry_shop_02_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1730433,
+                    "md5": "eef160f7e76d600173a85a20bb95eef8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/carpentry_shop_02_1k.hdr"
+                },
+                "exr": {
+                    "size": 1773602,
+                    "md5": "e0a8303454fade3f52f208ca2d31f362",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/carpentry_shop_02_1k.exr"
+                }
+            }
+        }
+    }
+}

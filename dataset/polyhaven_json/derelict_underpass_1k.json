@@ -1,0 +1,210 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "whitebalance": 5400,
+    "date_published": 1542952131,
+    "name": "Derelict Underpass",
+    "categories": [
+        "outdoor",
+        "urban",
+        "midday",
+        "clear",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1542880920,
+    "coords": [
+        -25.78154166,
+        27.9431956
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "3567764"
+    ],
+    "backplates": true,
+    "tags": [
+        "bridge",
+        "road",
+        "rubber",
+        "abandoned",
+        "highway",
+        "backplates"
+    ],
+    "files_hash": "a030a2861916386303f4bb1b0e73046533435958",
+    "download_count": 11950,
+    "files": {
+        "tonemapped": {
+            "size": 4656030,
+            "md5": "08ec4f33997d87a96fd4b10bf2e3f2cd",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/derelict_underpass.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 100069930,
+                    "md5": "db06646a21fa9bbf8770eda675dd82a1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/derelict_underpass_8k.hdr"
+                },
+                "exr": {
+                    "size": 83375009,
+                    "md5": "f1a9004a62cc90ea0b98d58727e3e218",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/derelict_underpass_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 379599732,
+                    "md5": "68ccb37171dd6c4aa6df0732c97df1f9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/derelict_underpass_16k.hdr"
+                },
+                "exr": {
+                    "size": 308631608,
+                    "md5": "b561182e9f199e40e6d101730751747c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/derelict_underpass_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25352060,
+                    "md5": "16f4b9b8733f09e3c1c3b4cf8ac2b0b5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/derelict_underpass_4k.hdr"
+                },
+                "exr": {
+                    "size": 21498207,
+                    "md5": "d68c5d2dcbb967d73a530761e2e13d3c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/derelict_underpass_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6245649,
+                    "md5": "7ad96d19a83a66cbe964c6d127fa6289",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/derelict_underpass_2k.hdr"
+                },
+                "exr": {
+                    "size": 5450635,
+                    "md5": "024601e9c63701bf36ca5d5de1d19e6d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/derelict_underpass_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1543514,
+                    "md5": "cb26ff8ed1ca7b4002232d12a1faf7df",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/derelict_underpass_1k.hdr"
+                },
+                "exr": {
+                    "size": 1389445,
+                    "md5": "72acad075a9bf61e276ebccc95cc4342",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/derelict_underpass_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "DSC00019": {
+                "jpg_pretty": {
+                    "size": 23512958,
+                    "md5": "0f8be0fe89dc105ebeca2a8598e2e436",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_underpass/jpg_pretty/DSC00019.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16576502,
+                    "md5": "49c202abdaaacfafaa365091260f7e1f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_underpass/jpg_plain/DSC00019.jpg"
+                },
+                "raw": {
+                    "size": 37093376,
+                    "md5": "1b925403594a68ac911e649153f610b8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_underpass/raw/DSC00019.ARW"
+                }
+            },
+            "DSC00018": {
+                "jpg_pretty": {
+                    "size": 30438516,
+                    "md5": "c921cb5eb4b12af462743b34a7ad73bf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_underpass/jpg_pretty/DSC00018.jpg"
+                },
+                "jpg_plain": {
+                    "size": 21885335,
+                    "md5": "924e3c3eda9c7d094ea135ce450ddce9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_underpass/jpg_plain/DSC00018.jpg"
+                },
+                "raw": {
+                    "size": 37322752,
+                    "md5": "1acba6df7bc452a43948a710ea41c547",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_underpass/raw/DSC00018.ARW"
+                }
+            },
+            "DSC00022": {
+                "jpg_pretty": {
+                    "size": 23183258,
+                    "md5": "4b888e1f7390c1a616da1ceabc2a7d24",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_underpass/jpg_pretty/DSC00022.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16395344,
+                    "md5": "07ed08e567a34d96188e8cf2517e791c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_underpass/jpg_plain/DSC00022.jpg"
+                },
+                "raw": {
+                    "size": 37126144,
+                    "md5": "e454de5d419861d2668ca5dbf4568ffb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_underpass/raw/DSC00022.ARW"
+                }
+            },
+            "DSC00001": {
+                "jpg_pretty": {
+                    "size": 26012931,
+                    "md5": "32acef489a9bd98c00b15545e0ca8bb4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_underpass/jpg_pretty/DSC00001.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19053478,
+                    "md5": "03a45de2332cb02b908d23657d653ee1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_underpass/jpg_plain/DSC00001.jpg"
+                },
+                "raw": {
+                    "size": 37191680,
+                    "md5": "89d71085e032388b7e600bd0c3c502c9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_underpass/raw/DSC00001.ARW"
+                }
+            },
+            "DSC00023": {
+                "jpg_pretty": {
+                    "size": 26246883,
+                    "md5": "4fd30b6ea6373356c72ddbef2f0fab06",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_underpass/jpg_pretty/DSC00023.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16381805,
+                    "md5": "f62af3ad55d54c08a5b93c8b41cc5516",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_underpass/jpg_plain/DSC00023.jpg"
+                },
+                "raw": {
+                    "size": 37158912,
+                    "md5": "bf12c552e19d8ff6b2a4f586a0f9ffdf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_underpass/raw/DSC00023.ARW"
+                }
+            },
+            "DSC00020": {
+                "jpg_pretty": {
+                    "size": 24151606,
+                    "md5": "598c5854ce3c2f4ee60bfcd9e6bb1ae8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_underpass/jpg_pretty/DSC00020.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16915385,
+                    "md5": "ce00215f23920ed59b4ef20ef75e811e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_underpass/jpg_plain/DSC00020.jpg"
+                },
+                "raw": {
+                    "size": 37158912,
+                    "md5": "03c59b1a7e88144310f6487ae8754c05",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_underpass/raw/DSC00020.ARW"
+                }
+            }
+        }
+    }
+}

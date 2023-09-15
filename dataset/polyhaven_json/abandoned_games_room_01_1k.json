@@ -1,0 +1,100 @@
+{
+    "evs_cap": 3,
+    "prepaid": true,
+    "type": 0,
+    "tags": [
+        "abandoned",
+        "room",
+        "window",
+        "tile",
+        "rubble"
+    ],
+    "date_published": 1538085600,
+    "name": "Abandoned Games Room 01",
+    "categories": [
+        "indoor",
+        "urban",
+        "midday",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        44.318086,
+        28.631351
+    ],
+    "date_taken": 1524921180,
+    "authors": {
+        "Octavian Tudose": "All"
+    },
+    "files_hash": "bcd5a2c0d32bb67704719008a6a1e7bf62b4a290",
+    "download_count": 18373,
+    "files": {
+        "tonemapped": {
+            "size": 4836353,
+            "md5": "9df76da1989853786aba4d33df0cee3e",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/abandoned_games_room_01.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101876264,
+                    "md5": "6b289f3d04a73907bb46f826e316e47d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/abandoned_games_room_01_8k.hdr"
+                },
+                "exr": {
+                    "size": 85170861,
+                    "md5": "c44104803562f0d6336d8651445d3fcb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/abandoned_games_room_01_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 386248899,
+                    "md5": "e49e6afca5adc54fa4c0e0b45b5dd458",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/abandoned_games_room_01_16k.hdr"
+                },
+                "exr": {
+                    "size": 304403200,
+                    "md5": "d51a0bdb5a341efbda449018db272c5b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/abandoned_games_room_01_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25945667,
+                    "md5": "d898a30b66368eb001226f7d632bee29",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/abandoned_games_room_01_4k.hdr"
+                },
+                "exr": {
+                    "size": 22017876,
+                    "md5": "f386adfc679ba745c7a2b79f313c48be",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/abandoned_games_room_01_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6549207,
+                    "md5": "e5f237196689b1297d515a44e8d5c56f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/abandoned_games_room_01_2k.hdr"
+                },
+                "exr": {
+                    "size": 5620190,
+                    "md5": "ab3f67883f7bb5eb8ded687a061b20e2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/abandoned_games_room_01_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1651028,
+                    "md5": "aa431f2c13b50bfd8e2605aae55b0fbc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/abandoned_games_room_01_1k.hdr"
+                },
+                "exr": {
+                    "size": 1444443,
+                    "md5": "b409ed04b85b3e04367bd37b122abcc5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/abandoned_games_room_01_1k.exr"
+                }
+            }
+        }
+    }
+}

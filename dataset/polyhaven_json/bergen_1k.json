@@ -1,0 +1,107 @@
+{
+    "evs_cap": 0,
+    "type": 0,
+    "tags": [
+        "tree",
+        "winter",
+        "grass",
+        "rock",
+        "snow",
+        "sun"
+    ],
+    "date_published": 1522879200,
+    "name": "Bergen",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        60.396113,
+        5.342357
+    ],
+    "date_taken": 1426420680,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "url": "https://www.idin-jewellery.co.uk/",
+            "name": "Idin Jewellery"
+        }
+    ],
+    "files_hash": "a87270a99270b00acf977f9616f00e4f87f5ecc4",
+    "download_count": 30069,
+    "files": {
+        "tonemapped": {
+            "size": 8930855,
+            "md5": "c7830c2de393e92dda65fa9fdfac3f28",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/bergen.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103900853,
+                    "md5": "6c0d179f66e0bf12c4c31cf9f1182394",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/bergen_8k.hdr"
+                },
+                "exr": {
+                    "size": 104693280,
+                    "md5": "58dcb2b573f5f242d5549879138fb081",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/bergen_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 374924181,
+                    "md5": "a469b760935801f56ece55abd85cd5f6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/bergen_16k.hdr"
+                },
+                "exr": {
+                    "size": 371520835,
+                    "md5": "7c56fe8c64a4321cb45ef3e2c523af2c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/bergen_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27342711,
+                    "md5": "751cb474b589d9e5cb00b7c324e34a1d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/bergen_4k.hdr"
+                },
+                "exr": {
+                    "size": 27698051,
+                    "md5": "7f696ff65a03f62e7fb0e626d0f669a0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/bergen_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6886511,
+                    "md5": "fa815145be6427c19aa088006fde3190",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/bergen_2k.hdr"
+                },
+                "exr": {
+                    "size": 7066441,
+                    "md5": "4615d5b073c2e28967439e189722bc55",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/bergen_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1706235,
+                    "md5": "9a7fdda0f685654606c6954b7f4dd905",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/bergen_1k.hdr"
+                },
+                "exr": {
+                    "size": 1783914,
+                    "md5": "ff5299d146f6592ee49bc37a385491fc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/bergen_1k.exr"
+                }
+            }
+        }
+    }
+}

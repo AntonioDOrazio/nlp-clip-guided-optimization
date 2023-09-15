@@ -1,0 +1,587 @@
+{
+    "evs_cap": 27,
+    "type": 0,
+    "whitebalance": 5400,
+    "date_published": 1609842835,
+    "name": "Brick Factory 02",
+    "categories": [
+        "clear",
+        "high contrast",
+        "morning-afternoon",
+        "natural light",
+        "nature",
+        "outdoor"
+    ],
+    "date_taken": 1596704880,
+    "coords": [
+        50.853495,
+        34.908499
+    ],
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "backplates": true,
+    "tags": [
+        "dirt",
+        "road",
+        "tree",
+        "sun",
+        "brick",
+        "pallet",
+        "backplates"
+    ],
+    "files_hash": "90a7b8f6fb4f6ab7cc2ce7faa731f310e9d2530e",
+    "download_count": 7301,
+    "files": {
+        "tonemapped": {
+            "size": 4581944,
+            "md5": "2937df09af74af6c239a500970f9df5b",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/brick_factory_02.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 96709308,
+                    "md5": "eabe5b2c86a63b7ef6a180b45ce12875",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/brick_factory_02_8k.hdr"
+                },
+                "exr": {
+                    "size": 80632792,
+                    "md5": "a44680874f7d42c46391d6e4e33469cd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/brick_factory_02_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 355514334,
+                    "md5": "a317f28e41f96f144059691720c30f5c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/brick_factory_02_16k.hdr"
+                },
+                "exr": {
+                    "size": 293809906,
+                    "md5": "44db8d3f9c4cb860a69db5bbc4dd3651",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/brick_factory_02_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24337071,
+                    "md5": "47b9cf70e58838a7eb9bc5b399d4c0e4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/brick_factory_02_4k.hdr"
+                },
+                "exr": {
+                    "size": 20607746,
+                    "md5": "16c512c25c5ebea08cc62e03436965f6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/brick_factory_02_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5956714,
+                    "md5": "dc0e4e4f357a96bc4f34c930a92a5e85",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/brick_factory_02_2k.hdr"
+                },
+                "exr": {
+                    "size": 5175740,
+                    "md5": "8da7ddba326dfaf77b26a8f1078f4aa9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/brick_factory_02_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1497734,
+                    "md5": "ac06c146d460f74c74b05ec31b55f6e2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/brick_factory_02_1k.hdr"
+                },
+                "exr": {
+                    "size": 1312902,
+                    "md5": "c307c989479484b6f4bc24c5b51bfe20",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/brick_factory_02_1k.exr"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 79676635,
+            "md5": "f59b98122ca2cfbabcf2726a86581abc",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/brick_factory_02.zip"
+        },
+        "backplates": {
+            "DSC_3819": {
+                "jpg_pretty": {
+                    "size": 19934718,
+                    "md5": "003c41632fe96c0362ba33501e46de33",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_pretty/DSC_3819.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12776450,
+                    "md5": "bb6c92b8029526ea3b4904d4d048a29c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_plain/DSC_3819.jpg"
+                },
+                "raw": {
+                    "size": 29000503,
+                    "md5": "471d6781ed5297551fbf6693645a660e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/raw/DSC_3819.NEF"
+                }
+            },
+            "DSC_3859": {
+                "jpg_pretty": {
+                    "size": 20251586,
+                    "md5": "921ba45ef167076985a2bfd57807c426",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_pretty/DSC_3859.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14905368,
+                    "md5": "5fb9bea7255aa632c35695c7af4e4e74",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_plain/DSC_3859.jpg"
+                },
+                "raw": {
+                    "size": 28281746,
+                    "md5": "2c36fb0f7686f370fce644370152556e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/raw/DSC_3859.NEF"
+                }
+            },
+            "DSC_3914": {
+                "jpg_pretty": {
+                    "size": 17786673,
+                    "md5": "8c57f0b30f3d65f01869d9c335e37432",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_pretty/DSC_3914.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14953301,
+                    "md5": "77a94d78840d8d27316db74f21cc0565",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_plain/DSC_3914.jpg"
+                },
+                "raw": {
+                    "size": 28961542,
+                    "md5": "d10abf472a8fd1dfdee6bf327c2d2c45",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/raw/DSC_3914.NEF"
+                }
+            },
+            "DSC_3739": {
+                "jpg_pretty": {
+                    "size": 15394623,
+                    "md5": "dc55764d0c22ce2aff4d2d74fe9a69e8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_pretty/DSC_3739.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10775939,
+                    "md5": "bc1e93ea7d352ee00a56b56ccb5e8704",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_plain/DSC_3739.jpg"
+                },
+                "raw": {
+                    "size": 27926301,
+                    "md5": "91577bff7dc551d5b601f145401d8085",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/raw/DSC_3739.NEF"
+                }
+            },
+            "DSC_3839": {
+                "jpg_pretty": {
+                    "size": 19626778,
+                    "md5": "dccc87f0adb0778a862a13ffac043101",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_pretty/DSC_3839.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12945979,
+                    "md5": "ef8fdd6da81dd1d9a4e4b53621c52b18",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_plain/DSC_3839.jpg"
+                },
+                "raw": {
+                    "size": 28769019,
+                    "md5": "a2e2628a872586dfb2cf0177890e26b2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/raw/DSC_3839.NEF"
+                }
+            },
+            "DSC_3734": {
+                "jpg_pretty": {
+                    "size": 14067967,
+                    "md5": "bd74287009c38a9019e11bfb8da03caa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_pretty/DSC_3734.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11319624,
+                    "md5": "705847316631fc6c7817a7b0e6a390c1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_plain/DSC_3734.jpg"
+                },
+                "raw": {
+                    "size": 27763881,
+                    "md5": "7be90fb1189535bb4239f6cfa29c2bc5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/raw/DSC_3734.NEF"
+                }
+            },
+            "DSC_3834": {
+                "jpg_pretty": {
+                    "size": 14151662,
+                    "md5": "2d00c15505c8c6da75abd933b6d5fdc4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_pretty/DSC_3834.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10212967,
+                    "md5": "a33cf57e6d8d5840b4f7bfc0ce7b738f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_plain/DSC_3834.jpg"
+                },
+                "raw": {
+                    "size": 26115770,
+                    "md5": "95cb8860df9ee53de49b899504a6fe4e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/raw/DSC_3834.NEF"
+                }
+            },
+            "DSC_3879": {
+                "jpg_pretty": {
+                    "size": 22314310,
+                    "md5": "75c22f206c1a6f67cc6ee4704341e677",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_pretty/DSC_3879.jpg"
+                },
+                "jpg_plain": {
+                    "size": 17115147,
+                    "md5": "0d0d51c31b7afba63337a7f0533e9d07",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_plain/DSC_3879.jpg"
+                },
+                "raw": {
+                    "size": 28671841,
+                    "md5": "69b5e6468efca0d818e62f3310065990",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/raw/DSC_3879.NEF"
+                }
+            },
+            "DSC_3759": {
+                "jpg_pretty": {
+                    "size": 12150334,
+                    "md5": "608f2b1d1990a4ac3226fa6a9fdf9769",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_pretty/DSC_3759.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9590718,
+                    "md5": "a5c069ec19e85ea64bed221121dd3640",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_plain/DSC_3759.jpg"
+                },
+                "raw": {
+                    "size": 25795759,
+                    "md5": "7ea47a9337ac961017cced80f1f82c8f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/raw/DSC_3759.NEF"
+                }
+            },
+            "DSC_3814": {
+                "jpg_pretty": {
+                    "size": 19527963,
+                    "md5": "2c65fa1b9d7dafb12be8c7a3fa97d834",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_pretty/DSC_3814.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13330652,
+                    "md5": "1465cea1e827be49f7766b3c1d829080",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_plain/DSC_3814.jpg"
+                },
+                "raw": {
+                    "size": 29435122,
+                    "md5": "733f70b925eec212f791bdcb7cfe114b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/raw/DSC_3814.NEF"
+                }
+            },
+            "DSC_3874": {
+                "jpg_pretty": {
+                    "size": 15422971,
+                    "md5": "8e1162d859c716830a62f29c0863c868",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_pretty/DSC_3874.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12764929,
+                    "md5": "543822214a8c12b3037e13ebc80d2ede",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_plain/DSC_3874.jpg"
+                },
+                "raw": {
+                    "size": 28173149,
+                    "md5": "d835b474e8f9b042e6a026db086882eb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/raw/DSC_3874.NEF"
+                }
+            },
+            "DSC_3754": {
+                "jpg_pretty": {
+                    "size": 16217759,
+                    "md5": "a8764a48aedd561c0bc2c9ff57e3e1d3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_pretty/DSC_3754.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11058805,
+                    "md5": "0b5401ce4fd774c702b166efdf413371",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_plain/DSC_3754.jpg"
+                },
+                "raw": {
+                    "size": 27315672,
+                    "md5": "bb9a80fda7bc623be48e56338232f0bd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/raw/DSC_3754.NEF"
+                }
+            },
+            "DSC_3799": {
+                "jpg_pretty": {
+                    "size": 18041404,
+                    "md5": "0f6afe6c163f6a630c1ef244cdc19144",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_pretty/DSC_3799.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11274924,
+                    "md5": "5aabdfb117eed001efb469a2e62fee78",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_plain/DSC_3799.jpg"
+                },
+                "raw": {
+                    "size": 27072376,
+                    "md5": "9f3df0f490189c4257d3b3e5e2a4f1aa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/raw/DSC_3799.NEF"
+                }
+            },
+            "DSC_3854": {
+                "jpg_pretty": {
+                    "size": 23316970,
+                    "md5": "b6961210e12e248cadcec0f9d6f16dfc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_pretty/DSC_3854.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15165647,
+                    "md5": "079631669b97af4d22eb4c0ead4a62a1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_plain/DSC_3854.jpg"
+                },
+                "raw": {
+                    "size": 27715240,
+                    "md5": "23a0f8fbfa21428a6fe9a58c1fa64a32",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/raw/DSC_3854.NEF"
+                }
+            },
+            "DSC_3809": {
+                "jpg_pretty": {
+                    "size": 13817347,
+                    "md5": "dbbdc5f7e7e40ef28e9b75945bed8477",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_pretty/DSC_3809.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10364400,
+                    "md5": "581edcaf8f46d41d51041f7c6547adfd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_plain/DSC_3809.jpg"
+                },
+                "raw": {
+                    "size": 25996887,
+                    "md5": "f3332991a207665faf86c11b261a5318",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/raw/DSC_3809.NEF"
+                }
+            },
+            "DSC_3909": {
+                "jpg_pretty": {
+                    "size": 17819454,
+                    "md5": "5157cbffa57794d2bd3fadc5326658b1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_pretty/DSC_3909.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15371855,
+                    "md5": "5baf8b417a54b23cdd331cfd85dfb468",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_plain/DSC_3909.jpg"
+                },
+                "raw": {
+                    "size": 29844323,
+                    "md5": "bd4b55c253fc45350564747826c33e9b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/raw/DSC_3909.NEF"
+                }
+            },
+            "DSC_3749": {
+                "jpg_pretty": {
+                    "size": 17993432,
+                    "md5": "4e7d0fac907a0dc10715b1b15d445809",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_pretty/DSC_3749.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12861287,
+                    "md5": "12d6d045d98536057f9d7732be35c766",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_plain/DSC_3749.jpg"
+                },
+                "raw": {
+                    "size": 30167971,
+                    "md5": "7ff19a1fd079e00276cdfe5cc2532904",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/raw/DSC_3749.NEF"
+                }
+            },
+            "DSC_3804": {
+                "jpg_pretty": {
+                    "size": 16866669,
+                    "md5": "7c8835d85c2d07c051a1243109629957",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_pretty/DSC_3804.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10530158,
+                    "md5": "e6e50baad5f444d486394fefbde0ece4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_plain/DSC_3804.jpg"
+                },
+                "raw": {
+                    "size": 26406762,
+                    "md5": "e0809b6e74f9bfc944cf131255367c4c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/raw/DSC_3804.NEF"
+                }
+            },
+            "DSC_3849": {
+                "jpg_pretty": {
+                    "size": 17073646,
+                    "md5": "b0ce35170b5b393c439639639efa5c72",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_pretty/DSC_3849.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12407130,
+                    "md5": "6ef79a8ad891cd57c509c4b58c535250",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_plain/DSC_3849.jpg"
+                },
+                "raw": {
+                    "size": 27481639,
+                    "md5": "2b5e9fca2b551716772b374e00a88750",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/raw/DSC_3849.NEF"
+                }
+            },
+            "DSC_3829": {
+                "jpg_pretty": {
+                    "size": 19486078,
+                    "md5": "296f1c783e7017a8a7056b6357ce237f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_pretty/DSC_3829.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14000394,
+                    "md5": "ec47271fe60fe046a0f143dc8b4b4911",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_plain/DSC_3829.jpg"
+                },
+                "raw": {
+                    "size": 28095247,
+                    "md5": "f77b92bd15c22d2364b2adc03e9dcb1e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/raw/DSC_3829.NEF"
+                }
+            },
+            "DSC_3844": {
+                "jpg_pretty": {
+                    "size": 19386396,
+                    "md5": "6959b2f1366df903f64953b2b0eeb024",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_pretty/DSC_3844.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13328310,
+                    "md5": "dedd3be146b19fb727262e011ecdd518",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_plain/DSC_3844.jpg"
+                },
+                "raw": {
+                    "size": 28552309,
+                    "md5": "c806c93a3815344bc9cb9ef218d53b76",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/raw/DSC_3844.NEF"
+                }
+            },
+            "DSC_3769": {
+                "jpg_pretty": {
+                    "size": 18914755,
+                    "md5": "394e85ea435b7395fb235f4d8b1cf68e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_pretty/DSC_3769.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15134589,
+                    "md5": "430b9efdf3b6c5a5be063dac704a5019",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_plain/DSC_3769.jpg"
+                },
+                "raw": {
+                    "size": 29902692,
+                    "md5": "8fadf3462105da170cf9c792ecccf461",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/raw/DSC_3769.NEF"
+                }
+            },
+            "DSC_3824": {
+                "jpg_pretty": {
+                    "size": 18247662,
+                    "md5": "5b42aa99a69925c7ade1d608103eb78c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_pretty/DSC_3824.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12739103,
+                    "md5": "3462b7f6a9818fcb00cb77caf11978fc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_plain/DSC_3824.jpg"
+                },
+                "raw": {
+                    "size": 27724763,
+                    "md5": "0d3376620e39747d996c88b1f18b5286",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/raw/DSC_3824.NEF"
+                }
+            },
+            "DSC_3869": {
+                "jpg_pretty": {
+                    "size": 17721256,
+                    "md5": "e74010b38d0bd053533f160751ec11f2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_pretty/DSC_3869.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13494639,
+                    "md5": "25c6470c5fc807927c5353f5504488dd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_plain/DSC_3869.jpg"
+                },
+                "raw": {
+                    "size": 29159276,
+                    "md5": "aef8a2dfe0eccdf50b08cc07687d5d96",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/raw/DSC_3869.NEF"
+                }
+            },
+            "DSC_3884": {
+                "jpg_pretty": {
+                    "size": 21361058,
+                    "md5": "470d5b567887f2ab4e40ed538caf1c6b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_pretty/DSC_3884.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16360095,
+                    "md5": "19023d950c703c9fc009c78ef1de3d23",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_plain/DSC_3884.jpg"
+                },
+                "raw": {
+                    "size": 28583407,
+                    "md5": "62c94ab03a40fffbf29e54dee1b027f5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/raw/DSC_3884.NEF"
+                }
+            },
+            "DSC_3764": {
+                "jpg_pretty": {
+                    "size": 15219263,
+                    "md5": "d363117c2630f5166951011a40f1d2c3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_pretty/DSC_3764.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11016648,
+                    "md5": "a8db07d939c050da04e0d8d80ee7963a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_plain/DSC_3764.jpg"
+                },
+                "raw": {
+                    "size": 27877036,
+                    "md5": "bbe12a750efb98388b517d6fef31947b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/raw/DSC_3764.NEF"
+                }
+            },
+            "DSC_3864": {
+                "jpg_pretty": {
+                    "size": 20151706,
+                    "md5": "e3df2807429876973a05074aace3d4aa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_pretty/DSC_3864.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14542826,
+                    "md5": "58e1803b00d350d83288a7a8db686747",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_plain/DSC_3864.jpg"
+                },
+                "raw": {
+                    "size": 28927275,
+                    "md5": "c4b4aea6537f2c86ab43e03a98776a4d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/raw/DSC_3864.NEF"
+                }
+            },
+            "DSC_3744": {
+                "jpg_pretty": {
+                    "size": 20570604,
+                    "md5": "0f4114bbf5efd77a2d2c847b25b62b80",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_pretty/DSC_3744.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13530960,
+                    "md5": "cc50f0390123d608808efdf676327af2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/jpg_plain/DSC_3744.jpg"
+                },
+                "raw": {
+                    "size": 29411148,
+                    "md5": "e21873f60f7f58a8ed956ecbab674ffb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brick_factory_02/raw/DSC_3744.NEF"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,381 @@
+{
+    "evs_cap": 24,
+    "type": 0,
+    "whitebalance": 5650,
+    "date_published": 1603753200,
+    "name": "Abandoned Hopper Terminal 03",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "partly cloudy",
+        "medium contrast",
+        "natural light"
+    ],
+    "date_taken": 1583839620,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "3237733"
+    ],
+    "backplates": true,
+    "tags": [
+        "industrial",
+        "sun",
+        "tree",
+        "winter",
+        "field",
+        "backplates"
+    ],
+    "files_hash": "118537daa94589afdfe0176001710e7d0a2b590f",
+    "download_count": 20514,
+    "files": {
+        "tonemapped": {
+            "size": 6980699,
+            "md5": "874f3b5797484701864fd1ed4b67285b",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/abandoned_hopper_terminal_03.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101351280,
+                    "md5": "f161731df924d0cd1a76156cf959720c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/abandoned_hopper_terminal_03_8k.hdr"
+                },
+                "exr": {
+                    "size": 82977584,
+                    "md5": "15787593b6e51ed561152eeb16a34713",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/abandoned_hopper_terminal_03_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 374388540,
+                    "md5": "2f6c2f4771980cd96780745904a6b2de",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/abandoned_hopper_terminal_03_16k.hdr"
+                },
+                "exr": {
+                    "size": 300468871,
+                    "md5": "2dc1e2bdfcae9766229179b9c2b65765",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/abandoned_hopper_terminal_03_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25777935,
+                    "md5": "ad4f55b0c12e4fe215bce2ff135f5150",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/abandoned_hopper_terminal_03_4k.hdr"
+                },
+                "exr": {
+                    "size": 21092486,
+                    "md5": "dae51a1cd76e50cfdf867f721b01eee7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/abandoned_hopper_terminal_03_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6336509,
+                    "md5": "2340e5b688f24dd26d4b88932169d659",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/abandoned_hopper_terminal_03_2k.hdr"
+                },
+                "exr": {
+                    "size": 5286973,
+                    "md5": "6aafca11c7217f4e48579d899e9c6c00",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/abandoned_hopper_terminal_03_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1565055,
+                    "md5": "e90a97159cc25ff161975944d9dead5f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/abandoned_hopper_terminal_03_1k.hdr"
+                },
+                "exr": {
+                    "size": 1343964,
+                    "md5": "121e8726ef56fb106bf3fd0eb1b99245",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/abandoned_hopper_terminal_03_1k.exr"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 24873907,
+            "md5": "a83a0e1fd5b3c4fab4ece4eeec652392",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/abandoned_hopper_terminal_03.zip"
+        },
+        "backplates": {
+            "DSC_0502": {
+                "jpg_pretty": {
+                    "size": 19161795,
+                    "md5": "e8d2ea9a769f83bffbd8ce2755bcfdb7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/jpg_pretty/DSC_0502.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14406107,
+                    "md5": "bdda6b839d89657b4ab4d5c50759a879",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/jpg_plain/DSC_0502.jpg"
+                },
+                "raw": {
+                    "size": 20410800,
+                    "md5": "2deb45ba8ef3312c4190121d0c6c0026",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/raw/DSC_0502.NEF"
+                }
+            },
+            "DSC_0557": {
+                "jpg_pretty": {
+                    "size": 17212254,
+                    "md5": "e770f2febcc8a61be3224167fc39ea0c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/jpg_pretty/DSC_0557.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11756475,
+                    "md5": "2c0c973918b3d887c5149bf3982e50d8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/jpg_plain/DSC_0557.jpg"
+                },
+                "raw": {
+                    "size": 19278763,
+                    "md5": "c6c11266a2ed736e2693ad8cb90d5a10",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/raw/DSC_0557.NEF"
+                }
+            },
+            "DSC_0567": {
+                "jpg_pretty": {
+                    "size": 48258354,
+                    "md5": "590db1481f611ccc803c5c559a95d132",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/jpg_pretty/DSC_0567.tif"
+                },
+                "jpg_plain": {
+                    "size": 13093097,
+                    "md5": "9cd3b0daa660ae4275616581900e5969",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/jpg_plain/DSC_0567.jpg"
+                },
+                "raw": {
+                    "size": 20056613,
+                    "md5": "19f999dcb9a7853ffc6b57cf2a12ba82",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/raw/DSC_0567.NEF"
+                }
+            },
+            "DSC_0507": {
+                "jpg_pretty": {
+                    "size": 17254731,
+                    "md5": "560724a5924141dab5a320e6e70fab76",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/jpg_pretty/DSC_0507.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12423712,
+                    "md5": "3e1719fa180715b3a1700eb457700f9f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/jpg_plain/DSC_0507.jpg"
+                },
+                "raw": {
+                    "size": 19588262,
+                    "md5": "f4b64da502f17f48a1e98813676654f2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/raw/DSC_0507.NEF"
+                }
+            },
+            "DSC_0527": {
+                "jpg_pretty": {
+                    "size": 17182233,
+                    "md5": "df65554fe3c7ba9c064f824129643de0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/jpg_pretty/DSC_0527.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13339945,
+                    "md5": "a78f759c2cefaa5e92d72aa4189529b0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/jpg_plain/DSC_0527.jpg"
+                },
+                "raw": {
+                    "size": 22776619,
+                    "md5": "d18fcc1b61df27830ea78a633457672b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/raw/DSC_0527.NEF"
+                }
+            },
+            "DSC_0537": {
+                "jpg_pretty": {
+                    "size": 17505958,
+                    "md5": "51f6a2a38445776da4e6285ca818137e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/jpg_pretty/DSC_0537.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13357037,
+                    "md5": "cbf40918b81f415f8bb628596412a58d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/jpg_plain/DSC_0537.jpg"
+                },
+                "raw": {
+                    "size": 19903589,
+                    "md5": "6e9ad60ee264e7c5f4e25d33667c5cfa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/raw/DSC_0537.NEF"
+                }
+            },
+            "DSC_0572": {
+                "jpg_pretty": {
+                    "size": 20768440,
+                    "md5": "d88f7135f3d18563d57117f5a73db391",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/jpg_pretty/DSC_0572.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15051359,
+                    "md5": "fb6f9effc5aadcb333da83e8e32f119d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/jpg_plain/DSC_0572.jpg"
+                },
+                "raw": {
+                    "size": 20705747,
+                    "md5": "2184a195a72297a7a6941f7e2620e62c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/raw/DSC_0572.NEF"
+                }
+            },
+            "DSC_0472": {
+                "jpg_pretty": {
+                    "size": 17392208,
+                    "md5": "86ac1df28339c11604e676aaec322fa4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/jpg_pretty/DSC_0472.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12297143,
+                    "md5": "af26890258781142e30a4c842f04cff0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/jpg_plain/DSC_0472.jpg"
+                },
+                "raw": {
+                    "size": 19602068,
+                    "md5": "76299161cda3b57bdd41e03b94d63828",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/raw/DSC_0472.NEF"
+                }
+            },
+            "DSC_0482": {
+                "jpg_pretty": {
+                    "size": 18600030,
+                    "md5": "30179403ce30e9ae8b211af6116179fd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/jpg_pretty/DSC_0482.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14310378,
+                    "md5": "2744c61b35f7e871975e70eacb84769d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/jpg_plain/DSC_0482.jpg"
+                },
+                "raw": {
+                    "size": 20455830,
+                    "md5": "df09e6bbd15c430b920be8a02f9eefd9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/raw/DSC_0482.NEF"
+                }
+            },
+            "DSC_0592": {
+                "jpg_pretty": {
+                    "size": 17834766,
+                    "md5": "cf609f4ce50cfa5950273b9a0a4047bc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/jpg_pretty/DSC_0592.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12306890,
+                    "md5": "e61d9ec1b7304bb398dbbb2c739af181",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/jpg_plain/DSC_0592.jpg"
+                },
+                "raw": {
+                    "size": 19632491,
+                    "md5": "256fc2ba42ce85856062d836768430bb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/raw/DSC_0592.NEF"
+                }
+            },
+            "DSC_0492": {
+                "jpg_pretty": {
+                    "size": 15651112,
+                    "md5": "aee025d34b72eb5a8845b5016914de04",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/jpg_pretty/DSC_0492.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10952839,
+                    "md5": "77afcafa392d9579d651470d96bf878d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/jpg_plain/DSC_0492.jpg"
+                },
+                "raw": {
+                    "size": 18832521,
+                    "md5": "01035f7d2fee91b95e449b1c3df6479e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/raw/DSC_0492.NEF"
+                }
+            },
+            "DSC_0477": {
+                "jpg_pretty": {
+                    "size": 20681794,
+                    "md5": "f73c3e21d49f7fd58865d2731f9dd38c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/jpg_pretty/DSC_0477.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14546452,
+                    "md5": "75b4cbb3b6bf34d556e18bd05037a344",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/jpg_plain/DSC_0477.jpg"
+                },
+                "raw": {
+                    "size": 20644861,
+                    "md5": "8d698d78b26bdeb367273564c7127927",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/raw/DSC_0477.NEF"
+                }
+            },
+            "DSC_0532": {
+                "jpg_pretty": {
+                    "size": 14795413,
+                    "md5": "6c060f4ab03f2623671b96fa4487ef5e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/jpg_pretty/DSC_0532.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10696148,
+                    "md5": "e509a74a41c75aab570da2d3d0bf0dc4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/jpg_plain/DSC_0532.jpg"
+                },
+                "raw": {
+                    "size": 19023866,
+                    "md5": "ac4a95f1efd77a1ec53cb435a7a37b8e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/raw/DSC_0532.NEF"
+                }
+            },
+            "DSC_0542": {
+                "jpg_pretty": {
+                    "size": 19563195,
+                    "md5": "6991df6881c0b1ff6d336041f905f98b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/jpg_pretty/DSC_0542.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14833619,
+                    "md5": "eab4cf8bb6deaa50cd89b5eea47ccf16",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/jpg_plain/DSC_0542.jpg"
+                },
+                "raw": {
+                    "size": 20532433,
+                    "md5": "203cccbdf4d53f431d9c32add6d9cde0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/raw/DSC_0542.NEF"
+                }
+            },
+            "DSC_0497": {
+                "jpg_pretty": {
+                    "size": 19619851,
+                    "md5": "af44d808ca9fe7b2411477e1ce655e63",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/jpg_pretty/DSC_0497.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14875879,
+                    "md5": "0b4726a504df9e12ab9346b7640f5e54",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/jpg_plain/DSC_0497.jpg"
+                },
+                "raw": {
+                    "size": 20632716,
+                    "md5": "d31503be186378918765162e2c45a1e5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/raw/DSC_0497.NEF"
+                }
+            },
+            "DSC_0552": {
+                "jpg_pretty": {
+                    "size": 18051730,
+                    "md5": "258df07a5d23a6648ae034f1ab79525a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/jpg_pretty/DSC_0552.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13390765,
+                    "md5": "31e7a663fea046c1804cc066b7747c9a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/jpg_plain/DSC_0552.jpg"
+                },
+                "raw": {
+                    "size": 19674432,
+                    "md5": "2614f055c6f0740c02e31af20da7b94d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_hopper_terminal_03/raw/DSC_0552.NEF"
+                }
+            }
+        }
+    }
+}

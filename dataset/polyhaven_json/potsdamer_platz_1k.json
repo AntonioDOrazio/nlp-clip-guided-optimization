@@ -1,0 +1,113 @@
+{
+    "evs_cap": 6,
+    "files_hash": "6d88e017f1f4165b52952d8276b846008430ba9f",
+    "type": 0,
+    "tags": [
+        "europe",
+        "architecture",
+        "road",
+        "building",
+        "bench",
+        "street",
+        "city",
+        "skyscraper",
+        "pavement",
+        "intersection",
+        "metropolis",
+        "berlin",
+        "germany"
+    ],
+    "date_published": 1522879200,
+    "sponsors": [
+        {
+            "name": "Kimba"
+        }
+    ],
+    "name": "Potsdamer Platz",
+    "categories": [
+        "outdoor",
+        "urban",
+        "morning-afternoon",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1478341980,
+    "coords": [
+        52.50949,
+        13.375868
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "download_count": 96162,
+    "files": {
+        "tonemapped": {
+            "size": 4207224,
+            "md5": "70adeabb12affb11f14210d68c5724f2",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/potsdamer_platz.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 93252378,
+                    "md5": "6d4285200665950ff4e80c0eadc6d7df",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/potsdamer_platz_8k.hdr"
+                },
+                "exr": {
+                    "size": 74574881,
+                    "md5": "cda96ad8e9376fda69a4c80e32784ef5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/potsdamer_platz_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 346967035,
+                    "md5": "ca7e3d0742ea9b478d41ce2571a1232d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/potsdamer_platz_16k.hdr"
+                },
+                "exr": {
+                    "size": 271617878,
+                    "md5": "e4c1fb5688664823f564fb039ecccffb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/potsdamer_platz_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 23871153,
+                    "md5": "b4c21592f6ac09b9be8144afd495b715",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/potsdamer_platz_4k.hdr"
+                },
+                "exr": {
+                    "size": 19522190,
+                    "md5": "28614e9eee925c7966216b029fe37967",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/potsdamer_platz_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6042302,
+                    "md5": "c91bc0fdef2edb246f937a14cebb3814",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/potsdamer_platz_2k.hdr"
+                },
+                "exr": {
+                    "size": 5024009,
+                    "md5": "5d9bcf20912047ede29c97f071ca1fad",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/potsdamer_platz_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1540678,
+                    "md5": "d568c71e3cf00329f3ca32582f99338b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/potsdamer_platz_1k.hdr"
+                },
+                "exr": {
+                    "size": 1298273,
+                    "md5": "86617e21167b626f7043518e22dfce9a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/potsdamer_platz_1k.exr"
+                }
+            }
+        }
+    }
+}

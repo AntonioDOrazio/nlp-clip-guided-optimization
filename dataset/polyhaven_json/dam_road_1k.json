@@ -1,0 +1,104 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "tags": [
+        "dirt",
+        "grass",
+        "hill",
+        "road",
+        "sunset"
+    ],
+    "date_published": 1506981600,
+    "name": "Dam Road",
+    "categories": [
+        "outdoor",
+        "nature",
+        "partly cloudy",
+        "sunrise-sunset",
+        "medium contrast",
+        "natural light"
+    ],
+    "date_taken": 1460467380,
+    "coords": [
+        -28.956789,
+        29.43916
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "files_hash": "60ca617b0c70a3df6295c627d09d9bf28c43af7a",
+    "sponsors": [
+        "16608220",
+        "3237733"
+    ],
+    "download_count": 17857,
+    "files": {
+        "tonemapped": {
+            "size": 5312489,
+            "md5": "f0b8d1777128f59e8da4f5480bfb753d",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/dam_road.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 92841996,
+                    "md5": "d4683e4214333fe189446a2b35aaa765",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/dam_road_8k.hdr"
+                },
+                "exr": {
+                    "size": 77171295,
+                    "md5": "368c90951e6855deece29fc22fe6f4fc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/dam_road_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 339595158,
+                    "md5": "ade98151dd84fa98e2df2f2b6629d895",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/dam_road_16k.hdr"
+                },
+                "exr": {
+                    "size": 283129298,
+                    "md5": "88f58080ae2188c1210fce063afa6ec8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/dam_road_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 23677643,
+                    "md5": "b30b0de18138260a4f6a3989c87a4445",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/dam_road_4k.hdr"
+                },
+                "exr": {
+                    "size": 20071608,
+                    "md5": "c48d64b1ce54b89077e1df1aece2ebeb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/dam_road_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5849363,
+                    "md5": "faab73d440c0ddeac48fa26231f6861d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/dam_road_2k.hdr"
+                },
+                "exr": {
+                    "size": 5122734,
+                    "md5": "d6bc0af47a61bb72fbf0547785d0596b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/dam_road_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1454505,
+                    "md5": "c3a91363d4d7e889c016583b9cdb5367",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/dam_road_1k.hdr"
+                },
+                "exr": {
+                    "size": 1308485,
+                    "md5": "6458a322c2065f3940c59eb11198d598",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/dam_road_1k.exr"
+                }
+            }
+        }
+    }
+}

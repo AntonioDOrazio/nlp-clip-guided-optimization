@@ -1,0 +1,122 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "whitebalance": 5329,
+    "tags": [
+        "hilltop",
+        "hill",
+        "view",
+        "rock",
+        "valley",
+        "mountain"
+    ],
+    "name": "Fouriesburg Mountain Midday",
+    "categories": [
+        "natural light",
+        "outdoor",
+        "nature",
+        "partly cloudy",
+        "midday",
+        "high contrast",
+        "skies"
+    ],
+    "coords": [
+        -28.621,
+        28.2089
+    ],
+    "date_taken": 1629550320,
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "date_published": 1655683200,
+    "prepaid": true,
+    "files_hash": "0a0a7ca72dc6f07f41278267bf027ebdd94008a4",
+    "download_count": 64197,
+    "files": {
+        "tonemapped": {
+            "size": 37287009,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/fouriesburg_mountain_midday.jpg",
+            "md5": "437721de5989343f50b7f9f93182e90f"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 92012023,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/fouriesburg_mountain_midday_8k.hdr",
+                    "md5": "6e5e141e1376844aaf9ecf5822e4b1c6"
+                },
+                "exr": {
+                    "size": 316757521,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/fouriesburg_mountain_midday_8k.exr",
+                    "md5": "d61ceb794a1633d26e47ebad47dfd185"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 335883889,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/fouriesburg_mountain_midday_16k.hdr",
+                    "md5": "2eb3d32aaaa43e3e592e73cffd12f599"
+                },
+                "exr": {
+                    "size": 1207925177,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/fouriesburg_mountain_midday_16k.exr",
+                    "md5": "10d08b13364dafd1cd8901dfd2795637"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 22687270,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/fouriesburg_mountain_midday_4k.hdr",
+                    "md5": "d20b8ef9e2e63e29a48c1426a93891e4"
+                },
+                "exr": {
+                    "size": 81301576,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/fouriesburg_mountain_midday_4k.exr",
+                    "md5": "b026e94e22f06550662090c6e05b7063"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5648460,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/fouriesburg_mountain_midday_2k.hdr",
+                    "md5": "1b1503a52b632930243b5d381869ce13"
+                },
+                "exr": {
+                    "size": 21273725,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/fouriesburg_mountain_midday_2k.exr",
+                    "md5": "f365f9234737a0459eb021b773346a89"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 738027707,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/fouriesburg_mountain_midday_24k.hdr",
+                    "md5": "435254feb2cc9e1ec2fa2800c88720d9"
+                },
+                "exr": {
+                    "size": 2717984415,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/fouriesburg_mountain_midday_24k.exr",
+                    "md5": "f35939f295faf62cc1f05e304483805f"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1470020,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/fouriesburg_mountain_midday_1k.hdr",
+                    "md5": "d88510bfc61f73008abbaeba5dd44d95"
+                },
+                "exr": {
+                    "size": 5731872,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/fouriesburg_mountain_midday_1k.exr",
+                    "md5": "90928afe6a238372839b825817d0b24a"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 68715829,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/fouriesburg_mountain_midday.zip",
+            "md5": "0641659c9e78750525473aff70dc400e"
+        }
+    }
+}

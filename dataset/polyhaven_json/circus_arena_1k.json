@@ -1,0 +1,97 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "whitebalance": 5050,
+    "tags": [
+        "seat",
+        "theater",
+        "arena",
+        "show"
+    ],
+    "date_published": 1555970400,
+    "name": "Circus Arena",
+    "categories": [
+        "indoor",
+        "urban",
+        "medium contrast",
+        "artificial light"
+    ],
+    "date_taken": 1550327040,
+    "authors": {
+        "Oliksiy Yakovlyev": "All"
+    },
+    "sponsors": [
+        "3567764"
+    ],
+    "files_hash": "e6237113152bc7a44c915f2b881858d4e0cf6016",
+    "download_count": 64142,
+    "files": {
+        "tonemapped": {
+            "size": 5278607,
+            "md5": "6d4f2369c646576d31deaacab696c185",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/circus_arena.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 94288472,
+                    "md5": "40185f829d1735361497f28ba4489d96",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/circus_arena_8k.hdr"
+                },
+                "exr": {
+                    "size": 83764037,
+                    "md5": "8c19adc764934e09d86a627308b9ba2a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/circus_arena_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 378184002,
+                    "md5": "8b9c6edb56404cb92ce25497564985a2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/circus_arena_16k.hdr"
+                },
+                "exr": {
+                    "size": 331781373,
+                    "md5": "dd27ac5801f24458d539f82fc80ec029",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/circus_arena_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24185777,
+                    "md5": "75ccde7103b05097fd7ddf93015c66a1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/circus_arena_4k.hdr"
+                },
+                "exr": {
+                    "size": 21655248,
+                    "md5": "3b43be911d889d72158de35a283adceb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/circus_arena_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6162247,
+                    "md5": "f31f244c8a7b7d2223fca45353e63189",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/circus_arena_2k.hdr"
+                },
+                "exr": {
+                    "size": 5668718,
+                    "md5": "a1e5e4eaf5232e81635e6422db0cdfb6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/circus_arena_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1571753,
+                    "md5": "2ac542dc06c687b90115d5a4aad8b670",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/circus_arena_1k.hdr"
+                },
+                "exr": {
+                    "size": 1508080,
+                    "md5": "153e863abaa18953b6c28e9cbbbd515d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/circus_arena_1k.exr"
+                }
+            }
+        }
+    }
+}

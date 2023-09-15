@@ -1,0 +1,100 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "whitebalance": 4200,
+    "tags": [
+        "house",
+        "lamp",
+        "window",
+        "wood floor",
+        "empty"
+    ],
+    "date_published": 1564092000,
+    "name": "Lebombo",
+    "categories": [
+        "indoor",
+        "urban",
+        "morning-afternoon",
+        "low contrast",
+        "natural light",
+        "artificial light"
+    ],
+    "date_taken": 1556023560,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "18031080"
+    ],
+    "files_hash": "3df0dbdeb1a64627748d8a75168d2cb297686a06",
+    "download_count": 153936,
+    "files": {
+        "tonemapped": {
+            "size": 1873244,
+            "md5": "64ac9ae7e4711d96da237d85e929337a",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/lebombo.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 96059314,
+                    "md5": "acdf486a5156807448078332e39b26ae",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/lebombo_8k.hdr"
+                },
+                "exr": {
+                    "size": 63874917,
+                    "md5": "7fedc932601f01f9913e40b682a84eda",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/lebombo_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 356891681,
+                    "md5": "2a46aa065e00992cfc48b198597f5886",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/lebombo_16k.hdr"
+                },
+                "exr": {
+                    "size": 239435630,
+                    "md5": "fbae5718b891b237caa2e575b64f7e4c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/lebombo_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24355962,
+                    "md5": "b3c541c625ae91fb3a4cf7128ef44e80",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/lebombo_4k.hdr"
+                },
+                "exr": {
+                    "size": 15307784,
+                    "md5": "1815ec076ba2f6a07ebe9ef3a04244b1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/lebombo_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6010815,
+                    "md5": "64e113e1206870e7683c4c519d4fc61a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/lebombo_2k.hdr"
+                },
+                "exr": {
+                    "size": 3703356,
+                    "md5": "15daa3dc91907106756355aa0d2a3517",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/lebombo_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1476953,
+                    "md5": "eb75d6df7d824e83940e2c7f2ef65c70",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/lebombo_1k.hdr"
+                },
+                "exr": {
+                    "size": 955051,
+                    "md5": "d539a20f06431d75bd005659bfe30466",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/lebombo_1k.exr"
+                }
+            }
+        }
+    }
+}

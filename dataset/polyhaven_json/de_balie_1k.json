@@ -1,0 +1,103 @@
+{
+    "evs_cap": 14,
+    "type": 0,
+    "tags": [
+        "stair",
+        "banister",
+        "people",
+        "bcon",
+        "door",
+        "meeting",
+        "pink"
+    ],
+    "date_published": 1508536800,
+    "name": "De Balie",
+    "categories": [
+        "indoor",
+        "urban",
+        "medium contrast",
+        "artificial light"
+    ],
+    "coords": [
+        52.363043,
+        4.883056
+    ],
+    "date_taken": 1477680060,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "8571269"
+    ],
+    "files_hash": "3619aceaf886cdf07ecc8ef902d4ef346d1a4ef8",
+    "download_count": 22547,
+    "files": {
+        "tonemapped": {
+            "size": 4176765,
+            "md5": "96796d67acd3ad18e39da5fb178d51e8",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/de_balie.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 88383615,
+                    "md5": "eae8a5be54df0bc3900603bee8bda9e8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/de_balie_8k.hdr"
+                },
+                "exr": {
+                    "size": 76804408,
+                    "md5": "2fe2db821683987362a01982dc43d845",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/de_balie_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 309220832,
+                    "md5": "cda69359be21f2067f987abb077e40ed",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/de_balie_16k.hdr"
+                },
+                "exr": {
+                    "size": 272685696,
+                    "md5": "b3c08876e3e4276acd7b7cf94559042c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/de_balie_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 23122631,
+                    "md5": "12012dddff5ea53ae3a0bbc4a749190e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/de_balie_4k.hdr"
+                },
+                "exr": {
+                    "size": 20548009,
+                    "md5": "78df3af160df45c1fcfb405d7ff6f32c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/de_balie_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5996024,
+                    "md5": "9f2a39bc1354e762843c849c8cf18113",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/de_balie_2k.hdr"
+                },
+                "exr": {
+                    "size": 5492615,
+                    "md5": "7502a0be707a2d836b7ded7d67dc93a8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/de_balie_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1563085,
+                    "md5": "31c568ca4ba97b54dc79d47a7f60255f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/de_balie_1k.hdr"
+                },
+                "exr": {
+                    "size": 1481151,
+                    "md5": "b202929eb410fd1bcc9c947d5ec66197",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/de_balie_1k.exr"
+                }
+            }
+        }
+    }
+}

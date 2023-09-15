@@ -1,0 +1,381 @@
+{
+    "evs_cap": 23,
+    "type": 0,
+    "whitebalance": 5650,
+    "date_published": 1589839200,
+    "name": "Construction Yard",
+    "categories": [
+        "outdoor",
+        "urban",
+        "morning-afternoon",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1583410440,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "backplates": true,
+    "tags": [
+        "sun",
+        "concrete",
+        "building",
+        "city",
+        "apartments",
+        "foundation",
+        "construction",
+        "development",
+        "backplates"
+    ],
+    "files_hash": "7a0915eb8680a285bacbda02af392bb990da9cdb",
+    "download_count": 85938,
+    "files": {
+        "tonemapped": {
+            "size": 5217441,
+            "md5": "0a1525d29de6917cf90d2f96524bbd6a",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/construction_yard.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 100612932,
+                    "md5": "56050d8d4055d59a9a15b074ba5401d3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/construction_yard_8k.hdr"
+                },
+                "exr": {
+                    "size": 82289789,
+                    "md5": "284290b7daa5977bb596500cc1a4cc74",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/construction_yard_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 372549900,
+                    "md5": "121d54c3de4edbf94c6b4ab1d6ad5009",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/construction_yard_16k.hdr"
+                },
+                "exr": {
+                    "size": 290010717,
+                    "md5": "bcee12ee1f77740a44637c039fc41c61",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/construction_yard_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25904407,
+                    "md5": "d92b049ab028330c60fb21523b0ddf0d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/construction_yard_4k.hdr"
+                },
+                "exr": {
+                    "size": 22021974,
+                    "md5": "f6c5f05b739ba58bc77dd3100bd3b3b6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/construction_yard_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6593583,
+                    "md5": "32824cfc562b1798b834aa3dd5d3cfef",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/construction_yard_2k.hdr"
+                },
+                "exr": {
+                    "size": 5834015,
+                    "md5": "2ad40392213f5af03ddf528c1053f34d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/construction_yard_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1672378,
+                    "md5": "a28227a2809a490504e7a229fd527069",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/construction_yard_1k.hdr"
+                },
+                "exr": {
+                    "size": 1538216,
+                    "md5": "5add1c3d0d596bbff3b3b986a39c54f7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/construction_yard_1k.exr"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 4003790,
+            "md5": "9b77fed7d2bad294d66b03b153551752",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/construction_yard.jpg"
+        },
+        "backplates": {
+            "DSC_0107": {
+                "jpg_pretty": {
+                    "size": 15177356,
+                    "md5": "b9ce3b6e8d3303786d8e6022ee94b82a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/jpg_pretty/DSC_0107.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10574708,
+                    "md5": "bb30b6dbb655d3ac6ddf12760e2f391e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/jpg_plain/DSC_0107.jpg"
+                },
+                "raw": {
+                    "size": 19397404,
+                    "md5": "a1a04011c101988dfc89fdbfb85cce9c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/raw/DSC_0107.NEF"
+                }
+            },
+            "DSC_0237": {
+                "jpg_pretty": {
+                    "size": 14652590,
+                    "md5": "bc6fdcbef34b0cb7f6fca10eb6949de9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/jpg_pretty/DSC_0237.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10395254,
+                    "md5": "bfdbce034f79164ca9abd37eb86f73f3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/jpg_plain/DSC_0237.jpg"
+                },
+                "raw": {
+                    "size": 19300400,
+                    "md5": "624253257eada7a26578981ae0cd02fd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/raw/DSC_0237.NEF"
+                }
+            },
+            "DSC_0137": {
+                "jpg_pretty": {
+                    "size": 11031276,
+                    "md5": "e852ba9b994b7297b83460942c3d667f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/jpg_pretty/DSC_0137.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8585113,
+                    "md5": "e88089649ebc8cefcb110fba0fe8e20b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/jpg_plain/DSC_0137.jpg"
+                },
+                "raw": {
+                    "size": 17655329,
+                    "md5": "fa7ddb5307aa26851ade31f94abab255",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/raw/DSC_0137.NEF"
+                }
+            },
+            "DSC_0247": {
+                "jpg_pretty": {
+                    "size": 12199814,
+                    "md5": "a44721ef68934d0550419d6702f68356",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/jpg_pretty/DSC_0247.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8521804,
+                    "md5": "7600dbaafd4ea0811d87942e9427804b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/jpg_plain/DSC_0247.jpg"
+                },
+                "raw": {
+                    "size": 17760402,
+                    "md5": "a1ccd993a875d9d485a117a7920a919c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/raw/DSC_0247.NEF"
+                }
+            },
+            "DSC_0132": {
+                "jpg_pretty": {
+                    "size": 15145782,
+                    "md5": "a0012bf491e6d3f0a58ceb884c6e6cd8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/jpg_pretty/DSC_0132.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10397890,
+                    "md5": "8aeced804dd4ee6563b354702697b427",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/jpg_plain/DSC_0132.jpg"
+                },
+                "raw": {
+                    "size": 19147033,
+                    "md5": "4bc6c630a986510fee9930e15b1c08c3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/raw/DSC_0132.NEF"
+                }
+            },
+            "DSC_0242": {
+                "jpg_pretty": {
+                    "size": 14091412,
+                    "md5": "47de1b8e095e1ffa97cc8b7f9a55fbfe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/jpg_pretty/DSC_0242.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10578772,
+                    "md5": "dae90b3b7af3437e72a241f66c18e004",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/jpg_plain/DSC_0242.jpg"
+                },
+                "raw": {
+                    "size": 19465597,
+                    "md5": "656bbedf5f195cd5032d57e90aafd4c3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/raw/DSC_0242.NEF"
+                }
+            },
+            "DSC_0142": {
+                "jpg_pretty": {
+                    "size": 11949747,
+                    "md5": "283590b10cb202bbab4ef239d8e146fe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/jpg_pretty/DSC_0142.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9223379,
+                    "md5": "9d1ee8bd51acd422ec40e0dfae712435",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/jpg_plain/DSC_0142.jpg"
+                },
+                "raw": {
+                    "size": 18159525,
+                    "md5": "954a248fe15d8d13d07df576cbcb9300",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/raw/DSC_0142.NEF"
+                }
+            },
+            "DSC_0197": {
+                "jpg_pretty": {
+                    "size": 9677019,
+                    "md5": "9b3b52545f8f517ac8241f6c5ae7b11f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/jpg_pretty/DSC_0197.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7277442,
+                    "md5": "6b18a78d53280981d4b72d9cdfffd42d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/jpg_plain/DSC_0197.jpg"
+                },
+                "raw": {
+                    "size": 16761782,
+                    "md5": "bc60936b5a0b47dcf447628945af46e0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/raw/DSC_0197.NEF"
+                }
+            },
+            "DSC_0252": {
+                "jpg_pretty": {
+                    "size": 12302019,
+                    "md5": "7bd3060c4527b329db3ff66b8675eabd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/jpg_pretty/DSC_0252.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8684423,
+                    "md5": "19e4194cd8a46479ca144c7fc8f1a1e4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/jpg_plain/DSC_0252.jpg"
+                },
+                "raw": {
+                    "size": 17789520,
+                    "md5": "e7bd034cceea7e2712068208cb4db15a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/raw/DSC_0252.NEF"
+                }
+            },
+            "DSC_0147": {
+                "jpg_pretty": {
+                    "size": 11520221,
+                    "md5": "37beb6f783ba29866c2db0c134b04658",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/jpg_pretty/DSC_0147.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8526290,
+                    "md5": "a3a30207fdcb9644abf1ade739e2b4f4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/jpg_plain/DSC_0147.jpg"
+                },
+                "raw": {
+                    "size": 17527274,
+                    "md5": "3952d503ae16ada69835217f327b5b71",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/raw/DSC_0147.NEF"
+                }
+            },
+            "DSC_0202": {
+                "jpg_pretty": {
+                    "size": 12852059,
+                    "md5": "221025116f8bebdc2ff0ad1c2dd6e953",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/jpg_pretty/DSC_0202.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8956063,
+                    "md5": "45cca5a072a01136e2006d472523c2d3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/jpg_plain/DSC_0202.jpg"
+                },
+                "raw": {
+                    "size": 18106873,
+                    "md5": "21aaa53eebfa540a7db8f8bd2503557b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/raw/DSC_0202.NEF"
+                }
+            },
+            "DSC_0257": {
+                "jpg_pretty": {
+                    "size": 13782030,
+                    "md5": "1ffb645afe8c570fa7fc055ccff2145c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/jpg_pretty/DSC_0257.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10045152,
+                    "md5": "6122036ef8b613ecf711001192b1d556",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/jpg_plain/DSC_0257.jpg"
+                },
+                "raw": {
+                    "size": 19639339,
+                    "md5": "f6faf1469d68416466d2b48bdb4ff8fe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/raw/DSC_0257.NEF"
+                }
+            },
+            "DSC_0112": {
+                "jpg_pretty": {
+                    "size": 11990289,
+                    "md5": "7e74425d1fdd01826d08c75b7cc91db2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/jpg_pretty/DSC_0112.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9173928,
+                    "md5": "93e79bcf198eaa1657f8322e6ee66e2a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/jpg_plain/DSC_0112.jpg"
+                },
+                "raw": {
+                    "size": 18155130,
+                    "md5": "e793cf6dfc531ca12077ce3b96461d28",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/raw/DSC_0112.NEF"
+                }
+            },
+            "DSC_0167": {
+                "jpg_pretty": {
+                    "size": 14699694,
+                    "md5": "c27a0dc3e9d232e7f8bb4a1c0f4a5ddf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/jpg_pretty/DSC_0167.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10207578,
+                    "md5": "233a2fcbcb530b37d681216f8a3c8642",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/jpg_plain/DSC_0167.jpg"
+                },
+                "raw": {
+                    "size": 18862160,
+                    "md5": "a7efdeec8378324ed5e5ffa1fae43ae1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/raw/DSC_0167.NEF"
+                }
+            },
+            "DSC_0177": {
+                "jpg_pretty": {
+                    "size": 12972901,
+                    "md5": "a81ec188d5efca682c1c0d781ad01dd4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/jpg_pretty/DSC_0177.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9344579,
+                    "md5": "2446ca7bb569e0fba53b03faeac36946",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/jpg_plain/DSC_0177.jpg"
+                },
+                "raw": {
+                    "size": 18631538,
+                    "md5": "80cb140d245715e75b06d6dfcb62af82",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/raw/DSC_0177.NEF"
+                }
+            },
+            "DSC_0172": {
+                "jpg_pretty": {
+                    "size": 13283742,
+                    "md5": "f5a81727cf9ee41112b713477de6cfac",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/jpg_pretty/DSC_0172.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9685981,
+                    "md5": "7f8e1e4e381a7cffd3c351f515502c57",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/jpg_plain/DSC_0172.jpg"
+                },
+                "raw": {
+                    "size": 18612297,
+                    "md5": "8f895609de0199b0b2cdbbad41dd05c6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/construction_yard/raw/DSC_0172.NEF"
+                }
+            }
+        }
+    }
+}

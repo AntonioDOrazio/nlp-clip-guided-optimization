@@ -1,0 +1,108 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "hall",
+        "mall",
+        "europe",
+        "architecture",
+        "london",
+        "cobblestone",
+        "street",
+        "road"
+    ],
+    "date_published": 1561413600,
+    "name": "Leadenhall Market",
+    "categories": [
+        "indoor",
+        "urban",
+        "morning-afternoon",
+        "medium contrast",
+        "natural light",
+        "artificial light"
+    ],
+    "date_taken": 1558277880,
+    "coords": [
+        51.512667,
+        -0.083528
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        {
+            "name": "Rick Kay"
+        }
+    ],
+    "files_hash": "03916194a37bd15a1df6e0f9b0a2cca2575e86d3",
+    "download_count": 71081,
+    "files": {
+        "tonemapped": {
+            "size": 7380874,
+            "md5": "b2d502898c41e69c7613265f2a49b5d1",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/leadenhall_market.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 105677558,
+                    "md5": "01c394be5883e3bf9ddfb9f5bc3f2389",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/leadenhall_market_8k.hdr"
+                },
+                "exr": {
+                    "size": 101292827,
+                    "md5": "dc263f8c8e79f56ae1430f06f35dc598",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/leadenhall_market_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 405082382,
+                    "md5": "70d2473515cf6ac4718c249f2a4a5ffe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/leadenhall_market_16k.hdr"
+                },
+                "exr": {
+                    "size": 370979496,
+                    "md5": "9a78b096e3ed84452341be700435217f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/leadenhall_market_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27087289,
+                    "md5": "858f40ec0966b658d97d6e439cd0de04",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/leadenhall_market_4k.hdr"
+                },
+                "exr": {
+                    "size": 26677770,
+                    "md5": "144c057503717d93ae891f3bf1120133",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/leadenhall_market_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6948793,
+                    "md5": "5c44f73bd444d9b98757825b141895f5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/leadenhall_market_2k.hdr"
+                },
+                "exr": {
+                    "size": 7027620,
+                    "md5": "911a8caa327d41148d50c003e66071e8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/leadenhall_market_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1781823,
+                    "md5": "347112e6925f2a607e9dc6e611b0a1c6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/leadenhall_market_1k.hdr"
+                },
+                "exr": {
+                    "size": 1842229,
+                    "md5": "30e55b48074d8ce86fb5f5cb5329715b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/leadenhall_market_1k.exr"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "nsfw": true,
+    "evs_cap": 8,
+    "files_hash": "cc3a9d5b385feae59d65fcf6071f85b20440bb9f",
+    "type": 0,
+    "tags": [
+        "painting",
+        "art",
+        "workshop",
+        "window",
+        "atelier"
+    ],
+    "date_published": 1559253600,
+    "sponsors": [
+        {
+            "name": "Rick Kay",
+            "url": "http://alienghostship.com/"
+        }
+    ],
+    "name": "Art Studio",
+    "categories": [
+        "indoor",
+        "urban",
+        "medium contrast",
+        "natural light",
+        "artificial light"
+    ],
+    "date_taken": 1551098100,
+    "authors": {
+        "Oliksiy Yakovlyev": "All"
+    },
+    "download_count": 22739,
+    "files": {
+        "tonemapped": {
+            "size": 6073262,
+            "md5": "d5970cd5d83de13b15eebf6a596e791b",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/art_studio.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 104327407,
+                    "md5": "aa094f236703388c2fabe1659c99df77",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/art_studio_8k.hdr"
+                },
+                "exr": {
+                    "size": 92917390,
+                    "md5": "c1c8329feb8cbe58564c899054d02220",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/art_studio_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 430863685,
+                    "md5": "710773d054a3bcbfbb637618e9a5e1a0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/art_studio_16k.hdr"
+                },
+                "exr": {
+                    "size": 363500043,
+                    "md5": "b765ee57040a7caee4ddff55ad618aa1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/art_studio_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26553881,
+                    "md5": "a6b035ae6a6b7ba2bb28eb307ba7ffa0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/art_studio_4k.hdr"
+                },
+                "exr": {
+                    "size": 24132683,
+                    "md5": "46759ac3ec631689f4c4483cc9368c8e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/art_studio_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6718727,
+                    "md5": "7c9f6977565228f92e17c6b990c3d915",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/art_studio_2k.hdr"
+                },
+                "exr": {
+                    "size": 6188006,
+                    "md5": "46f8fa1fedd1eb9ef08661983e0969c8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/art_studio_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1698243,
+                    "md5": "71dab669fc3114ce071829c03c666f74",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/art_studio_1k.hdr"
+                },
+                "exr": {
+                    "size": 1592796,
+                    "md5": "b76001a96a0f773bd55d40a3a8d2cfb2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/art_studio_1k.exr"
+                }
+            }
+        }
+    }
+}

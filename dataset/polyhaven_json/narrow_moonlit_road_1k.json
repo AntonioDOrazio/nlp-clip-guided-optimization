@@ -1,0 +1,308 @@
+{
+    "evs_cap": 23,
+    "type": 0,
+    "whitebalance": 3776,
+    "tags": [
+        "moon",
+        "road",
+        "asphalt",
+        "tree",
+        "backplates",
+        "stars"
+    ],
+    "name": "Narrow Moonlit Road",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "clear",
+        "night",
+        "high contrast"
+    ],
+    "backplates": true,
+    "date_taken": 1573161600,
+    "coords": [
+        -24.93992514,
+        30.71472927
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "date_published": 1644239111,
+    "prepaid": true,
+    "sponsors": [
+        "4714267"
+    ],
+    "files_hash": "b6b046d462610a1429c071135c7a7547dc485fed",
+    "download_count": 25546,
+    "files": {
+        "hdri": {
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/narrow_moonlit_road_16k.hdr",
+                    "size": 414575441,
+                    "md5": "31dd2b93be28ee981e4327cb6eaf7bd6"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/narrow_moonlit_road_16k.exr",
+                    "size": 348341513,
+                    "md5": "4627afaedbfbb04dde4bbd007b6980f2"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/narrow_moonlit_road_24k.hdr",
+                    "size": 915725177,
+                    "md5": "47e4b3ba939be9b53b98c49f1a40bcee"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/narrow_moonlit_road_24k.exr",
+                    "size": 822124271,
+                    "md5": "a30e1a224c2c6d36f74e9a5dc2360ca0"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/narrow_moonlit_road_8k.hdr",
+                    "size": 108778773,
+                    "md5": "58a30564cb3a6497bd25cf1df6f3a5aa"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/narrow_moonlit_road_8k.exr",
+                    "size": 99121471,
+                    "md5": "c8337dcb17d6c15bd7e7d63105a679e2"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/narrow_moonlit_road_4k.hdr",
+                    "size": 27704631,
+                    "md5": "5663d6a6f0f38f916deb7ae38d6f03e5"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/narrow_moonlit_road_4k.exr",
+                    "size": 25080179,
+                    "md5": "932747e2ccca8cd8d40bb50d1e1d07fc"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/narrow_moonlit_road_2k.hdr",
+                    "size": 6957881,
+                    "md5": "df379f70ab350ae2ee25e72c101d6bdd"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/narrow_moonlit_road_2k.exr",
+                    "size": 6274330,
+                    "md5": "a85f862a9c6bf06c5f0330159b9ea539"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/narrow_moonlit_road_1k.hdr",
+                    "size": 1727787,
+                    "md5": "620fbdc5f27b3c16b403c09da72a9d9a"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/narrow_moonlit_road_1k.exr",
+                    "size": 1563205,
+                    "md5": "2fc3c92739e092f3cb3a99b35baf715f"
+                }
+            }
+        },
+        "tonemapped": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/narrow_moonlit_road.jpg",
+            "size": 7025122,
+            "md5": "149a2b31da3b1c1931bda1d7d69ec612"
+        },
+        "backplates": {
+            "DSC00547": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/narrow_moonlit_road/jpg_pretty/DSC00547.jpg",
+                    "size": 51113950,
+                    "md5": "bde623d030c5f546fed75e342e19920d"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/narrow_moonlit_road/raw/DSC00547.ARW",
+                    "size": 37224448,
+                    "md5": "ffec5e1add15b2c14dcbb7625e4acb45"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/narrow_moonlit_road/jpg_plain/DSC00547.jpg",
+                    "size": 49453803,
+                    "md5": "fa7e8c39880675e833d09b2c374390da"
+                }
+            },
+            "DSC00548": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/narrow_moonlit_road/jpg_pretty/DSC00548.jpg",
+                    "size": 52511436,
+                    "md5": "9496746a803721ec8bc66d8daacdf005"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/narrow_moonlit_road/raw/DSC00548.ARW",
+                    "size": 37126144,
+                    "md5": "357c92b022cf7841177c0dffd7af0299"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/narrow_moonlit_road/jpg_plain/DSC00548.jpg",
+                    "size": 51058904,
+                    "md5": "5f0bcd2e6936b948a7c27d1381c26c07"
+                }
+            },
+            "DSC00549": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/narrow_moonlit_road/jpg_pretty/DSC00549.jpg",
+                    "size": 50095246,
+                    "md5": "a92384c6a9348efeaa17ffaeca4674d8"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/narrow_moonlit_road/raw/DSC00549.ARW",
+                    "size": 37224448,
+                    "md5": "d0ac7f28285f454f2d567320bd5d5b66"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/narrow_moonlit_road/jpg_plain/DSC00549.jpg",
+                    "size": 49317457,
+                    "md5": "7f80041e5cb8d5fd019b82f8125c569d"
+                }
+            },
+            "DSC00554": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/narrow_moonlit_road/jpg_pretty/DSC00554.jpg",
+                    "size": 46079703,
+                    "md5": "4f85cff23ca8ac7d45524031b5a9b158"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/narrow_moonlit_road/raw/DSC00554.ARW",
+                    "size": 37126144,
+                    "md5": "d816d15062011673b1d65031598d7059"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/narrow_moonlit_road/jpg_plain/DSC00554.jpg",
+                    "size": 39342847,
+                    "md5": "fd88dba4eea8c2f053fe46b4c1e310a6"
+                }
+            },
+            "DSC00556": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/narrow_moonlit_road/jpg_pretty/DSC00556.jpg",
+                    "size": 47312878,
+                    "md5": "731f3c1727d02d8a4f8dccec76069cea"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/narrow_moonlit_road/raw/DSC00556.ARW",
+                    "size": 37060608,
+                    "md5": "5af658b3cf2c76db465fa8f5194f9916"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/narrow_moonlit_road/jpg_plain/DSC00556.jpg",
+                    "size": 42528230,
+                    "md5": "c3c1845f5e3b8eb44cb4fefca58fc3c0"
+                }
+            },
+            "DSC00546": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/narrow_moonlit_road/jpg_pretty/DSC00546.jpg",
+                    "size": 50282614,
+                    "md5": "d1915651edbd3d94c87f1f598ccb6570"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/narrow_moonlit_road/raw/DSC00546.ARW",
+                    "size": 37093376,
+                    "md5": "151aae9df97a450b73194c03be564831"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/narrow_moonlit_road/jpg_plain/DSC00546.jpg",
+                    "size": 48772356,
+                    "md5": "c17014c05913569110d5b91d9d435629"
+                }
+            },
+            "DSC00557": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/narrow_moonlit_road/jpg_pretty/DSC00557.jpg",
+                    "size": 29261084,
+                    "md5": "ac60643bfcef454c02c32ae76badfe24"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/narrow_moonlit_road/raw/DSC00557.ARW",
+                    "size": 37224448,
+                    "md5": "2d15178c9fbcac334b79065b58e223f7"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/narrow_moonlit_road/jpg_plain/DSC00557.jpg",
+                    "size": 26402033,
+                    "md5": "bc620c8d67d398a0e1b32fc44d131945"
+                }
+            },
+            "DSC00550": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/narrow_moonlit_road/jpg_pretty/DSC00550.jpg",
+                    "size": 49721377,
+                    "md5": "85311fb877bce5e43751008d49fac44d"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/narrow_moonlit_road/raw/DSC00550.ARW",
+                    "size": 37224448,
+                    "md5": "55de903a96e329ad79a5a7be7d7a2764"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/narrow_moonlit_road/jpg_plain/DSC00550.jpg",
+                    "size": 49963100,
+                    "md5": "7a2d4a7854bb4ee0a682ac8655220a4d"
+                }
+            },
+            "DSC00551": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/narrow_moonlit_road/jpg_pretty/DSC00551.jpg",
+                    "size": 51264848,
+                    "md5": "65cd7285cd56122e66196a28f87cfb3f"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/narrow_moonlit_road/raw/DSC00551.ARW",
+                    "size": 37191680,
+                    "md5": "d70dc75af84a462ff83fe58e362f1126"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/narrow_moonlit_road/jpg_plain/DSC00551.jpg",
+                    "size": 50633689,
+                    "md5": "dfdff9a7cf12e6990487c23e18ae48e2"
+                }
+            },
+            "DSC00552": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/narrow_moonlit_road/jpg_pretty/DSC00552.jpg",
+                    "size": 45282302,
+                    "md5": "96ad0bf27d508eaecf80e50793656f8a"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/narrow_moonlit_road/raw/DSC00552.ARW",
+                    "size": 37191680,
+                    "md5": "5043290716dae717fce092d34bbb00ce"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/narrow_moonlit_road/jpg_plain/DSC00552.jpg",
+                    "size": 40862476,
+                    "md5": "b139bddafa232de40354f7248d054928"
+                }
+            },
+            "DSC00553": {
+                "jpg_pretty": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/narrow_moonlit_road/jpg_pretty/DSC00553.jpg",
+                    "size": 45752426,
+                    "md5": "63e64a0809bcc4a6d910710f486c84e7"
+                },
+                "raw": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/narrow_moonlit_road/raw/DSC00553.ARW",
+                    "size": 37191680,
+                    "md5": "39e4d221675989ef1090ef9958d232a2"
+                },
+                "jpg_plain": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/narrow_moonlit_road/jpg_plain/DSC00553.jpg",
+                    "size": 41557937,
+                    "md5": "1cb92b1b1c0aa161906157b9e7a27445"
+                }
+            }
+        }
+    }
+}

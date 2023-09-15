@@ -1,0 +1,105 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "tags": [
+        "bridge",
+        "river",
+        "building",
+        "road",
+        "street",
+        "symmetrical",
+        "europe"
+    ],
+    "date_published": 1511996400,
+    "name": "Konigsallee",
+    "categories": [
+        "outdoor",
+        "urban",
+        "sunrise-sunset",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        51.223137,
+        6.778841
+    ],
+    "date_taken": 1479025020,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "8571269"
+    ],
+    "files_hash": "3e22411faf28a4db1443a82fbea14079d431b1a4",
+    "download_count": 42896,
+    "files": {
+        "tonemapped": {
+            "size": 4937622,
+            "md5": "a6154bed52ac2547f764f405fe48babc",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/konigsallee.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 96537608,
+                    "md5": "af115c5f11e6bfb234157b57e64d2fb8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/konigsallee_8k.hdr"
+                },
+                "exr": {
+                    "size": 80631668,
+                    "md5": "08b1cb1912664706467152db6d9bf675",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/konigsallee_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 343337030,
+                    "md5": "e2eb18dcad6c3c9b08fc1a0f2537e6c7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/konigsallee_16k.hdr"
+                },
+                "exr": {
+                    "size": 284355321,
+                    "md5": "9fbc8ff71b9c83e8766fdb3b4e83e940",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/konigsallee_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25135351,
+                    "md5": "7d0d460b80f9b6f543b2f4adfbb1885b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/konigsallee_4k.hdr"
+                },
+                "exr": {
+                    "size": 21426558,
+                    "md5": "f33b51ad25fbab37e8a7a33e66126742",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/konigsallee_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6438733,
+                    "md5": "b2a10fa34b2d98f11b9692bb07d1f902",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/konigsallee_2k.hdr"
+                },
+                "exr": {
+                    "size": 5622248,
+                    "md5": "1db7b5e5882025d5f8771702c9064d55",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/konigsallee_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1652556,
+                    "md5": "cacb43f0552e659ba929fdb153a4ae79",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/konigsallee_1k.hdr"
+                },
+                "exr": {
+                    "size": 1482095,
+                    "md5": "73437fe5ac9ac4e580c3ad02db2db88a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/konigsallee_1k.exr"
+                }
+            }
+        }
+    }
+}

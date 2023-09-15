@@ -1,0 +1,104 @@
+{
+    "evs_cap": 6,
+    "type": 0,
+    "tags": [
+        "grass",
+        "field",
+        "architecture",
+        "europe"
+    ],
+    "date_published": 1511996400,
+    "name": "Reichstag 1",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "urban",
+        "midday",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        52.51855,
+        13.372964
+    ],
+    "date_taken": 1478345760,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "44302755"
+    ],
+    "files_hash": "c7262c241f5e29171a0888bcd20e27715f56e672",
+    "download_count": 52051,
+    "files": {
+        "tonemapped": {
+            "size": 4739048,
+            "md5": "2e25a9ef658851e9de86cd260171e5f6",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/reichstag_1.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 98491060,
+                    "md5": "14fd60d50c37d09f456254a4bea07114",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/reichstag_1_8k.hdr"
+                },
+                "exr": {
+                    "size": 80075414,
+                    "md5": "a08659318cc55d2c8c1f91459d9a4e9b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/reichstag_1_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 355816161,
+                    "md5": "12e9ccb597dba429db80254397ebc4e1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/reichstag_1_16k.hdr"
+                },
+                "exr": {
+                    "size": 289876481,
+                    "md5": "28652c0cb7cfc258dbc76aac279ffd98",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/reichstag_1_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25275918,
+                    "md5": "cad8dbd0d8c4df2773f166a3b0077a2f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/reichstag_1_4k.hdr"
+                },
+                "exr": {
+                    "size": 20751274,
+                    "md5": "110b2846147b139ed576eedbc4f0c626",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/reichstag_1_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6359699,
+                    "md5": "40c3717b9181ad4ef597bd034824efcf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/reichstag_1_2k.hdr"
+                },
+                "exr": {
+                    "size": 5326312,
+                    "md5": "f28847818df688303a3a58fe8f43de88",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/reichstag_1_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1600032,
+                    "md5": "0ce3d03ea9c4bb7ed3224b33e76d78d2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/reichstag_1_1k.hdr"
+                },
+                "exr": {
+                    "size": 1369850,
+                    "md5": "8a55cc73aa846a679df7582bbbe5b454",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/reichstag_1_1k.exr"
+                }
+            }
+        }
+    }
+}

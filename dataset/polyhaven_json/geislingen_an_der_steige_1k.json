@@ -1,0 +1,119 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "tags": [
+        "tree",
+        "sun",
+        "grass",
+        "field"
+    ],
+    "name": "Geislingen An Der Steige",
+    "categories": [
+        "natural light",
+        "outdoor",
+        "nature",
+        "high contrast",
+        "clear",
+        "morning-afternoon"
+    ],
+    "coords": [
+        48.608132,
+        9.783436
+    ],
+    "date_taken": 1644766380,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "date_published": 1650412800,
+    "sponsors": [
+        "70827508"
+    ],
+    "files_hash": "f2f56529362b8e69b5dfaa0f1127245ad573c3a4",
+    "download_count": 49489,
+    "files": {
+        "hdri": {
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/geislingen_an_der_steige_16k.hdr",
+                    "size": 403444430,
+                    "md5": "2a031cfa2a6dfbd696879d1fdaaf21b9"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/geislingen_an_der_steige_16k.exr",
+                    "size": 1319029427,
+                    "md5": "9f50f5472f242c1d1b47a7f618e3caf4"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/geislingen_an_der_steige_20k.hdr",
+                    "size": 600894005,
+                    "md5": "6897424664d2254ef5cb723a59311c59"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/geislingen_an_der_steige_20k.exr",
+                    "size": 1992270203,
+                    "md5": "407249b7a15e7398fdd435d398f66bab"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/geislingen_an_der_steige_8k.hdr",
+                    "size": 105922800,
+                    "md5": "3fc498c574f6c81e41e1e17e7628421d"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/geislingen_an_der_steige_8k.exr",
+                    "size": 336581655,
+                    "md5": "62d9ede599bde9740f905cc036662988"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/geislingen_an_der_steige_4k.hdr",
+                    "size": 26753459,
+                    "md5": "454dc82ce7bc68018878c3f9dc1b0cad"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/geislingen_an_der_steige_4k.exr",
+                    "size": 85926210,
+                    "md5": "d0ce1e9148eae014bdc7041d1e901c8b"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/geislingen_an_der_steige_2k.hdr",
+                    "size": 6535147,
+                    "md5": "6cc34f648f88e7ae4f2af19916a63348"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/geislingen_an_der_steige_2k.exr",
+                    "size": 22228427,
+                    "md5": "9fc4feee4fbfdb7b05c1c2b26c39cc86"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/geislingen_an_der_steige_1k.hdr",
+                    "size": 1581640,
+                    "md5": "2555ea97889b2c3e2ba961beb948805b"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/geislingen_an_der_steige_1k.exr",
+                    "size": 5904248,
+                    "md5": "018a35489e6e9bcbbc3b165b290e5fe0"
+                }
+            }
+        },
+        "colorchart": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/geislingen_an_der_steige.zip",
+            "size": 85073343,
+            "md5": "6156888885d16a2b19d6beff89dd14e9"
+        },
+        "tonemapped": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/geislingen_an_der_steige.jpg",
+            "size": 54686331,
+            "md5": "186c7782273887ab1a9f05ee0414364d"
+        }
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "evs_cap": 13,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "couch",
+        "warm",
+        "lounge",
+        "lamp",
+        "room"
+    ],
+    "date_published": 1527199200,
+    "name": "Lythwood Lounge",
+    "categories": [
+        "indoor",
+        "urban",
+        "midday",
+        "overcast",
+        "medium contrast",
+        "natural light",
+        "artificial light"
+    ],
+    "coords": [
+        -29.4381,
+        30.0529
+    ],
+    "date_taken": 1521715680,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "8571269"
+    ],
+    "files_hash": "bb9168513492480205b6c7408ef9bfe3be60bd80",
+    "download_count": 34886,
+    "files": {
+        "tonemapped": {
+            "size": 5027965,
+            "md5": "482855e7c9d03b260f3ff26c115ad774",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/lythwood_lounge.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 93036111,
+                    "md5": "fe019bb85e5ac028d4cd4af5421253a5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/lythwood_lounge_8k.hdr"
+                },
+                "exr": {
+                    "size": 76258802,
+                    "md5": "d4508c200763698affd0eb32ed49f7de",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/lythwood_lounge_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 334728398,
+                    "md5": "95674dcabc107a21574dbe73ce13f0d2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/lythwood_lounge_16k.hdr"
+                },
+                "exr": {
+                    "size": 274325423,
+                    "md5": "3fcf065b10e583037dbe487f97429910",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/lythwood_lounge_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24052043,
+                    "md5": "c499844966cf97264717424d4b74f930",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/lythwood_lounge_4k.hdr"
+                },
+                "exr": {
+                    "size": 20034385,
+                    "md5": "9a75f61310f6dda165435620421bac7a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/lythwood_lounge_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6090881,
+                    "md5": "a35c9a2e4a6e699135c99ef690f9c045",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/lythwood_lounge_2k.hdr"
+                },
+                "exr": {
+                    "size": 5154419,
+                    "md5": "639739305082ab8d8c05339369fb88ea",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/lythwood_lounge_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1538903,
+                    "md5": "32fe358aa620f9ae759f05ea55d79b83",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/lythwood_lounge_1k.hdr"
+                },
+                "exr": {
+                    "size": 1331040,
+                    "md5": "e3819634980f50519d0d3f2a84518ea6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/lythwood_lounge_1k.exr"
+                }
+            }
+        }
+    }
+}

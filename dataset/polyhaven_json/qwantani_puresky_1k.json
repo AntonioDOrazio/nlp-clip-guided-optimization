@@ -1,0 +1,101 @@
+{
+    "evs_cap": 20,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "pure skies"
+    ],
+    "date_published": 1667001600,
+    "name": "Qwantani (Pure Sky)",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "morning-afternoon",
+        "clear",
+        "high contrast",
+        "natural light",
+        "pure skies"
+    ],
+    "coords": [
+        -28.48536987,
+        29.01268416
+    ],
+    "date_taken": 1556803080,
+    "info": "Edited sky-only version of [Qwantani](https://polyhaven.com/a/qwantani).",
+    "authors": {
+        "Greg Zaal": "Original",
+        "Jarod Guest": "Sky edits"
+    },
+    "files_hash": "da86fd9b2f8c1a8699777ae7c1184b3abc5a98f4",
+    "download_count": 35842,
+    "files": {
+        "tonemapped": {
+            "size": 21034678,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/qwantani_puresky.jpg",
+            "md5": "c7dd29c201be744bd00b0198a11c4c9b"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 65500123,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/qwantani_puresky_8k.hdr",
+                    "md5": "3aa662b2f2c490143788a3d777b2610b"
+                },
+                "exr": {
+                    "size": 289316530,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/qwantani_puresky_8k.exr",
+                    "md5": "b53dd18c4971320a785005a7c040cf27"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 226985087,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/qwantani_puresky_16k.hdr",
+                    "md5": "e5c758eeadd0ac4105affcb5f2ec523c"
+                },
+                "exr": {
+                    "size": 1125433395,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/qwantani_puresky_16k.exr",
+                    "md5": "6b0748583d2b490ada669a3d197201a6"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 17919364,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/qwantani_puresky_4k.hdr",
+                    "md5": "94c077ffc29d6f36a94eb84ba0c862b0"
+                },
+                "exr": {
+                    "size": 74580692,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/qwantani_puresky_4k.exr",
+                    "md5": "ebaae3c206bdf71c834082d325ed978d"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 4584320,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/qwantani_puresky_2k.hdr",
+                    "md5": "fdd877b7d1440ef299516653358d7f67"
+                },
+                "exr": {
+                    "size": 19510354,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/qwantani_puresky_2k.exr",
+                    "md5": "65593bc67fb2319da34dff93924ddef8"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1142401,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/qwantani_puresky_1k.hdr",
+                    "md5": "086b9fb2feb8f641b0d485c73dfb7cdc"
+                },
+                "exr": {
+                    "size": 5280254,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/qwantani_puresky_1k.exr",
+                    "md5": "14fadeb68dccf0f2bb33853f75988a20"
+                }
+            }
+        }
+    }
+}

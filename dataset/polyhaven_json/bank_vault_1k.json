@@ -1,0 +1,122 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "cage",
+        "bars",
+        "concrete",
+        "fluorescent",
+        "bare",
+        "empty",
+        "industrial"
+    ],
+    "name": "Bank Vault",
+    "categories": [
+        "indoor",
+        "urban",
+        "artificial light",
+        "medium contrast"
+    ],
+    "coords": [
+        -26.20539786454372,
+        28.03987213114943
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "info": null,
+    "date_published": 1664496000,
+    "date_taken": 1660812540,
+    "files_hash": "be00cbb1c06e34056a9f85d4a9b4f167024e84ef",
+    "sponsors": [
+        "66627515"
+    ],
+    "download_count": 8785,
+    "files": {
+        "tonemapped": {
+            "size": 42112170,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/bank_vault.jpg",
+            "md5": "066d6517c49b60f76f97e3b9d6cc6812"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103798498,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/bank_vault_8k.hdr",
+                    "md5": "77f66ce1f6ba0e657a49a79ca43899e9"
+                },
+                "exr": {
+                    "size": 329277456,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/bank_vault_8k.exr",
+                    "md5": "4f9e800fbb9f2555b3312370b30f4a5c"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 397841149,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/bank_vault_16k.hdr",
+                    "md5": "892ec5129e56f81c59cd6d1715cda6a7"
+                },
+                "exr": {
+                    "size": 1252973339,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/bank_vault_16k.exr",
+                    "md5": "1575f61e16a41320a8b515280add54bc"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26374909,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/bank_vault_4k.hdr",
+                    "md5": "e2721f6c4f1fcf5a009f504b6b36aa70"
+                },
+                "exr": {
+                    "size": 84603178,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/bank_vault_4k.exr",
+                    "md5": "0172e0994c7caf3374992dd2e670a173"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6660066,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/bank_vault_2k.hdr",
+                    "md5": "75ccab3ecd19f987174d6a64e12b3bf3"
+                },
+                "exr": {
+                    "size": 22041898,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/bank_vault_2k.exr",
+                    "md5": "f0e7c5aed765032437d353580b95c6e2"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 876494601,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/bank_vault_24k.hdr",
+                    "md5": "6d151ebce7f133bde0c45f3aa94ee9a1"
+                },
+                "exr": {
+                    "size": 2826378672,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/bank_vault_24k.exr",
+                    "md5": "82f0164af526537f08caaa2998d41976"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1671294,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/bank_vault_1k.hdr",
+                    "md5": "7e429429b74106d741251aa4b1cedae6"
+                },
+                "exr": {
+                    "size": 5900655,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/bank_vault_1k.exr",
+                    "md5": "57f32f5ca60f698f24714a1f3ee0be32"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 194033022,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/bank_vault.zip",
+            "md5": "af5127aadf96a9a8b585f834e5a1faef"
+        }
+    }
+}

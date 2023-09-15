@@ -1,0 +1,97 @@
+{
+    "evs_cap": 24,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "industrial",
+        "lamp",
+        "warehouse",
+        "workshop"
+    ],
+    "date_published": 1563228000,
+    "name": "Industrial Pipe & Valve 02",
+    "categories": [
+        "artificial light",
+        "high contrast",
+        "indoor",
+        "urban"
+    ],
+    "date_taken": 1533295500,
+    "authors": {
+        "Philip Modin": "All"
+    },
+    "sponsors": [
+        "18031080"
+    ],
+    "files_hash": "23bf9ed78f4971d04315799a3122a335e83c76f3",
+    "download_count": 22801,
+    "files": {
+        "tonemapped": {
+            "size": 5687971,
+            "md5": "fbf2438c133fe421aebd5b177510f4f5",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/industrial_pipe_and_valve_02.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103928853,
+                    "md5": "24c7ab211281d7c00ec3451c50f18599",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/industrial_pipe_and_valve_02_8k.hdr"
+                },
+                "exr": {
+                    "size": 92345800,
+                    "md5": "6aa97809ca7677f4b278d99e09af13ba",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/industrial_pipe_and_valve_02_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 404269841,
+                    "md5": "a1d487bfe81877bf3d0881e881eb7a83",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/industrial_pipe_and_valve_02_16k.hdr"
+                },
+                "exr": {
+                    "size": 353340697,
+                    "md5": "241a0b5fc8828cbea614edeea87b8e26",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/industrial_pipe_and_valve_02_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26326558,
+                    "md5": "b37cb7f64efad39ab77704c212ff6901",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/industrial_pipe_and_valve_02_4k.hdr"
+                },
+                "exr": {
+                    "size": 23672985,
+                    "md5": "909ddc01326a85246e4cee1c843e5b1f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/industrial_pipe_and_valve_02_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6667739,
+                    "md5": "e7179a6daf43fee60bb4f24a1987899b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/industrial_pipe_and_valve_02_2k.hdr"
+                },
+                "exr": {
+                    "size": 6106305,
+                    "md5": "238b85c51ade236156c63517ffa02aa1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/industrial_pipe_and_valve_02_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1692422,
+                    "md5": "84340334d17039711ccbc192e7e19d55",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/industrial_pipe_and_valve_02_1k.hdr"
+                },
+                "exr": {
+                    "size": 1589542,
+                    "md5": "00a6bc264b09792d7bb2702a4914b1e1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/industrial_pipe_and_valve_02_1k.exr"
+                }
+            }
+        }
+    }
+}

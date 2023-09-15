@@ -1,0 +1,120 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "tags": [
+        "grass",
+        "path",
+        "asphalt",
+        "park",
+        "tree"
+    ],
+    "name": "Bismarckturm Hillside",
+    "categories": [
+        "outdoor",
+        "low contrast",
+        "nature",
+        "natural light",
+        "partly cloudy",
+        "sunrise-sunset"
+    ],
+    "date_taken": 1626461640,
+    "coords": [
+        48.794568,
+        9.161839
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "date_published": 1629849600,
+    "sponsors": [
+        "42579608"
+    ],
+    "files_hash": "d967df2d14ef41dd36c61fdb8717a1f30fa77fda",
+    "download_count": 47505,
+    "files": {
+        "hdri": {
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/bismarckturm_hillside_16k.hdr",
+                    "size": 398756975,
+                    "md5": "4e9db13b778d746cb2834fc9b5dc3f5d"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/bismarckturm_hillside_16k.exr",
+                    "size": 624610911,
+                    "md5": "8d2356a3c18b9338f1e1a9a8f0f07ec0"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/bismarckturm_hillside_20k.hdr",
+                    "size": 610997382,
+                    "md5": "0aceedd6d5bf88dff9e3734c1774b9c2"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/bismarckturm_hillside_20k.exr",
+                    "size": 963200158,
+                    "md5": "8ab880751290600afcb71411235d1ed6"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/bismarckturm_hillside_8k.hdr",
+                    "size": 104376994,
+                    "md5": "289632cc0233c436df541a2726b99853"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/bismarckturm_hillside_8k.exr",
+                    "size": 160902611,
+                    "md5": "8706089ecf6f6d2ce872d7c58200892e"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/bismarckturm_hillside_4k.hdr",
+                    "size": 26347876,
+                    "md5": "a78a3def6b618349b8881dd22edc48d5"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/bismarckturm_hillside_4k.exr",
+                    "size": 40765287,
+                    "md5": "c7ba33e4dfd754618c00e8582c7304fa"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/bismarckturm_hillside_2k.hdr",
+                    "size": 6484382,
+                    "md5": "1a287387a7c7a19cdc6b075df49f06c0"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/bismarckturm_hillside_2k.exr",
+                    "size": 10270790,
+                    "md5": "3b4e78b8f6c36061a600627639b09ac6"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/bismarckturm_hillside_1k.hdr",
+                    "size": 1586177,
+                    "md5": "498d923e3b72e85c32a9c8d1f6a0062f"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/bismarckturm_hillside_1k.exr",
+                    "size": 2591274,
+                    "md5": "cf7b338e71c6634ed53f226b867cd143"
+                }
+            }
+        },
+        "colorchart": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/bismarckturm_hillside.zip",
+            "size": 39762161,
+            "md5": "66817871d2ef496d56bd555c0bb09250"
+        },
+        "tonemapped": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/bismarckturm_hillside.jpg",
+            "size": 51191470,
+            "md5": "fcae9cdcbde1f2d3c43a5d23fda502b1"
+        }
+    }
+}

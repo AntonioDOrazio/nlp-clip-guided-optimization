@@ -1,0 +1,311 @@
+{
+    "evs_cap": 23,
+    "type": 0,
+    "whitebalance": 5860,
+    "date_published": 1581634800,
+    "name": "Dirt Bike Track 01",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "morning-afternoon",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1567408140,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "8571269"
+    ],
+    "backplates": true,
+    "tags": [
+        "track",
+        "road",
+        "offroad",
+        "dirt",
+        "race",
+        "course",
+        "tire",
+        "backplates"
+    ],
+    "files_hash": "43923eb64918ee8aa8194acf43e2a8a16df371e1",
+    "download_count": 25475,
+    "files": {
+        "tonemapped": {
+            "size": 5396738,
+            "md5": "b355c9258efef458180e05d700da22fd",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/dirt_bike_track_01.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102533468,
+                    "md5": "7420a3602263cdd8cf3213cbdefe3ab1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/dirt_bike_track_01_8k.hdr"
+                },
+                "exr": {
+                    "size": 79901977,
+                    "md5": "0f284c0f843094e2123dc61def728c74",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/dirt_bike_track_01_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 393817052,
+                    "md5": "081c4993cf61a2ede1e686ba84e4ea44",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/dirt_bike_track_01_16k.hdr"
+                },
+                "exr": {
+                    "size": 302363842,
+                    "md5": "fc1d7163a70020857012036c408deb96",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/dirt_bike_track_01_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25790075,
+                    "md5": "4c328cb2ba8b5e32f67b7a1160af7c17",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/dirt_bike_track_01_4k.hdr"
+                },
+                "exr": {
+                    "size": 20285830,
+                    "md5": "2540d9a66da7d6849841df413a6002dc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/dirt_bike_track_01_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6396489,
+                    "md5": "b9ee372d5465c4b26f9068cc83653db3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/dirt_bike_track_01_2k.hdr"
+                },
+                "exr": {
+                    "size": 5173650,
+                    "md5": "4f67ca11aa0634dc99d819c686b7ce79",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/dirt_bike_track_01_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1599380,
+                    "md5": "9648ed6875d9654f11fc3ee24bca755a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/dirt_bike_track_01_1k.hdr"
+                },
+                "exr": {
+                    "size": 1340703,
+                    "md5": "45c7b5a654221e654e82dcb1403a4411",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/dirt_bike_track_01_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "DSC_0164": {
+                "jpg_pretty": {
+                    "size": 7320212,
+                    "md5": "81e6d5307f7829850bb3166c6ceff1d8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/jpg_pretty/DSC_0164.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5608625,
+                    "md5": "7bddcdd1ba6eee1fb5d21318090aca52",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/jpg_plain/DSC_0164.jpg"
+                },
+                "raw": {
+                    "size": 18056652,
+                    "md5": "c48cf5b6acc924370b94481331369fdd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/raw/DSC_0164.NEF"
+                }
+            },
+            "DSC_0169": {
+                "jpg_pretty": {
+                    "size": 7612836,
+                    "md5": "1a3d1a6963f88708d4c08073498dbdfa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/jpg_pretty/DSC_0169.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5361467,
+                    "md5": "7911ca03267dede3af2ca5752c5828bf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/jpg_plain/DSC_0169.jpg"
+                },
+                "raw": {
+                    "size": 18068478,
+                    "md5": "1de25e6b289491ade4f47109e0169155",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/raw/DSC_0169.NEF"
+                }
+            },
+            "DSC_0279": {
+                "jpg_pretty": {
+                    "size": 8083489,
+                    "md5": "3772480d1000cc13178180abcf448a09",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/jpg_pretty/DSC_0279.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5516823,
+                    "md5": "41add1e63c03280fe4bda0c8bf8e3eef",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/jpg_plain/DSC_0279.jpg"
+                },
+                "raw": {
+                    "size": 17832611,
+                    "md5": "d76c1e57709b35738f342d720625c525",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/raw/DSC_0279.NEF"
+                }
+            },
+            "DSC_0124": {
+                "jpg_pretty": {
+                    "size": 15522481,
+                    "md5": "a1ff778a2f1e20ba29006a7eeed24c86",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/jpg_pretty/DSC_0124.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9690845,
+                    "md5": "1fb788570d1036900de363eda1e1e13c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/jpg_plain/DSC_0124.jpg"
+                },
+                "raw": {
+                    "size": 18827844,
+                    "md5": "b72e3a5eb85ee6e9749963ddf6ef0781",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/raw/DSC_0124.NEF"
+                }
+            },
+            "DSC_0234": {
+                "jpg_pretty": {
+                    "size": 14530320,
+                    "md5": "ea1e91b0a27aee4ca9534acac2a11359",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/jpg_pretty/DSC_0234.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10003269,
+                    "md5": "8b17b258eaa666b832545c9ebe92eb0f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/jpg_plain/DSC_0234.jpg"
+                },
+                "raw": {
+                    "size": 18621958,
+                    "md5": "a221533d2b7610b7a79ed9a4242c0d33",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/raw/DSC_0234.NEF"
+                }
+            },
+            "DSC_0254": {
+                "jpg_pretty": {
+                    "size": 16561910,
+                    "md5": "5db35f76b7dce988f53a7a31b89515ae",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/jpg_pretty/DSC_0254.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11472311,
+                    "md5": "ac9de1dbd08e912009ec7107be126b56",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/jpg_plain/DSC_0254.jpg"
+                },
+                "raw": {
+                    "size": 19184944,
+                    "md5": "176ea305237927c08e95baea30799891",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/raw/DSC_0254.NEF"
+                }
+            },
+            "DSC_0304": {
+                "jpg_pretty": {
+                    "size": 17107325,
+                    "md5": "e4018ac75199b6915d48ff9dd9f22b6e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/jpg_pretty/DSC_0304.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12408031,
+                    "md5": "5487c3fac22a548a06097c0a18735e8e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/jpg_plain/DSC_0304.jpg"
+                },
+                "raw": {
+                    "size": 19475346,
+                    "md5": "d4f1481b434c1a7305f182f432fc5940",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/raw/DSC_0304.NEF"
+                }
+            },
+            "DSC_0149": {
+                "jpg_pretty": {
+                    "size": 6853536,
+                    "md5": "550f44223d7765e92eeff561df6f54a1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/jpg_pretty/DSC_0149.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5823325,
+                    "md5": "ba3170939e05c01effb1db1134576186",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/jpg_plain/DSC_0149.jpg"
+                },
+                "raw": {
+                    "size": 18076321,
+                    "md5": "f4732fc8afae746a814316ab88142afb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/raw/DSC_0149.NEF"
+                }
+            },
+            "DSC_0159": {
+                "jpg_pretty": {
+                    "size": 16498380,
+                    "md5": "4a952be129f1435fd73d75b401e4d38a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/jpg_pretty/DSC_0159.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11657879,
+                    "md5": "be65772cce1e7b860c12bb86e6a364f7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/jpg_plain/DSC_0159.jpg"
+                },
+                "raw": {
+                    "size": 18982291,
+                    "md5": "fafcb5fbbee96f7fa6aff51c552097ab",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/raw/DSC_0159.NEF"
+                }
+            },
+            "DSC_0324": {
+                "jpg_pretty": {
+                    "size": 15619373,
+                    "md5": "3a78f17e9c7a8c63de51b27d79fa416f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/jpg_pretty/DSC_0324.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11124711,
+                    "md5": "b1b21882235b71d1c708094905808496",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/jpg_plain/DSC_0324.jpg"
+                },
+                "raw": {
+                    "size": 18971201,
+                    "md5": "5063045694fa055946dbf8276e91aad2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/raw/DSC_0324.NEF"
+                }
+            },
+            "DSC_0094": {
+                "jpg_pretty": {
+                    "size": 15103358,
+                    "md5": "4c8a37ad8dd3b96fbb02d62652506641",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/jpg_pretty/DSC_0094.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12111538,
+                    "md5": "bb935b57a23999276def30d987fc28a7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/jpg_plain/DSC_0094.jpg"
+                },
+                "raw": {
+                    "size": 19077255,
+                    "md5": "d231ba04229e403cd03b86a2bd7d2ca9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/raw/DSC_0094.NEF"
+                }
+            },
+            "DSC_0109": {
+                "jpg_pretty": {
+                    "size": 7611819,
+                    "md5": "c79488e046b114a6896edeaac4b1a03c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/jpg_pretty/DSC_0109.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4602074,
+                    "md5": "4da647a2c4029a35900051b9455a5403",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/jpg_plain/DSC_0109.jpg"
+                },
+                "raw": {
+                    "size": 17563764,
+                    "md5": "e202a9a2736818a9a4b4950d308a6ec4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/dirt_bike_track_01/raw/DSC_0109.NEF"
+                }
+            }
+        }
+    }
+}

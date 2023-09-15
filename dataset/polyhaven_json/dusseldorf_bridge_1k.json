@@ -1,0 +1,107 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "bridge",
+        "path",
+        "building",
+        "city",
+        "river",
+        "tower"
+    ],
+    "date_published": 1522879200,
+    "name": "Dusseldorf Bridge",
+    "categories": [
+        "outdoor",
+        "urban",
+        "sunrise-sunset",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        51.215937,
+        6.753368
+    ],
+    "date_taken": 1478966280,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "url": "https://dabarti.com/",
+            "name": "Tomasz Wyszolmirski"
+        }
+    ],
+    "files_hash": "6166dc10c43ae204bd7ef6797bd4807c5519344a",
+    "download_count": 44876,
+    "files": {
+        "tonemapped": {
+            "size": 4383177,
+            "md5": "a2752149823b9c4581f4579fe01547d7",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/dusseldorf_bridge.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 94214904,
+                    "md5": "cd56700cfa9d1220f69820fdd0018c1f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/dusseldorf_bridge_8k.hdr"
+                },
+                "exr": {
+                    "size": 75929604,
+                    "md5": "c0a6c0e6e58459074702ceba88e55b31",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/dusseldorf_bridge_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 346317669,
+                    "md5": "a4000ce69b87563d7a3b50e2d8a381c3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/dusseldorf_bridge_16k.hdr"
+                },
+                "exr": {
+                    "size": 275485394,
+                    "md5": "fe0cb803c70c919a47251b13f82b314c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/dusseldorf_bridge_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24200135,
+                    "md5": "6afa826a3f900748524e0e354835469d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/dusseldorf_bridge_4k.hdr"
+                },
+                "exr": {
+                    "size": 20171369,
+                    "md5": "0e873ae8e8e11274c9405c9d56bf69b3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/dusseldorf_bridge_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6131734,
+                    "md5": "a562cab550b2409ed2276bbda6815433",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/dusseldorf_bridge_2k.hdr"
+                },
+                "exr": {
+                    "size": 5282427,
+                    "md5": "dc25d20b286baa3116fd48ae3ecb0cd2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/dusseldorf_bridge_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1558071,
+                    "md5": "a1f371c6940af3e48f27416da124893f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/dusseldorf_bridge_1k.hdr"
+                },
+                "exr": {
+                    "size": 1372177,
+                    "md5": "b63498ceebf6a971e6c18d0610882af1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/dusseldorf_bridge_1k.exr"
+                }
+            }
+        }
+    }
+}

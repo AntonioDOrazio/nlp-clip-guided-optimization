@@ -1,0 +1,103 @@
+{
+    "evs_cap": 6,
+    "type": 0,
+    "tags": [
+        "tree",
+        "leaves",
+        "autumn",
+        "park",
+        "hockey"
+    ],
+    "date_published": 1506982200,
+    "name": "Autumn Hockey",
+    "categories": [
+        "outdoor",
+        "nature",
+        "overcast",
+        "midday",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        52.380836,
+        9.758647
+    ],
+    "date_taken": 1478775540,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "7937768"
+    ],
+    "files_hash": "d9d1a23b8fbcfe92e3f1035a5a980161898224dc",
+    "download_count": 64423,
+    "files": {
+        "tonemapped": {
+            "size": 10433748,
+            "md5": "f55c4b00b262a6d381aaefce5f88fe28",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/autumn_hockey.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 109204458,
+                    "md5": "69a3d59936cabe4db83a9009a3a80ad1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/autumn_hockey_8k.hdr"
+                },
+                "exr": {
+                    "size": 108383912,
+                    "md5": "ee968110ad4b23b7f37bded9270a95fa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/autumn_hockey_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 408208540,
+                    "md5": "7c531d219f5d337ebabc3fdfcd897963",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/autumn_hockey_16k.hdr"
+                },
+                "exr": {
+                    "size": 397378038,
+                    "md5": "f9aa1837c8e69b2b3833f5956d229029",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/autumn_hockey_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 28492181,
+                    "md5": "f03309c21e6c6134fd41ed5c684891e9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/autumn_hockey_4k.hdr"
+                },
+                "exr": {
+                    "size": 28479040,
+                    "md5": "76024a6dcf55b1a16d975dc4b67bae0b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/autumn_hockey_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7286880,
+                    "md5": "9b2352a8d54f5ce58e0fcc1f82f84034",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/autumn_hockey_2k.hdr"
+                },
+                "exr": {
+                    "size": 7278241,
+                    "md5": "60c1fbb56b867c2abf8f260e7b515a6e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/autumn_hockey_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1833398,
+                    "md5": "47f19228b579a6e517fead418f213eac",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/autumn_hockey_1k.hdr"
+                },
+                "exr": {
+                    "size": 1828064,
+                    "md5": "cf41d7ef9bb5fd89ea71540495bb7cb4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/autumn_hockey_1k.exr"
+                }
+            }
+        }
+    }
+}

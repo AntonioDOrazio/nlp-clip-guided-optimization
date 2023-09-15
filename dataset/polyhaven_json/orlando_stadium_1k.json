@@ -1,0 +1,122 @@
+{
+    "evs_cap": 22,
+    "name": "Orlando Stadium",
+    "categories": [
+        "natural light",
+        "outdoor",
+        "urban",
+        "midday",
+        "clear",
+        "high contrast"
+    ],
+    "type": 0,
+    "date_taken": 1631194620,
+    "coords": [
+        -26.231770602990014,
+        27.92284078352548
+    ],
+    "tags": [
+        "stadium",
+        "field",
+        "grass",
+        "football",
+        "soccer"
+    ],
+    "authors": {
+        "Greg Zaal": "Processing",
+        "Dimitrios Savva": "Photography"
+    },
+    "date_published": 1659312000,
+    "sponsors": [
+        "73232395"
+    ],
+    "prepaid": true,
+    "files_hash": "b3952e13bd3f69feeaa8d2d6b9068f8b58d1845d",
+    "download_count": 18788,
+    "files": {
+        "tonemapped": {
+            "size": 45826577,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/orlando_stadium.jpg",
+            "md5": "2f92359ed22adf7fcb590fce38661bd3"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102089803,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/orlando_stadium_8k.hdr",
+                    "md5": "2280c371f2424f43e208619c49e63af4"
+                },
+                "exr": {
+                    "size": 331407608,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/orlando_stadium_8k.exr",
+                    "md5": "578ae2c336c97694465efb6b4e995ef1"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 382911620,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/orlando_stadium_16k.hdr",
+                    "md5": "18edc0a5f10d185ee86be027f1790136"
+                },
+                "exr": {
+                    "size": 1273047475,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/orlando_stadium_16k.exr",
+                    "md5": "33ece0a46333b4cf9577f2400090e0f8"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25148258,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/orlando_stadium_4k.hdr",
+                    "md5": "c9df46d7f35961be50f4e6e4a8afa305"
+                },
+                "exr": {
+                    "size": 84024153,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/orlando_stadium_4k.exr",
+                    "md5": "4e647f825e03e16428bc42cc1aa8ba7f"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6154431,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/orlando_stadium_2k.hdr",
+                    "md5": "9f7494c34a648b30e8f479b7a242b703"
+                },
+                "exr": {
+                    "size": 21742107,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/orlando_stadium_2k.exr",
+                    "md5": "9ad1af0164b02716b4b51a48c3241e84"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 847089269,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/orlando_stadium_24k.hdr",
+                    "md5": "79c11258e2773a37c5da31e59e9e35d5"
+                },
+                "exr": {
+                    "size": 2856935207,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/orlando_stadium_24k.exr",
+                    "md5": "8282c07803f118fbee065b1b5d17b870"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1551563,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/orlando_stadium_1k.hdr",
+                    "md5": "9462e1627b37b64977d38484e6026232"
+                },
+                "exr": {
+                    "size": 5809722,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/orlando_stadium_1k.exr",
+                    "md5": "9fea32ce8f8e4e76c5f536aa3719ace8"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 63925888,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/orlando_stadium.zip",
+            "md5": "9b9c24a4e08e6bc3fb9206a43afcee42"
+        }
+    }
+}

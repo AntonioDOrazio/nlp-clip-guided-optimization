@@ -1,0 +1,107 @@
+{
+    "evs_cap": 10,
+    "type": 0,
+    "tags": [
+        "train",
+        "station",
+        "bench",
+        "hall",
+        "tracks",
+        "fluorescent"
+    ],
+    "date_published": 1506981600,
+    "name": "Dresden Station Night",
+    "categories": [
+        "indoor",
+        "urban",
+        "night",
+        "medium contrast",
+        "artificial light"
+    ],
+    "coords": [
+        51.040345,
+        13.731369
+    ],
+    "date_taken": 1478636940,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "url": "http://www.mdjustin.com/",
+            "name": "Justin Dolan"
+        },
+        "11164276"
+    ],
+    "files_hash": "f5ce6ef5551030de7cff798e06f02e25ff0efb77",
+    "download_count": 50826,
+    "files": {
+        "tonemapped": {
+            "size": 5603105,
+            "md5": "e698f3737dc1fb3ae1ed4984a11b8f8f",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/dresden_station_night.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 100713148,
+                    "md5": "d3f51317ecd83da596e359d239be0ff5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/dresden_station_night_8k.hdr"
+                },
+                "exr": {
+                    "size": 90269757,
+                    "md5": "c3c4d2efa3cb861ded45611c102b3fe9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/dresden_station_night_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 363495937,
+                    "md5": "fc7f7bfdfc4a8f751ba8176c81f4cbdf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/dresden_station_night_16k.hdr"
+                },
+                "exr": {
+                    "size": 308088377,
+                    "md5": "58a7f7b80805f37465502b8e3f732cb1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/dresden_station_night_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26397775,
+                    "md5": "e15490ba24fe6d5e853433163faaa240",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/dresden_station_night_4k.hdr"
+                },
+                "exr": {
+                    "size": 24837267,
+                    "md5": "5e98816eae856339db30ef69e353ea43",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/dresden_station_night_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6806640,
+                    "md5": "64511a838dfd805e64f3e785c0283fdd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/dresden_station_night_2k.hdr"
+                },
+                "exr": {
+                    "size": 6651787,
+                    "md5": "223c3cba0e3d8fa78ef4ac84a058fe22",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/dresden_station_night_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1744020,
+                    "md5": "69a3138edfa2905b17777929fd868a35",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/dresden_station_night_1k.hdr"
+                },
+                "exr": {
+                    "size": 1756287,
+                    "md5": "a216cfce988932ff8f74ad08614657a8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/dresden_station_night_1k.exr"
+                }
+            }
+        }
+    }
+}

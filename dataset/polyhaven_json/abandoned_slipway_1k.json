@@ -1,0 +1,103 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "ocean",
+        "bay",
+        "lake",
+        "industrial",
+        "abandoned"
+    ],
+    "date_published": 1541157990,
+    "name": "Abandoned Slipway",
+    "categories": [
+        "outdoor",
+        "urban",
+        "midday",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1538316900,
+    "authors": {
+        "Philip Modin": "All"
+    },
+    "sponsors": [
+        "3267566",
+        "10485422",
+        "3237733",
+        "42579608"
+    ],
+    "files_hash": "3ddcc13c36366059a29a1c15748506c866ec10d0",
+    "download_count": 71548,
+    "files": {
+        "tonemapped": {
+            "size": 5160993,
+            "md5": "f94f23017b84809622c71fd18f849685",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/abandoned_slipway.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 106741991,
+                    "md5": "50b95544ad382611627907afca033387",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/abandoned_slipway_8k.hdr"
+                },
+                "exr": {
+                    "size": 90223526,
+                    "md5": "343c5c234f763833d05ae6077b3414c1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/abandoned_slipway_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 417781079,
+                    "md5": "3c460550951bd1ffd505e7331a51795d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/abandoned_slipway_16k.hdr"
+                },
+                "exr": {
+                    "size": 360849134,
+                    "md5": "38f3b3e5cb5b1a4a3221e68d8ed5a510",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/abandoned_slipway_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26679589,
+                    "md5": "2a9c8c7ffae5eef7a0be8dd5e2a77ecb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/abandoned_slipway_4k.hdr"
+                },
+                "exr": {
+                    "size": 21921136,
+                    "md5": "7b2ad51bca05e1c10ddd001204ea8aac",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/abandoned_slipway_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6644324,
+                    "md5": "9322978ba5f4dc0c95db5f81859078d6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/abandoned_slipway_2k.hdr"
+                },
+                "exr": {
+                    "size": 5489799,
+                    "md5": "01485f48b010d65ad05c17f400a50e76",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/abandoned_slipway_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1662646,
+                    "md5": "d5e25cb890d86e3fb3cced9e55a2eaa5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/abandoned_slipway_1k.hdr"
+                },
+                "exr": {
+                    "size": 1420495,
+                    "md5": "08fedc6cdd56ffe1629db35bb2d7ace1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/abandoned_slipway_1k.exr"
+                }
+            }
+        }
+    }
+}

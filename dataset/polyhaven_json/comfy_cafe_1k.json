@@ -1,0 +1,567 @@
+{
+    "evs_cap": 30,
+    "type": 0,
+    "whitebalance": 2850,
+    "date_published": 1618956000,
+    "name": "Comfy Caf\u00e9",
+    "categories": [
+        "indoor",
+        "urban",
+        "low contrast",
+        "artificial light"
+    ],
+    "date_taken": 1611241260,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "16608220"
+    ],
+    "backplates": true,
+    "tags": [
+        "shop",
+        "coffee",
+        "cafe",
+        "couch",
+        "table",
+        "store",
+        "backplates"
+    ],
+    "files_hash": "d3f91c56a4b2cd7dd62a0db071b04390f6325409",
+    "download_count": 61254,
+    "files": {
+        "tonemapped": {
+            "size": 3407886,
+            "md5": "9981ecb566d95af141af43f07910b008",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/comfy_cafe.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 95905437,
+                    "md5": "da26bfad29686fda877d39684c8f0621",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/comfy_cafe_8k.hdr"
+                },
+                "exr": {
+                    "size": 70001715,
+                    "md5": "13951621942dedcc56e427666ab6136a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/comfy_cafe_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 351252030,
+                    "md5": "378a56c08188047f218ed553dee01696",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/comfy_cafe_16k.hdr"
+                },
+                "exr": {
+                    "size": 248319329,
+                    "md5": "030de9e77c93cbb413dbe314a4696f13",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/comfy_cafe_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24624985,
+                    "md5": "4a94ffae25ca42e960a8dfcaf436e5f3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/comfy_cafe_4k.hdr"
+                },
+                "exr": {
+                    "size": 18681569,
+                    "md5": "b161a27ce0ee0e13456afaa2fef5a31b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/comfy_cafe_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6260522,
+                    "md5": "e8d670a951dcbb06c0bb1d3a7b351f15",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/comfy_cafe_2k.hdr"
+                },
+                "exr": {
+                    "size": 5045484,
+                    "md5": "8647fd71531077708be6fc87caddb965",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/comfy_cafe_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1609391,
+                    "md5": "70131a0f4ad26e1b298995792294dabf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/comfy_cafe_1k.hdr"
+                },
+                "exr": {
+                    "size": 1385048,
+                    "md5": "509557f40c44e9b3dcec0bb5415f571b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/comfy_cafe_1k.exr"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 72248343,
+            "md5": "6811acd713448382cad1463709538aa0",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/comfy_cafe.zip"
+        },
+        "backplates": {
+            "DSC_6825": {
+                "jpg_pretty": {
+                    "size": 9435886,
+                    "md5": "41d9f861c8a38c7621745411628c7515",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_pretty/DSC_6825.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11346853,
+                    "md5": "0c9d0805fbe2b26df5388cf431b0ec66",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_plain/DSC_6825.jpg"
+                },
+                "raw": {
+                    "size": 26904302,
+                    "md5": "717db6130e21db1ee5902d578c324aa8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/raw/DSC_6825.NEF"
+                }
+            },
+            "DSC_6805": {
+                "jpg_pretty": {
+                    "size": 8245646,
+                    "md5": "0c1e9fd321e9bad3e4e82c59bf13677b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_pretty/DSC_6805.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10648275,
+                    "md5": "4867fb49da88d78fbb2fc9e6d9277afd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_plain/DSC_6805.jpg"
+                },
+                "raw": {
+                    "size": 26149285,
+                    "md5": "20aab1c3010de0742d5dd34a659c1732",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/raw/DSC_6805.NEF"
+                }
+            },
+            "DSC_6926": {
+                "jpg_pretty": {
+                    "size": 7254170,
+                    "md5": "c796dc4dd6c7c3855ff6f492540cc118",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_pretty/DSC_6926.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10778308,
+                    "md5": "7d63245da14aa6ce1cb608979b281e7f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_plain/DSC_6926.jpg"
+                },
+                "raw": {
+                    "size": 27030003,
+                    "md5": "52e4648d40f98cac9d5077a033e430b2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/raw/DSC_6926.NEF"
+                }
+            },
+            "DSC_6800": {
+                "jpg_pretty": {
+                    "size": 9729288,
+                    "md5": "ad7fcb38ba5e1e7f74caf9418bb8ddf7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_pretty/DSC_6800.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10726728,
+                    "md5": "04d76ede7bf26e040934e914789fcfa6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_plain/DSC_6800.jpg"
+                },
+                "raw": {
+                    "size": 27812483,
+                    "md5": "0af50548c1b0bbdb6190fa88e0440c96",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/raw/DSC_6800.NEF"
+                }
+            },
+            "DSC_6986": {
+                "jpg_pretty": {
+                    "size": 8838998,
+                    "md5": "a378ce8c9cd68c3a731fa02118ea5d3a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_pretty/DSC_6986.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10928311,
+                    "md5": "ccf4ff2fe173acf608ecc63ddc3133be",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_plain/DSC_6986.jpg"
+                },
+                "raw": {
+                    "size": 26976865,
+                    "md5": "cff24e44d41544c4c8d4de2be2c5d75a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/raw/DSC_6986.NEF"
+                }
+            },
+            "DSC_6845": {
+                "jpg_pretty": {
+                    "size": 9316485,
+                    "md5": "8dfe38a54f3a21f06c0d016cf600bf32",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_pretty/DSC_6845.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11092393,
+                    "md5": "9a8d6545c60a7b90edd04cfaedbac04e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_plain/DSC_6845.jpg"
+                },
+                "raw": {
+                    "size": 27966581,
+                    "md5": "c478cb41cdcf25fad9ac973b05e99364",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/raw/DSC_6845.NEF"
+                }
+            },
+            "DSC_6840": {
+                "jpg_pretty": {
+                    "size": 10292918,
+                    "md5": "41c09be42ca748f9efb81eccf99e990f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_pretty/DSC_6840.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11200566,
+                    "md5": "36c2dbf9eafa7f15cd77eca92e692394",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_plain/DSC_6840.jpg"
+                },
+                "raw": {
+                    "size": 27861532,
+                    "md5": "5efdea956356728986ca1ac3807dba36",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/raw/DSC_6840.NEF"
+                }
+            },
+            "DSC_6961": {
+                "jpg_pretty": {
+                    "size": 8597385,
+                    "md5": "69ab060d0ee925d18b94a628bc0b02d1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_pretty/DSC_6961.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10393312,
+                    "md5": "cfa194ee12bdbb5e43319819c19cc9e8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_plain/DSC_6961.jpg"
+                },
+                "raw": {
+                    "size": 27011751,
+                    "md5": "b90b2934ebba1049489ed78538df081a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/raw/DSC_6961.NEF"
+                }
+            },
+            "DSC_6820": {
+                "jpg_pretty": {
+                    "size": 9740975,
+                    "md5": "c2ffae2216a4163689b5362acc25f74b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_pretty/DSC_6820.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12051194,
+                    "md5": "fd0c91652da56aea2e13aca08ec01c99",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_plain/DSC_6820.jpg"
+                },
+                "raw": {
+                    "size": 27826187,
+                    "md5": "db2771826f066b0551a05e38224347f1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/raw/DSC_6820.NEF"
+                }
+            },
+            "DSC_6786": {
+                "jpg_pretty": {
+                    "size": 9448157,
+                    "md5": "8342866094c7f9000fc081cc6118b810",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_pretty/DSC_6786.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11134919,
+                    "md5": "5d2d09dedff62242d16d9bd34b2d37b2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_plain/DSC_6786.jpg"
+                },
+                "raw": {
+                    "size": 27796405,
+                    "md5": "a33fa45dfa7f5283917e87fdfbc6d7cb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/raw/DSC_6786.NEF"
+                }
+            },
+            "DSC_6885": {
+                "jpg_pretty": {
+                    "size": 8124390,
+                    "md5": "e76690e5d68580ce00f3a2c465331db0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_pretty/DSC_6885.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10988187,
+                    "md5": "2a4d4f516b20030f2100ef3d38e87243",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_plain/DSC_6885.jpg"
+                },
+                "raw": {
+                    "size": 27108389,
+                    "md5": "b15309764974a5a7899da9562827880a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/raw/DSC_6885.NEF"
+                }
+            },
+            "DSC_6815": {
+                "jpg_pretty": {
+                    "size": 8530815,
+                    "md5": "9e272c2e0fee08995a8bf5eb6239190f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_pretty/DSC_6815.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11443659,
+                    "md5": "5008dcc9cdffcef33d1a8d41415efd26",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_plain/DSC_6815.jpg"
+                },
+                "raw": {
+                    "size": 27300562,
+                    "md5": "afdaf63965f6668d59218477aa84a3a9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/raw/DSC_6815.NEF"
+                }
+            },
+            "DSC_6936": {
+                "jpg_pretty": {
+                    "size": 8625549,
+                    "md5": "865f90c02350e99169ed67f1a6e817e1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_pretty/DSC_6936.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10836422,
+                    "md5": "bc5634ee64ad3a67510d94f6793bff99",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_plain/DSC_6936.jpg"
+                },
+                "raw": {
+                    "size": 28244566,
+                    "md5": "19d4ba331c1d345a42418c7b4b2d8050",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/raw/DSC_6936.NEF"
+                }
+            },
+            "DSC_6915": {
+                "jpg_pretty": {
+                    "size": 7295181,
+                    "md5": "a11ac34a72c258d38f9c5375cd91bed9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_pretty/DSC_6915.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10159107,
+                    "md5": "843366e46867114e7c9b9b98b80c4974",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_plain/DSC_6915.jpg"
+                },
+                "raw": {
+                    "size": 26445224,
+                    "md5": "3983ef4530e9ba51685c9ea46ef9c3fa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/raw/DSC_6915.NEF"
+                }
+            },
+            "DSC_6855": {
+                "jpg_pretty": {
+                    "size": 9204388,
+                    "md5": "3f5bbcf46ca272708d26f7dff5c52b21",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_pretty/DSC_6855.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10029557,
+                    "md5": "99b3d8ccc128bc5a0bc7a0d94ab0dd28",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_plain/DSC_6855.jpg"
+                },
+                "raw": {
+                    "size": 28122118,
+                    "md5": "3219019ffb69e8dedd1fd7b11ecdb2a0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/raw/DSC_6855.NEF"
+                }
+            },
+            "DSC_6910": {
+                "jpg_pretty": {
+                    "size": 7417697,
+                    "md5": "3439e11775c0b4a48d8ad543270f5e9c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_pretty/DSC_6910.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10480575,
+                    "md5": "40a8520e168af5f23ed3038d7c613683",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_plain/DSC_6910.jpg"
+                },
+                "raw": {
+                    "size": 27010727,
+                    "md5": "49d87742e017783a0a1071ad303b9df7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/raw/DSC_6910.NEF"
+                }
+            },
+            "DSC_6976": {
+                "jpg_pretty": {
+                    "size": 7316859,
+                    "md5": "4b1deeb48a92308ee1609f9d0a6b7371",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_pretty/DSC_6976.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10317173,
+                    "md5": "350d6fa7d4303bd75f204bb40afc31db",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_plain/DSC_6976.jpg"
+                },
+                "raw": {
+                    "size": 26079983,
+                    "md5": "694c95a070ee9747e10f8efdf269649d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/raw/DSC_6976.NEF"
+                }
+            },
+            "DSC_6835": {
+                "jpg_pretty": {
+                    "size": 10852424,
+                    "md5": "24ee248ebac89d4b36762d16cad18d24",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_pretty/DSC_6835.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11949436,
+                    "md5": "02ce3f421af2258453ca08d4d161c15b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_plain/DSC_6835.jpg"
+                },
+                "raw": {
+                    "size": 30926799,
+                    "md5": "b017c6fd6f8a822971f4bec55c3b67ed",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/raw/DSC_6835.NEF"
+                }
+            },
+            "DSC_7006": {
+                "jpg_pretty": {
+                    "size": 9409042,
+                    "md5": "6c3b7aba5a6d16ad98b58b071cd7a3a0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_pretty/DSC_7006.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11367604,
+                    "md5": "50107f69d70c73d5028c2283869dd393",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_plain/DSC_7006.jpg"
+                },
+                "raw": {
+                    "size": 27924565,
+                    "md5": "0fef48a2cefaf266f7b53695595f8bfe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/raw/DSC_7006.NEF"
+                }
+            },
+            "DSC_6795": {
+                "jpg_pretty": {
+                    "size": 12471156,
+                    "md5": "8539217067993e8753e5913763751a2b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_pretty/DSC_6795.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11674389,
+                    "md5": "f5ed0d680d20e61b2e033342eb0e5f49",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_plain/DSC_6795.jpg"
+                },
+                "raw": {
+                    "size": 30142758,
+                    "md5": "d961a3bcdfe9ea071823db07af33e2cc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/raw/DSC_6795.NEF"
+                }
+            },
+            "DSC_6971": {
+                "jpg_pretty": {
+                    "size": 7905225,
+                    "md5": "714eac333d7235de364ba237972186d1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_pretty/DSC_6971.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10440628,
+                    "md5": "d0d216f7ba7089ff63eb001534f678e9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_plain/DSC_6971.jpg"
+                },
+                "raw": {
+                    "size": 26566291,
+                    "md5": "8f1c4f5c566040bfd1945fa6865e96c4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/raw/DSC_6971.NEF"
+                }
+            },
+            "DSC_6776": {
+                "jpg_pretty": {
+                    "size": 8881271,
+                    "md5": "6ceba45fc5e34f9bd377b84756820da1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_pretty/DSC_6776.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11681637,
+                    "md5": "16becf2a94d20329de81fbaf8fc69fe7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_plain/DSC_6776.jpg"
+                },
+                "raw": {
+                    "size": 27066492,
+                    "md5": "3b0514278035a04f8b9abfe883faef9d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/raw/DSC_6776.NEF"
+                }
+            },
+            "DSC_6875": {
+                "jpg_pretty": {
+                    "size": 9497190,
+                    "md5": "83326b9a65ee29f6b5fc3cefac8e056e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_pretty/DSC_6875.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10958051,
+                    "md5": "af1cb4bcb9bdbd28e3a321a487191788",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_plain/DSC_6875.jpg"
+                },
+                "raw": {
+                    "size": 27809171,
+                    "md5": "e187afbbf86a898277c9fec7098e15e9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/raw/DSC_6875.NEF"
+                }
+            },
+            "DSC_6996": {
+                "jpg_pretty": {
+                    "size": 9191810,
+                    "md5": "95a500a91339f297d10492026ac0d1cb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_pretty/DSC_6996.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10543428,
+                    "md5": "530eb3bcd120beffdd527c540068a70c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_plain/DSC_6996.jpg"
+                },
+                "raw": {
+                    "size": 28029510,
+                    "md5": "4acda75dbff57f1d9b93c175639f9c30",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/raw/DSC_6996.NEF"
+                }
+            },
+            "DSC_6830": {
+                "jpg_pretty": {
+                    "size": 8393323,
+                    "md5": "3e074517b6f19db50dc6b38ea5f67a7a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_pretty/DSC_6830.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11833596,
+                    "md5": "7cb7153b8b321400531baa75f0e9d9be",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_plain/DSC_6830.jpg"
+                },
+                "raw": {
+                    "size": 27526247,
+                    "md5": "1640d99638305fdb0b3a160ab56dfa0f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/raw/DSC_6830.NEF"
+                }
+            },
+            "DSC_6991": {
+                "jpg_pretty": {
+                    "size": 9541072,
+                    "md5": "361d85c245be49333193ae62374c2f50",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_pretty/DSC_6991.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10159194,
+                    "md5": "e04b76f80f6a1b6b554c81c11e58fe60",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_plain/DSC_6991.jpg"
+                },
+                "raw": {
+                    "size": 27401735,
+                    "md5": "7f714054c684c77bcf8cfb96f90db7ca",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/raw/DSC_6991.NEF"
+                }
+            },
+            "DSC_6790": {
+                "jpg_pretty": {
+                    "size": 9087549,
+                    "md5": "6d0c9ca1dc17f7e1abf0de17722388fe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_pretty/DSC_6790.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12336516,
+                    "md5": "74bd196a106a7ffa68d9344620c51b48",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/jpg_plain/DSC_6790.jpg"
+                },
+                "raw": {
+                    "size": 26346661,
+                    "md5": "5aaad6aa134b555e51cb160e6d990547",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/comfy_cafe/raw/DSC_6790.NEF"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "evs_cap": 19,
+    "type": 0,
+    "tags": [
+        "tree",
+        "shop",
+        "building",
+        "city",
+        "police",
+        "district"
+    ],
+    "date_published": 1508536800,
+    "name": "Hansaplatz",
+    "categories": [
+        "outdoor",
+        "urban",
+        "night",
+        "clear",
+        "high contrast",
+        "artificial light"
+    ],
+    "coords": [
+        53.554451,
+        10.012056
+    ],
+    "date_taken": 1478113140,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "7947474"
+    ],
+    "files_hash": "6aef3594c135145bfd92e273ee5efd946fd13241",
+    "download_count": 146866,
+    "files": {
+        "tonemapped": {
+            "size": 5901947,
+            "md5": "04248ba16fb3e34a9ef07f86683e36df",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/hansaplatz.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 105244718,
+                    "md5": "36d38ac3e7842d39aec79258ba9d8f3c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/hansaplatz_8k.hdr"
+                },
+                "exr": {
+                    "size": 102386825,
+                    "md5": "b51f264e991f32a9f24f96a7691b7b02",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/hansaplatz_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 399967963,
+                    "md5": "7a3ee53d24298407e85c66608431065c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/hansaplatz_16k.hdr"
+                },
+                "exr": {
+                    "size": 375675384,
+                    "md5": "13dd18aa1ee05313f86bcc81a642f59a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/hansaplatz_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26997130,
+                    "md5": "e6c28314cef77ff7ae8b0fad58aa7fc7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/hansaplatz_4k.hdr"
+                },
+                "exr": {
+                    "size": 26685455,
+                    "md5": "2372b08ad07bbd0f5c1f8b5e447a01d7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/hansaplatz_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6850384,
+                    "md5": "f537267470437188cdc61c604311aad4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/hansaplatz_2k.hdr"
+                },
+                "exr": {
+                    "size": 6810970,
+                    "md5": "0e0e6d3e4af5e441d54d42b65b51b529",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/hansaplatz_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1728448,
+                    "md5": "791c436efd8841300e77b522eec91b8e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/hansaplatz_1k.hdr"
+                },
+                "exr": {
+                    "size": 1718541,
+                    "md5": "831dba5669e064a93e81ab7dbfc01717",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/hansaplatz_1k.exr"
+                }
+            }
+        }
+    }
+}

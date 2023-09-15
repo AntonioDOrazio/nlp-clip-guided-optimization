@@ -1,0 +1,106 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "tree",
+        "garden",
+        "stair",
+        "path",
+        "japan",
+        "asia",
+        "gravel"
+    ],
+    "date_published": 1531432800,
+    "name": "Ninomaru Teien",
+    "categories": [
+        "outdoor",
+        "nature",
+        "sunrise-sunset",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        35.1849,
+        136.902
+    ],
+    "date_taken": 1524755340,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "10485422"
+    ],
+    "files_hash": "4ae277a4bb57cdab1cbe842d604bfb334ec56e07",
+    "download_count": 52830,
+    "files": {
+        "tonemapped": {
+            "size": 10919648,
+            "md5": "96d36b48fca4486a99c6afeb13a89f13",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/ninomaru_teien.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 108951698,
+                    "md5": "e3e8aead0179943d1989e97f9b5d7443",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/ninomaru_teien_8k.hdr"
+                },
+                "exr": {
+                    "size": 112523585,
+                    "md5": "b3efff7a39bf1b86adf1e30041586692",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/ninomaru_teien_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 401281934,
+                    "md5": "4178cafdff42f323f83ec78584be8342",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/ninomaru_teien_16k.hdr"
+                },
+                "exr": {
+                    "size": 401007492,
+                    "md5": "064792c6520146821fe6c1910acdfa5f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/ninomaru_teien_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 28651738,
+                    "md5": "3c20ea63dc6d65a844d9d1646afefbe5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/ninomaru_teien_4k.hdr"
+                },
+                "exr": {
+                    "size": 29975378,
+                    "md5": "3101f58987d1bffab9b64ecbfe96289b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/ninomaru_teien_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7406511,
+                    "md5": "bd2556008e2cce395612724d44d551e0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/ninomaru_teien_2k.hdr"
+                },
+                "exr": {
+                    "size": 7814692,
+                    "md5": "a63a9a535e56a7019492f10f63306d62",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/ninomaru_teien_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1892935,
+                    "md5": "43407ed303c8d22a0ce07524d3fdbcce",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/ninomaru_teien_1k.hdr"
+                },
+                "exr": {
+                    "size": 2009241,
+                    "md5": "714cc2fdc737f79769a8650058fef316",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/ninomaru_teien_1k.exr"
+                }
+            }
+        }
+    }
+}

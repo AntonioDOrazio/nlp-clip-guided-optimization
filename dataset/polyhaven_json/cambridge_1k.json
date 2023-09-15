@@ -1,0 +1,117 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "architecture",
+        "europe",
+        "london",
+        "university",
+        "grass",
+        "path",
+        "cobblestone"
+    ],
+    "date_published": 1579561200,
+    "name": "Cambridge",
+    "categories": [
+        "outdoor",
+        "urban",
+        "midday",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1576585080,
+    "coords": [
+        52.201705,
+        0.118934
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        "13450515"
+    ],
+    "files_hash": "8dcd5e5840919aa1e285e5f9cab479a7456f1ad3",
+    "download_count": 24188,
+    "files": {
+        "tonemapped": {
+            "size": 4575564,
+            "md5": "69e15e2fb34846822be0d3bd41cba40e",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/cambridge.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103183849,
+                    "md5": "8990348e0550a1626e59555778e539fa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/cambridge_8k.hdr"
+                },
+                "exr": {
+                    "size": 86817034,
+                    "md5": "8b37bdda8ca0f66a2e3a5f75f0a1f5da",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/cambridge_8k.exr"
+                }
+            },
+            "17k": {
+                "hdr": {
+                    "size": 454905030,
+                    "md5": "0b7a621366968fc0b2920914b70e8b08",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/cambridge_17k.hdr"
+                },
+                "exr": {
+                    "size": 371836526,
+                    "md5": "1fe3c19eeeb18d37a81ad4c379c3faf0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/cambridge_17k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 387352751,
+                    "md5": "17922754977b9c3590edbb81880aece3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/cambridge_16k.hdr"
+                },
+                "exr": {
+                    "size": 323157059,
+                    "md5": "681c7bc8aa88962e6585b8c1cd271857",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/cambridge_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26346743,
+                    "md5": "f5a8fa6f0ec2706d6ba9fa0e0431e955",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/cambridge_4k.hdr"
+                },
+                "exr": {
+                    "size": 22373150,
+                    "md5": "335d044fab03386c5fd6f2df302145ed",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/cambridge_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6654894,
+                    "md5": "9656cf67af939fc474fc8e9c1c34fef5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/cambridge_2k.hdr"
+                },
+                "exr": {
+                    "size": 5630978,
+                    "md5": "eb590b23ecc4cd4bd67fe380a408aaae",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/cambridge_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1668107,
+                    "md5": "3555bfffa0f69477149ffade3bbe713f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/cambridge_1k.hdr"
+                },
+                "exr": {
+                    "size": 1415054,
+                    "md5": "1c53de054044c2e0c088873248ead1c8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/cambridge_1k.exr"
+                }
+            }
+        }
+    }
+}

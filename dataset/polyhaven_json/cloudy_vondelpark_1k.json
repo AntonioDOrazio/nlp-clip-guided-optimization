@@ -1,0 +1,104 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "tags": [
+        "tree",
+        "leaves",
+        "path",
+        "road",
+        "grass",
+        "autumn",
+        "amsterdam",
+        "river",
+        "pond"
+    ],
+    "date_published": 1506981780,
+    "name": "Cloudy Vondelpark",
+    "categories": [
+        "outdoor",
+        "nature",
+        "midday",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1478011680,
+    "coords": [
+        52.358868,
+        4.870858
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "files_hash": "8287ff8c9d0455f45852c3db8493d2d4c91bcc4d",
+    "download_count": 36256,
+    "files": {
+        "tonemapped": {
+            "size": 10273188,
+            "md5": "3734f351197fde278771c3f29341d166",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/cloudy_vondelpark.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 109009782,
+                    "md5": "57118c094e908c098428ab788b329381",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/cloudy_vondelpark_8k.hdr"
+                },
+                "exr": {
+                    "size": 109185887,
+                    "md5": "af79ab0a431bbd2357f65ae41673a3d7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/cloudy_vondelpark_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 407382034,
+                    "md5": "6bdfbd11f71b116ff47a1168854adab2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/cloudy_vondelpark_16k.hdr"
+                },
+                "exr": {
+                    "size": 398987240,
+                    "md5": "703d458fe987ea0680327c64f3510df7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/cloudy_vondelpark_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 28288134,
+                    "md5": "48413ccb246218ae16023abc3171f49a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/cloudy_vondelpark_4k.hdr"
+                },
+                "exr": {
+                    "size": 28788792,
+                    "md5": "d2f8497a0c794f48229ec7bca0a3d01c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/cloudy_vondelpark_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7209334,
+                    "md5": "c9e413656da44aae9da6b10fa894bd4f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/cloudy_vondelpark_2k.hdr"
+                },
+                "exr": {
+                    "size": 7409208,
+                    "md5": "e18f50a7c89db2b5a934dbacb94702bc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/cloudy_vondelpark_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1824065,
+                    "md5": "c3872d6886de1d5fd8345c7d7bb828c4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/cloudy_vondelpark_1k.hdr"
+                },
+                "exr": {
+                    "size": 1890384,
+                    "md5": "e72ce4a41fce3a8e69a91c8233574a4e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/cloudy_vondelpark_1k.exr"
+                }
+            }
+        }
+    }
+}

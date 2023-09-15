@@ -1,0 +1,112 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5313,
+    "tags": [
+        "pure skies"
+    ],
+    "name": "Kloofendal Misty Morning (Pure Sky)",
+    "categories": [
+        "outdoor",
+        "skies",
+        "natural light",
+        "nature",
+        "overcast",
+        "low contrast",
+        "morning-afternoon",
+        "pure skies"
+    ],
+    "date_taken": 1686126000,
+    "coords": [
+        -26.123391,
+        27.883609
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "info": "Edited sky-only version of [Kloofendal Misty Morning](https://polyhaven.com/a/kloofendal_misty_morning).",
+    "files_hash": "ac12e666675b00fd703d0d6b2596e9a2dd2efe90",
+    "date_published": 1689292800,
+    "download_count": 7636,
+    "files": {
+        "tonemapped": {
+            "size": 11498982,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/kloofendal_misty_morning_puresky.jpg",
+            "md5": "d4626d7da0a3243929d65f7ea81c3ab3"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 50362918,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/kloofendal_misty_morning_puresky_8k.hdr",
+                    "md5": "73849feb3a348cf972ddc4b40a0afacd"
+                },
+                "exr": {
+                    "size": 329427788,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/kloofendal_misty_morning_puresky_8k.exr",
+                    "md5": "c403fec9c089cbdb8ced5759d1283e1e"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 175487404,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/kloofendal_misty_morning_puresky_16k.hdr",
+                    "md5": "ff29dbab316a59dc8053f82a81d40d17"
+                },
+                "exr": {
+                    "size": 1274171960,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/kloofendal_misty_morning_puresky_16k.exr",
+                    "md5": "514431c681cb895cf2f2ab5b330d5e6f"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 12659983,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/kloofendal_misty_morning_puresky_4k.hdr",
+                    "md5": "7f0f40b402cd944c599b88000f53e108"
+                },
+                "exr": {
+                    "size": 84775626,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/kloofendal_misty_morning_puresky_4k.exr",
+                    "md5": "16aa53c20345a641bf7ba9a81555946b"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 379094937,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/kloofendal_misty_morning_puresky_24k.hdr",
+                    "md5": "84ad85113aff7fd687314a1e8c0ea774"
+                },
+                "exr": {
+                    "size": 2787708752,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/kloofendal_misty_morning_puresky_24k.exr",
+                    "md5": "26af15191dd2fad5c81621c6592e4401"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 2958072,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/kloofendal_misty_morning_puresky_2k.hdr",
+                    "md5": "b99e0bb066a0d8134729b9712495d68b"
+                },
+                "exr": {
+                    "size": 21841368,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/kloofendal_misty_morning_puresky_2k.exr",
+                    "md5": "a6b4a6fa198cf898b1476a53ce774953"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 702293,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/kloofendal_misty_morning_puresky_1k.hdr",
+                    "md5": "123aa1065716d084bbf31ee50fe8856d"
+                },
+                "exr": {
+                    "size": 5662607,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/kloofendal_misty_morning_puresky_1k.exr",
+                    "md5": "07b5b1c30e6b9a3e4d681bdb31f49a26"
+                }
+            }
+        }
+    }
+}

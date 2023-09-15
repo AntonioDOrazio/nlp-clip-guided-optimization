@@ -1,0 +1,227 @@
+{
+    "evs_cap": 19,
+    "type": 0,
+    "date_published": 1511996400,
+    "name": "Rooftop Day",
+    "categories": [
+        "outdoor",
+        "urban",
+        "morning-afternoon",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1463488020,
+    "coords": [
+        -26.138543,
+        28.009178
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "url": "https://dabarti.com/",
+            "name": "Tomasz Wyszolmirski"
+        }
+    ],
+    "backplates": true,
+    "tags": [
+        "parking",
+        "roof",
+        "car",
+        "backplates"
+    ],
+    "files_hash": "c6b37628d70b7db39e00bbf72735cd341f8cfcc8",
+    "download_count": 28485,
+    "files": {
+        "tonemapped": {
+            "size": 3923035,
+            "md5": "6ddbed0e43c4291d23e55f9449ad6acd",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/rooftop_day.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 95888360,
+                    "md5": "0ac3d1187d7c4a0531bbb81a733a424d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/rooftop_day_8k.hdr"
+                },
+                "exr": {
+                    "size": 71917466,
+                    "md5": "c7965eaca0569c979c29d3cba9f2c679",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/rooftop_day_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 348296205,
+                    "md5": "52946350370c63de8b23f9d58521bf3c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rooftop_day_16k.hdr"
+                },
+                "exr": {
+                    "size": 255100284,
+                    "md5": "a771638ff86d3f36676d295ab37068cc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rooftop_day_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24494369,
+                    "md5": "e3786c80d9077a25e0fe5188f7d2564d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/rooftop_day_4k.hdr"
+                },
+                "exr": {
+                    "size": 18765078,
+                    "md5": "5c261baadfbc478185a23483d25ea0f1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/rooftop_day_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6108735,
+                    "md5": "a7a7210e7fd744f565e32ff6289a0b3c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/rooftop_day_2k.hdr"
+                },
+                "exr": {
+                    "size": 4813746,
+                    "md5": "9746b774a1f48eef14920782509bbeb7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/rooftop_day_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1530621,
+                    "md5": "d39b9b64a3a73356cf646b3dcfea306b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/rooftop_day_1k.hdr"
+                },
+                "exr": {
+                    "size": 1247642,
+                    "md5": "07776f5a67a4378c991a939d04e8fe78",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/rooftop_day_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "20160517-IMG_6237-HDR": {
+                "jpg_pretty": {
+                    "size": 2919237,
+                    "md5": "7c2420dba11c60e4f2a0ff983bf9a43f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rooftop_day/jpg_pretty/20160517-IMG_6237-HDR.jpg"
+                },
+                "jpg_plain": {
+                    "size": 2960342,
+                    "md5": "66ba8985710d019bee46436b8f2bbb0f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rooftop_day/jpg_plain/20160517-IMG_6237-HDR.jpg"
+                },
+                "raw": {
+                    "size": 70387138,
+                    "md5": "43af3220e3788249b9722a32ea798e6a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rooftop_day/raw/20160517-IMG_6237-HDR.dng"
+                }
+            },
+            "20160517-IMG_6228-HDR": {
+                "jpg_pretty": {
+                    "size": 3700042,
+                    "md5": "4ae1cd4bb690fdfd082fec024500c29a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rooftop_day/jpg_pretty/20160517-IMG_6228-HDR.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3436623,
+                    "md5": "fa504705cb8c59c18040fdab7b29c9c1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rooftop_day/jpg_plain/20160517-IMG_6228-HDR.jpg"
+                },
+                "raw": {
+                    "size": 72750228,
+                    "md5": "6a1dd2025491293752086b02b8e06c03",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rooftop_day/raw/20160517-IMG_6228-HDR.dng"
+                }
+            },
+            "20160517-IMG_6246-HDR": {
+                "jpg_pretty": {
+                    "size": 3517149,
+                    "md5": "8c48896f3e7ec9bdd1688b26baaf77f0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rooftop_day/jpg_pretty/20160517-IMG_6246-HDR.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3916308,
+                    "md5": "23fe6dbc1b569f507f8342c7fd341dd8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rooftop_day/jpg_plain/20160517-IMG_6246-HDR.jpg"
+                },
+                "raw": {
+                    "size": 68749124,
+                    "md5": "9c0cdcdc6bb122e46d1707398cdb5493",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rooftop_day/raw/20160517-IMG_6246-HDR.dng"
+                }
+            },
+            "20160517-IMG_6240-HDR": {
+                "jpg_pretty": {
+                    "size": 3250131,
+                    "md5": "36c567be2c83972b6fadf8aee46cdce3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rooftop_day/jpg_pretty/20160517-IMG_6240-HDR.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3088462,
+                    "md5": "b5534558bdbc6d0e9db792c55e543421",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rooftop_day/jpg_plain/20160517-IMG_6240-HDR.jpg"
+                },
+                "raw": {
+                    "size": 67797740,
+                    "md5": "49ad19a4613f3c36431e449c9cca9632",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rooftop_day/raw/20160517-IMG_6240-HDR.dng"
+                }
+            },
+            "20160517-IMG_6234-HDR": {
+                "jpg_pretty": {
+                    "size": 3175659,
+                    "md5": "dbf50457eedf956f4c62d85e09498ed5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rooftop_day/jpg_pretty/20160517-IMG_6234-HDR.jpg"
+                },
+                "jpg_plain": {
+                    "size": 2882407,
+                    "md5": "e1981d1b0931dddad32aff0052872497",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rooftop_day/jpg_plain/20160517-IMG_6234-HDR.jpg"
+                },
+                "raw": {
+                    "size": 72118216,
+                    "md5": "607b8be19b814223bad3e255625e2fd4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rooftop_day/raw/20160517-IMG_6234-HDR.dng"
+                }
+            },
+            "20160517-IMG_6233-HDR": {
+                "jpg_pretty": {
+                    "size": 3625406,
+                    "md5": "aa3f3ae6154b118c0341f3478932024a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rooftop_day/jpg_pretty/20160517-IMG_6233-HDR.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3276039,
+                    "md5": "4d768ece85eb04388b13c1623304ab0b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rooftop_day/jpg_plain/20160517-IMG_6233-HDR.jpg"
+                },
+                "raw": {
+                    "size": 73834712,
+                    "md5": "2e666e588c3a7f6f1404c73f35bfe2a3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rooftop_day/raw/20160517-IMG_6233-HDR.dng"
+                }
+            },
+            "20160517-IMG_6243-HDR": {
+                "jpg_pretty": {
+                    "size": 3216440,
+                    "md5": "74a2b85eec7eda5d22e65a3d315d2897",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rooftop_day/jpg_pretty/20160517-IMG_6243-HDR.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3325150,
+                    "md5": "9b1adb9bb2e76b130d6fa9f8ead51f52",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rooftop_day/jpg_plain/20160517-IMG_6243-HDR.jpg"
+                },
+                "raw": {
+                    "size": 67272190,
+                    "md5": "6ead663dae9419ef185838cbfaac29ef",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rooftop_day/raw/20160517-IMG_6243-HDR.dng"
+                }
+            }
+        }
+    }
+}

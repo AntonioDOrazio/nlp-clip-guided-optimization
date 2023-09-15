@@ -1,0 +1,129 @@
+{
+    "donated": true,
+    "evs_cap": 27,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "grass",
+        "field",
+        "tree",
+        "meadow"
+    ],
+    "name": "Evening Meadow",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "partly cloudy",
+        "natural light",
+        "medium contrast"
+    ],
+    "date_taken": 1628103000,
+    "authors": {
+        "Alexander Scholten": "All"
+    },
+    "date_published": 1630886400,
+    "sponsors": [
+        "37678923"
+    ],
+    "files_hash": "c15b17715f717606afad41290069ed246287b94e",
+    "download_count": 161299,
+    "files": {
+        "hdri": {
+            "29k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/evening_meadow_29k.hdr",
+                    "size": 1239646120,
+                    "md5": "e59cab448ea9e23dcaf5c51915caee49"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/evening_meadow_29k.exr",
+                    "size": 4164091868,
+                    "md5": "91c38e323057f15d42de1ec3fdf5e3e5"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/evening_meadow_16k.hdr",
+                    "size": 395777456,
+                    "md5": "3fc732b10754c1261f02b5623e5cb107"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/evening_meadow_16k.exr",
+                    "size": 1282648102,
+                    "md5": "7fdd87a18e9449619ec300ac700b11ab"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/evening_meadow_24k.hdr",
+                    "size": 874349240,
+                    "md5": "d216dfc88eea7c388c78056ee74dc663"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/evening_meadow_24k.exr",
+                    "size": 2903055770,
+                    "md5": "cb17b22842de82502b4e91d0cd135d3c"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/evening_meadow_8k.hdr",
+                    "size": 105296877,
+                    "md5": "5c75f21f9f31178e36bfb14724f04a97"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/evening_meadow_8k.exr",
+                    "size": 336314888,
+                    "md5": "a624d0d18ac57e9bcffa35157c0faab5"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/evening_meadow_4k.hdr",
+                    "size": 26633304,
+                    "md5": "2147fc72a6bcee2356c15992394911ff"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/evening_meadow_4k.exr",
+                    "size": 86354595,
+                    "md5": "5a17470fb0f33bcc0cbbb07501aeb057"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/evening_meadow_2k.hdr",
+                    "size": 6670341,
+                    "md5": "3711bd6daf42531661a62c90aedf4c5a"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/evening_meadow_2k.exr",
+                    "size": 22529685,
+                    "md5": "5ba461745b1bd52bf54084714c20162e"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/evening_meadow_1k.hdr",
+                    "size": 1677046,
+                    "md5": "82988892d46eb1fb207d4241a6b8dd04"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/evening_meadow_1k.exr",
+                    "size": 6024185,
+                    "md5": "1b3614f8370e4cbec3464ad32bf8839c"
+                }
+            }
+        },
+        "colorchart": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/evening_meadow.zip",
+            "size": 78949898,
+            "md5": "c90456043ce7b6c7090a7a30e17247a0"
+        },
+        "tonemapped": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/evening_meadow.jpg",
+            "size": 49130476,
+            "md5": "a47287a3a40e57853f52c98ec8a8316e"
+        }
+    }
+}

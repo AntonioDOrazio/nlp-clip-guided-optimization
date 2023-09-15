@@ -1,0 +1,104 @@
+{
+    "evs_cap": 27,
+    "type": 0,
+    "tags": [
+        "grass",
+        "tree",
+        "forest",
+        "path",
+        "hike",
+        "sun"
+    ],
+    "date_published": 1508536800,
+    "name": "Cliffside",
+    "categories": [
+        "outdoor",
+        "nature",
+        "midday",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        -29.002268,
+        29.402089
+    ],
+    "date_taken": 1460639280,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "files_hash": "e9e87291e32dd594bb68f180cf32b130d4c70c36",
+    "sponsors": [
+        "11167855"
+    ],
+    "download_count": 27647,
+    "files": {
+        "tonemapped": {
+            "size": 9665801,
+            "md5": "ac3020b413cf26d918b353eba2e368f7",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/cliffside.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 113324680,
+                    "md5": "4b41e79c37a1568e64ca3c513ab27975",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/cliffside_8k.hdr"
+                },
+                "exr": {
+                    "size": 108768618,
+                    "md5": "aa83805d25893118cafaea42e1a65224",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/cliffside_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 431082077,
+                    "md5": "47d65cb5e7a52cf681e9894c6b1ea092",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/cliffside_16k.hdr"
+                },
+                "exr": {
+                    "size": 412972247,
+                    "md5": "2c338ae7db36319e23358eb9cdf4a2f3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/cliffside_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 28831931,
+                    "md5": "b5c5e0417ac7e6f57690122db9992123",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/cliffside_4k.hdr"
+                },
+                "exr": {
+                    "size": 27391326,
+                    "md5": "de3af3a4d967e679d54a1f8616ccd977",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/cliffside_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7167666,
+                    "md5": "23e6448ba6783b1053318bdefcab09a0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/cliffside_2k.hdr"
+                },
+                "exr": {
+                    "size": 6767489,
+                    "md5": "8c0869705aa03c62f306c359907280ab",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/cliffside_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1761935,
+                    "md5": "7ec20cfbcb14b2194386c2481bb55193",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/cliffside_1k.hdr"
+                },
+                "exr": {
+                    "size": 1684092,
+                    "md5": "600d5c7896347b89082632cc2ff83a39",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/cliffside_1k.exr"
+                }
+            }
+        }
+    }
+}

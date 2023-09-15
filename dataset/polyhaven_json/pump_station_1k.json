@@ -1,0 +1,430 @@
+{
+    "evs_cap": 27,
+    "type": 0,
+    "whitebalance": 5300,
+    "date_published": 1592863200,
+    "name": "Pump Station",
+    "categories": [
+        "outdoor",
+        "urban",
+        "morning-afternoon",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1586441700,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "backplates": true,
+    "tags": [
+        "abandoned",
+        "farm",
+        "shed",
+        "water tank",
+        "rust",
+        "grass",
+        "backplates"
+    ],
+    "files_hash": "4d725bcb2ce409581445d3bdf4d0e5324bd9d068",
+    "download_count": 20216,
+    "files": {
+        "tonemapped": {
+            "size": 6530002,
+            "md5": "57b36c78f7e30f9ff3929c02a0a9e8a9",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/pump_station.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101311065,
+                    "md5": "a7a888da94bcdd6705bf29efc3dfe6a4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/pump_station_8k.hdr"
+                },
+                "exr": {
+                    "size": 85068099,
+                    "md5": "36c974faef314ed9fbbeb692bd6991c2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/pump_station_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 373168448,
+                    "md5": "bdb7a4d1cc61966777bdcff2a066709b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/pump_station_16k.hdr"
+                },
+                "exr": {
+                    "size": 310365369,
+                    "md5": "075a7fbfe3a3e470db21035ecdb8da91",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/pump_station_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25745190,
+                    "md5": "d6891424cb1777d787414436cc87dfab",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/pump_station_4k.hdr"
+                },
+                "exr": {
+                    "size": 21727403,
+                    "md5": "610037c7cf53c35c4f2b2a27e5d05a8f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/pump_station_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6337833,
+                    "md5": "521523a82c8b1cd92f9d7db4c87924fe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/pump_station_2k.hdr"
+                },
+                "exr": {
+                    "size": 5490085,
+                    "md5": "8b687b101f5f66cd76c03556414d97f2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/pump_station_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1579500,
+                    "md5": "6ad91cc6faacee74471d1f7f65732bf6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/pump_station_1k.hdr"
+                },
+                "exr": {
+                    "size": 1406301,
+                    "md5": "5aac97c83a78c3ff9a51cd6495745504",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/pump_station_1k.exr"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 48648715,
+            "md5": "8496cf9f0c33bbe675ad28cc869796bb",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/pump_station.hdr"
+        },
+        "backplates": {
+            "DSC_0118": {
+                "jpg_pretty": {
+                    "size": 17248021,
+                    "md5": "27ce47074ebeb745fdc4f0d04c735ea9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_pretty/DSC_0118.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12905049,
+                    "md5": "5cf207a2a181e6a6153ba3592f5f3e50",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_plain/DSC_0118.jpg"
+                },
+                "raw": {
+                    "size": 20138827,
+                    "md5": "4d2910cfc857b6b0d77c39bdbf2a7490",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/raw/DSC_0118.NEF"
+                }
+            },
+            "DSC_0128": {
+                "jpg_pretty": {
+                    "size": 16912587,
+                    "md5": "f0d8f09ef3ddb26e4b3707fce068b9ca",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_pretty/DSC_0128.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13062664,
+                    "md5": "111f998717233abad8b8569978f419aa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_plain/DSC_0128.jpg"
+                },
+                "raw": {
+                    "size": 20398010,
+                    "md5": "c63ffab3afb39401712b0ea467d6814b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/raw/DSC_0128.NEF"
+                }
+            },
+            "DSC_0238": {
+                "jpg_pretty": {
+                    "size": 13441699,
+                    "md5": "79fd22fa2bc9f21684c8bbdbe4b67612",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_pretty/DSC_0238.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10646788,
+                    "md5": "4595460e0d9de2f2db49afda87b74a2b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_plain/DSC_0238.jpg"
+                },
+                "raw": {
+                    "size": 19095963,
+                    "md5": "3407a9a4867613824279643d86b27e3c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/raw/DSC_0238.NEF"
+                }
+            },
+            "DSC_0138": {
+                "jpg_pretty": {
+                    "size": 17313156,
+                    "md5": "12c092ef1ac26957aac7ab5cdc069a01",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_pretty/DSC_0138.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12786007,
+                    "md5": "aa144c9b8c023ac5c079acb6c8e4f63f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_plain/DSC_0138.jpg"
+                },
+                "raw": {
+                    "size": 20030668,
+                    "md5": "90d36d0913d61a3d8525dcdc6e78ddaa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/raw/DSC_0138.NEF"
+                }
+            },
+            "DSC_0108": {
+                "jpg_pretty": {
+                    "size": 17665918,
+                    "md5": "31025c1054bc4be7904f73846b26cd87",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_pretty/DSC_0108.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14138852,
+                    "md5": "87ec2dbd92b0d2dd2633049bf0814273",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_plain/DSC_0108.jpg"
+                },
+                "raw": {
+                    "size": 20985316,
+                    "md5": "fc89264b029aa4296fa7291e42c48b7e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/raw/DSC_0108.NEF"
+                }
+            },
+            "DSC_0218": {
+                "jpg_pretty": {
+                    "size": 12129400,
+                    "md5": "939a5c28a5e409e1a5fe0d207aaf87a4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_pretty/DSC_0218.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9025803,
+                    "md5": "70c1adb9f0a3f22509a1bad227a38fe0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_plain/DSC_0218.jpg"
+                },
+                "raw": {
+                    "size": 18163610,
+                    "md5": "c0d94328bc1b1c9de74db4b7caa62feb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/raw/DSC_0218.NEF"
+                }
+            },
+            "DSC_0143": {
+                "jpg_pretty": {
+                    "size": 13858386,
+                    "md5": "65b769ee643dde36829063dc55530846",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_pretty/DSC_0143.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9617653,
+                    "md5": "8ab331d1a900186eff96902eed5eb37d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_plain/DSC_0143.jpg"
+                },
+                "raw": {
+                    "size": 18670916,
+                    "md5": "293c9ce791860e8c2b9536dca05ea9cd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/raw/DSC_0143.NEF"
+                }
+            },
+            "DSC_0198": {
+                "jpg_pretty": {
+                    "size": 14044477,
+                    "md5": "af7a8102650113f088416ccdf70687d4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_pretty/DSC_0198.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10798824,
+                    "md5": "ea928dfc8408e6886f178ba418ee10d7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_plain/DSC_0198.jpg"
+                },
+                "raw": {
+                    "size": 20052393,
+                    "md5": "68bb9042e87b37b2b3cfff139052baa6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/raw/DSC_0198.NEF"
+                }
+            },
+            "DSC_0253": {
+                "jpg_pretty": {
+                    "size": 13491257,
+                    "md5": "7c41bfeb09f781f4e9d57473345f93d0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_pretty/DSC_0253.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9965670,
+                    "md5": "fa99b399328de810c4b77712f84e2d66",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_plain/DSC_0253.jpg"
+                },
+                "raw": {
+                    "size": 18396245,
+                    "md5": "f2eb597f2c53d40c754b336ff2b25974",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/raw/DSC_0253.NEF"
+                }
+            },
+            "DSC_0163": {
+                "jpg_pretty": {
+                    "size": 15644535,
+                    "md5": "94560e4483b20c637729d0795c81a7de",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_pretty/DSC_0163.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11888161,
+                    "md5": "1148433875e0efaeeabd2d0807b79fe6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_plain/DSC_0163.jpg"
+                },
+                "raw": {
+                    "size": 19807812,
+                    "md5": "3acbc3690dd6c156165de8f70cc41c63",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/raw/DSC_0163.NEF"
+                }
+            },
+            "DSC_0173": {
+                "jpg_pretty": {
+                    "size": 16372969,
+                    "md5": "d21cd34dd5a3c9cf1522c6e76aff1827",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_pretty/DSC_0173.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12658010,
+                    "md5": "7f7e38a539bbf1c1be112759bff1e6af",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_plain/DSC_0173.jpg"
+                },
+                "raw": {
+                    "size": 20251700,
+                    "md5": "bb7638e991a275a06b3d96aba7736563",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/raw/DSC_0173.NEF"
+                }
+            },
+            "DSC_0113": {
+                "jpg_pretty": {
+                    "size": 16742524,
+                    "md5": "8f18c259b8afe9632f4bc43545f37224",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_pretty/DSC_0113.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12743999,
+                    "md5": "7b84d5c54e6e436b8952db8040e77d5b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_plain/DSC_0113.jpg"
+                },
+                "raw": {
+                    "size": 20170209,
+                    "md5": "842f0770d92cea60aee31f1a09539941",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/raw/DSC_0113.NEF"
+                }
+            },
+            "DSC_0168": {
+                "jpg_pretty": {
+                    "size": 14486057,
+                    "md5": "1db23e63e30195f4d5268c986226dcfb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_pretty/DSC_0168.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10591831,
+                    "md5": "3aeb15cd47059a70dfbaf98ca1fa157d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_plain/DSC_0168.jpg"
+                },
+                "raw": {
+                    "size": 19219609,
+                    "md5": "4c61ef5c2f0a9e642ff90be562aa69a0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/raw/DSC_0168.NEF"
+                }
+            },
+            "DSC_0223": {
+                "jpg_pretty": {
+                    "size": 11256890,
+                    "md5": "a7a24a35160872c6c2ec9d2f0c48a5b3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_pretty/DSC_0223.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7986151,
+                    "md5": "074786016dacf6b9dca3fdb1d743ace4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_plain/DSC_0223.jpg"
+                },
+                "raw": {
+                    "size": 17539511,
+                    "md5": "089b1cfd21494bd0f246fcc9feb3bdee",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/raw/DSC_0223.NEF"
+                }
+            },
+            "DSC_0123": {
+                "jpg_pretty": {
+                    "size": 15981978,
+                    "md5": "48e02de02b1108b192e34cf941e69d33",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_pretty/DSC_0123.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12273405,
+                    "md5": "f3ae9c19af5b9d37698cd0094430eb29",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_plain/DSC_0123.jpg"
+                },
+                "raw": {
+                    "size": 19713967,
+                    "md5": "acd6032d802f92f704f3b8fba2fce448",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/raw/DSC_0123.NEF"
+                }
+            },
+            "DSC_0178": {
+                "jpg_pretty": {
+                    "size": 14378389,
+                    "md5": "71fbe587c67fa8079ad26297f291a192",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_pretty/DSC_0178.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10565490,
+                    "md5": "7e6a1f62afa7a45091ed11ffc81b5080",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_plain/DSC_0178.jpg"
+                },
+                "raw": {
+                    "size": 19354339,
+                    "md5": "d9ce8b1915c27588a8ef6614995cdde7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/raw/DSC_0178.NEF"
+                }
+            },
+            "DSC_0233": {
+                "jpg_pretty": {
+                    "size": 11994730,
+                    "md5": "cea5f01a0dc422b6e32813592488efcd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_pretty/DSC_0233.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8647458,
+                    "md5": "38f5cd6104b06bb37a41585324661ac3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_plain/DSC_0233.jpg"
+                },
+                "raw": {
+                    "size": 17706210,
+                    "md5": "9be9e5e2d7d455a30e74a3052d4dd5de",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/raw/DSC_0233.NEF"
+                }
+            },
+            "DSC_0183": {
+                "jpg_pretty": {
+                    "size": 13569193,
+                    "md5": "09baf304a775faebe4b9be69ac96e0dd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_pretty/DSC_0183.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10409486,
+                    "md5": "16d20ac3be47bb39a28bd8fa2775b3d0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_plain/DSC_0183.jpg"
+                },
+                "raw": {
+                    "size": 19124436,
+                    "md5": "2e080d6b395ee9aa142d14b2c91daf22",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/raw/DSC_0183.NEF"
+                }
+            },
+            "DSC_0193": {
+                "jpg_pretty": {
+                    "size": 15008412,
+                    "md5": "7be24a2360c3c279092be6a407a0c69d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_pretty/DSC_0193.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10600670,
+                    "md5": "a3d7bed3d6d5a46ed8b98aaad47489c0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/jpg_plain/DSC_0193.jpg"
+                },
+                "raw": {
+                    "size": 19243129,
+                    "md5": "6f002a646dbffe6174108860e7f05d1a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/pump_station/raw/DSC_0193.NEF"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "evs_cap": 22,
+    "name": "Lago d'Isola",
+    "categories": [
+        "natural light",
+        "outdoor",
+        "nature",
+        "high contrast",
+        "partly cloudy",
+        "midday"
+    ],
+    "type": 0,
+    "coords": [
+        46.450379,
+        9.189087
+    ],
+    "date_taken": 1649932380,
+    "tags": [
+        "sun",
+        "tree",
+        "forest",
+        "ice",
+        "snow",
+        "frozen",
+        "lake",
+        "river",
+        "winter",
+        "alps",
+        "mountain"
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "date_published": 1658880000,
+    "files_hash": "1b3e54ce2fbb54108ef17656e441c8da7a149546",
+    "download_count": 25716,
+    "files": {
+        "tonemapped": {
+            "size": 50106035,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/lago_disola.jpg",
+            "md5": "56de4d96b5bbea9a2483e3ec69beb37b"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102817995,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/lago_disola_8k.hdr",
+                    "md5": "e04269c43d81dc6991ca846e6d416d3b"
+                },
+                "exr": {
+                    "size": 333924082,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/lago_disola_8k.exr",
+                    "md5": "ebe6b355c562b0977c2538fd79f34ec1"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 390208980,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/lago_disola_16k.hdr",
+                    "md5": "d17b23660155b1969462a1ad7877317f"
+                },
+                "exr": {
+                    "size": 1299861999,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/lago_disola_16k.exr",
+                    "md5": "cb8fe5b4f682d075ebc4d6b1d7e2cfe3"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26197094,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/lago_disola_4k.hdr",
+                    "md5": "a796e3245175b409e675e692beea65f8"
+                },
+                "exr": {
+                    "size": 85566387,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/lago_disola_4k.exr",
+                    "md5": "625d33c01c8beba35ae37fa1c1bfbabc"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6513848,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/lago_disola_2k.hdr",
+                    "md5": "1056c05d3190be9cafaceaaf704f0e67"
+                },
+                "exr": {
+                    "size": 22199599,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/lago_disola_2k.exr",
+                    "md5": "71bc5bef7003c99a6fbd61048c2325b7"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1620185,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/lago_disola_1k.hdr",
+                    "md5": "6b7567ad2b8a546af08ce1c56ea0c84f"
+                },
+                "exr": {
+                    "size": 5918790,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/lago_disola_1k.exr",
+                    "md5": "f125ffcf818334e39922762f86a193e4"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 604448780,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/lago_disola_20k.hdr",
+                    "md5": "4b8d3d52143db2e8b916c9b8c820fba3"
+                },
+                "exr": {
+                    "size": 2040017454,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/lago_disola_20k.exr",
+                    "md5": "6d4c29ae2d2821865f7477aa30fbe9d9"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 424375965,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/lago_disola.zip",
+            "md5": "d7f0b04a0b3867b4e572a18b7959a091"
+        }
+    }
+}

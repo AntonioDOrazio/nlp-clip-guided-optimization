@@ -1,0 +1,510 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "date_published": 1522879200,
+    "name": "Roofless Ruins",
+    "categories": [
+        "outdoor",
+        "urban",
+        "morning-afternoon",
+        "clear",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        -34.054566,
+        18.365439
+    ],
+    "date_taken": 1464681660,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "backplates": true,
+    "tags": [
+        "abandoned",
+        "ruin",
+        "rubble",
+        "backplates"
+    ],
+    "files_hash": "a8aca717c609b479555be5d376a49cd4dfee773b",
+    "download_count": 13272,
+    "files": {
+        "tonemapped": {
+            "size": 6079919,
+            "md5": "a5dd8e19092a74acd48f7f443a599317",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/roofless_ruins.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 96022715,
+                    "md5": "5fb76268ee0cc1a18c048cf73fa7a5e7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/roofless_ruins_8k.hdr"
+                },
+                "exr": {
+                    "size": 84852094,
+                    "md5": "9c6a727aab8e2fed3a6a028de2b8d23b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/roofless_ruins_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 352474673,
+                    "md5": "5e37653891e2d5cd39718fd3b6a6bc0b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/roofless_ruins_16k.hdr"
+                },
+                "exr": {
+                    "size": 310121876,
+                    "md5": "a394ee8653c5fecf0bce7cbbb80542e0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/roofless_ruins_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24750068,
+                    "md5": "ddf676230be5ab17f56f4d57efe75611",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/roofless_ruins_4k.hdr"
+                },
+                "exr": {
+                    "size": 22199493,
+                    "md5": "65296b08ea337e34b82b29fc69d481fc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/roofless_ruins_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6187538,
+                    "md5": "d551aaacc2b82ddd845925f46662f6b2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/roofless_ruins_2k.hdr"
+                },
+                "exr": {
+                    "size": 5697014,
+                    "md5": "420b9c9f7a68496c86dd0066b408a994",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/roofless_ruins_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1551685,
+                    "md5": "c73bbfd155f6e68fcf122f0ce03af2dc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/roofless_ruins_1k.hdr"
+                },
+                "exr": {
+                    "size": 1466328,
+                    "md5": "ade45906cab14392437df9b5e580315d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/roofless_ruins_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "IMG_0469": {
+                "jpg_pretty": {
+                    "size": 10084919,
+                    "md5": "61641866d88be2a0a1a2e9dfa22cef9c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_pretty/IMG_0469.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9015994,
+                    "md5": "83990cd0daef4545dc1d93d67f1e1b9b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_plain/IMG_0469.jpg"
+                },
+                "raw": {
+                    "size": 23494288,
+                    "md5": "66a1a9a7323138a5929055a8c49b6aad",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/raw/IMG_0469.dng"
+                }
+            },
+            "IMG_0468": {
+                "jpg_pretty": {
+                    "size": 8802636,
+                    "md5": "874df75caf8aa807fc7a0ce9ab10fdf0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_pretty/IMG_0468.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8825555,
+                    "md5": "56bd7f9a308012bec4170e3847d24d66",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_plain/IMG_0468.jpg"
+                },
+                "raw": {
+                    "size": 23236368,
+                    "md5": "9e35c4994994d074cd978c8e22a29664",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/raw/IMG_0468.dng"
+                }
+            },
+            "IMG_0479": {
+                "jpg_pretty": {
+                    "size": 9309746,
+                    "md5": "efed84e5bd36b7e646cdb01912c978aa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_pretty/IMG_0479.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7225408,
+                    "md5": "fa6d86302830b7118462f5f48d380740",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_plain/IMG_0479.jpg"
+                },
+                "raw": {
+                    "size": 20710712,
+                    "md5": "2762802e5733f28f67d53523880ed0d4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/raw/IMG_0479.dng"
+                }
+            },
+            "IMG_0489": {
+                "jpg_pretty": {
+                    "size": 10140984,
+                    "md5": "f666cbe7532cbb41ddeb1075ccfb752c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_pretty/IMG_0489.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8602917,
+                    "md5": "a498b4a499d7b4506de594145bcb5bbd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_plain/IMG_0489.jpg"
+                },
+                "raw": {
+                    "size": 24769946,
+                    "md5": "2c1aee929b1fb792aa7975b7e17f4288",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/raw/IMG_0489.dng"
+                }
+            },
+            "IMG_0477": {
+                "jpg_pretty": {
+                    "size": 7979572,
+                    "md5": "427e8beca791de47cd64a6392ed893df",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_pretty/IMG_0477.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7239130,
+                    "md5": "d1dd39fd27d0b9e1daabdae80cd0175f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_plain/IMG_0477.jpg"
+                },
+                "raw": {
+                    "size": 21112628,
+                    "md5": "0e70a3c0e5b27ddd2ae41825f09d0ca6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/raw/IMG_0477.dng"
+                }
+            },
+            "IMG_0488": {
+                "jpg_pretty": {
+                    "size": 9957889,
+                    "md5": "f2db6b22542547780b40d81a034a2a98",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_pretty/IMG_0488.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8632959,
+                    "md5": "c5c4af1733aa8bcb59cfaa1b722dc425",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_plain/IMG_0488.jpg"
+                },
+                "raw": {
+                    "size": 24033806,
+                    "md5": "0e3e922401fe88ba4a8d93de68d2b43e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/raw/IMG_0488.dng"
+                }
+            },
+            "IMG_0476": {
+                "jpg_pretty": {
+                    "size": 8735702,
+                    "md5": "86d3439f6a734a0bf34cdcea89e2bab5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_pretty/IMG_0476.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7181364,
+                    "md5": "694d1643cac429f7b87578c744dd34ce",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_plain/IMG_0476.jpg"
+                },
+                "raw": {
+                    "size": 21105830,
+                    "md5": "452e70588794b9eafe638f5e7428743e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/raw/IMG_0476.dng"
+                }
+            },
+            "IMG_0487": {
+                "jpg_pretty": {
+                    "size": 10379199,
+                    "md5": "07f5a709fced8fbd437e1f953cd96d1d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_pretty/IMG_0487.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8956383,
+                    "md5": "96dc5879ce707c33472afbc01881fe5f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_plain/IMG_0487.jpg"
+                },
+                "raw": {
+                    "size": 24259006,
+                    "md5": "94b9035ff615d6be044a9200f313b533",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/raw/IMG_0487.dng"
+                }
+            },
+            "IMG_0475": {
+                "jpg_pretty": {
+                    "size": 9376630,
+                    "md5": "26f587ba18c0c2fb0826150489e99d64",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_pretty/IMG_0475.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5625153,
+                    "md5": "30c0662316b77d0c5b4270d75adc8e27",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_plain/IMG_0475.jpg"
+                },
+                "raw": {
+                    "size": 19714200,
+                    "md5": "0645d3575d3ebdb24468c605a1701616",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/raw/IMG_0475.dng"
+                }
+            },
+            "IMG_0486": {
+                "jpg_pretty": {
+                    "size": 9863555,
+                    "md5": "3aea5753278c707e34a4a26e07d3cc2d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_pretty/IMG_0486.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8481494,
+                    "md5": "85e056caf01e08b962f3f5d679ba5d30",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_plain/IMG_0486.jpg"
+                },
+                "raw": {
+                    "size": 23251038,
+                    "md5": "f348c9e810a9027843003965b7ea4acc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/raw/IMG_0486.dng"
+                }
+            },
+            "IMG_0474": {
+                "jpg_pretty": {
+                    "size": 9905101,
+                    "md5": "b3401faef542d808f895f7894656617d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_pretty/IMG_0474.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6085304,
+                    "md5": "d96959708836433afd2ec6bbcc5ff358",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_plain/IMG_0474.jpg"
+                },
+                "raw": {
+                    "size": 19954670,
+                    "md5": "8ec24e2e49b91774bdb59c8fd83ae7fa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/raw/IMG_0474.dng"
+                }
+            },
+            "IMG_0485": {
+                "jpg_pretty": {
+                    "size": 10082987,
+                    "md5": "5b9da2d86437163ddb771e334abec991",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_pretty/IMG_0485.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8387715,
+                    "md5": "6b4d6c9b76d3049186dcab2c2a64b72f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_plain/IMG_0485.jpg"
+                },
+                "raw": {
+                    "size": 22506608,
+                    "md5": "5a6f3051f0ac1cc730963ad85fd3856e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/raw/IMG_0485.dng"
+                }
+            },
+            "IMG_0473": {
+                "jpg_pretty": {
+                    "size": 9655496,
+                    "md5": "e3c623948ca717bce991925b2f812689",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_pretty/IMG_0473.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8255482,
+                    "md5": "6576104257f12c40c194cb26e9df8295",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_plain/IMG_0473.jpg"
+                },
+                "raw": {
+                    "size": 22494110,
+                    "md5": "c0c6c24d2fb4b145522e97b5f78f8cfc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/raw/IMG_0473.dng"
+                }
+            },
+            "IMG_0484": {
+                "jpg_pretty": {
+                    "size": 10013621,
+                    "md5": "d8b00ad1aad4d0b656e99c14d9a20b69",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_pretty/IMG_0484.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8453642,
+                    "md5": "110d4f2f4f5f3b090be198320b322996",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_plain/IMG_0484.jpg"
+                },
+                "raw": {
+                    "size": 22546826,
+                    "md5": "02ed3092a9c40f4dd26dfb59f99a2636",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/raw/IMG_0484.dng"
+                }
+            },
+            "IMG_0472": {
+                "jpg_pretty": {
+                    "size": 9755370,
+                    "md5": "b74393bbb36dffb3d69bc514c8ca3891",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_pretty/IMG_0472.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8379069,
+                    "md5": "a9aa681386973ad1ee27a6bb5d997e94",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_plain/IMG_0472.jpg"
+                },
+                "raw": {
+                    "size": 22249342,
+                    "md5": "4cbc42261860261cce4b3dbc13a2e413",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/raw/IMG_0472.dng"
+                }
+            },
+            "IMG_0483": {
+                "jpg_pretty": {
+                    "size": 9763838,
+                    "md5": "80f2f175fa207a25d6324face8b536a0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_pretty/IMG_0483.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8271913,
+                    "md5": "76c0ba4bbb060882ce9e761817f2d7e0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_plain/IMG_0483.jpg"
+                },
+                "raw": {
+                    "size": 22619304,
+                    "md5": "0cc63028c816ed8d47702ccac2a2cf00",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/raw/IMG_0483.dng"
+                }
+            },
+            "IMG_0471": {
+                "jpg_pretty": {
+                    "size": 9737819,
+                    "md5": "6637b79bfd5f7ccc2a60a22292cbe16f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_pretty/IMG_0471.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8581754,
+                    "md5": "89c5a1900be4c2a40225360c18cde1b6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_plain/IMG_0471.jpg"
+                },
+                "raw": {
+                    "size": 22611600,
+                    "md5": "c56d6dbe8fc6dca7dae29d73e92a745e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/raw/IMG_0471.dng"
+                }
+            },
+            "IMG_0482": {
+                "jpg_pretty": {
+                    "size": 8854776,
+                    "md5": "d28a2beed94404c2b4d1d7618450b811",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_pretty/IMG_0482.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6780159,
+                    "md5": "2e01a606dc22dfed781ad45af24d7009",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_plain/IMG_0482.jpg"
+                },
+                "raw": {
+                    "size": 21421942,
+                    "md5": "10501ace3c91ae21a966ba2ff639d00f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/raw/IMG_0482.dng"
+                }
+            },
+            "IMG_0493": {
+                "jpg_pretty": {
+                    "size": 11423878,
+                    "md5": "64e89478b8b36e5ed795b0074eec21b0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_pretty/IMG_0493.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9615167,
+                    "md5": "d4f9757435675d64b27c44c48b66cd5e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_plain/IMG_0493.jpg"
+                },
+                "raw": {
+                    "size": 24312826,
+                    "md5": "e6784c013ce3a0c968df7e0b019c02c3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/raw/IMG_0493.dng"
+                }
+            },
+            "IMG_0470": {
+                "jpg_pretty": {
+                    "size": 7872020,
+                    "md5": "3d6d5fd526e9ed329467c48e92568e39",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_pretty/IMG_0470.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7227532,
+                    "md5": "47979bac008222af939282184670af3b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_plain/IMG_0470.jpg"
+                },
+                "raw": {
+                    "size": 20796732,
+                    "md5": "ff07019b79322c3f777f36a9ca9e33e4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/raw/IMG_0470.dng"
+                }
+            },
+            "IMG_0492": {
+                "jpg_pretty": {
+                    "size": 12209137,
+                    "md5": "58e42408f6c33c3385a06e85f29b1046",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_pretty/IMG_0492.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10180401,
+                    "md5": "d2f5e912b933b4f987d7c2ffc58af9d3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_plain/IMG_0492.jpg"
+                },
+                "raw": {
+                    "size": 24026428,
+                    "md5": "1e90d07252594b26b72d6ca57113c9ce",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/raw/IMG_0492.dng"
+                }
+            },
+            "IMG_0480": {
+                "jpg_pretty": {
+                    "size": 9308644,
+                    "md5": "6e4e5fa6f5d557d45005e2830859c2bc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_pretty/IMG_0480.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7431734,
+                    "md5": "bc16a620d753dab4b8a014c2dd9ac72e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_plain/IMG_0480.jpg"
+                },
+                "raw": {
+                    "size": 20835592,
+                    "md5": "ea2c98a11d8c13324807d7013fc96913",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/raw/IMG_0480.dng"
+                }
+            },
+            "IMG_0491": {
+                "jpg_pretty": {
+                    "size": 11997641,
+                    "md5": "7da76780add55b17d66e0df4e62e545f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_pretty/IMG_0491.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10183427,
+                    "md5": "2e212f926a96e751d62fe333f8481b32",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_plain/IMG_0491.jpg"
+                },
+                "raw": {
+                    "size": 24568214,
+                    "md5": "e49b0ae16643e2cfbee65d50a61113e7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/raw/IMG_0491.dng"
+                }
+            },
+            "IMG_0490": {
+                "jpg_pretty": {
+                    "size": 9953024,
+                    "md5": "d73542b0c780bf38f389932e2559ea0d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_pretty/IMG_0490.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8441167,
+                    "md5": "0cbbb845b952c5b5f892a2d2d7283eb6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/jpg_plain/IMG_0490.jpg"
+                },
+                "raw": {
+                    "size": 24359030,
+                    "md5": "ea2a6037e81521d34893641ed22b8bac",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/roofless_ruins/raw/IMG_0490.dng"
+                }
+            }
+        }
+    }
+}

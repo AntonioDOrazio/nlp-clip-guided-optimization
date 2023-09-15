@@ -1,0 +1,545 @@
+{
+    "evs_cap": 13,
+    "type": 0,
+    "whitebalance": 6600,
+    "date_published": 1601330400,
+    "name": "Abandoned Factory Canteen 02",
+    "categories": [
+        "indoor",
+        "urban",
+        "natural light",
+        "medium contrast"
+    ],
+    "date_taken": 1591794780,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "backplates": true,
+    "tags": [
+        "hall",
+        "abandoned",
+        "industrial",
+        "boxes",
+        "backplates"
+    ],
+    "files_hash": "c186a385e5f3b954863f193f657656bdbd33f9b4",
+    "download_count": 23339,
+    "files": {
+        "tonemapped": {
+            "size": 5388873,
+            "md5": "27dae91149358a31a4a7fe54a9664176",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/abandoned_factory_canteen_02.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 99666538,
+                    "md5": "277243b4910ef013ec4eae5e19cf9c1b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/abandoned_factory_canteen_02_8k.hdr"
+                },
+                "exr": {
+                    "size": 84203591,
+                    "md5": "84a35a670064a82e2d439eca82d3f740",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/abandoned_factory_canteen_02_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 371636618,
+                    "md5": "96c5953989b1647b5cf5d945e46d256e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/abandoned_factory_canteen_02_16k.hdr"
+                },
+                "exr": {
+                    "size": 291352678,
+                    "md5": "1a652ce72b6234117f01ac658edf67e4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/abandoned_factory_canteen_02_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25764581,
+                    "md5": "ee22778f36c868e64ca123fb6ef6fcc8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/abandoned_factory_canteen_02_4k.hdr"
+                },
+                "exr": {
+                    "size": 22855226,
+                    "md5": "a12ece831a2b2845f9e7b9b82965bc5c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/abandoned_factory_canteen_02_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6582552,
+                    "md5": "4d1d7eb8e837cbcd5d25f4728e3da38c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/abandoned_factory_canteen_02_2k.hdr"
+                },
+                "exr": {
+                    "size": 6043628,
+                    "md5": "226f773a9cb124b7012f3b0374247036",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/abandoned_factory_canteen_02_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1675278,
+                    "md5": "2f2cd6af286f845c00fe5e4ab86c359c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/abandoned_factory_canteen_02_1k.hdr"
+                },
+                "exr": {
+                    "size": 1580109,
+                    "md5": "a4cadecc7d810b9dd7342765d518704f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/abandoned_factory_canteen_02_1k.exr"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 59196500,
+            "md5": "ee1c3a4f29adfe1962c211d9f6c2c6bc",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/abandoned_factory_canteen_02.zip"
+        },
+        "backplates": {
+            "DSC_0624": {
+                "jpg_pretty": {
+                    "size": 9215244,
+                    "md5": "b6757046a6579a270d6c98c500d538fd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_pretty/DSC_0624.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6430267,
+                    "md5": "68a14257438e39db32e2a1683c324893",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_plain/DSC_0624.jpg"
+                },
+                "raw": {
+                    "size": 16170549,
+                    "md5": "6002048c37e6f407d4cfd6c5b962c0bc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/raw/DSC_0624.NEF"
+                }
+            },
+            "DSC_0546": {
+                "jpg_pretty": {
+                    "size": 11018412,
+                    "md5": "699027b9c87c43b59aceb2bea8eb41dd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_pretty/DSC_0546.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7048325,
+                    "md5": "a4e291ff5efc5a592c621f97bc13ce9c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_plain/DSC_0546.jpg"
+                },
+                "raw": {
+                    "size": 16641920,
+                    "md5": "0c0c805397d22d6bb0fc3ad869638f80",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/raw/DSC_0546.NEF"
+                }
+            },
+            "DSC_0600": {
+                "jpg_pretty": {
+                    "size": 8942832,
+                    "md5": "9b1b9063b774ad57d4862c31b61ae8c4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_pretty/DSC_0600.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6137117,
+                    "md5": "d14654cdad4ea0d6bb44acd0a2d898f5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_plain/DSC_0600.jpg"
+                },
+                "raw": {
+                    "size": 16456460,
+                    "md5": "ddbed035d619142e38bf15a6f7b3a42f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/raw/DSC_0600.NEF"
+                }
+            },
+            "DSC_0522": {
+                "jpg_pretty": {
+                    "size": 9321580,
+                    "md5": "213c2d0981c7c94dfe6c5acc35a36596",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_pretty/DSC_0522.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6227126,
+                    "md5": "3c02e21cdcd22e4217e477f857684a3f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_plain/DSC_0522.jpg"
+                },
+                "raw": {
+                    "size": 16232555,
+                    "md5": "e5e9bfce8a2e2fdafaa8fcc516a0dcf6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/raw/DSC_0522.NEF"
+                }
+            },
+            "DSC_0588": {
+                "jpg_pretty": {
+                    "size": 9467245,
+                    "md5": "01591f632f5b76290a466e678cbe121e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_pretty/DSC_0588.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7535946,
+                    "md5": "d02af878ffed2d3587e0d4122a7aa4b0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_plain/DSC_0588.jpg"
+                },
+                "raw": {
+                    "size": 17032521,
+                    "md5": "5ff6744f54b269ea90287ae23fa694fb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/raw/DSC_0588.NEF"
+                }
+            },
+            "DSC_0606": {
+                "jpg_pretty": {
+                    "size": 9091342,
+                    "md5": "509fa1e288db61a04f53118748c39cba",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_pretty/DSC_0606.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6878782,
+                    "md5": "b97261f69aae8d2a786fc6c2906910ca",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_plain/DSC_0606.jpg"
+                },
+                "raw": {
+                    "size": 16919829,
+                    "md5": "8d083dbdcd325af1fcbedb8369248b4a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/raw/DSC_0606.NEF"
+                }
+            },
+            "DSC_0528": {
+                "jpg_pretty": {
+                    "size": 9042057,
+                    "md5": "9bc706560995e0824ff579318c5133b8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_pretty/DSC_0528.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6209929,
+                    "md5": "edc5b574656f02a74b794863e88d6cdb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_plain/DSC_0528.jpg"
+                },
+                "raw": {
+                    "size": 16087872,
+                    "md5": "113785037a3b87e2f1885bf9e1b6fb32",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/raw/DSC_0528.NEF"
+                }
+            },
+            "DSC_0660": {
+                "jpg_pretty": {
+                    "size": 10131096,
+                    "md5": "f7fda085c213098a72761b7c4ffc259c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_pretty/DSC_0660.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6757011,
+                    "md5": "0973af0e2a9494ec951f724774804980",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_plain/DSC_0660.jpg"
+                },
+                "raw": {
+                    "size": 16532855,
+                    "md5": "da2db9defa044bfe72b8de81f0ab8f29",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/raw/DSC_0660.NEF"
+                }
+            },
+            "DSC_0582": {
+                "jpg_pretty": {
+                    "size": 9032019,
+                    "md5": "24b8b5abf85e3d300e2938add5bca9f4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_pretty/DSC_0582.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7078873,
+                    "md5": "5fa762418bb299ecfc9bf9db92dd8984",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_plain/DSC_0582.jpg"
+                },
+                "raw": {
+                    "size": 16747029,
+                    "md5": "809f47dc6429717ceb555f85e25548af",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/raw/DSC_0582.NEF"
+                }
+            },
+            "DSC_0564": {
+                "jpg_pretty": {
+                    "size": 8632167,
+                    "md5": "09522409db0a73f965e562a0a008cf97",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_pretty/DSC_0564.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6056235,
+                    "md5": "56d05fe0bced5ddc833f61f6c402262a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_plain/DSC_0564.jpg"
+                },
+                "raw": {
+                    "size": 16281897,
+                    "md5": "1c711fd1a6c5ac52f47a0b2de643d7b8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/raw/DSC_0564.NEF"
+                }
+            },
+            "DSC_0540": {
+                "jpg_pretty": {
+                    "size": 10508887,
+                    "md5": "67c15d8e0fc8530ea0b137aa71628a03",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_pretty/DSC_0540.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6696045,
+                    "md5": "202229652dae7d67d82d85aaef628be1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_plain/DSC_0540.jpg"
+                },
+                "raw": {
+                    "size": 16465396,
+                    "md5": "eee2ea8f1ad9141c83940c4dce167df9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/raw/DSC_0540.NEF"
+                }
+            },
+            "DSC_0618": {
+                "jpg_pretty": {
+                    "size": 9168885,
+                    "md5": "9bc0e3c4ead2851dd756785a6d6346ff",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_pretty/DSC_0618.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6447009,
+                    "md5": "3cadf7eec0744326fc13903b9c9b2143",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_plain/DSC_0618.jpg"
+                },
+                "raw": {
+                    "size": 16477244,
+                    "md5": "8e961cc54529bf45b950d41d36aefd03",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/raw/DSC_0618.NEF"
+                }
+            },
+            "DSC_0558": {
+                "jpg_pretty": {
+                    "size": 8802011,
+                    "md5": "758995c627494f51a4fc3ab45f96332f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_pretty/DSC_0558.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6840048,
+                    "md5": "bbf07dc4907a223647c94f50d3c4900e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_plain/DSC_0558.jpg"
+                },
+                "raw": {
+                    "size": 16596998,
+                    "md5": "85e92077cf913ef8cba5908ac2f2ad18",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/raw/DSC_0558.NEF"
+                }
+            },
+            "DSC_0612": {
+                "jpg_pretty": {
+                    "size": 9481472,
+                    "md5": "797b10a25a60787716e35e29e427bf95",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_pretty/DSC_0612.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7136711,
+                    "md5": "ddae0aabd7e9e6f3ccfad1205bd61e0f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_plain/DSC_0612.jpg"
+                },
+                "raw": {
+                    "size": 17234536,
+                    "md5": "74b63468e176add55160bc21ca0d6b85",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/raw/DSC_0612.NEF"
+                }
+            },
+            "DSC_0678": {
+                "jpg_pretty": {
+                    "size": 10169498,
+                    "md5": "d3ded1122a961ac2d9e5eff50f2d4d70",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_pretty/DSC_0678.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6913126,
+                    "md5": "ddc1d5bdecfe5b689883276e5bcc7786",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_plain/DSC_0678.jpg"
+                },
+                "raw": {
+                    "size": 17228186,
+                    "md5": "e2f2d56a60b282c28005bf489ee64098",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/raw/DSC_0678.NEF"
+                }
+            },
+            "DSC_0534": {
+                "jpg_pretty": {
+                    "size": 9740566,
+                    "md5": "29740b8bb5758eae03fda54b762568ba",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_pretty/DSC_0534.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6288042,
+                    "md5": "eb78d2f03d2239b6fd83305f464f1af8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_plain/DSC_0534.jpg"
+                },
+                "raw": {
+                    "size": 16289822,
+                    "md5": "91f78b2a702a56cdf7e5240dfedb8ecf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/raw/DSC_0534.NEF"
+                }
+            },
+            "DSC_0654": {
+                "jpg_pretty": {
+                    "size": 8793546,
+                    "md5": "51d29d2e83fe563a7834b77deb31ccbf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_pretty/DSC_0654.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6913804,
+                    "md5": "92fb84e5f032672a6b54a1f1788a0dd8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_plain/DSC_0654.jpg"
+                },
+                "raw": {
+                    "size": 16552050,
+                    "md5": "28bf92a104699ee2878b69d909f856b0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/raw/DSC_0654.NEF"
+                }
+            },
+            "DSC_0516": {
+                "jpg_pretty": {
+                    "size": 9600242,
+                    "md5": "b14715ea8cd9cfa8da746f243318c71f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_pretty/DSC_0516.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8090828,
+                    "md5": "c31b007b13b0dfe96728348307e1106f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_plain/DSC_0516.jpg"
+                },
+                "raw": {
+                    "size": 17548268,
+                    "md5": "bc9e5c2d551b3a2f67269ab05b1c35d8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/raw/DSC_0516.NEF"
+                }
+            },
+            "DSC_0636": {
+                "jpg_pretty": {
+                    "size": 9844646,
+                    "md5": "f19945918d3183c46d909ce8b7194e00",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_pretty/DSC_0636.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6761416,
+                    "md5": "a89c8ce652f856f468737a8c3e8c71e4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_plain/DSC_0636.jpg"
+                },
+                "raw": {
+                    "size": 16501949,
+                    "md5": "a3fa5c0abe08aa4a975294c2c8294a50",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/raw/DSC_0636.NEF"
+                }
+            },
+            "DSC_0594": {
+                "jpg_pretty": {
+                    "size": 10433785,
+                    "md5": "b083c1ac4502282620638d5b9790899a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_pretty/DSC_0594.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7878019,
+                    "md5": "e867f7aaab6dd3efb1bb0812402df69c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_plain/DSC_0594.jpg"
+                },
+                "raw": {
+                    "size": 17423833,
+                    "md5": "5ae1f5b569aa7cec072f353ec7aff6dc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/raw/DSC_0594.NEF"
+                }
+            },
+            "DSC_0570": {
+                "jpg_pretty": {
+                    "size": 9124391,
+                    "md5": "392f4896be6f2a71d7a15cac94e2f2e9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_pretty/DSC_0570.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6163070,
+                    "md5": "08b5d3352022e8cbed2e1afc0b77d91a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_plain/DSC_0570.jpg"
+                },
+                "raw": {
+                    "size": 16830735,
+                    "md5": "5aac64c6985dc37c51769875ed67bc7e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/raw/DSC_0570.NEF"
+                }
+            },
+            "DSC_0510": {
+                "jpg_pretty": {
+                    "size": 8222797,
+                    "md5": "7c84ea486a9d4a5759570208b99af9bf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_pretty/DSC_0510.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6940740,
+                    "md5": "7eb24beb8126fa0603ae3555c75205bf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_plain/DSC_0510.jpg"
+                },
+                "raw": {
+                    "size": 16449536,
+                    "md5": "c25d3d46d35e5c8e7cda7acb6d49e0b1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/raw/DSC_0510.NEF"
+                }
+            },
+            "DSC_0576": {
+                "jpg_pretty": {
+                    "size": 8807812,
+                    "md5": "28ab458ae4e17e7e0f8feac38a0ed6bc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_pretty/DSC_0576.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7229908,
+                    "md5": "43577fd3eed13e0ad9b3cf5f1ef5c087",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_plain/DSC_0576.jpg"
+                },
+                "raw": {
+                    "size": 17015763,
+                    "md5": "9fcad9da1dbbf0cb787ecc118bcc1e4d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/raw/DSC_0576.NEF"
+                }
+            },
+            "DSC_0630": {
+                "jpg_pretty": {
+                    "size": 9442797,
+                    "md5": "947ff25d9e83b2b5be3deba6aec7b28e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_pretty/DSC_0630.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6246413,
+                    "md5": "c55f4c6e504dcb1a10e961c0394698ce",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_plain/DSC_0630.jpg"
+                },
+                "raw": {
+                    "size": 16189805,
+                    "md5": "57c533341ac0d21ccdd3c1d42daca551",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/raw/DSC_0630.NEF"
+                }
+            },
+            "DSC_0552": {
+                "jpg_pretty": {
+                    "size": 9086549,
+                    "md5": "caf031146dbd7d3feb1e5e953048ba3e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_pretty/DSC_0552.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7244887,
+                    "md5": "1151948ba9cb5d6b7407409783ec74c2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_plain/DSC_0552.jpg"
+                },
+                "raw": {
+                    "size": 17001121,
+                    "md5": "eedafede1f30c4b3526cc82c36953e20",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/raw/DSC_0552.NEF"
+                }
+            },
+            "DSC_0672": {
+                "jpg_pretty": {
+                    "size": 9783688,
+                    "md5": "016e0057f23ba596ba13d1c355b34628",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_pretty/DSC_0672.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5887801,
+                    "md5": "2b1e24e7bd869b4ffd7f0c62c161ce59",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/jpg_plain/DSC_0672.jpg"
+                },
+                "raw": {
+                    "size": 16860119,
+                    "md5": "850c58f7526c1ea0dcf7f81b624826e2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/abandoned_factory_canteen_02/raw/DSC_0672.NEF"
+                }
+            }
+        }
+    }
+}

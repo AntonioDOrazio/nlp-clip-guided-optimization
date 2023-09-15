@@ -1,0 +1,121 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "tags": [
+        "sun",
+        "grass",
+        "field",
+        "fort",
+        "tower"
+    ],
+    "date_published": 1613430000,
+    "name": "Oberer Kuhberg",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "morning-afternoon",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1609247640,
+    "coords": [
+        48.38278,
+        9.948723
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        "37678923"
+    ],
+    "files_hash": "00947fbe3893eac98855aba3d5f299ce4bfa7de4",
+    "download_count": 226963,
+    "files": {
+        "tonemapped": {
+            "size": 11100737,
+            "md5": "4d69fd356c70de208d4eb6efce3def02",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/oberer_kuhberg.jpg"
+        },
+        "hdri": {
+            "19k": {
+                "hdr": {
+                    "size": 587447714,
+                    "md5": "0ee9aaa0e86c9cd89e8117546940c6b6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/oberer_kuhberg_19k.hdr"
+                },
+                "exr": {
+                    "size": 990436646,
+                    "md5": "d3c0ae402f7054e0e5880544624705a8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/oberer_kuhberg_19k.exr"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "size": 107008536,
+                    "md5": "627ff9de38c3677442a90514bfada2c7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/oberer_kuhberg_8k.hdr"
+                },
+                "exr": {
+                    "size": 339102848,
+                    "md5": "c5813a2aeb647ff67ee711e9cdaa53c2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/oberer_kuhberg_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 413175721,
+                    "md5": "b3e647c3304282e48162776885c7d2ab",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/oberer_kuhberg_16k.hdr"
+                },
+                "exr": {
+                    "size": 1331555033,
+                    "md5": "d39c3bc68078474c6453beb8375af52c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/oberer_kuhberg_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27461706,
+                    "md5": "c56721476388bd234fde0dc9762b1616",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/oberer_kuhberg_4k.hdr"
+                },
+                "exr": {
+                    "size": 87390424,
+                    "md5": "026f93eb468d7e717cdcb82e0ac39f9f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/oberer_kuhberg_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6906470,
+                    "md5": "60c2d108053a9543231af0ee0668c643",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/oberer_kuhberg_2k.hdr"
+                },
+                "exr": {
+                    "size": 22826045,
+                    "md5": "28e68e8cd14e6d1c68eab4302602156a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/oberer_kuhberg_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1720731,
+                    "md5": "71adcc702342d6448985de66feea8edc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/oberer_kuhberg_1k.hdr"
+                },
+                "exr": {
+                    "size": 6097932,
+                    "md5": "8332de89c0890a7faeed2dd06ca62e0d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/oberer_kuhberg_1k.exr"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 203533410,
+            "md5": "db50a33f2548e5218c5b5b3001f4401c",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/oberer_kuhberg.zip"
+        }
+    }
+}

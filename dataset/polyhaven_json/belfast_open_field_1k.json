@@ -1,0 +1,115 @@
+{
+    "evs_cap": 22,
+    "name": "Belfast Open Field",
+    "categories": [
+        "natural light",
+        "outdoor",
+        "nature",
+        "low contrast",
+        "overcast",
+        "morning-afternoon"
+    ],
+    "type": 0,
+    "date_taken": 1622552700,
+    "whitebalance": 5319,
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "tags": [
+        "tree",
+        "grass",
+        "field",
+        "hill"
+    ],
+    "date_published": 1653264000,
+    "prepaid": true,
+    "files_hash": "3a1322011f2dc478d8435de51716a2e06612c69a",
+    "download_count": 24927,
+    "files": {
+        "tonemapped": {
+            "size": 40614917,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/belfast_open_field.jpg",
+            "md5": "ec72f892b77e406ab7bbdff07e99d9a7"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101791119,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/belfast_open_field_8k.hdr",
+                    "md5": "7c3c8e38418d140d68f0c054586d16f2"
+                },
+                "exr": {
+                    "size": 327846502,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/belfast_open_field_8k.exr",
+                    "md5": "68b29b4822488ff15de9953c0598535b"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 375722147,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/belfast_open_field_16k.hdr",
+                    "md5": "72ec649dd2a5204e43543505fcdc9bc3"
+                },
+                "exr": {
+                    "size": 1250511965,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/belfast_open_field_16k.exr",
+                    "md5": "de8ce8a4062a99d557acf4d3f86684e5"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25775490,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/belfast_open_field_4k.hdr",
+                    "md5": "0308cfb1f6fc55b12d49486e027c9d12"
+                },
+                "exr": {
+                    "size": 84257378,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/belfast_open_field_4k.exr",
+                    "md5": "e3ad5c28173a4594579cca0230db868a"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6496680,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/belfast_open_field_2k.hdr",
+                    "md5": "a2a4b88e9236f00834d85a4cfb90581e"
+                },
+                "exr": {
+                    "size": 22067743,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/belfast_open_field_2k.exr",
+                    "md5": "3f52bb8fc9ae09c79bea2b0780fdf9bd"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 825658262,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/belfast_open_field_24k.hdr",
+                    "md5": "734c125fac9304b0a643238a50543620"
+                },
+                "exr": {
+                    "size": 2820346441,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/belfast_open_field_24k.exr",
+                    "md5": "3c78095e54ba6fdb502d66ba3e3b7fea"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1647689,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/belfast_open_field_1k.hdr",
+                    "md5": "6a7f5cfebb9ab2a3e9e16b0883b9faab"
+                },
+                "exr": {
+                    "size": 5928240,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/belfast_open_field_1k.exr",
+                    "md5": "b1e5a8026dad87ffa10a4d0cf285b1c5"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 85947670,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/belfast_open_field.zip",
+            "md5": "1436b4631ce124e2e61061a0d36ab9c8"
+        }
+    }
+}

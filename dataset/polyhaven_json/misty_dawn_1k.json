@@ -1,0 +1,109 @@
+{
+    "evs_cap": 10,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "tree",
+        "field",
+        "mist",
+        "fog",
+        "river",
+        "power line",
+        "path",
+        "park"
+    ],
+    "date_published": 1533592800,
+    "name": "Misty Dawn",
+    "categories": [
+        "outdoor",
+        "nature",
+        "sunrise-sunset",
+        "clear",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1527655140,
+    "coords": [
+        -26.1252,
+        28.0154
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "name": "Eric Martin"
+        }
+    ],
+    "files_hash": "4a5b9d85d37cea24bcac2cb231d620c0ad3eda92",
+    "download_count": 18678,
+    "files": {
+        "tonemapped": {
+            "size": 6718501,
+            "md5": "4372868cc7b3db5d6d89c971dbc31232",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/misty_dawn.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 93069996,
+                    "md5": "b8aca42615d97c3c55930d1279cf2406",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/misty_dawn_8k.hdr"
+                },
+                "exr": {
+                    "size": 85774049,
+                    "md5": "92f64cdfe102b3f4606880e344f61f5a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/misty_dawn_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 336647635,
+                    "md5": "3ecd9e281661b1e97653848ea8233ba5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/misty_dawn_16k.hdr"
+                },
+                "exr": {
+                    "size": 315157049,
+                    "md5": "63dea6890c13a587891206de0917a189",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/misty_dawn_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 23659579,
+                    "md5": "92b88be5f1d5d3f7f3f5f90dcc823186",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/misty_dawn_4k.hdr"
+                },
+                "exr": {
+                    "size": 22081891,
+                    "md5": "bf569e8619b8fbb7476501feddf66158",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/misty_dawn_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5847421,
+                    "md5": "f9ca253c328e9eeabd047938cc6890bf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/misty_dawn_2k.hdr"
+                },
+                "exr": {
+                    "size": 5533343,
+                    "md5": "10ff818db0ffb04bb18a3511c7348e03",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/misty_dawn_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1463660,
+                    "md5": "58664b8836e1170843c958b28ba5e618",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/misty_dawn_1k.hdr"
+                },
+                "exr": {
+                    "size": 1394466,
+                    "md5": "8458ddae5147a07faf2e19b43696beef",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/misty_dawn_1k.exr"
+                }
+            }
+        }
+    }
+}

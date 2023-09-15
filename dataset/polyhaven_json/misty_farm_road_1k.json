@@ -1,0 +1,120 @@
+{
+    "donated": true,
+    "evs_cap": 11,
+    "type": 0,
+    "whitebalance": 6500,
+    "tags": [
+        "farm",
+        "field",
+        "path",
+        "road",
+        "dirt road",
+        "gravel",
+        "mist",
+        "fog"
+    ],
+    "name": "Misty Farm Road",
+    "categories": [
+        "natural light",
+        "outdoor",
+        "nature",
+        "overcast",
+        "low contrast",
+        "morning-afternoon",
+        "skies"
+    ],
+    "date_taken": 1668262860,
+    "authors": {
+        "Alexander Scholten": "All"
+    },
+    "info": null,
+    "files_hash": "36595ee7d08cb15c823ee5777967c073e0f2f350",
+    "date_published": 1676246400,
+    "download_count": 14059,
+    "files": {
+        "tonemapped": {
+            "size": 35674700,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/misty_farm_road.jpg",
+            "md5": "77a30b259d368cc0410dba3d6f090d34"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 100269557,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/misty_farm_road_8k.hdr",
+                    "md5": "ad7f3402a71af156d51bb0f15280d192"
+                },
+                "exr": {
+                    "size": 317775989,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/misty_farm_road_8k.exr",
+                    "md5": "7ae4ce0b94da89c59e465d6588eae9ab"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 387319598,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/misty_farm_road_16k.hdr",
+                    "md5": "670b9583631a7d81ed1561faff4e5de7"
+                },
+                "exr": {
+                    "size": 1242026273,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/misty_farm_road_16k.exr",
+                    "md5": "79bdda4fb0cf3a598a2ec2764f766f98"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25086752,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/misty_farm_road_4k.hdr",
+                    "md5": "59a8b716d3ee9cc157d80a317bb02519"
+                },
+                "exr": {
+                    "size": 81122903,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/misty_farm_road_4k.exr",
+                    "md5": "135382dad90becb1d5f4140d703f818e"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6024320,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/misty_farm_road_2k.hdr",
+                    "md5": "879aed77ec02a05de85bf783a31cd14b"
+                },
+                "exr": {
+                    "size": 21040416,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/misty_farm_road_2k.exr",
+                    "md5": "52e61789f754205ce7ac1e31c9cf7281"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1411733,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/misty_farm_road_1k.hdr",
+                    "md5": "21fbf8efae825ee2d8317271e873ead8"
+                },
+                "exr": {
+                    "size": 5611363,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/misty_farm_road_1k.exr",
+                    "md5": "a07b4ad22593f8717e0616c0464d3c36"
+                }
+            },
+            "21k": {
+                "hdr": {
+                    "size": 664892141,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/misty_farm_road_21k.hdr",
+                    "md5": "24bf92d9e165d670a1ad38d79102f457"
+                },
+                "exr": {
+                    "size": 2159154872,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/misty_farm_road_21k.exr",
+                    "md5": "b38e03216e25f2581967e017340bd605"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 393219259,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/misty_farm_road.zip",
+            "md5": "19a2242168e785950685a70c6dc0ce93"
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "evs_cap": 21,
+    "type": 0,
+    "tags": [
+        "building",
+        "europe",
+        "river",
+        "architecture",
+        "lamp"
+    ],
+    "date_published": 1511996400,
+    "name": "Modern Buildings Night",
+    "categories": [
+        "outdoor",
+        "urban",
+        "night",
+        "partly cloudy",
+        "high contrast",
+        "artificial light"
+    ],
+    "coords": [
+        52.520154,
+        13.376159
+    ],
+    "date_taken": 1478452440,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "8571269"
+    ],
+    "files_hash": "21cdd875cc03ed16e6ac59c052826f12efa875c7",
+    "download_count": 61923,
+    "files": {
+        "tonemapped": {
+            "size": 4369205,
+            "md5": "91e4166589c46bd2bee5fe60aefcfc79",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/modern_buildings_night.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 98165044,
+                    "md5": "7ca97499819e10bdf722d3da2ebb3bad",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/modern_buildings_night_8k.hdr"
+                },
+                "exr": {
+                    "size": 79761891,
+                    "md5": "18cdf91924470d110b546f9327fc63a4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/modern_buildings_night_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 360986857,
+                    "md5": "3712c3654322314d871c6fab62b05a2d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/modern_buildings_night_16k.hdr"
+                },
+                "exr": {
+                    "size": 285615711,
+                    "md5": "0cb63d1c1ad5361c3b68c802abe48d43",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/modern_buildings_night_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25397910,
+                    "md5": "4f3fad99cc384482285694e4affca6c4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/modern_buildings_night_4k.hdr"
+                },
+                "exr": {
+                    "size": 21458701,
+                    "md5": "86f8ef09494ce9d3d4f73fbda52ebf4a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/modern_buildings_night_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6485327,
+                    "md5": "c9def453a464ef8a59ccd9ae73c453cc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/modern_buildings_night_2k.hdr"
+                },
+                "exr": {
+                    "size": 5659538,
+                    "md5": "a79c41066576562dfc56af37c81f013e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/modern_buildings_night_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1655510,
+                    "md5": "3067e8d9e8e961e6a11ff45c055a5fbd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/modern_buildings_night_1k.hdr"
+                },
+                "exr": {
+                    "size": 1490255,
+                    "md5": "5bf329bc92dd91eaefd129b3e8ed744a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/modern_buildings_night_1k.exr"
+                }
+            }
+        }
+    }
+}

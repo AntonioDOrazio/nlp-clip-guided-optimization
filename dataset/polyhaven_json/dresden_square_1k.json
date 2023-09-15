@@ -1,0 +1,103 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "tags": [
+        "architecture",
+        "building",
+        "statue",
+        "cobblestone",
+        "europe"
+    ],
+    "date_published": 1511996400,
+    "name": "Dresden Square",
+    "categories": [
+        "outdoor",
+        "urban",
+        "morning-afternoon",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        51.053622,
+        13.73596
+    ],
+    "date_taken": 1478601000,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "11167855"
+    ],
+    "files_hash": "4239f2312594cc6d3626a10315e0dc2c1db879cb",
+    "download_count": 42136,
+    "files": {
+        "tonemapped": {
+            "size": 5336719,
+            "md5": "756ce175d8145dd066d0371e402911a8",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/dresden_square.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 93966948,
+                    "md5": "b48d427899c395c79d53e06ef2d6516f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/dresden_square_8k.hdr"
+                },
+                "exr": {
+                    "size": 77489204,
+                    "md5": "e90d833ce6fd3c8a56907c53ec693a6a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/dresden_square_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 337201236,
+                    "md5": "9786b983055ac28e17d13445a7287ba0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/dresden_square_16k.hdr"
+                },
+                "exr": {
+                    "size": 277495898,
+                    "md5": "464ec99f4f6f46a359a5a8dc692706c9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/dresden_square_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24090540,
+                    "md5": "711e1a5948123cb813920c999116ddc5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/dresden_square_4k.hdr"
+                },
+                "exr": {
+                    "size": 20319885,
+                    "md5": "31c8fe09dd1cbac21b537e5b8a068019",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/dresden_square_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6019615,
+                    "md5": "926731703057e047274559d57fb06cd7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/dresden_square_2k.hdr"
+                },
+                "exr": {
+                    "size": 5255688,
+                    "md5": "2a1f17db5a9fe476f88d6f74fd529e8f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/dresden_square_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1524733,
+                    "md5": "8f920bcd6dad8fae5c72917e38730d24",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/dresden_square_1k.hdr"
+                },
+                "exr": {
+                    "size": 1364100,
+                    "md5": "6ece83ad96a7e2b6677dbd76233cd9d2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/dresden_square_1k.exr"
+                }
+            }
+        }
+    }
+}

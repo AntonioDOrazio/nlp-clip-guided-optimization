@@ -1,0 +1,504 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 4250,
+    "tags": [
+        "studio",
+        "couch",
+        "bed",
+        "window",
+        "table",
+        "kitchen",
+        "plant",
+        "curtain",
+        "backplates"
+    ],
+    "name": "Brown Photostudio 04",
+    "categories": [
+        "studio",
+        "natural light",
+        "indoor",
+        "urban",
+        "midday",
+        "low contrast"
+    ],
+    "backplates": true,
+    "date_taken": 1650030420,
+    "coords": [
+        49.237221,
+        28.406338
+    ],
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "date_published": 1656979200,
+    "files_hash": "287919edc0c36390d3fcbe1393c10980d97899ad",
+    "download_count": 34205,
+    "files": {
+        "tonemapped": {
+            "size": 40211222,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/brown_photostudio_04.jpg",
+            "md5": "c19bff53bec5c5352d0ea5c8f022d1af"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 98957032,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/brown_photostudio_04_8k.hdr",
+                    "md5": "1c95be464c3e9ba12f3fcdd03aa39f69"
+                },
+                "exr": {
+                    "size": 79352188,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/brown_photostudio_04_8k.exr",
+                    "md5": "e131ba06db590859b5f9cc60751b783a"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 367767813,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/brown_photostudio_04_16k.hdr",
+                    "md5": "44ba3291ac3e9057b70ba346612419a3"
+                },
+                "exr": {
+                    "size": 271507490,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/brown_photostudio_04_16k.exr",
+                    "md5": "b65bf65d198f65588a6185006800e856"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25486097,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/brown_photostudio_04_4k.hdr",
+                    "md5": "15cb9017f064c3ae934b90be6e8c5d23"
+                },
+                "exr": {
+                    "size": 21373285,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/brown_photostudio_04_4k.exr",
+                    "md5": "4142bc1f8f07a323ddb4b2e3d437d501"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6477153,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/brown_photostudio_04_2k.hdr",
+                    "md5": "f89ff03a831ee224bf5cce7463681232"
+                },
+                "exr": {
+                    "size": 5569350,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/brown_photostudio_04_2k.exr",
+                    "md5": "11ac4bb28e2eacf1369002f02ec09e6d"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1637511,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/brown_photostudio_04_1k.hdr",
+                    "md5": "4f72e1dcef1355520bc33aeae3596d85"
+                },
+                "exr": {
+                    "size": 1427326,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/brown_photostudio_04_1k.exr",
+                    "md5": "6e998c9836aa5e1de210f507e13d1598"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 70483749,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/brown_photostudio_04.zip",
+            "md5": "20c8695a65313cacc0da9a5c5910e57f"
+        },
+        "backplates": {
+            "10": {
+                "jpg_pretty": {
+                    "size": 13424736,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_pretty/10.jpg",
+                    "md5": "6fbb395822287a30bfa725f752afefb8"
+                },
+                "jpg_plain": {
+                    "size": 7851574,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_plain/10.jpg",
+                    "md5": "d0b6ab2bee8ad8999605e9470c8e6435"
+                },
+                "raw": {
+                    "size": 26412744,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/raw/10.NEF",
+                    "md5": "1f233251ffd679c1f475dd63b8ebe089"
+                }
+            },
+            "11": {
+                "jpg_pretty": {
+                    "size": 14934443,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_pretty/11.jpg",
+                    "md5": "38ff09baf90703f3c6f29cdc09a84c51"
+                },
+                "jpg_plain": {
+                    "size": 7824926,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_plain/11.jpg",
+                    "md5": "043dad3d90fbbb228968164e2e1976eb"
+                },
+                "raw": {
+                    "size": 26830670,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/raw/11.NEF",
+                    "md5": "4235e736cfd2106191ab7e5a76fa9e5d"
+                }
+            },
+            "12": {
+                "jpg_pretty": {
+                    "size": 15036868,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_pretty/12.jpg",
+                    "md5": "7732dc64963a83fa9a89c02ec4e4c902"
+                },
+                "jpg_plain": {
+                    "size": 9349246,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_plain/12.jpg",
+                    "md5": "06a2c0b8becbb84520bbcb2c316e8171"
+                },
+                "raw": {
+                    "size": 28005399,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/raw/12.NEF",
+                    "md5": "ad43dbe04a1a0af75afe533799c1a002"
+                }
+            },
+            "13": {
+                "jpg_pretty": {
+                    "size": 12028430,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_pretty/13.jpg",
+                    "md5": "7c0dff46b492279e87cecffbb5f36867"
+                },
+                "jpg_plain": {
+                    "size": 7300834,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_plain/13.jpg",
+                    "md5": "963fe5e2bb7f68fbcb7b7da004f19cd8"
+                },
+                "raw": {
+                    "size": 25930236,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/raw/13.NEF",
+                    "md5": "a1f8e41930e21e4a8ef300a439f3cd58"
+                }
+            },
+            "14": {
+                "jpg_pretty": {
+                    "size": 12039843,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_pretty/14.jpg",
+                    "md5": "9949e80ec4509ffc9f2551a9b59340c3"
+                },
+                "jpg_plain": {
+                    "size": 7240236,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_plain/14.jpg",
+                    "md5": "db123f298796af19ca805c82edce102d"
+                },
+                "raw": {
+                    "size": 25959413,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/raw/14.NEF",
+                    "md5": "b10710a95545fb05365ef1b463964f74"
+                }
+            },
+            "15": {
+                "jpg_pretty": {
+                    "size": 17834867,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_pretty/15.jpg",
+                    "md5": "3fb91194571458638accb05d18ece32c"
+                },
+                "jpg_plain": {
+                    "size": 8479668,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_plain/15.jpg",
+                    "md5": "3e2745ffbd65462df8c8f56d0152b901"
+                },
+                "raw": {
+                    "size": 26545174,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/raw/15.NEF",
+                    "md5": "612f5b6a5ce7024d613edb53b2d5ef3a"
+                }
+            },
+            "16": {
+                "jpg_pretty": {
+                    "size": 11940526,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_pretty/16.jpg",
+                    "md5": "8fdbef46d0b1c920fad41becd93863b1"
+                },
+                "jpg_plain": {
+                    "size": 7127067,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_plain/16.jpg",
+                    "md5": "ba22218047e9a2be3d6771450b0cd2c4"
+                },
+                "raw": {
+                    "size": 26738808,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/raw/16.NEF",
+                    "md5": "c81499f822c11bfb3eb1e41689a06759"
+                }
+            },
+            "17": {
+                "jpg_pretty": {
+                    "size": 12594398,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_pretty/17.jpg",
+                    "md5": "e927327d2eb82f6e434cded58987d7e0"
+                },
+                "jpg_plain": {
+                    "size": 7514107,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_plain/17.jpg",
+                    "md5": "bbab1732a798301c5480a4bee5411a75"
+                },
+                "raw": {
+                    "size": 26420639,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/raw/17.NEF",
+                    "md5": "1a39a502c3af2dc102133241e7548a1e"
+                }
+            },
+            "18": {
+                "jpg_pretty": {
+                    "size": 15638386,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_pretty/18.jpg",
+                    "md5": "c7019cffeff0c3ee4157cb23c44cc8dc"
+                },
+                "jpg_plain": {
+                    "size": 8205236,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_plain/18.jpg",
+                    "md5": "af313fc49c83130ab2941542ae88714d"
+                },
+                "raw": {
+                    "size": 27599938,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/raw/18.NEF",
+                    "md5": "b2a672e7fd583d70991a29eb2994cee9"
+                }
+            },
+            "19": {
+                "jpg_pretty": {
+                    "size": 13405570,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_pretty/19.jpg",
+                    "md5": "ba108208b1445f9b659e6568395a46eb"
+                },
+                "jpg_plain": {
+                    "size": 6492187,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_plain/19.jpg",
+                    "md5": "6c6246c0d20d75bc3a3658133f72165a"
+                },
+                "raw": {
+                    "size": 27751659,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/raw/19.NEF",
+                    "md5": "4495301ccc6bab3e5f23fb8a940f4e80"
+                }
+            },
+            "20": {
+                "jpg_pretty": {
+                    "size": 11503811,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_pretty/20.jpg",
+                    "md5": "7ea86daca4ee8909d6435bb4449f8eb2"
+                },
+                "jpg_plain": {
+                    "size": 5829890,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_plain/20.jpg",
+                    "md5": "88f89d40d32190e803f0296380b0d165"
+                },
+                "raw": {
+                    "size": 26509113,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/raw/20.NEF",
+                    "md5": "46886a5d0f28ec29e81030f9cfb5a305"
+                }
+            },
+            "21": {
+                "jpg_pretty": {
+                    "size": 13231810,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_pretty/21.jpg",
+                    "md5": "e1d38fd9c829b3eced820629559c0da7"
+                },
+                "jpg_plain": {
+                    "size": 7941150,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_plain/21.jpg",
+                    "md5": "ce2e71fb12a6f1f20d952b05f35952e9"
+                },
+                "raw": {
+                    "size": 28512352,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/raw/21.NEF",
+                    "md5": "4e3979fa9ce30823ec7d0b15130e39d6"
+                }
+            },
+            "22": {
+                "jpg_pretty": {
+                    "size": 12496139,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_pretty/22.jpg",
+                    "md5": "d6f27bec4fc44d1b435c1718d8b8eef5"
+                },
+                "jpg_plain": {
+                    "size": 7113237,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_plain/22.jpg",
+                    "md5": "70aa51956c3aac2fc56f333fa051f3c6"
+                },
+                "raw": {
+                    "size": 27224694,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/raw/22.NEF",
+                    "md5": "95ee2155dc4b400a2327c3d22d6d8206"
+                }
+            },
+            "23": {
+                "jpg_pretty": {
+                    "size": 12763837,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_pretty/23.jpg",
+                    "md5": "38aa7fc1220a4c0bbbf0015206938ee4"
+                },
+                "jpg_plain": {
+                    "size": 7563585,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_plain/23.jpg",
+                    "md5": "4cb90cf1c8a409a2ec72d58459b0ddac"
+                },
+                "raw": {
+                    "size": 27340567,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/raw/23.NEF",
+                    "md5": "efcb9f01bc5c110d09b834616e040c2c"
+                }
+            },
+            "01": {
+                "jpg_pretty": {
+                    "size": 10644701,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_pretty/01.jpg",
+                    "md5": "69931757a5eb1750bfe94501f5e34da4"
+                },
+                "jpg_plain": {
+                    "size": 6921353,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_plain/01.jpg",
+                    "md5": "67cfe2f142c2695220590202becc8d20"
+                },
+                "raw": {
+                    "size": 26330026,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/raw/01.NEF",
+                    "md5": "7954dcb94a40374c5cd1531e44d8e4ab"
+                }
+            },
+            "02": {
+                "jpg_pretty": {
+                    "size": 12288854,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_pretty/02.jpg",
+                    "md5": "addc74cf95ec0328be1c495bc348d7f5"
+                },
+                "jpg_plain": {
+                    "size": 7405543,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_plain/02.jpg",
+                    "md5": "96d6cb176aff33cd5d18402c725d9408"
+                },
+                "raw": {
+                    "size": 26830685,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/raw/02.NEF",
+                    "md5": "b360e4983ac2c056ab8c871770543111"
+                }
+            },
+            "03": {
+                "jpg_pretty": {
+                    "size": 11294532,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_pretty/03.jpg",
+                    "md5": "46bd0f505f568ab3387c6f12686c4a47"
+                },
+                "jpg_plain": {
+                    "size": 7133797,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_plain/03.jpg",
+                    "md5": "c0421a485a2339374d50b2c35959ef3c"
+                },
+                "raw": {
+                    "size": 26877332,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/raw/03.NEF",
+                    "md5": "34e521f891c72626406d90456e6f84f1"
+                }
+            },
+            "04": {
+                "jpg_pretty": {
+                    "size": 16476832,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_pretty/04.jpg",
+                    "md5": "cc7742f943f2a177e8650356d3afe696"
+                },
+                "jpg_plain": {
+                    "size": 8928154,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_plain/04.jpg",
+                    "md5": "f22328b318c9aa9dc18ae17e428d468c"
+                },
+                "raw": {
+                    "size": 26281777,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/raw/04.NEF",
+                    "md5": "f39f3428e1ed1d5f5051eeaba621d72d"
+                }
+            },
+            "05": {
+                "jpg_pretty": {
+                    "size": 15231102,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_pretty/05.jpg",
+                    "md5": "c8f561d88d6239d32e7b9f114a74b641"
+                },
+                "jpg_plain": {
+                    "size": 9065530,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_plain/05.jpg",
+                    "md5": "34e52d46a3a1f6a84d5fd9b0c2738cfb"
+                },
+                "raw": {
+                    "size": 26182705,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/raw/05.NEF",
+                    "md5": "cb046286b8b5e54d519e5dd7a2f677ad"
+                }
+            },
+            "06": {
+                "jpg_pretty": {
+                    "size": 15098179,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_pretty/06.jpg",
+                    "md5": "249e42adec37dae086f679ccb4ac3928"
+                },
+                "jpg_plain": {
+                    "size": 8848103,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_plain/06.jpg",
+                    "md5": "a2d78ad4cf8bf033e8f5ee5749ed6dec"
+                },
+                "raw": {
+                    "size": 26202703,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/raw/06.NEF",
+                    "md5": "81b7387dd5b1294eae69fd6eb6974b5f"
+                }
+            },
+            "07": {
+                "jpg_pretty": {
+                    "size": 13315304,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_pretty/07.jpg",
+                    "md5": "2597c6eed8cb4bc5771c6fd7f9639def"
+                },
+                "jpg_plain": {
+                    "size": 7359213,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_plain/07.jpg",
+                    "md5": "18b9e4ae58a5c0c359f4acb796259dd1"
+                },
+                "raw": {
+                    "size": 26171264,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/raw/07.NEF",
+                    "md5": "1cdae0ebc73d415bc203b4b3ee8431d2"
+                }
+            },
+            "08": {
+                "jpg_pretty": {
+                    "size": 13059659,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_pretty/08.jpg",
+                    "md5": "30ac76af4f80b03d87e06af3d9e693c9"
+                },
+                "jpg_plain": {
+                    "size": 8365339,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_plain/08.jpg",
+                    "md5": "ffe1a7d10cf9dcc2ac9717110e8994d5"
+                },
+                "raw": {
+                    "size": 26390521,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/raw/08.NEF",
+                    "md5": "3ea4133780a8180188fcc3379f2390d3"
+                }
+            },
+            "09": {
+                "jpg_pretty": {
+                    "size": 14916976,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_pretty/09.jpg",
+                    "md5": "c7172642238fcb4d1edfc9a7f6cf3014"
+                },
+                "jpg_plain": {
+                    "size": 7443364,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/jpg_plain/09.jpg",
+                    "md5": "a9d58bde53e6722cfffbb1915946d68c"
+                },
+                "raw": {
+                    "size": 25993701,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/brown_photostudio_04/raw/09.NEF",
+                    "md5": "ca3d1fbb3fb883a752184eb7cfcc2a1e"
+                }
+            }
+        }
+    }
+}

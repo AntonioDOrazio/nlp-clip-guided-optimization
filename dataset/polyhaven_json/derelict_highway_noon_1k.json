@@ -1,0 +1,1111 @@
+{
+    "evs_cap": 19,
+    "type": 0,
+    "whitebalance": 5400,
+    "date_published": 1543273200,
+    "name": "Derelict Highway Noon",
+    "categories": [
+        "outdoor",
+        "nature",
+        "midday",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        -25.78052036,
+        27.94811323
+    ],
+    "date_taken": 1542879900,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "10485422"
+    ],
+    "backplates": true,
+    "tags": [
+        "abandoned",
+        "highway",
+        "road",
+        "crack",
+        "asphalt",
+        "backplates"
+    ],
+    "files_hash": "515faba63469716a1df968521de226d8af498b33",
+    "download_count": 25150,
+    "files": {
+        "tonemapped": {
+            "size": 5361478,
+            "md5": "87e3ed1f4df90d307a6fdaae6b120738",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/derelict_highway_noon.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 99938107,
+                    "md5": "91c1d37cc280857bd912300d145a7048",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/derelict_highway_noon_8k.hdr"
+                },
+                "exr": {
+                    "size": 82287007,
+                    "md5": "1e3e6f09669ee75bca7b064445c21333",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/derelict_highway_noon_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 381147707,
+                    "md5": "e570e0bee18ff39eff56c7735cd7d9d7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/derelict_highway_noon_16k.hdr"
+                },
+                "exr": {
+                    "size": 310725134,
+                    "md5": "c91d4ae75e8b4f845aa3a33fde3a9b83",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/derelict_highway_noon_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24943930,
+                    "md5": "a3060bdce700e21a2ed57752b062d648",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/derelict_highway_noon_4k.hdr"
+                },
+                "exr": {
+                    "size": 20688348,
+                    "md5": "f5d1407980541c81428ac5494149d24d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/derelict_highway_noon_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5952977,
+                    "md5": "b1c4500435a228384bb76926f6eba639",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/derelict_highway_noon_2k.hdr"
+                },
+                "exr": {
+                    "size": 5103756,
+                    "md5": "bce29b986ef2a3f6e4f16edd7fbc9f05",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/derelict_highway_noon_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1436910,
+                    "md5": "8b162172f3328b91acacad70d321a8e2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/derelict_highway_noon_1k.hdr"
+                },
+                "exr": {
+                    "size": 1275732,
+                    "md5": "b6cf7dfd05190ccb92578184bd0e1809",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/derelict_highway_noon_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "DSC00118": {
+                "jpg_pretty": {
+                    "size": 24430806,
+                    "md5": "29965a28f55adc03f6ac421645e6ea92",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC00118.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16761338,
+                    "md5": "2195f26bd55f3c0a8f3f9d4bfe5f30f0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC00118.jpg"
+                },
+                "raw": {
+                    "size": 37224448,
+                    "md5": "d08dd119ffe82943af95e0aaa60cc7f9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC00118.ARW"
+                }
+            },
+            "DSC00114": {
+                "jpg_pretty": {
+                    "size": 17046422,
+                    "md5": "b8b0c88bfde4874060511d321ee0a8dd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC00114.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12372804,
+                    "md5": "77ce526a0117e3ecad186a76a465c8ce",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC00114.jpg"
+                },
+                "raw": {
+                    "size": 37027840,
+                    "md5": "2568127173b323ff33e8f6fffac7c602",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC00114.ARW"
+                }
+            },
+            "DSC00115": {
+                "jpg_pretty": {
+                    "size": 28056589,
+                    "md5": "1fae0956013647739c69d3688036aeff",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC00115.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19543068,
+                    "md5": "72208bf57b97f519074021876b8de2b8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC00115.jpg"
+                },
+                "raw": {
+                    "size": 37453824,
+                    "md5": "3b09abef6e7b096def25ae737ba31f3b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC00115.ARW"
+                }
+            },
+            "DSC00039": {
+                "jpg_pretty": {
+                    "size": 29182300,
+                    "md5": "a60a6ebb2145e7fcb8346d067cbf02a8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC00039.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20196275,
+                    "md5": "1180cd7e0d4c780993e3d70825ad7f13",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC00039.jpg"
+                },
+                "raw": {
+                    "size": 37257216,
+                    "md5": "8421c39a2fc41e5f0c22aa23584f92dd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC00039.ARW"
+                }
+            },
+            "DSC00117": {
+                "jpg_pretty": {
+                    "size": 24701203,
+                    "md5": "eece6951f681920eeca241d9623f5218",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC00117.jpg"
+                },
+                "jpg_plain": {
+                    "size": 17175241,
+                    "md5": "c788bbf98a79c3deacbace4c2efdca40",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC00117.jpg"
+                },
+                "raw": {
+                    "size": 37322752,
+                    "md5": "d1352bdf400dd9d35ac76d5f89887c67",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC00117.ARW"
+                }
+            },
+            "DSC09928": {
+                "jpg_pretty": {
+                    "size": 26082205,
+                    "md5": "63b2abc3c689f2a5aa7a17cc0c717641",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC09928.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18684061,
+                    "md5": "c41a9349c339be0327cb1237e5ae1c8a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC09928.jpg"
+                },
+                "raw": {
+                    "size": 37158912,
+                    "md5": "58ce7ba75d29d697b4b9f1055b7a726b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC09928.ARW"
+                }
+            },
+            "DSC09930": {
+                "jpg_pretty": {
+                    "size": 33142187,
+                    "md5": "b502b3372ee0ad52968a7430fd1b76ac",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC09930.jpg"
+                },
+                "jpg_plain": {
+                    "size": 23653945,
+                    "md5": "f54312aff5617e0050588a308d9bb7f4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC09930.jpg"
+                },
+                "raw": {
+                    "size": 37355520,
+                    "md5": "98f0b2c9ff5f5a4b9d6ddda8cc2e0c9b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC09930.ARW"
+                }
+            },
+            "DSC09898": {
+                "jpg_pretty": {
+                    "size": 29586837,
+                    "md5": "fb880b92ebc144e38e4f37d056dccf84",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC09898.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20285382,
+                    "md5": "eb8a794955d8cf23086921120b7987ad",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC09898.jpg"
+                },
+                "raw": {
+                    "size": 37289984,
+                    "md5": "99ec059703a2a4eec73e519005806408",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC09898.ARW"
+                }
+            },
+            "DSC09933": {
+                "jpg_pretty": {
+                    "size": 25624988,
+                    "md5": "7998f2b01e82782ce7e837e95db7f78e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC09933.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18094835,
+                    "md5": "1fca6157abd9b391b6f21c20a010d0e2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC09933.jpg"
+                },
+                "raw": {
+                    "size": 37126144,
+                    "md5": "108944caf1973c6a84c2e961bc2bd4f7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC09933.ARW"
+                }
+            },
+            "DSC09977": {
+                "jpg_pretty": {
+                    "size": 27899473,
+                    "md5": "acfd5cd5ad749a49ff58b4de2fa3b9a9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC09977.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19325800,
+                    "md5": "b05f26efd680933500dcc36733f7ffe3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC09977.jpg"
+                },
+                "raw": {
+                    "size": 37224448,
+                    "md5": "e59284d0acd8aaec4654655c353a72af",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC09977.ARW"
+                }
+            },
+            "DSC09979": {
+                "jpg_pretty": {
+                    "size": 26082909,
+                    "md5": "5c4447efe78fd8d7c327226724f07a47",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC09979.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18853659,
+                    "md5": "e6552bb7f2f0948f69c3900ced0513d1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC09979.jpg"
+                },
+                "raw": {
+                    "size": 37224448,
+                    "md5": "b4c40f9d15b9b04dee856ef4e94b6d9b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC09979.ARW"
+                }
+            },
+            "DSC00088": {
+                "jpg_pretty": {
+                    "size": 35041601,
+                    "md5": "18dcde3b6d604b69ab4ce5eb0bba5a6c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC00088.jpg"
+                },
+                "jpg_plain": {
+                    "size": 24501373,
+                    "md5": "f8fcd4aff8c7796468c7527a0db3ecb2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC00088.jpg"
+                },
+                "raw": {
+                    "size": 37421056,
+                    "md5": "6d8e268845398281dbdc90a2345373aa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC00088.ARW"
+                }
+            },
+            "DSC00122": {
+                "jpg_pretty": {
+                    "size": 21391655,
+                    "md5": "ea73d2902d20ca7948e44194e8b9568b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC00122.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14909412,
+                    "md5": "795e005a65dd7ca628f49f30e0341cb2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC00122.jpg"
+                },
+                "raw": {
+                    "size": 37191680,
+                    "md5": "cd672932db12539b04e76f3d68b1af23",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC00122.ARW"
+                }
+            },
+            "DSC00002": {
+                "jpg_pretty": {
+                    "size": 34485278,
+                    "md5": "e1c23760aac7cb6f5fc7f386eb5fa91d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC00002.jpg"
+                },
+                "jpg_plain": {
+                    "size": 24097929,
+                    "md5": "4573dcf5093f09e631398125749d778d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC00002.jpg"
+                },
+                "raw": {
+                    "size": 37388288,
+                    "md5": "6c7c13d256e55ddf5c2616f9847131e7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC00002.ARW"
+                }
+            },
+            "DSC00124": {
+                "jpg_pretty": {
+                    "size": 23082111,
+                    "md5": "999f9f65599a59712760e8e9ad0f3705",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC00124.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16183580,
+                    "md5": "34c2a222e97cecadb768ef660e144aae",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC00124.jpg"
+                },
+                "raw": {
+                    "size": 37126144,
+                    "md5": "9bbf064569bcc85bb9816589704ea367",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC00124.ARW"
+                }
+            },
+            "DSC00084": {
+                "jpg_pretty": {
+                    "size": 28250688,
+                    "md5": "31645f5819b248035593454fe6e99915",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC00084.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19937388,
+                    "md5": "8865347c00ff96c50066d35fb00c90b3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC00084.jpg"
+                },
+                "raw": {
+                    "size": 37257216,
+                    "md5": "1c2bdeb1417429965b5086d6b1b8abc5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC00084.ARW"
+                }
+            },
+            "DSC00085": {
+                "jpg_pretty": {
+                    "size": 36492454,
+                    "md5": "d9918720e204f46433bcd2df34317656",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC00085.jpg"
+                },
+                "jpg_plain": {
+                    "size": 25798052,
+                    "md5": "7a22242dfc13803f15ddd1d78f72faa5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC00085.jpg"
+                },
+                "raw": {
+                    "size": 37519360,
+                    "md5": "ff5ffd4002a841ef96d6e408e954ab35",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC00085.ARW"
+                }
+            },
+            "DSC09971": {
+                "jpg_pretty": {
+                    "size": 27748116,
+                    "md5": "7ad6e63c08e2b772ab23d221fedc0b2f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC09971.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19336460,
+                    "md5": "219d23c2d4c74276babab8c5af014921",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC09971.jpg"
+                },
+                "raw": {
+                    "size": 37191680,
+                    "md5": "d36f1a281e7448eabe5bab8d97c78fab",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC09971.ARW"
+                }
+            },
+            "DSC00008": {
+                "jpg_pretty": {
+                    "size": 28033125,
+                    "md5": "63d62f7e60960889c4d44c6ca50e3fd9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC00008.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20214312,
+                    "md5": "391f33d6349c4041d2b24fc79ae8cdfd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC00008.jpg"
+                },
+                "raw": {
+                    "size": 37257216,
+                    "md5": "77436e6ab282008f077a2e73e5201019",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC00008.ARW"
+                }
+            },
+            "DSC00129": {
+                "jpg_pretty": {
+                    "size": 32206089,
+                    "md5": "86441a4bf4fbe639a7f4e009a0f9155b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC00129.jpg"
+                },
+                "jpg_plain": {
+                    "size": 21950368,
+                    "md5": "10202404738626207ec654f79b79db5a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC00129.jpg"
+                },
+                "raw": {
+                    "size": 37355520,
+                    "md5": "9ce31cf2feb8a89a626da0f9924897cf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC00129.ARW"
+                }
+            },
+            "DSC00125": {
+                "jpg_pretty": {
+                    "size": 18921941,
+                    "md5": "b1f521d7aed0c2e510399a6311a1919f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC00125.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13425434,
+                    "md5": "a58879a9dec1b9c73bc829c798cd8f0b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC00125.jpg"
+                },
+                "raw": {
+                    "size": 36995072,
+                    "md5": "cece28ccbdd2abdd39765e4f923588aa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC00125.ARW"
+                }
+            },
+            "DSC00049": {
+                "jpg_pretty": {
+                    "size": 31126514,
+                    "md5": "77d4e7625501e7a4c6fadbf89c2fa24a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC00049.jpg"
+                },
+                "jpg_plain": {
+                    "size": 21098283,
+                    "md5": "7ce0b83c90385acb60ef809709b26ca2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC00049.jpg"
+                },
+                "raw": {
+                    "size": 37257216,
+                    "md5": "b4804ff58cdb1a71dbea58bb5bb88287",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC00049.ARW"
+                }
+            },
+            "DSC00126": {
+                "jpg_pretty": {
+                    "size": 20770748,
+                    "md5": "15ed0274d2892b2ca14e114e770f8268",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC00126.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14738649,
+                    "md5": "9e9a0ce902af3ef4527d1435add6ba11",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC00126.jpg"
+                },
+                "raw": {
+                    "size": 37093376,
+                    "md5": "4721b65264b3b143aef212e783427d40",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC00126.ARW"
+                }
+            },
+            "DSC09938": {
+                "jpg_pretty": {
+                    "size": 22566844,
+                    "md5": "c8ecbed7369739c0f39ecd84443e6da0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC09938.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16430648,
+                    "md5": "e73f1a70c8c742a1deae267e938b4270",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC09938.jpg"
+                },
+                "raw": {
+                    "size": 37158912,
+                    "md5": "3429740ec616a11fafc469e203f072db",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC09938.ARW"
+                }
+            },
+            "DSC00091": {
+                "jpg_pretty": {
+                    "size": 31691529,
+                    "md5": "cd84b4b3cb4192afa5a8a537e4cb8b79",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC00091.jpg"
+                },
+                "jpg_plain": {
+                    "size": 22334607,
+                    "md5": "581312aee95dbcccfd4ad22d7ada2efe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC00091.jpg"
+                },
+                "raw": {
+                    "size": 37388288,
+                    "md5": "a2d1ed3c5877587ddf49a98bd718d804",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC00091.ARW"
+                }
+            },
+            "DSC09943": {
+                "jpg_pretty": {
+                    "size": 28533449,
+                    "md5": "ed7527d52595e480602028e181e74340",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC09943.jpg"
+                },
+                "jpg_plain": {
+                    "size": 21161863,
+                    "md5": "f1a58fc26fa2c39a68b43a9a8765f5f8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC09943.jpg"
+                },
+                "raw": {
+                    "size": 37289984,
+                    "md5": "51225e4d6e7ae7271958f26da4f0d726",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC09943.ARW"
+                }
+            },
+            "DSC00094": {
+                "jpg_pretty": {
+                    "size": 31896039,
+                    "md5": "45904ac3c39044f6757bb96f50c1a91c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC00094.jpg"
+                },
+                "jpg_plain": {
+                    "size": 21790534,
+                    "md5": "e09e7a163b845baea00dc2e09684329e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC00094.jpg"
+                },
+                "raw": {
+                    "size": 37322752,
+                    "md5": "855deb34164c7337f722d421b8cbfa89",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC00094.ARW"
+                }
+            },
+            "DSC09989": {
+                "jpg_pretty": {
+                    "size": 25524110,
+                    "md5": "7b782af66b8fba9689ca13ab017f0eaf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC09989.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18045457,
+                    "md5": "a28bc94dd2365afda28326ddd0ccbf38",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC09989.jpg"
+                },
+                "raw": {
+                    "size": 37126144,
+                    "md5": "29e45b20c7817d11a7aece72c633aef1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC09989.ARW"
+                }
+            },
+            "DSC09946": {
+                "jpg_pretty": {
+                    "size": 30746357,
+                    "md5": "1b35728615a8b3dd26794a195c3fb520",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC09946.jpg"
+                },
+                "jpg_plain": {
+                    "size": 21449063,
+                    "md5": "66c2f605686027cabe7d7d35a818588a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC09946.jpg"
+                },
+                "raw": {
+                    "size": 37322752,
+                    "md5": "469a55bb8c15064d1e837b152f53d6a9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC09946.ARW"
+                }
+            },
+            "DSC00132": {
+                "jpg_pretty": {
+                    "size": 24078853,
+                    "md5": "143e451273c7594796e0f8b85d8384b3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC00132.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16730240,
+                    "md5": "36c0b56c2d067f115023470b3d92a575",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC00132.jpg"
+                },
+                "raw": {
+                    "size": 37289984,
+                    "md5": "747b25e052fd8d1b9c12dc8cdee1faea",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC00132.ARW"
+                }
+            },
+            "DSC00056": {
+                "jpg_pretty": {
+                    "size": 28517200,
+                    "md5": "5ddd5975096f7a626e3faafe33ef6f6d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC00056.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19358414,
+                    "md5": "ce0055cb36d9e571d96f4d32b27cee40",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC00056.jpg"
+                },
+                "raw": {
+                    "size": 37289984,
+                    "md5": "0ee7952fe4644f4aca96540dff41ba31",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC00056.ARW"
+                }
+            },
+            "DSC00095": {
+                "jpg_pretty": {
+                    "size": 29256349,
+                    "md5": "89e69f6f4d33916282bbed4c4bcf3cea",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC00095.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19901527,
+                    "md5": "18b37a57e4ccac8598ce0cf0da644d94",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC00095.jpg"
+                },
+                "raw": {
+                    "size": 37289984,
+                    "md5": "1fd0b702feb599cc2ede7f53c5a1e729",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC00095.ARW"
+                }
+            },
+            "DSC09981": {
+                "jpg_pretty": {
+                    "size": 26947815,
+                    "md5": "7467a4ce152918fde4bc5b71294d222b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC09981.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18866611,
+                    "md5": "78cba933fa9a568d6f44853ab52ba49e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC09981.jpg"
+                },
+                "raw": {
+                    "size": 37191680,
+                    "md5": "3184647953c557b23434707b880b640b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC09981.ARW"
+                }
+            },
+            "DSC00097": {
+                "jpg_pretty": {
+                    "size": 23136956,
+                    "md5": "d727bf9b775aef3236454c96f3e1472c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC00097.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16050198,
+                    "md5": "a465ca67011565040ba78ecaa2b55d87",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC00097.jpg"
+                },
+                "raw": {
+                    "size": 37191680,
+                    "md5": "f21c1f7e1c0f69c76e82ca523645a916",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC00097.ARW"
+                }
+            },
+            "DSC09983": {
+                "jpg_pretty": {
+                    "size": 25941814,
+                    "md5": "2f0feffdf0e47ace42cccdf53fd2dd62",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC09983.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18610686,
+                    "md5": "1b11127c31aed238748303c143c76b04",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC09983.jpg"
+                },
+                "raw": {
+                    "size": 37224448,
+                    "md5": "c7cf5abf130e53a9003a659e1a9ac609",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC09983.ARW"
+                }
+            },
+            "DSC00016": {
+                "jpg_pretty": {
+                    "size": 22941100,
+                    "md5": "1af8b6766a278ec92e59972dc7c3d812",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC00016.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15961211,
+                    "md5": "6f449086969e51aa26fd89a541f24a1a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC00016.jpg"
+                },
+                "raw": {
+                    "size": 37191680,
+                    "md5": "e3e8733f7e36a254b697bbb369378095",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC00016.ARW"
+                }
+            },
+            "DSC09948": {
+                "jpg_pretty": {
+                    "size": 24965727,
+                    "md5": "e80f856b4f82cd7532706f6c7a683efb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC09948.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18286791,
+                    "md5": "7f8a8f66286d34dbd483cedaae911ac2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC09948.jpg"
+                },
+                "raw": {
+                    "size": 37224448,
+                    "md5": "ed3b2dfa3542d03b260aba49015f3ae0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC09948.ARW"
+                }
+            },
+            "DSC09907": {
+                "jpg_pretty": {
+                    "size": 29075638,
+                    "md5": "bf4188449699d558b894da6c158f6b10",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC09907.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20021849,
+                    "md5": "735af6aa2e242c6d1ea930e33dbf0199",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC09907.jpg"
+                },
+                "raw": {
+                    "size": 37388288,
+                    "md5": "62e33255e900d04502438dbb3ebe82ab",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC09907.ARW"
+                }
+            },
+            "DSC09906": {
+                "jpg_pretty": {
+                    "size": 32099147,
+                    "md5": "e3dce3ca8ceb752acb58d6d27ba33c70",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC09906.jpg"
+                },
+                "jpg_plain": {
+                    "size": 21941958,
+                    "md5": "3524cec44d26b3533ada4e563c6e5766",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC09906.jpg"
+                },
+                "raw": {
+                    "size": 37322752,
+                    "md5": "da729708608bce7d9196ab738c983ccd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC09906.ARW"
+                }
+            },
+            "DSC09996": {
+                "jpg_pretty": {
+                    "size": 29173947,
+                    "md5": "5db638bf2b6f87b87dc4afea5571b614",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC09996.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20903356,
+                    "md5": "ace7ce85e0c8c392f8a5421d63c5248c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC09996.jpg"
+                },
+                "raw": {
+                    "size": 37257216,
+                    "md5": "714cf90262e804990c6e68d6abb9b34f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC09996.ARW"
+                }
+            },
+            "DSC09951": {
+                "jpg_pretty": {
+                    "size": 26727670,
+                    "md5": "ed7e6c9ea05e966c3f944554a3f37695",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC09951.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18657953,
+                    "md5": "482df8b3d394a3432a2c08492ba70739",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC09951.jpg"
+                },
+                "raw": {
+                    "size": 37191680,
+                    "md5": "6dab775a28a6d0847a412e9a2dd7e781",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC09951.ARW"
+                }
+            },
+            "DSC09910": {
+                "jpg_pretty": {
+                    "size": 32247584,
+                    "md5": "3ee7238c55331e4965841d91656a8258",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC09910.jpg"
+                },
+                "jpg_plain": {
+                    "size": 22023579,
+                    "md5": "b83c8b4a3d2b222c25d15b9ae9d493f4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC09910.jpg"
+                },
+                "raw": {
+                    "size": 37388288,
+                    "md5": "dedc349450dfef6e4802249707139d6b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC09910.ARW"
+                }
+            },
+            "DSC09955": {
+                "jpg_pretty": {
+                    "size": 26741736,
+                    "md5": "fb4de402fd3cf7682a4255472aea0fd5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC09955.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18594001,
+                    "md5": "983505cc45f055fd9074ac0d19353cad",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC09955.jpg"
+                },
+                "raw": {
+                    "size": 37224448,
+                    "md5": "a8208b9117d0f6df6c5e383432b05671",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC09955.ARW"
+                }
+            },
+            "DSC09999": {
+                "jpg_pretty": {
+                    "size": 26068718,
+                    "md5": "97a27e26cef63902f591ef2c3a7ad63a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC09999.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18917567,
+                    "md5": "884ee4ca21d3538258105334e203bfaf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC09999.jpg"
+                },
+                "raw": {
+                    "size": 37191680,
+                    "md5": "3a3c44b82136187143f5ccb0481d2a0e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC09999.ARW"
+                }
+            },
+            "DSC00024": {
+                "jpg_pretty": {
+                    "size": 18838631,
+                    "md5": "6d13da61632c34aef8cce9997991e72f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC00024.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12903946,
+                    "md5": "5ffb03ca70564b4f7e83c179c81e6cce",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC00024.jpg"
+                },
+                "raw": {
+                    "size": 37027840,
+                    "md5": "a9a4183cb5ab05869578f38c192ea056",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC00024.ARW"
+                }
+            },
+            "DSC00101": {
+                "jpg_pretty": {
+                    "size": 19818009,
+                    "md5": "e5cfc257c5cb70420b7eda9772e2edb3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC00101.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13793062,
+                    "md5": "4129b4745dbc3e188caf8a70607a8c51",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC00101.jpg"
+                },
+                "raw": {
+                    "size": 37126144,
+                    "md5": "57824fca02f122226eb35104ba1d5532",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC00101.ARW"
+                }
+            },
+            "DSC00064": {
+                "jpg_pretty": {
+                    "size": 34958853,
+                    "md5": "f93aa4c2bc0a5d88bba52f5900afd8f1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC00064.jpg"
+                },
+                "jpg_plain": {
+                    "size": 23518501,
+                    "md5": "3679f27d212279ad3aab022486d9a688",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC00064.jpg"
+                },
+                "raw": {
+                    "size": 37355520,
+                    "md5": "df8fc75c4ead40ee334c6e5eb06ee5a4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC00064.ARW"
+                }
+            },
+            "DSC09994": {
+                "jpg_pretty": {
+                    "size": 27182803,
+                    "md5": "f3a7c4d7a16e7da80228f2e71df5a0b3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC09994.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19351102,
+                    "md5": "f773f8501b4266d52062a7465199b445",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC09994.jpg"
+                },
+                "raw": {
+                    "size": 37191680,
+                    "md5": "106c7f0ef982ccb9a70b4c668011f56b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC09994.ARW"
+                }
+            },
+            "DSC00107": {
+                "jpg_pretty": {
+                    "size": 33870241,
+                    "md5": "3fb32713984d44179b27c39df243e354",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC00107.jpg"
+                },
+                "jpg_plain": {
+                    "size": 23443594,
+                    "md5": "a766ed46c19784f21f61cfa640deec8a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC00107.jpg"
+                },
+                "raw": {
+                    "size": 37388288,
+                    "md5": "80b387651dc233f8cfec9cb518e5acbe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC00107.ARW"
+                }
+            },
+            "DSC00103": {
+                "jpg_pretty": {
+                    "size": 23181304,
+                    "md5": "ddf8a3192cf906deac602bf3c2996dc2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC00103.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16007217,
+                    "md5": "3cc28a62b20b1d567d8662cc53cf9212",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC00103.jpg"
+                },
+                "raw": {
+                    "size": 37224448,
+                    "md5": "56a3c9b4f69837c2f1df4daa2c1bcd57",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC00103.ARW"
+                }
+            },
+            "DSC00028": {
+                "jpg_pretty": {
+                    "size": 31992379,
+                    "md5": "5b076a99bafc7d6907bedd6d101b713d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC00028.jpg"
+                },
+                "jpg_plain": {
+                    "size": 22166035,
+                    "md5": "cfb5cc1d6d76eb9dc43ad27013a28ec4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC00028.jpg"
+                },
+                "raw": {
+                    "size": 37388288,
+                    "md5": "045ff3335ee5c5cdcfae232bb5edecdf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC00028.ARW"
+                }
+            },
+            "DSC00106": {
+                "jpg_pretty": {
+                    "size": 27755999,
+                    "md5": "6a567ed111e1b84d027a18fbd37575d1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC00106.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19476253,
+                    "md5": "72ec00dd51157e9c538564d1066f7814",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC00106.jpg"
+                },
+                "raw": {
+                    "size": 37191680,
+                    "md5": "47ccbe767b1a7cc20e4aa3bf0620e05a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC00106.ARW"
+                }
+            },
+            "DSC00070": {
+                "jpg_pretty": {
+                    "size": 23712191,
+                    "md5": "72c7f6348cc2f9a7daf4a7651ed0e324",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC00070.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16358686,
+                    "md5": "0339cc70637470958fff51f041b41b09",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC00070.jpg"
+                },
+                "raw": {
+                    "size": 37257216,
+                    "md5": "6c09d132617a3e99efbb7f4b4c6bf3b0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC00070.ARW"
+                }
+            },
+            "DSC09965": {
+                "jpg_pretty": {
+                    "size": 32435290,
+                    "md5": "e4f0b6a95be8a502fe23cd00abbfb75a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC09965.jpg"
+                },
+                "jpg_plain": {
+                    "size": 23138150,
+                    "md5": "0359db3706036897e87e22d8aefaad26",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC09965.jpg"
+                },
+                "raw": {
+                    "size": 37322752,
+                    "md5": "1c9dc89937b92058db0a05667ede3a5d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC09965.ARW"
+                }
+            },
+            "DSC00111": {
+                "jpg_pretty": {
+                    "size": 31961642,
+                    "md5": "7d5a5468d016b6cdc510b10583c5c84f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC00111.jpg"
+                },
+                "jpg_plain": {
+                    "size": 21868019,
+                    "md5": "c9e1c631e561b23fbc99b6999a472288",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC00111.jpg"
+                },
+                "raw": {
+                    "size": 37355520,
+                    "md5": "c6f56873cb7d1a22001965e46b16082f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC00111.ARW"
+                }
+            },
+            "DSC00035": {
+                "jpg_pretty": {
+                    "size": 26637061,
+                    "md5": "a72996d6ab949bb9c86e230db830c283",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC00035.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18411108,
+                    "md5": "2df94329932b0a0e8f0ca97aab6afa60",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC00035.jpg"
+                },
+                "raw": {
+                    "size": 37191680,
+                    "md5": "9df48a086d7494f5428410f6e9dd89d0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC00035.ARW"
+                }
+            },
+            "DSC00073": {
+                "jpg_pretty": {
+                    "size": 34074224,
+                    "md5": "6a03abc854b215688db05ba8787ce8d9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC00073.jpg"
+                },
+                "jpg_plain": {
+                    "size": 23094045,
+                    "md5": "c1a52d4e2ad835d853436e2e2eecf0b6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC00073.jpg"
+                },
+                "raw": {
+                    "size": 37453824,
+                    "md5": "3a4ea9162f40d8cef08dd5e94410c273",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC00073.ARW"
+                }
+            },
+            "DSC00031": {
+                "jpg_pretty": {
+                    "size": 28104893,
+                    "md5": "a626cd79add024dd7ad568f15d43aaf5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC00031.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19805055,
+                    "md5": "6a1e5df103b985f73713fd738f59b522",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC00031.jpg"
+                },
+                "raw": {
+                    "size": 37224448,
+                    "md5": "14fdeb09efdf6e4e643de1757240add3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC00031.ARW"
+                }
+            },
+            "DSC09961": {
+                "jpg_pretty": {
+                    "size": 25384376,
+                    "md5": "e21aff26a486b6d7dbe2cc04af89354a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_pretty/DSC09961.jpg"
+                },
+                "jpg_plain": {
+                    "size": 17989475,
+                    "md5": "2a77cd30e0c076cb1bc395a272a89c66",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/jpg_plain/DSC09961.jpg"
+                },
+                "raw": {
+                    "size": 37126144,
+                    "md5": "30fbe891e9de359c1de08f55d5d088a9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/derelict_highway_noon/raw/DSC09961.ARW"
+                }
+            }
+        }
+    }
+}
